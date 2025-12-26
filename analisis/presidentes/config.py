@@ -10,7 +10,7 @@ NOMBRE_ARCHIVO = '1996 - Presidentes - primera vuelta.xlsx'
 # Rutas de archivos
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 DATA_DIR = os.path.join(BASE_DIR, 'Datos-Presidentes-Completos', 'Primera Vuelta')
-RESULTS_DIR = os.path.join(BASE_DIR, 'PRESEDENTES', 'PRIMERA_VUELTA')
+RESULTS_DIR = os.path.join(BASE_DIR, 'resultados')
 DATA_FILE = os.path.join(DATA_DIR, NOMBRE_ARCHIVO)
 
 # Crear directorio de resultados si no existe

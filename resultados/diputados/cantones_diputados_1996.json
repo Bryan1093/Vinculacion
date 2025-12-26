@@ -1,0 +1,522 @@
+{
+  "60": {
+    "nombre": "QUITO",
+    "votos_validos": 612310,
+    "votos_blancos": 64930,
+    "votos_nulos": 68039,
+    "total_votos": 745279,
+    "partidos": {
+      "PCE": {
+        "votos": 9061,
+        "nombre_completo": "PARTIDO COMUNISTA ECUATORIANO"
+      },
+      "CFP": {
+        "votos": 6800,
+        "nombre_completo": "CONCENTRACIÓN DE FUERZAS POPULARES"
+      },
+      "DP": {
+        "votos": 147639,
+        "nombre_completo": "DEMOCRACIA POPULAR"
+      },
+      "PSC": {
+        "votos": 95198,
+        "nombre_completo": "PARTIDO SOCIAL CRISTIANO"
+      },
+      "PRE": {
+        "votos": 29553,
+        "nombre_completo": "PARTIDO ROLDOSISTA ECUATORIANO"
+      },
+      "AN": {
+        "votos": 2749,
+        "nombre_completo": "ALIANZA NACIONAL"
+      },
+      "ID": {
+        "votos": 58713,
+        "nombre_completo": "IZQUIERDA DEMOCRÁTICA"
+      },
+      "APRE": {
+        "votos": 33399,
+        "nombre_completo": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA"
+      },
+      "MPD": {
+        "votos": 30386,
+        "nombre_completo": "MOVIMIENTO POPULAR DEMOCRÁTICO"
+      },
+      "UPL": {
+        "votos": 8668,
+        "nombre_completo": "UNIÓN POPULAR LATINOAMERICANA"
+      },
+      "PSE": {
+        "votos": 8504,
+        "nombre_completo": "PARTIDO SOCIALISTA ECUATORIANO"
+      },
+      "MUPP-NP": {
+        "votos": 97329,
+        "nombre_completo": "MOVIMIENTO UNIDAD PLURINACIONAL PACHAKUTIK - NUEVO PAÍS"
+      },
+      "MITI": {
+        "votos": 2825,
+        "nombre_completo": "MOVIMIENTO INDEPENDIENTE TIERRA INDÍGENA"
+      },
+      "PLRE-FRA": {
+        "votos": 81486,
+        "nombre_completo": "PARTIDO LIBERAL RADICAL ECUATORIANO - FRENTE RADICAL ALFARISTA"
+      }
+    }
+  },
+  "65": {
+    "nombre": "CAYAMBE",
+    "votos_validos": 16566,
+    "votos_blancos": 3546,
+    "votos_nulos": 3431,
+    "total_votos": 23543,
+    "partidos": {
+      "PCE": {
+        "votos": 116,
+        "nombre_completo": "PARTIDO COMUNISTA ECUATORIANO"
+      },
+      "CFP": {
+        "votos": 165,
+        "nombre_completo": "CONCENTRACIÓN DE FUERZAS POPULARES"
+      },
+      "DP": {
+        "votos": 1713,
+        "nombre_completo": "DEMOCRACIA POPULAR"
+      },
+      "PSC": {
+        "votos": 2505,
+        "nombre_completo": "PARTIDO SOCIAL CRISTIANO"
+      },
+      "PRE": {
+        "votos": 1408,
+        "nombre_completo": "PARTIDO ROLDOSISTA ECUATORIANO"
+      },
+      "AN": {
+        "votos": 83,
+        "nombre_completo": "ALIANZA NACIONAL"
+      },
+      "ID": {
+        "votos": 2047,
+        "nombre_completo": "IZQUIERDA DEMOCRÁTICA"
+      },
+      "APRE": {
+        "votos": 545,
+        "nombre_completo": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA"
+      },
+      "MPD": {
+        "votos": 845,
+        "nombre_completo": "MOVIMIENTO POPULAR DEMOCRÁTICO"
+      },
+      "UPL": {
+        "votos": 263,
+        "nombre_completo": "UNIÓN POPULAR LATINOAMERICANA"
+      },
+      "PSE": {
+        "votos": 734,
+        "nombre_completo": "PARTIDO SOCIALISTA ECUATORIANO"
+      },
+      "MUPP-NP": {
+        "votos": 4351,
+        "nombre_completo": "MOVIMIENTO UNIDAD PLURINACIONAL PACHAKUTIK - NUEVO PAÍS"
+      },
+      "MITI": {
+        "votos": 100,
+        "nombre_completo": "MOVIMIENTO INDEPENDIENTE TIERRA INDÍGENA"
+      },
+      "PLRE-FRA": {
+        "votos": 1691,
+        "nombre_completo": "PARTIDO LIBERAL RADICAL ECUATORIANO - FRENTE RADICAL ALFARISTA"
+      }
+    }
+  },
+  "70": {
+    "nombre": "MEJIA",
+    "votos_validos": 19669,
+    "votos_blancos": 2239,
+    "votos_nulos": 2822,
+    "total_votos": 24730,
+    "partidos": {
+      "PCE": {
+        "votos": 231,
+        "nombre_completo": "PARTIDO COMUNISTA ECUATORIANO"
+      },
+      "CFP": {
+        "votos": 266,
+        "nombre_completo": "CONCENTRACIÓN DE FUERZAS POPULARES"
+      },
+      "DP": {
+        "votos": 1933,
+        "nombre_completo": "DEMOCRACIA POPULAR"
+      },
+      "PSC": {
+        "votos": 3119,
+        "nombre_completo": "PARTIDO SOCIAL CRISTIANO"
+      },
+      "PRE": {
+        "votos": 1667,
+        "nombre_completo": "PARTIDO ROLDOSISTA ECUATORIANO"
+      },
+      "AN": {
+        "votos": 505,
+        "nombre_completo": "ALIANZA NACIONAL"
+      },
+      "ID": {
+        "votos": 1980,
+        "nombre_completo": "IZQUIERDA DEMOCRÁTICA"
+      },
+      "APRE": {
+        "votos": 1474,
+        "nombre_completo": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA"
+      },
+      "MPD": {
+        "votos": 1548,
+        "nombre_completo": "MOVIMIENTO POPULAR DEMOCRÁTICO"
+      },
+      "UPL": {
+        "votos": 325,
+        "nombre_completo": "UNIÓN POPULAR LATINOAMERICANA"
+      },
+      "PSE": {
+        "votos": 171,
+        "nombre_completo": "PARTIDO SOCIALISTA ECUATORIANO"
+      },
+      "MUPP-NP": {
+        "votos": 3360,
+        "nombre_completo": "MOVIMIENTO UNIDAD PLURINACIONAL PACHAKUTIK - NUEVO PAÍS"
+      },
+      "MITI": {
+        "votos": 122,
+        "nombre_completo": "MOVIMIENTO INDEPENDIENTE TIERRA INDÍGENA"
+      },
+      "PLRE-FRA": {
+        "votos": 2968,
+        "nombre_completo": "PARTIDO LIBERAL RADICAL ECUATORIANO - FRENTE RADICAL ALFARISTA"
+      }
+    }
+  },
+  "75": {
+    "nombre": "PEDRO MONCAYO",
+    "votos_validos": 5565,
+    "votos_blancos": 982,
+    "votos_nulos": 1504,
+    "total_votos": 8051,
+    "partidos": {
+      "PCE": {
+        "votos": 46,
+        "nombre_completo": "PARTIDO COMUNISTA ECUATORIANO"
+      },
+      "CFP": {
+        "votos": 48,
+        "nombre_completo": "CONCENTRACIÓN DE FUERZAS POPULARES"
+      },
+      "DP": {
+        "votos": 933,
+        "nombre_completo": "DEMOCRACIA POPULAR"
+      },
+      "PSC": {
+        "votos": 475,
+        "nombre_completo": "PARTIDO SOCIAL CRISTIANO"
+      },
+      "PRE": {
+        "votos": 315,
+        "nombre_completo": "PARTIDO ROLDOSISTA ECUATORIANO"
+      },
+      "AN": {
+        "votos": 52,
+        "nombre_completo": "ALIANZA NACIONAL"
+      },
+      "ID": {
+        "votos": 286,
+        "nombre_completo": "IZQUIERDA DEMOCRÁTICA"
+      },
+      "APRE": {
+        "votos": 70,
+        "nombre_completo": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA"
+      },
+      "MPD": {
+        "votos": 142,
+        "nombre_completo": "MOVIMIENTO POPULAR DEMOCRÁTICO"
+      },
+      "UPL": {
+        "votos": 47,
+        "nombre_completo": "UNIÓN POPULAR LATINOAMERICANA"
+      },
+      "PSE": {
+        "votos": 1394,
+        "nombre_completo": "PARTIDO SOCIALISTA ECUATORIANO"
+      },
+      "MUPP-NP": {
+        "votos": 871,
+        "nombre_completo": "MOVIMIENTO UNIDAD PLURINACIONAL PACHAKUTIK - NUEVO PAÍS"
+      },
+      "MITI": {
+        "votos": 18,
+        "nombre_completo": "MOVIMIENTO INDEPENDIENTE TIERRA INDÍGENA"
+      },
+      "PLRE-FRA": {
+        "votos": 868,
+        "nombre_completo": "PARTIDO LIBERAL RADICAL ECUATORIANO - FRENTE RADICAL ALFARISTA"
+      }
+    }
+  },
+  "80": {
+    "nombre": "RUMIÑAHUI",
+    "votos_validos": 22359,
+    "votos_blancos": 1460,
+    "votos_nulos": 2227,
+    "total_votos": 26046,
+    "partidos": {
+      "PCE": {
+        "votos": 230,
+        "nombre_completo": "PARTIDO COMUNISTA ECUATORIANO"
+      },
+      "CFP": {
+        "votos": 221,
+        "nombre_completo": "CONCENTRACIÓN DE FUERZAS POPULARES"
+      },
+      "DP": {
+        "votos": 3057,
+        "nombre_completo": "DEMOCRACIA POPULAR"
+      },
+      "PSC": {
+        "votos": 4118,
+        "nombre_completo": "PARTIDO SOCIAL CRISTIANO"
+      },
+      "PRE": {
+        "votos": 1694,
+        "nombre_completo": "PARTIDO ROLDOSISTA ECUATORIANO"
+      },
+      "AN": {
+        "votos": 69,
+        "nombre_completo": "ALIANZA NACIONAL"
+      },
+      "ID": {
+        "votos": 3916,
+        "nombre_completo": "IZQUIERDA DEMOCRÁTICA"
+      },
+      "APRE": {
+        "votos": 1037,
+        "nombre_completo": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA"
+      },
+      "MPD": {
+        "votos": 1511,
+        "nombre_completo": "MOVIMIENTO POPULAR DEMOCRÁTICO"
+      },
+      "UPL": {
+        "votos": 363,
+        "nombre_completo": "UNIÓN POPULAR LATINOAMERICANA"
+      },
+      "PSE": {
+        "votos": 202,
+        "nombre_completo": "PARTIDO SOCIALISTA ECUATORIANO"
+      },
+      "MUPP-NP": {
+        "votos": 3673,
+        "nombre_completo": "MOVIMIENTO UNIDAD PLURINACIONAL PACHAKUTIK - NUEVO PAÍS"
+      },
+      "MITI": {
+        "votos": 77,
+        "nombre_completo": "MOVIMIENTO INDEPENDIENTE TIERRA INDÍGENA"
+      },
+      "PLRE-FRA": {
+        "votos": 2191,
+        "nombre_completo": "PARTIDO LIBERAL RADICAL ECUATORIANO - FRENTE RADICAL ALFARISTA"
+      }
+    }
+  },
+  "85": {
+    "nombre": "SANTO DOMINGO",
+    "votos_validos": 69135,
+    "votos_blancos": 12478,
+    "votos_nulos": 9504,
+    "total_votos": 91117,
+    "partidos": {
+      "PCE": {
+        "votos": 815,
+        "nombre_completo": "PARTIDO COMUNISTA ECUATORIANO"
+      },
+      "CFP": {
+        "votos": 1438,
+        "nombre_completo": "CONCENTRACIÓN DE FUERZAS POPULARES"
+      },
+      "DP": {
+        "votos": 4181,
+        "nombre_completo": "DEMOCRACIA POPULAR"
+      },
+      "PSC": {
+        "votos": 20697,
+        "nombre_completo": "PARTIDO SOCIAL CRISTIANO"
+      },
+      "PRE": {
+        "votos": 14866,
+        "nombre_completo": "PARTIDO ROLDOSISTA ECUATORIANO"
+      },
+      "AN": {
+        "votos": 221,
+        "nombre_completo": "ALIANZA NACIONAL"
+      },
+      "ID": {
+        "votos": 2279,
+        "nombre_completo": "IZQUIERDA DEMOCRÁTICA"
+      },
+      "APRE": {
+        "votos": 2012,
+        "nombre_completo": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA"
+      },
+      "MPD": {
+        "votos": 2656,
+        "nombre_completo": "MOVIMIENTO POPULAR DEMOCRÁTICO"
+      },
+      "UPL": {
+        "votos": 1031,
+        "nombre_completo": "UNIÓN POPULAR LATINOAMERICANA"
+      },
+      "PSE": {
+        "votos": 1115,
+        "nombre_completo": "PARTIDO SOCIALISTA ECUATORIANO"
+      },
+      "MUPP-NP": {
+        "votos": 9268,
+        "nombre_completo": "MOVIMIENTO UNIDAD PLURINACIONAL PACHAKUTIK - NUEVO PAÍS"
+      },
+      "MITI": {
+        "votos": 161,
+        "nombre_completo": "MOVIMIENTO INDEPENDIENTE TIERRA INDÍGENA"
+      },
+      "PLRE-FRA": {
+        "votos": 8395,
+        "nombre_completo": "PARTIDO LIBERAL RADICAL ECUATORIANO - FRENTE RADICAL ALFARISTA"
+      }
+    }
+  },
+  "770": {
+    "nombre": "SAN MIGUEL DE LOS BANCOS",
+    "votos_validos": 3439,
+    "votos_blancos": 777,
+    "votos_nulos": 570,
+    "total_votos": 4786,
+    "partidos": {
+      "PCE": {
+        "votos": 24,
+        "nombre_completo": "PARTIDO COMUNISTA ECUATORIANO"
+      },
+      "CFP": {
+        "votos": 47,
+        "nombre_completo": "CONCENTRACIÓN DE FUERZAS POPULARES"
+      },
+      "DP": {
+        "votos": 184,
+        "nombre_completo": "DEMOCRACIA POPULAR"
+      },
+      "PSC": {
+        "votos": 884,
+        "nombre_completo": "PARTIDO SOCIAL CRISTIANO"
+      },
+      "PRE": {
+        "votos": 1105,
+        "nombre_completo": "PARTIDO ROLDOSISTA ECUATORIANO"
+      },
+      "AN": {
+        "votos": 15,
+        "nombre_completo": "ALIANZA NACIONAL"
+      },
+      "ID": {
+        "votos": 168,
+        "nombre_completo": "IZQUIERDA DEMOCRÁTICA"
+      },
+      "APRE": {
+        "votos": 46,
+        "nombre_completo": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA"
+      },
+      "MPD": {
+        "votos": 81,
+        "nombre_completo": "MOVIMIENTO POPULAR DEMOCRÁTICO"
+      },
+      "UPL": {
+        "votos": 21,
+        "nombre_completo": "UNIÓN POPULAR LATINOAMERICANA"
+      },
+      "PSE": {
+        "votos": 28,
+        "nombre_completo": "PARTIDO SOCIALISTA ECUATORIANO"
+      },
+      "MUPP-NP": {
+        "votos": 366,
+        "nombre_completo": "MOVIMIENTO UNIDAD PLURINACIONAL PACHAKUTIK - NUEVO PAÍS"
+      },
+      "MITI": {
+        "votos": 5,
+        "nombre_completo": "MOVIMIENTO INDEPENDIENTE TIERRA INDÍGENA"
+      },
+      "PLRE-FRA": {
+        "votos": 465,
+        "nombre_completo": "PARTIDO LIBERAL RADICAL ECUATORIANO - FRENTE RADICAL ALFARISTA"
+      }
+    }
+  },
+  "895": {
+    "nombre": "PEDRO VICENTE MALDONADO",
+    "votos_validos": 1696,
+    "votos_blancos": 402,
+    "votos_nulos": 344,
+    "total_votos": 2442,
+    "partidos": {
+      "PCE": {
+        "votos": 209,
+        "nombre_completo": "PARTIDO COMUNISTA ECUATORIANO"
+      },
+      "CFP": {
+        "votos": 26,
+        "nombre_completo": "CONCENTRACIÓN DE FUERZAS POPULARES"
+      },
+      "DP": {
+        "votos": 350,
+        "nombre_completo": "DEMOCRACIA POPULAR"
+      },
+      "PSC": {
+        "votos": 226,
+        "nombre_completo": "PARTIDO SOCIAL CRISTIANO"
+      },
+      "PRE": {
+        "votos": 281,
+        "nombre_completo": "PARTIDO ROLDOSISTA ECUATORIANO"
+      },
+      "AN": {
+        "votos": 2,
+        "nombre_completo": "ALIANZA NACIONAL"
+      },
+      "ID": {
+        "votos": 132,
+        "nombre_completo": "IZQUIERDA DEMOCRÁTICA"
+      },
+      "APRE": {
+        "votos": 22,
+        "nombre_completo": "ACCIÓN POPULAR REVOLUCIONARIA ECUATORIANA"
+      },
+      "MPD": {
+        "votos": 39,
+        "nombre_completo": "MOVIMIENTO POPULAR DEMOCRÁTICO"
+      },
+      "UPL": {
+        "votos": 31,
+        "nombre_completo": "UNIÓN POPULAR LATINOAMERICANA"
+      },
+      "PSE": {
+        "votos": 112,
+        "nombre_completo": "PARTIDO SOCIALISTA ECUATORIANO"
+      },
+      "MUPP-NP": {
+        "votos": 125,
+        "nombre_completo": "MOVIMIENTO UNIDAD PLURINACIONAL PACHAKUTIK - NUEVO PAÍS"
+      },
+      "MITI": {
+        "votos": 2,
+        "nombre_completo": "MOVIMIENTO INDEPENDIENTE TIERRA INDÍGENA"
+      },
+      "PLRE-FRA": {
+        "votos": 139,
+        "nombre_completo": "PARTIDO LIBERAL RADICAL ECUATORIANO - FRENTE RADICAL ALFARISTA"
+      }
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "15": {
+    "nombre": "NAPO",
+    "votos_validos": 10100,
+    "votos_blancos": 4136,
+    "votos_nulos": 4032,
+    "total_votos": 18268,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 5651,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 4449,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  },
+  "16": {
+    "nombre": "PASTAZA",
+    "votos_validos": 16076,
+    "votos_blancos": 123,
+    "votos_nulos": 1781,
+    "total_votos": 17980,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 4019,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 12057,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  }
+}

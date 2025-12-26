@@ -1,0 +1,34 @@
+[
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "votos_validos": 31643,
+    "votos_blancos": 4136,
+    "votos_nulos": 4032,
+    "votos_total": 39811,
+    "ganador": "MUPP-NP",
+    "resultados": {
+      "MUPP-NP": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 11200,
+        "porcentaje": 35.39
+      }
+    }
+  },
+  {
+    "CODPRO": "16",
+    "PROVINCIA": "PASTAZA",
+    "votos_validos": 15325,
+    "votos_blancos": 1341,
+    "votos_nulos": 1264,
+    "votos_total": 17930,
+    "ganador": "PRE",
+    "resultados": {
+      "PRE": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6228,
+        "porcentaje": 40.64
+      }
+    }
+  }
+]

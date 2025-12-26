@@ -1,0 +1,138 @@
+{
+  "60": {
+    "nombre": "QUITO",
+    "votos_validos": 661720,
+    "votos_blancos": 3695,
+    "votos_nulos": 111835,
+    "total_votos": 777250,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 351894,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 309826,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  },
+  "65": {
+    "nombre": "CAYAMBE",
+    "votos_validos": 18836,
+    "votos_blancos": 462,
+    "votos_nulos": 5031,
+    "total_votos": 24329,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 7410,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 11426,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  },
+  "70": {
+    "nombre": "MEJIA",
+    "votos_validos": 21727,
+    "votos_blancos": 252,
+    "votos_nulos": 3481,
+    "total_votos": 25460,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 7283,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 14444,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  },
+  "75": {
+    "nombre": "PEDRO MONCAYO",
+    "votos_validos": 6406,
+    "votos_blancos": 119,
+    "votos_nulos": 1503,
+    "total_votos": 8028,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 2309,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 4097,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  },
+  "80": {
+    "nombre": "RUMIÑAHUI",
+    "votos_validos": 23265,
+    "votos_blancos": 117,
+    "votos_nulos": 3476,
+    "total_votos": 26858,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 10450,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 12815,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  },
+  "85": {
+    "nombre": "SANTO DOMINGO",
+    "votos_validos": 91340,
+    "votos_blancos": 791,
+    "votos_nulos": 10715,
+    "total_votos": 102846,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 31177,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 60163,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  },
+  "770": {
+    "nombre": "SAN MIGUEL DE LOS BANCOS",
+    "votos_validos": 4598,
+    "votos_blancos": 43,
+    "votos_nulos": 483,
+    "total_votos": 5124,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 1493,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 3105,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  },
+  "895": {
+    "nombre": "PEDRO VICENTE MALDONADO",
+    "votos_validos": 2284,
+    "votos_blancos": 23,
+    "votos_nulos": 249,
+    "total_votos": 2556,
+    "candidatos": {
+      "NEBOT JAIME": {
+        "votos": 531,
+        "nombre_completo": "JAIME NEBOT SAADI"
+      },
+      "BUCARAM ABDALÁ": {
+        "votos": 1753,
+        "nombre_completo": "ABDALÁ BUCARAM ORTIZ"
+      }
+    }
+  }
+}
