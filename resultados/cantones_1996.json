@@ -1,0 +1,138 @@
+[
+  {
+    "CODCAN": "60",
+    "CODPRO": "17",
+    "CANTON": "QUITO",
+    "votos_validos": 675124,
+    "votos_blancos": 21506,
+    "votos_nulos": 48811,
+    "votos_total": 745441,
+    "ganador": "DP",
+    "resultados": {
+      "DP": {
+        "candidato": "RODRIGO PAZ DELGADO",
+        "votos": 221214,
+        "porcentaje": 32.77
+      }
+    }
+  },
+  {
+    "CODCAN": "65",
+    "CODPRO": "17",
+    "CANTON": "CAYAMBE",
+    "votos_validos": 18205,
+    "votos_blancos": 2709,
+    "votos_nulos": 2838,
+    "votos_total": 23752,
+    "ganador": "MUPP-NP",
+    "resultados": {
+      "MUPP-NP": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 8765,
+        "porcentaje": 48.15
+      }
+    }
+  },
+  {
+    "CODCAN": "70",
+    "CODPRO": "17",
+    "CANTON": "MEJIA",
+    "votos_validos": 21102,
+    "votos_blancos": 1121,
+    "votos_nulos": 2309,
+    "votos_total": 24532,
+    "ganador": "MUPP-NP",
+    "resultados": {
+      "MUPP-NP": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 8174,
+        "porcentaje": 38.74
+      }
+    }
+  },
+  {
+    "CODCAN": "75",
+    "CODPRO": "17",
+    "CANTON": "PEDRO MONCAYO",
+    "votos_validos": 6400,
+    "votos_blancos": 796,
+    "votos_nulos": 851,
+    "votos_total": 8047,
+    "ganador": "MUPP-NP",
+    "resultados": {
+      "MUPP-NP": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 3288,
+        "porcentaje": 51.38
+      }
+    }
+  },
+  {
+    "CODCAN": "80",
+    "CODPRO": "17",
+    "CANTON": "RUMIÑAHUI",
+    "votos_validos": 23889,
+    "votos_blancos": 562,
+    "votos_nulos": 1542,
+    "votos_total": 25993,
+    "ganador": "MUPP-NP",
+    "resultados": {
+      "MUPP-NP": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 9042,
+        "porcentaje": 37.85
+      }
+    }
+  },
+  {
+    "CODCAN": "85",
+    "CODPRO": "17",
+    "CANTON": "SANTO DOMINGO",
+    "votos_validos": 76666,
+    "votos_blancos": 6841,
+    "votos_nulos": 8051,
+    "votos_total": 91558,
+    "ganador": "MUPP-NP",
+    "resultados": {
+      "MUPP-NP": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 22003,
+        "porcentaje": 28.7
+      }
+    }
+  },
+  {
+    "CODCAN": "770",
+    "CODPRO": "17",
+    "CANTON": "SAN MIGUEL DE LOS BANCOS",
+    "votos_validos": 3764,
+    "votos_blancos": 494,
+    "votos_nulos": 522,
+    "votos_total": 4780,
+    "ganador": "PRE",
+    "resultados": {
+      "PRE": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1239,
+        "porcentaje": 32.92
+      }
+    }
+  },
+  {
+    "CODCAN": "895",
+    "CODPRO": "17",
+    "CANTON": "PEDRO VICENTE MALDONADO",
+    "votos_validos": 1904,
+    "votos_blancos": 340,
+    "votos_nulos": 192,
+    "votos_total": 2436,
+    "ganador": "PRE",
+    "resultados": {
+      "PRE": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 643,
+        "porcentaje": 33.77
+      }
+    }
+  }
+]

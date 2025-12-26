@@ -1,0 +1,22 @@
+[
+  {
+    "CODPARROQUIA": "30",
+    "PARROQUIA": "PARROQUIA 30",
+    "votos_validos": 0,
+    "votos_blancos": 0,
+    "votos_nulos": 0,
+    "votos_total": 0,
+    "ganador": null,
+    "resultados": {}
+  },
+  {
+    "CODPARROQUIA": "80",
+    "PARROQUIA": "PARROQUIA 80",
+    "votos_validos": 0,
+    "votos_blancos": 0,
+    "votos_nulos": 0,
+    "votos_total": 0,
+    "ganador": null,
+    "resultados": {}
+  }
+]
