@@ -1,0 +1,3721 @@
+{
+  "PASTAZA": {
+    "3180": {
+      "nombre": "PARROQUIA_3180",
+      "votos_validos": 50,
+      "votos_blancos": 8,
+      "votos_nulos": 8,
+      "total_votos": 66,
+      "partidos": {
+        "PSC": {
+          "votos": 2,
+          "porcentaje": 4.0
+        },
+        "MUPP-NP": {
+          "votos": 47,
+          "porcentaje": 94.0
+        },
+        "PLRE-FRA": {
+          "votos": 1,
+          "porcentaje": 2.0
+        }
+      }
+    },
+    "3195": {
+      "nombre": "PARROQUIA_3195",
+      "votos_validos": 31,
+      "votos_blancos": 16,
+      "votos_nulos": 13,
+      "total_votos": 60,
+      "partidos": {
+        "PCE": {
+          "votos": 1,
+          "porcentaje": 3.23
+        },
+        "DP": {
+          "votos": 20,
+          "porcentaje": 64.52
+        },
+        "ID": {
+          "votos": 2,
+          "porcentaje": 6.45
+        },
+        "MPD": {
+          "votos": 3,
+          "porcentaje": 9.68
+        },
+        "UPL": {
+          "votos": 1,
+          "porcentaje": 3.23
+        },
+        "MITI": {
+          "votos": 2,
+          "porcentaje": 6.45
+        },
+        "PLRE-FRA": {
+          "votos": 2,
+          "porcentaje": 6.45
+        }
+      }
+    },
+    "3785": {
+      "nombre": "PARROQUIA_3785",
+      "votos_validos": 214,
+      "votos_blancos": 53,
+      "votos_nulos": 20,
+      "total_votos": 287,
+      "partidos": {
+        "CFP": {
+          "votos": 3,
+          "porcentaje": 1.4
+        },
+        "DP": {
+          "votos": 8,
+          "porcentaje": 3.74
+        },
+        "PSC": {
+          "votos": 8,
+          "porcentaje": 3.74
+        },
+        "PRE": {
+          "votos": 5,
+          "porcentaje": 2.34
+        },
+        "APRE": {
+          "votos": 2,
+          "porcentaje": 0.93
+        },
+        "MPD": {
+          "votos": 3,
+          "porcentaje": 1.4
+        },
+        "UPL": {
+          "votos": 1,
+          "porcentaje": 0.47
+        },
+        "PSE": {
+          "votos": 1,
+          "porcentaje": 0.47
+        },
+        "MUPP-NP": {
+          "votos": 180,
+          "porcentaje": 84.11
+        },
+        "MITI": {
+          "votos": 2,
+          "porcentaje": 0.93
+        },
+        "PLRE-FRA": {
+          "votos": 1,
+          "porcentaje": 0.47
+        }
+      }
+    },
+    "3985": {
+      "nombre": "PARROQUIA_3985",
+      "votos_validos": 173,
+      "votos_blancos": 32,
+      "votos_nulos": 34,
+      "total_votos": 239,
+      "partidos": {
+        "PCE": {
+          "votos": 5,
+          "porcentaje": 2.89
+        },
+        "CFP": {
+          "votos": 6,
+          "porcentaje": 3.47
+        },
+        "DP": {
+          "votos": 14,
+          "porcentaje": 8.09
+        },
+        "PSC": {
+          "votos": 26,
+          "porcentaje": 15.03
+        },
+        "PRE": {
+          "votos": 20,
+          "porcentaje": 11.56
+        },
+        "ID": {
+          "votos": 15,
+          "porcentaje": 8.67
+        },
+        "APRE": {
+          "votos": 2,
+          "porcentaje": 1.16
+        },
+        "MPD": {
+          "votos": 17,
+          "porcentaje": 9.83
+        },
+        "UPL": {
+          "votos": 9,
+          "porcentaje": 5.2
+        },
+        "PSE": {
+          "votos": 1,
+          "porcentaje": 0.58
+        },
+        "MUPP-NP": {
+          "votos": 27,
+          "porcentaje": 15.61
+        },
+        "MITI": {
+          "votos": 4,
+          "porcentaje": 2.31
+        },
+        "PLRE-FRA": {
+          "votos": 27,
+          "porcentaje": 15.61
+        }
+      }
+    },
+    "4005": {
+      "nombre": "PARROQUIA_4005",
+      "votos_validos": 197,
+      "votos_blancos": 54,
+      "votos_nulos": 35,
+      "total_votos": 286,
+      "partidos": {
+        "PCE": {
+          "votos": 1,
+          "porcentaje": 0.51
+        },
+        "CFP": {
+          "votos": 10,
+          "porcentaje": 5.08
+        },
+        "DP": {
+          "votos": 13,
+          "porcentaje": 6.6
+        },
+        "PSC": {
+          "votos": 31,
+          "porcentaje": 15.74
+        },
+        "PRE": {
+          "votos": 23,
+          "porcentaje": 11.68
+        },
+        "ID": {
+          "votos": 4,
+          "porcentaje": 2.03
+        },
+        "APRE": {
+          "votos": 4,
+          "porcentaje": 2.03
+        },
+        "MPD": {
+          "votos": 29,
+          "porcentaje": 14.72
+        },
+        "UPL": {
+          "votos": 4,
+          "porcentaje": 2.03
+        },
+        "PSE": {
+          "votos": 20,
+          "porcentaje": 10.15
+        },
+        "MUPP-NP": {
+          "votos": 54,
+          "porcentaje": 27.41
+        },
+        "MITI": {
+          "votos": 1,
+          "porcentaje": 0.51
+        },
+        "PLRE-FRA": {
+          "votos": 3,
+          "porcentaje": 1.52
+        }
+      }
+    },
+    "4205": {
+      "nombre": "PARROQUIA_4205",
+      "votos_validos": 445,
+      "votos_blancos": 121,
+      "votos_nulos": 90,
+      "total_votos": 656,
+      "partidos": {
+        "PCE": {
+          "votos": 4,
+          "porcentaje": 0.9
+        },
+        "CFP": {
+          "votos": 30,
+          "porcentaje": 6.74
+        },
+        "DP": {
+          "votos": 67,
+          "porcentaje": 15.06
+        },
+        "PSC": {
+          "votos": 65,
+          "porcentaje": 14.61
+        },
+        "PRE": {
+          "votos": 68,
+          "porcentaje": 15.28
+        },
+        "AN": {
+          "votos": 4,
+          "porcentaje": 0.9
+        },
+        "ID": {
+          "votos": 19,
+          "porcentaje": 4.27
+        },
+        "APRE": {
+          "votos": 10,
+          "porcentaje": 2.25
+        },
+        "MPD": {
+          "votos": 34,
+          "porcentaje": 7.64
+        },
+        "UPL": {
+          "votos": 35,
+          "porcentaje": 7.87
+        },
+        "PSE": {
+          "votos": 16,
+          "porcentaje": 3.6
+        },
+        "MUPP-NP": {
+          "votos": 56,
+          "porcentaje": 12.58
+        },
+        "MITI": {
+          "votos": 3,
+          "porcentaje": 0.67
+        },
+        "PLRE-FRA": {
+          "votos": 34,
+          "porcentaje": 7.64
+        }
+      }
+    },
+    "4510": {
+      "nombre": "PARROQUIA_4510",
+      "votos_validos": 223,
+      "votos_blancos": 71,
+      "votos_nulos": 48,
+      "total_votos": 342,
+      "partidos": {
+        "CFP": {
+          "votos": 1,
+          "porcentaje": 0.45
+        },
+        "DP": {
+          "votos": 20,
+          "porcentaje": 8.97
+        },
+        "PSC": {
+          "votos": 24,
+          "porcentaje": 10.76
+        },
+        "PRE": {
+          "votos": 31,
+          "porcentaje": 13.9
+        },
+        "AN": {
+          "votos": 1,
+          "porcentaje": 0.45
+        },
+        "ID": {
+          "votos": 11,
+          "porcentaje": 4.93
+        },
+        "APRE": {
+          "votos": 2,
+          "porcentaje": 0.9
+        },
+        "MPD": {
+          "votos": 22,
+          "porcentaje": 9.87
+        },
+        "UPL": {
+          "votos": 10,
+          "porcentaje": 4.48
+        },
+        "PSE": {
+          "votos": 21,
+          "porcentaje": 9.42
+        },
+        "MUPP-NP": {
+          "votos": 72,
+          "porcentaje": 32.29
+        },
+        "MITI": {
+          "votos": 2,
+          "porcentaje": 0.9
+        },
+        "PLRE-FRA": {
+          "votos": 6,
+          "porcentaje": 2.69
+        }
+      }
+    },
+    "5825": {
+      "nombre": "PARROQUIA_5825",
+      "votos_validos": 8280,
+      "votos_blancos": 1141,
+      "votos_nulos": 984,
+      "total_votos": 10405,
+      "partidos": {
+        "PCE": {
+          "votos": 135,
+          "porcentaje": 1.63
+        },
+        "CFP": {
+          "votos": 414,
+          "porcentaje": 5.0
+        },
+        "DP": {
+          "votos": 782,
+          "porcentaje": 9.44
+        },
+        "PSC": {
+          "votos": 1128,
+          "porcentaje": 13.62
+        },
+        "PRE": {
+          "votos": 832,
+          "porcentaje": 10.05
+        },
+        "AN": {
+          "votos": 72,
+          "porcentaje": 0.87
+        },
+        "ID": {
+          "votos": 861,
+          "porcentaje": 10.4
+        },
+        "APRE": {
+          "votos": 151,
+          "porcentaje": 1.82
+        },
+        "MPD": {
+          "votos": 1174,
+          "porcentaje": 14.18
+        },
+        "UPL": {
+          "votos": 501,
+          "porcentaje": 6.05
+        },
+        "PSE": {
+          "votos": 432,
+          "porcentaje": 5.22
+        },
+        "MUPP-NP": {
+          "votos": 946,
+          "porcentaje": 11.43
+        },
+        "MITI": {
+          "votos": 38,
+          "porcentaje": 0.46
+        },
+        "PLRE-FRA": {
+          "votos": 814,
+          "porcentaje": 9.83
+        }
+      }
+    },
+    "2310": {
+      "nombre": "PARROQUIA_2310",
+      "votos_validos": 263,
+      "votos_blancos": 79,
+      "votos_nulos": 81,
+      "total_votos": 423,
+      "partidos": {
+        "PCE": {
+          "votos": 1,
+          "porcentaje": 0.38
+        },
+        "CFP": {
+          "votos": 4,
+          "porcentaje": 1.52
+        },
+        "DP": {
+          "votos": 19,
+          "porcentaje": 7.22
+        },
+        "PSC": {
+          "votos": 16,
+          "porcentaje": 6.08
+        },
+        "PRE": {
+          "votos": 38,
+          "porcentaje": 14.45
+        },
+        "AN": {
+          "votos": 1,
+          "porcentaje": 0.38
+        },
+        "ID": {
+          "votos": 28,
+          "porcentaje": 10.65
+        },
+        "APRE": {
+          "votos": 9,
+          "porcentaje": 3.42
+        },
+        "MPD": {
+          "votos": 39,
+          "porcentaje": 14.83
+        },
+        "UPL": {
+          "votos": 37,
+          "porcentaje": 14.07
+        },
+        "PSE": {
+          "votos": 5,
+          "porcentaje": 1.9
+        },
+        "MUPP-NP": {
+          "votos": 52,
+          "porcentaje": 19.77
+        },
+        "MITI": {
+          "votos": 2,
+          "porcentaje": 0.76
+        },
+        "PLRE-FRA": {
+          "votos": 12,
+          "porcentaje": 4.56
+        }
+      }
+    },
+    "3840": {
+      "nombre": "PARROQUIA_3840",
+      "votos_validos": 1020,
+      "votos_blancos": 139,
+      "votos_nulos": 99,
+      "total_votos": 1258,
+      "partidos": {
+        "PCE": {
+          "votos": 29,
+          "porcentaje": 2.84
+        },
+        "CFP": {
+          "votos": 33,
+          "porcentaje": 3.24
+        },
+        "DP": {
+          "votos": 109,
+          "porcentaje": 10.69
+        },
+        "PSC": {
+          "votos": 156,
+          "porcentaje": 15.29
+        },
+        "PRE": {
+          "votos": 88,
+          "porcentaje": 8.63
+        },
+        "AN": {
+          "votos": 2,
+          "porcentaje": 0.2
+        },
+        "ID": {
+          "votos": 175,
+          "porcentaje": 17.16
+        },
+        "APRE": {
+          "votos": 20,
+          "porcentaje": 1.96
+        },
+        "MPD": {
+          "votos": 203,
+          "porcentaje": 19.9
+        },
+        "UPL": {
+          "votos": 35,
+          "porcentaje": 3.43
+        },
+        "PSE": {
+          "votos": 44,
+          "porcentaje": 4.31
+        },
+        "MUPP-NP": {
+          "votos": 67,
+          "porcentaje": 6.57
+        },
+        "MITI": {
+          "votos": 2,
+          "porcentaje": 0.2
+        },
+        "PLRE-FRA": {
+          "votos": 57,
+          "porcentaje": 5.59
+        }
+      }
+    },
+    "5650": {
+      "nombre": "PARROQUIA_5650",
+      "votos_validos": 386,
+      "votos_blancos": 56,
+      "votos_nulos": 48,
+      "total_votos": 490,
+      "partidos": {
+        "PCE": {
+          "votos": 20,
+          "porcentaje": 5.18
+        },
+        "CFP": {
+          "votos": 13,
+          "porcentaje": 3.37
+        },
+        "DP": {
+          "votos": 18,
+          "porcentaje": 4.66
+        },
+        "PSC": {
+          "votos": 76,
+          "porcentaje": 19.69
+        },
+        "PRE": {
+          "votos": 34,
+          "porcentaje": 8.81
+        },
+        "ID": {
+          "votos": 83,
+          "porcentaje": 21.5
+        },
+        "APRE": {
+          "votos": 27,
+          "porcentaje": 6.99
+        },
+        "MPD": {
+          "votos": 45,
+          "porcentaje": 11.66
+        },
+        "UPL": {
+          "votos": 10,
+          "porcentaje": 2.59
+        },
+        "PSE": {
+          "votos": 2,
+          "porcentaje": 0.52
+        },
+        "MUPP-NP": {
+          "votos": 19,
+          "porcentaje": 4.92
+        },
+        "MITI": {
+          "votos": 1,
+          "porcentaje": 0.26
+        },
+        "PLRE-FRA": {
+          "votos": 38,
+          "porcentaje": 9.84
+        }
+      }
+    },
+    "6395": {
+      "nombre": "PARROQUIA_6395",
+      "votos_validos": 972,
+      "votos_blancos": 192,
+      "votos_nulos": 82,
+      "total_votos": 1246,
+      "partidos": {
+        "PCE": {
+          "votos": 5,
+          "porcentaje": 0.51
+        },
+        "CFP": {
+          "votos": 14,
+          "porcentaje": 1.44
+        },
+        "DP": {
+          "votos": 31,
+          "porcentaje": 3.19
+        },
+        "PSC": {
+          "votos": 216,
+          "porcentaje": 22.22
+        },
+        "PRE": {
+          "votos": 76,
+          "porcentaje": 7.82
+        },
+        "AN": {
+          "votos": 2,
+          "porcentaje": 0.21
+        },
+        "ID": {
+          "votos": 43,
+          "porcentaje": 4.42
+        },
+        "APRE": {
+          "votos": 9,
+          "porcentaje": 0.93
+        },
+        "MPD": {
+          "votos": 54,
+          "porcentaje": 5.56
+        },
+        "UPL": {
+          "votos": 41,
+          "porcentaje": 4.22
+        },
+        "PSE": {
+          "votos": 181,
+          "porcentaje": 18.62
+        },
+        "MUPP-NP": {
+          "votos": 245,
+          "porcentaje": 25.21
+        },
+        "MITI": {
+          "votos": 4,
+          "porcentaje": 0.41
+        },
+        "PLRE-FRA": {
+          "votos": 51,
+          "porcentaje": 5.25
+        }
+      }
+    }
+  },
+  "PICHINCHA": {
+    "30": {
+      "nombre": "PARROQUIA_30",
+      "votos_validos": 3597,
+      "votos_blancos": 607,
+      "votos_nulos": 439,
+      "total_votos": 4643,
+      "partidos": {
+        "PCE": {
+          "votos": 57,
+          "porcentaje": 1.58
+        },
+        "CFP": {
+          "votos": 53,
+          "porcentaje": 1.47
+        },
+        "DP": {
+          "votos": 685,
+          "porcentaje": 19.04
+        },
+        "PSC": {
+          "votos": 378,
+          "porcentaje": 10.51
+        },
+        "PRE": {
+          "votos": 250,
+          "porcentaje": 6.95
+        },
+        "AN": {
+          "votos": 18,
+          "porcentaje": 0.5
+        },
+        "ID": {
+          "votos": 234,
+          "porcentaje": 6.51
+        },
+        "APRE": {
+          "votos": 208,
+          "porcentaje": 5.78
+        },
+        "MPD": {
+          "votos": 208,
+          "porcentaje": 5.78
+        },
+        "UPL": {
+          "votos": 112,
+          "porcentaje": 3.11
+        },
+        "PSE": {
+          "votos": 50,
+          "porcentaje": 1.39
+        },
+        "MUPP-NP": {
+          "votos": 804,
+          "porcentaje": 22.35
+        },
+        "MITI": {
+          "votos": 22,
+          "porcentaje": 0.61
+        },
+        "PLRE-FRA": {
+          "votos": 518,
+          "porcentaje": 14.4
+        }
+      }
+    },
+    "80": {
+      "nombre": "PARROQUIA_80",
+      "votos_validos": 7095,
+      "votos_blancos": 1100,
+      "votos_nulos": 888,
+      "total_votos": 9083,
+      "partidos": {
+        "PCE": {
+          "votos": 160,
+          "porcentaje": 2.26
+        },
+        "CFP": {
+          "votos": 121,
+          "porcentaje": 1.71
+        },
+        "DP": {
+          "votos": 742,
+          "porcentaje": 10.46
+        },
+        "PSC": {
+          "votos": 663,
+          "porcentaje": 9.34
+        },
+        "PRE": {
+          "votos": 711,
+          "porcentaje": 10.02
+        },
+        "AN": {
+          "votos": 17,
+          "porcentaje": 0.24
+        },
+        "ID": {
+          "votos": 527,
+          "porcentaje": 7.43
+        },
+        "APRE": {
+          "votos": 459,
+          "porcentaje": 6.47
+        },
+        "MPD": {
+          "votos": 618,
+          "porcentaje": 8.71
+        },
+        "UPL": {
+          "votos": 196,
+          "porcentaje": 2.76
+        },
+        "PSE": {
+          "votos": 200,
+          "porcentaje": 2.82
+        },
+        "MUPP-NP": {
+          "votos": 1576,
+          "porcentaje": 22.21
+        },
+        "MITI": {
+          "votos": 29,
+          "porcentaje": 0.41
+        },
+        "PLRE-FRA": {
+          "votos": 1076,
+          "porcentaje": 15.17
+        }
+      }
+    },
+    "195": {
+      "nombre": "PARROQUIA_195",
+      "votos_validos": 607,
+      "votos_blancos": 189,
+      "votos_nulos": 145,
+      "total_votos": 941,
+      "partidos": {
+        "PCE": {
+          "votos": 4,
+          "porcentaje": 0.66
+        },
+        "CFP": {
+          "votos": 8,
+          "porcentaje": 1.32
+        },
+        "DP": {
+          "votos": 85,
+          "porcentaje": 14.0
+        },
+        "PSC": {
+          "votos": 112,
+          "porcentaje": 18.45
+        },
+        "PRE": {
+          "votos": 50,
+          "porcentaje": 8.24
+        },
+        "AN": {
+          "votos": 1,
+          "porcentaje": 0.16
+        },
+        "ID": {
+          "votos": 43,
+          "porcentaje": 7.08
+        },
+        "APRE": {
+          "votos": 31,
+          "porcentaje": 5.11
+        },
+        "MPD": {
+          "votos": 14,
+          "porcentaje": 2.31
+        },
+        "UPL": {
+          "votos": 5,
+          "porcentaje": 0.82
+        },
+        "PSE": {
+          "votos": 9,
+          "porcentaje": 1.48
+        },
+        "MUPP-NP": {
+          "votos": 101,
+          "porcentaje": 16.64
+        },
+        "PLRE-FRA": {
+          "votos": 144,
+          "porcentaje": 23.72
+        }
+      }
+    },
+    "430": {
+      "nombre": "PARROQUIA_430",
+      "votos_validos": 1108,
+      "votos_blancos": 335,
+      "votos_nulos": 183,
+      "total_votos": 1626,
+      "partidos": {
+        "PCE": {
+          "votos": 17,
+          "porcentaje": 1.53
+        },
+        "CFP": {
+          "votos": 20,
+          "porcentaje": 1.81
+        },
+        "DP": {
+          "votos": 82,
+          "porcentaje": 7.4
+        },
+        "PSC": {
+          "votos": 181,
+          "porcentaje": 16.34
+        },
+        "PRE": {
+          "votos": 63,
+          "porcentaje": 5.69
+        },
+        "AN": {
+          "votos": 3,
+          "porcentaje": 0.27
+        },
+        "ID": {
+          "votos": 110,
+          "porcentaje": 9.93
+        },
+        "APRE": {
+          "votos": 32,
+          "porcentaje": 2.89
+        },
+        "MPD": {
+          "votos": 19,
+          "porcentaje": 1.71
+        },
+        "UPL": {
+          "votos": 13,
+          "porcentaje": 1.17
+        },
+        "PSE": {
+          "votos": 11,
+          "porcentaje": 0.99
+        },
+        "MUPP-NP": {
+          "votos": 218,
+          "porcentaje": 19.68
+        },
+        "MITI": {
+          "votos": 4,
+          "porcentaje": 0.36
+        },
+        "PLRE-FRA": {
+          "votos": 335,
+          "porcentaje": 30.23
+        }
+      }
+    },
+    "440": {
+      "nombre": "PARROQUIA_440",
+      "votos_validos": 12241,
+      "votos_blancos": 2515,
+      "votos_nulos": 1631,
+      "total_votos": 16387,
+      "partidos": {
+        "PCE": {
+          "votos": 148,
+          "porcentaje": 1.21
+        },
+        "CFP": {
+          "votos": 159,
+          "porcentaje": 1.3
+        },
+        "DP": {
+          "votos": 2826,
+          "porcentaje": 23.09
+        },
+        "PSC": {
+          "votos": 1663,
+          "porcentaje": 13.59
+        },
+        "PRE": {
+          "votos": 741,
+          "porcentaje": 6.05
+        },
+        "AN": {
+          "votos": 91,
+          "porcentaje": 0.74
+        },
+        "ID": {
+          "votos": 923,
+          "porcentaje": 7.54
+        },
+        "APRE": {
+          "votos": 608,
+          "porcentaje": 4.97
+        },
+        "MPD": {
+          "votos": 610,
+          "porcentaje": 4.98
+        },
+        "UPL": {
+          "votos": 200,
+          "porcentaje": 1.63
+        },
+        "PSE": {
+          "votos": 186,
+          "porcentaje": 1.52
+        },
+        "MUPP-NP": {
+          "votos": 2069,
+          "porcentaje": 16.9
+        },
+        "MITI": {
+          "votos": 69,
+          "porcentaje": 0.56
+        },
+        "PLRE-FRA": {
+          "votos": 1948,
+          "porcentaje": 15.91
+        }
+      }
+    },
+    "625": {
+      "nombre": "PARROQUIA_625",
+      "votos_validos": 12111,
+      "votos_blancos": 1225,
+      "votos_nulos": 1355,
+      "total_votos": 14691,
+      "partidos": {
+        "PCE": {
+          "votos": 201,
+          "porcentaje": 1.66
+        },
+        "CFP": {
+          "votos": 149,
+          "porcentaje": 1.23
+        },
+        "DP": {
+          "votos": 2713,
+          "porcentaje": 22.4
+        },
+        "PSC": {
+          "votos": 1733,
+          "porcentaje": 14.31
+        },
+        "PRE": {
+          "votos": 629,
+          "porcentaje": 5.19
+        },
+        "AN": {
+          "votos": 47,
+          "porcentaje": 0.39
+        },
+        "ID": {
+          "votos": 1129,
+          "porcentaje": 9.32
+        },
+        "APRE": {
+          "votos": 720,
+          "porcentaje": 5.95
+        },
+        "MPD": {
+          "votos": 550,
+          "porcentaje": 4.54
+        },
+        "UPL": {
+          "votos": 179,
+          "porcentaje": 1.48
+        },
+        "PSE": {
+          "votos": 153,
+          "porcentaje": 1.26
+        },
+        "MUPP-NP": {
+          "votos": 2403,
+          "porcentaje": 19.84
+        },
+        "MITI": {
+          "votos": 42,
+          "porcentaje": 0.35
+        },
+        "PLRE-FRA": {
+          "votos": 1463,
+          "porcentaje": 12.08
+        }
+      }
+    },
+    "725": {
+      "nombre": "PARROQUIA_725",
+      "votos_validos": 5293,
+      "votos_blancos": 555,
+      "votos_nulos": 469,
+      "total_votos": 6317,
+      "partidos": {
+        "PCE": {
+          "votos": 72,
+          "porcentaje": 1.36
+        },
+        "CFP": {
+          "votos": 63,
+          "porcentaje": 1.19
+        },
+        "DP": {
+          "votos": 1219,
+          "porcentaje": 23.03
+        },
+        "PSC": {
+          "votos": 872,
+          "porcentaje": 16.47
+        },
+        "PRE": {
+          "votos": 209,
+          "porcentaje": 3.95
+        },
+        "AN": {
+          "votos": 15,
+          "porcentaje": 0.28
+        },
+        "ID": {
+          "votos": 484,
+          "porcentaje": 9.14
+        },
+        "APRE": {
+          "votos": 227,
+          "porcentaje": 4.29
+        },
+        "MPD": {
+          "votos": 171,
+          "porcentaje": 3.23
+        },
+        "UPL": {
+          "votos": 63,
+          "porcentaje": 1.19
+        },
+        "PSE": {
+          "votos": 77,
+          "porcentaje": 1.45
+        },
+        "MUPP-NP": {
+          "votos": 1194,
+          "porcentaje": 22.56
+        },
+        "MITI": {
+          "votos": 8,
+          "porcentaje": 0.15
+        },
+        "PLRE-FRA": {
+          "votos": 619,
+          "porcentaje": 11.69
+        }
+      }
+    },
+    "855": {
+      "nombre": "PARROQUIA_855",
+      "votos_validos": 246,
+      "votos_blancos": 81,
+      "votos_nulos": 58,
+      "total_votos": 385,
+      "partidos": {
+        "PCE": {
+          "votos": 10,
+          "porcentaje": 4.07
+        },
+        "CFP": {
+          "votos": 8,
+          "porcentaje": 3.25
+        },
+        "DP": {
+          "votos": 69,
+          "porcentaje": 28.05
+        },
+        "PSC": {
+          "votos": 30,
+          "porcentaje": 12.2
+        },
+        "PRE": {
+          "votos": 45,
+          "porcentaje": 18.29
+        },
+        "AN": {
+          "votos": 1,
+          "porcentaje": 0.41
+        },
+        "ID": {
+          "votos": 17,
+          "porcentaje": 6.91
+        },
+        "APRE": {
+          "votos": 10,
+          "porcentaje": 4.07
+        },
+        "MPD": {
+          "votos": 6,
+          "porcentaje": 2.44
+        },
+        "UPL": {
+          "votos": 1,
+          "porcentaje": 0.41
+        },
+        "PSE": {
+          "votos": 3,
+          "porcentaje": 1.22
+        },
+        "MUPP-NP": {
+          "votos": 21,
+          "porcentaje": 8.54
+        },
+        "MITI": {
+          "votos": 2,
+          "porcentaje": 0.81
+        },
+        "PLRE-FRA": {
+          "votos": 23,
+          "porcentaje": 9.35
+        }
+      }
+    },
+    "865": {
+      "nombre": "PARROQUIA_865",
+      "votos_validos": 980,
+      "votos_blancos": 256,
+      "votos_nulos": 200,
+      "total_votos": 1436,
+      "partidos": {
+        "PCE": {
+          "votos": 7,
+          "porcentaje": 0.71
+        },
+        "CFP": {
+          "votos": 12,
+          "porcentaje": 1.22
+        },
+        "DP": {
+          "votos": 269,
+          "porcentaje": 27.45
+        },
+        "PSC": {
+          "votos": 130,
+          "porcentaje": 13.27
+        },
+        "PRE": {
+          "votos": 96,
+          "porcentaje": 9.8
+        },
+        "AN": {
+          "votos": 6,
+          "porcentaje": 0.61
+        },
+        "ID": {
+          "votos": 53,
+          "porcentaje": 5.41
+        },
+        "APRE": {
+          "votos": 53,
+          "porcentaje": 5.41
+        },
+        "MPD": {
+          "votos": 26,
+          "porcentaje": 2.65
+        },
+        "UPL": {
+          "votos": 12,
+          "porcentaje": 1.22
+        },
+        "PSE": {
+          "votos": 18,
+          "porcentaje": 1.84
+        },
+        "MUPP-NP": {
+          "votos": 133,
+          "porcentaje": 13.57
+        },
+        "MITI": {
+          "votos": 4,
+          "porcentaje": 0.41
+        },
+        "PLRE-FRA": {
+          "votos": 161,
+          "porcentaje": 16.43
+        }
+      }
+    },
+    "1400": {
+      "nombre": "PARROQUIA_1400",
+      "votos_validos": 398,
+      "votos_blancos": 182,
+      "votos_nulos": 85,
+      "total_votos": 665,
+      "partidos": {
+        "PCE": {
+          "votos": 6,
+          "porcentaje": 1.51
+        },
+        "CFP": {
+          "votos": 6,
+          "porcentaje": 1.51
+        },
+        "DP": {
+          "votos": 45,
+          "porcentaje": 11.31
+        },
+        "PSC": {
+          "votos": 67,
+          "porcentaje": 16.83
+        },
+        "PRE": {
+          "votos": 50,
+          "porcentaje": 12.56
+        },
+        "AN": {
+          "votos": 1,
+          "porcentaje": 0.25
+        },
+        "ID": {
+          "votos": 38,
+          "porcentaje": 9.55
+        },
+        "APRE": {
+          "votos": 13,
+          "porcentaje": 3.27
+        },
+        "MPD": {
+          "votos": 23,
+          "porcentaje": 5.78
+        },
+        "UPL": {
+          "votos": 5,
+          "porcentaje": 1.26
+        },
+        "PSE": {
+          "votos": 2,
+          "porcentaje": 0.5
+        },
+        "MUPP-NP": {
+          "votos": 79,
+          "porcentaje": 19.85
+        },
+        "MITI": {
+          "votos": 3,
+          "porcentaje": 0.75
+        },
+        "PLRE-FRA": {
+          "votos": 60,
+          "porcentaje": 15.08
+        }
+      }
+    },
+    "1440": {
+      "nombre": "PARROQUIA_1440",
+      "votos_validos": 651,
+      "votos_blancos": 132,
+      "votos_nulos": 108,
+      "total_votos": 891,
+      "partidos": {
+        "PCE": {
+          "votos": 8,
+          "porcentaje": 1.23
+        },
+        "CFP": {
+          "votos": 11,
+          "porcentaje": 1.69
+        },
+        "DP": {
+          "votos": 71,
+          "porcentaje": 10.91
+        },
+        "PSC": {
+          "votos": 67,
+          "porcentaje": 10.29
+        },
+        "PRE": {
+          "votos": 44,
+          "porcentaje": 6.76
+        },
+        "AN": {
+          "votos": 4,
+          "porcentaje": 0.61
+        },
+        "ID": {
+          "votos": 44,
+          "porcentaje": 6.76
+        },
+        "APRE": {
+          "votos": 45,
+          "porcentaje": 6.91
+        },
+        "MPD": {
+          "votos": 39,
+          "porcentaje": 5.99
+        },
+        "UPL": {
+          "votos": 11,
+          "porcentaje": 1.69
+        },
+        "PSE": {
+          "votos": 6,
+          "porcentaje": 0.92
+        },
+        "MUPP-NP": {
+          "votos": 188,
+          "porcentaje": 28.88
+        },
+        "MITI": {
+          "votos": 2,
+          "porcentaje": 0.31
+        },
+        "PLRE-FRA": {
+          "votos": 111,
+          "porcentaje": 17.05
+        }
+      }
+    },
+    "1475": {
+      "nombre": "PARROQUIA_1475",
+      "votos_validos": 2733,
+      "votos_blancos": 568,
+      "votos_nulos": 384,
+      "total_votos": 3685,
+      "partidos": {
+        "PCE": {
+          "votos": 21,
+          "porcentaje": 0.77
+        },
+        "CFP": {
+          "votos": 32,
+          "porcentaje": 1.17
+        },
+        "DP": {
+          "votos": 398,
+          "porcentaje": 14.56
+        },
+        "PSC": {
+          "votos": 404,
+          "porcentaje": 14.78
+        },
+        "PRE": {
+          "votos": 209,
+          "porcentaje": 7.65
+        },
+        "AN": {
+          "votos": 6,
+          "porcentaje": 0.22
+        },
+        "ID": {
+          "votos": 138,
+          "porcentaje": 5.05
+        },
+        "APRE": {
+          "votos": 119,
+          "porcentaje": 4.35
+        },
+        "MPD": {
+          "votos": 106,
+          "porcentaje": 3.88
+        },
+        "UPL": {
+          "votos": 34,
+          "porcentaje": 1.24
+        },
+        "PSE": {
+          "votos": 38,
+          "porcentaje": 1.39
+        },
+        "MUPP-NP": {
+          "votos": 533,
+          "porcentaje": 19.5
+        },
+        "MITI": {
+          "votos": 10,
+          "porcentaje": 0.37
+        },
+        "PLRE-FRA": {
+          "votos": 685,
+          "porcentaje": 25.06
+        }
+      }
+    },
+    "2055": {
+      "nombre": "PARROQUIA_2055",
+      "votos_validos": 1034,
+      "votos_blancos": 189,
+      "votos_nulos": 264,
+      "total_votos": 1487,
+      "partidos": {
+        "PCE": {
+          "votos": 20,
+          "porcentaje": 1.93
+        },
+        "CFP": {
+          "votos": 16,
+          "porcentaje": 1.55
+        },
+        "DP": {
+          "votos": 160,
+          "porcentaje": 15.47
+        },
+        "PSC": {
+          "votos": 141,
+          "porcentaje": 13.64
+        },
+        "PRE": {
+          "votos": 67,
+          "porcentaje": 6.48
+        },
+        "AN": {
+          "votos": 5,
+          "porcentaje": 0.48
+        },
+        "ID": {
+          "votos": 52,
+          "porcentaje": 5.03
+        },
+        "APRE": {
+          "votos": 69,
+          "porcentaje": 6.67
+        },
+        "MPD": {
+          "votos": 43,
+          "porcentaje": 4.16
+        },
+        "UPL": {
+          "votos": 79,
+          "porcentaje": 7.64
+        },
+        "PSE": {
+          "votos": 17,
+          "porcentaje": 1.64
+        },
+        "MUPP-NP": {
+          "votos": 224,
+          "porcentaje": 21.66
+        },
+        "MITI": {
+          "votos": 9,
+          "porcentaje": 0.87
+        },
+        "PLRE-FRA": {
+          "votos": 132,
+          "porcentaje": 12.77
+        }
+      }
+    },
+    "2265": {
+      "nombre": "PARROQUIA_2265",
+      "votos_validos": 1329,
+      "votos_blancos": 203,
+      "votos_nulos": 134,
+      "total_votos": 1666,
+      "partidos": {
+        "PCE": {
+          "votos": 12,
+          "porcentaje": 0.9
+        },
+        "CFP": {
+          "votos": 15,
+          "porcentaje": 1.13
+        },
+        "DP": {
+          "votos": 189,
+          "porcentaje": 14.22
+        },
+        "PSC": {
+          "votos": 173,
+          "porcentaje": 13.02
+        },
+        "PRE": {
+          "votos": 66,
+          "porcentaje": 4.97
+        },
+        "AN": {
+          "votos": 6,
+          "porcentaje": 0.45
+        },
+        "ID": {
+          "votos": 98,
+          "porcentaje": 7.37
+        },
+        "APRE": {
+          "votos": 88,
+          "porcentaje": 6.62
+        },
+        "MPD": {
+          "votos": 139,
+          "porcentaje": 10.46
+        },
+        "UPL": {
+          "votos": 19,
+          "porcentaje": 1.43
+        },
+        "PSE": {
+          "votos": 12,
+          "porcentaje": 0.9
+        },
+        "MUPP-NP": {
+          "votos": 308,
+          "porcentaje": 23.18
+        },
+        "MITI": {
+          "votos": 6,
+          "porcentaje": 0.45
+        },
+        "PLRE-FRA": {
+          "votos": 198,
+          "porcentaje": 14.9
+        }
+      }
+    },
+    "2275": {
+      "nombre": "PARROQUIA_2275",
+      "votos_validos": 500,
+      "votos_blancos": 115,
+      "votos_nulos": 103,
+      "total_votos": 718,
+      "partidos": {
+        "PCE": {
+          "votos": 4,
+          "porcentaje": 0.8
+        },
+        "CFP": {
+          "votos": 7,
+          "porcentaje": 1.4
+        },
+        "DP": {
+          "votos": 77,
+          "porcentaje": 15.4
+        },
+        "PSC": {
+          "votos": 141,
+          "porcentaje": 28.2
+        },
+        "PRE": {
+          "votos": 19,
+          "porcentaje": 3.8
+        },
+        "AN": {
+          "votos": 1,
+          "porcentaje": 0.2
+        },
+        "ID": {
+          "votos": 21,
+          "porcentaje": 4.2
+        },
+        "APRE": {
+          "votos": 27,
+          "porcentaje": 5.4
+        },
+        "MPD": {
+          "votos": 23,
+          "porcentaje": 4.6
+        },
+        "UPL": {
+          "votos": 12,
+          "porcentaje": 2.4
+        },
+        "PSE": {
+          "votos": 7,
+          "porcentaje": 1.4
+        },
+        "MUPP-NP": {
+          "votos": 82,
+          "porcentaje": 16.4
+        },
+        "MITI": {
+          "votos": 1,
+          "porcentaje": 0.2
+        },
+        "PLRE-FRA": {
+          "votos": 78,
+          "porcentaje": 15.6
+        }
+      }
+    },
+    "2525": {
+      "nombre": "PARROQUIA_2525",
+      "votos_validos": 486,
+      "votos_blancos": 282,
+      "votos_nulos": 124,
+      "total_votos": 892,
+      "partidos": {
+        "PCE": {
+          "votos": 6,
+          "porcentaje": 1.23
+        },
+        "CFP": {
+          "votos": 19,
+          "porcentaje": 3.91
+        },
+        "DP": {
+          "votos": 90,
+          "porcentaje": 18.52
+        },
+        "PSC": {
+          "votos": 143,
+          "porcentaje": 29.42
+        },
+        "PRE": {
+          "votos": 33,
+          "porcentaje": 6.79
+        },
+        "AN": {
+          "votos": 3,
+          "porcentaje": 0.62
+        },
+        "ID": {
+          "votos": 29,
+          "porcentaje": 5.97
+        },
+        "APRE": {
+          "votos": 14,
+          "porcentaje": 2.88
+        },
+        "MPD": {
+          "votos": 10,
+          "porcentaje": 2.06
+        },
+        "UPL": {
+          "votos": 3,
+          "porcentaje": 0.62
+        },
+        "PSE": {
+          "votos": 10,
+          "porcentaje": 2.06
+        },
+        "MUPP-NP": {
+          "votos": 76,
+          "porcentaje": 15.64
+        },
+        "MITI": {
+          "votos": 1,
+          "porcentaje": 0.21
+        },
+        "PLRE-FRA": {
+          "votos": 49,
+          "porcentaje": 10.08
+        }
+      }
+    },
+    "2530": {
+      "nombre": "PARROQUIA_2530",
+      "votos_validos": 684,
+      "votos_blancos": 169,
+      "votos_nulos": 167,
+      "total_votos": 1020,
+      "partidos": {
+        "PCE": {
+          "votos": 9,
+          "porcentaje": 1.32
+        },
+        "CFP": {
+          "votos": 21,
+          "porcentaje": 3.07
+        },
+        "DP": {
+          "votos": 113,
+          "porcentaje": 16.52
+        },
+        "PSC": {
+          "votos": 111,
+          "porcentaje": 16.23
+        },
+        "PRE": {
+          "votos": 77,
+          "porcentaje": 11.26
+        },
+        "AN": {
+          "votos": 2,
+          "porcentaje": 0.29
+        },
+        "ID": {
+          "votos": 50,
+          "porcentaje": 7.31
+        },
+        "APRE": {
+          "votos": 29,
+          "porcentaje": 4.24
+        },
+        "MPD": {
+          "votos": 25,
+          "porcentaje": 3.65
+        },
+        "UPL": {
+          "votos": 4,
+          "porcentaje": 0.58
+        },
+        "PSE": {
+          "votos": 10,
+          "porcentaje": 1.46
+        },
+        "MUPP-NP": {
+          "votos": 125,
+          "porcentaje": 18.27
+        },
+        "MITI": {
+          "votos": 8,
+          "porcentaje": 1.17
+        },
+        "PLRE-FRA": {
+          "votos": 100,
+          "porcentaje": 14.62
+        }
+      }
+    },
+    "2540": {
+      "nombre": "PARROQUIA_2540",
+      "votos_validos": 2166,
+      "votos_blancos": 277,
+      "votos_nulos": 213,
+      "total_votos": 2656,
+      "partidos": {
+        "PCE": {
+          "votos": 25,
+          "porcentaje": 1.15
+        },
+        "CFP": {
+          "votos": 26,
+          "porcentaje": 1.2
+        },
+        "DP": {
+          "votos": 328,
+          "porcentaje": 15.14
+        },
+        "PSC": {
+          "votos": 212,
+          "porcentaje": 9.79
+        },
+        "PRE": {
+          "votos": 119,
+          "porcentaje": 5.49
+        },
+        "AN": {
+          "votos": 2,
+          "porcentaje": 0.09
+        },
+        "ID": {
+          "votos": 195,
+          "porcentaje": 9.0
+        },
+        "APRE": {
+          "votos": 96,
+          "porcentaje": 4.43
+        },
+        "MPD": {
+          "votos": 126,
+          "porcentaje": 5.82
+        },
+        "UPL": {
+          "votos": 22,
+          "porcentaje": 1.02
+        },
+        "PSE": {
+          "votos": 17,
+          "porcentaje": 0.78
+        },
+        "MUPP-NP": {
+          "votos": 410,
+          "porcentaje": 18.93
+        },
+        "MITI": {
+          "votos": 6,
+          "porcentaje": 0.28
+        },
+        "PLRE-FRA": {
+          "votos": 582,
+          "porcentaje": 26.87
+        }
+      }
+    },
+    "2560": {
+      "nombre": "PARROQUIA_2560",
+      "votos_validos": 423,
+      "votos_blancos": 169,
+      "votos_nulos": 120,
+      "total_votos": 712,
+      "partidos": {
+        "PCE": {
+          "votos": 8,
+          "porcentaje": 1.89
+        },
+        "CFP": {
+          "votos": 8,
+          "porcentaje": 1.89
+        },
+        "DP": {
+          "votos": 99,
+          "porcentaje": 23.4
+        },
+        "PSC": {
+          "votos": 89,
+          "porcentaje": 21.04
+        },
+        "PRE": {
+          "votos": 32,
+          "porcentaje": 7.57
+        },
+        "AN": {
+          "votos": 6,
+          "porcentaje": 1.42
+        },
+        "ID": {
+          "votos": 15,
+          "porcentaje": 3.55
+        },
+        "APRE": {
+          "votos": 25,
+          "porcentaje": 5.91
+        },
+        "MPD": {
+          "votos": 8,
+          "porcentaje": 1.89
+        },
+        "UPL": {
+          "votos": 8,
+          "porcentaje": 1.89
+        },
+        "PSE": {
+          "votos": 3,
+          "porcentaje": 0.71
+        },
+        "MUPP-NP": {
+          "votos": 69,
+          "porcentaje": 16.31
+        },
+        "MITI": {
+          "votos": 1,
+          "porcentaje": 0.24
+        },
+        "PLRE-FRA": {
+          "votos": 52,
+          "porcentaje": 12.29
+        }
+      }
+    },
+    "2690": {
+      "nombre": "PARROQUIA_2690",
+      "votos_validos": 904,
+      "votos_blancos": 324,
+      "votos_nulos": 192,
+      "total_votos": 1420,
+      "partidos": {
+        "PCE": {
+          "votos": 11,
+          "porcentaje": 1.22
+        },
+        "CFP": {
+          "votos": 21,
+          "porcentaje": 2.32
+        },
+        "DP": {
+          "votos": 82,
+          "porcentaje": 9.07
+        },
+        "PSC": {
+          "votos": 182,
+          "porcentaje": 20.13
+        },
+        "PRE": {
+          "votos": 163,
+          "porcentaje": 18.03
+        },
+        "AN": {
+          "votos": 10,
+          "porcentaje": 1.11
+        },
+        "ID": {
+          "votos": 41,
+          "porcentaje": 4.54
+        },
+        "APRE": {
+          "votos": 16,
+          "porcentaje": 1.77
+        },
+        "MPD": {
+          "votos": 122,
+          "porcentaje": 13.5
+        },
+        "UPL": {
+          "votos": 30,
+          "porcentaje": 3.32
+        },
+        "PSE": {
+          "votos": 15,
+          "porcentaje": 1.66
+        },
+        "MUPP-NP": {
+          "votos": 90,
+          "porcentaje": 9.96
+        },
+        "MITI": {
+          "votos": 7,
+          "porcentaje": 0.77
+        },
+        "PLRE-FRA": {
+          "votos": 114,
+          "porcentaje": 12.61
+        }
+      }
+    },
+    "2825": {
+      "nombre": "PARROQUIA_2825",
+      "votos_validos": 205,
+      "votos_blancos": 76,
+      "votos_nulos": 58,
+      "total_votos": 339,
+      "partidos": {
+        "PCE": {
+          "votos": 3,
+          "porcentaje": 1.46
+        },
+        "CFP": {
+          "votos": 2,
+          "porcentaje": 0.98
+        },
+        "DP": {
+          "votos": 33,
+          "porcentaje": 16.1
+        },
+        "PSC": {
+          "votos": 33,
+          "porcentaje": 16.1
+        },
+        "PRE": {
+          "votos": 15,
+          "porcentaje": 7.32
+        },
+        "ID": {
+          "votos": 8,
+          "porcentaje": 3.9
+        },
+        "APRE": {
+          "votos": 6,
+          "porcentaje": 2.93
+        },
+        "MPD": {
+          "votos": 16,
+          "porcentaje": 7.8
+        },
+        "UPL": {
+          "votos": 2,
+          "porcentaje": 0.98
+        },
+        "MUPP-NP": {
+          "votos": 53,
+          "porcentaje": 25.85
+        },
+        "PLRE-FRA": {
+          "votos": 34,
+          "porcentaje": 16.59
+        }
+      }
+    },
+    "2855": {
+      "nombre": "PARROQUIA_2855",
+      "votos_validos": 2733,
+      "votos_blancos": 568,
+      "votos_nulos": 578,
+      "total_votos": 3879,
+      "partidos": {
+        "PCE": {
+          "votos": 41,
+          "porcentaje": 1.5
+        },
+        "CFP": {
+          "votos": 30,
+          "porcentaje": 1.1
+        },
+        "DP": {
+          "votos": 519,
+          "porcentaje": 18.99
+        },
+        "PSC": {
+          "votos": 451,
+          "porcentaje": 16.5
+        },
+        "PRE": {
+          "votos": 194,
+          "porcentaje": 7.1
+        },
+        "AN": {
+          "votos": 14,
+          "porcentaje": 0.51
+        },
+        "ID": {
+          "votos": 155,
+          "porcentaje": 5.67
+        },
+        "APRE": {
+          "votos": 77,
+          "porcentaje": 2.82
+        },
+        "MPD": {
+          "votos": 141,
+          "porcentaje": 5.16
+        },
+        "UPL": {
+          "votos": 59,
+          "porcentaje": 2.16
+        },
+        "PSE": {
+          "votos": 36,
+          "porcentaje": 1.32
+        },
+        "MUPP-NP": {
+          "votos": 548,
+          "porcentaje": 20.05
+        },
+        "MITI": {
+          "votos": 3,
+          "porcentaje": 0.11
+        },
+        "PLRE-FRA": {
+          "votos": 465,
+          "porcentaje": 17.01
+        }
+      }
+    },
+    "2895": {
+      "nombre": "PARROQUIA_2895",
+      "votos_validos": 3743,
+      "votos_blancos": 1134,
+      "votos_nulos": 633,
+      "total_votos": 5510,
+      "partidos": {
+        "PCE": {
+          "votos": 139,
+          "porcentaje": 3.71
+        },
+        "CFP": {
+          "votos": 78,
+          "porcentaje": 2.08
+        },
+        "DP": {
+          "votos": 604,
+          "porcentaje": 16.14
+        },
+        "PSC": {
+          "votos": 589,
+          "porcentaje": 15.74
+        },
+        "PRE": {
+          "votos": 346,
+          "porcentaje": 9.24
+        },
+        "AN": {
+          "votos": 40,
+          "porcentaje": 1.07
+        },
+        "ID": {
+          "votos": 238,
+          "porcentaje": 6.36
+        },
+        "APRE": {
+          "votos": 199,
+          "porcentaje": 5.32
+        },
+        "MPD": {
+          "votos": 205,
+          "porcentaje": 5.48
+        },
+        "UPL": {
+          "votos": 71,
+          "porcentaje": 1.9
+        },
+        "PSE": {
+          "votos": 67,
+          "porcentaje": 1.79
+        },
+        "MUPP-NP": {
+          "votos": 662,
+          "porcentaje": 17.69
+        },
+        "MITI": {
+          "votos": 14,
+          "porcentaje": 0.37
+        },
+        "PLRE-FRA": {
+          "votos": 491,
+          "porcentaje": 13.12
+        }
+      }
+    },
+    "2925": {
+      "nombre": "PARROQUIA_2925",
+      "votos_validos": 5297,
+      "votos_blancos": 651,
+      "votos_nulos": 562,
+      "total_votos": 6510,
+      "partidos": {
+        "PCE": {
+          "votos": 53,
+          "porcentaje": 1.0
+        },
+        "CFP": {
+          "votos": 35,
+          "porcentaje": 0.66
+        },
+        "DP": {
+          "votos": 735,
+          "porcentaje": 13.88
+        },
+        "PSC": {
+          "votos": 621,
+          "porcentaje": 11.72
+        },
+        "PRE": {
+          "votos": 193,
+          "porcentaje": 3.64
+        },
+        "AN": {
+          "votos": 13,
+          "porcentaje": 0.25
+        },
+        "ID": {
+          "votos": 380,
+          "porcentaje": 7.17
+        },
+        "APRE": {
+          "votos": 277,
+          "porcentaje": 5.23
+        },
+        "MPD": {
+          "votos": 136,
+          "porcentaje": 2.57
+        },
+        "UPL": {
+          "votos": 50,
+          "porcentaje": 0.94
+        },
+        "PSE": {
+          "votos": 71,
+          "porcentaje": 1.34
+        },
+        "MUPP-NP": {
+          "votos": 806,
+          "porcentaje": 15.22
+        },
+        "MITI": {
+          "votos": 24,
+          "porcentaje": 0.45
+        },
+        "PLRE-FRA": {
+          "votos": 1903,
+          "porcentaje": 35.93
+        }
+      }
+    },
+    "2980": {
+      "nombre": "PARROQUIA_2980",
+      "votos_validos": 1387,
+      "votos_blancos": 654,
+      "votos_nulos": 297,
+      "total_votos": 2338,
+      "partidos": {
+        "PCE": {
+          "votos": 15,
+          "porcentaje": 1.08
+        },
+        "CFP": {
+          "votos": 27,
+          "porcentaje": 1.95
+        },
+        "DP": {
+          "votos": 202,
+          "porcentaje": 14.56
+        },
+        "PSC": {
+          "votos": 280,
+          "porcentaje": 20.19
+        },
+        "PRE": {
+          "votos": 150,
+          "porcentaje": 10.81
+        },
+        "AN": {
+          "votos": 8,
+          "porcentaje": 0.58
+        },
+        "ID": {
+          "votos": 83,
+          "porcentaje": 5.98
+        },
+        "APRE": {
+          "votos": 33,
+          "porcentaje": 2.38
+        },
+        "MPD": {
+          "votos": 92,
+          "porcentaje": 6.63
+        },
+        "UPL": {
+          "votos": 15,
+          "porcentaje": 1.08
+        },
+        "PSE": {
+          "votos": 9,
+          "porcentaje": 0.65
+        },
+        "MUPP-NP": {
+          "votos": 280,
+          "porcentaje": 20.19
+        },
+        "MITI": {
+          "votos": 38,
+          "porcentaje": 2.74
+        },
+        "PLRE-FRA": {
+          "votos": 155,
+          "porcentaje": 11.18
+        }
+      }
+    },
+    "2985": {
+      "nombre": "PARROQUIA_2985",
+      "votos_validos": 2102,
+      "votos_blancos": 335,
+      "votos_nulos": 296,
+      "total_votos": 2733,
+      "partidos": {
+        "PCE": {
+          "votos": 29,
+          "porcentaje": 1.38
+        },
+        "CFP": {
+          "votos": 23,
+          "porcentaje": 1.09
+        },
+        "DP": {
+          "votos": 372,
+          "porcentaje": 17.7
+        },
+        "PSC": {
+          "votos": 325,
+          "porcentaje": 15.46
+        },
+        "PRE": {
+          "votos": 162,
+          "porcentaje": 7.71
+        },
+        "AN": {
+          "votos": 35,
+          "porcentaje": 1.67
+        },
+        "ID": {
+          "votos": 157,
+          "porcentaje": 7.47
+        },
+        "APRE": {
+          "votos": 83,
+          "porcentaje": 3.95
+        },
+        "MPD": {
+          "votos": 64,
+          "porcentaje": 3.04
+        },
+        "UPL": {
+          "votos": 20,
+          "porcentaje": 0.95
+        },
+        "PSE": {
+          "votos": 18,
+          "porcentaje": 0.86
+        },
+        "MUPP-NP": {
+          "votos": 499,
+          "porcentaje": 23.74
+        },
+        "MITI": {
+          "votos": 8,
+          "porcentaje": 0.38
+        },
+        "PLRE-FRA": {
+          "votos": 307,
+          "porcentaje": 14.61
+        }
+      }
+    },
+    "3100": {
+      "nombre": "PARROQUIA_3100",
+      "votos_validos": 2585,
+      "votos_blancos": 654,
+      "votos_nulos": 458,
+      "total_votos": 3697,
+      "partidos": {
+        "PCE": {
+          "votos": 23,
+          "porcentaje": 0.89
+        },
+        "CFP": {
+          "votos": 26,
+          "porcentaje": 1.01
+        },
+        "DP": {
+          "votos": 393,
+          "porcentaje": 15.2
+        },
+        "PSC": {
+          "votos": 332,
+          "porcentaje": 12.84
+        },
+        "PRE": {
+          "votos": 227,
+          "porcentaje": 8.78
+        },
+        "AN": {
+          "votos": 8,
+          "porcentaje": 0.31
+        },
+        "ID": {
+          "votos": 104,
+          "porcentaje": 4.02
+        },
+        "APRE": {
+          "votos": 144,
+          "porcentaje": 5.57
+        },
+        "MPD": {
+          "votos": 79,
+          "porcentaje": 3.06
+        },
+        "UPL": {
+          "votos": 46,
+          "porcentaje": 1.78
+        },
+        "PSE": {
+          "votos": 25,
+          "porcentaje": 0.97
+        },
+        "MUPP-NP": {
+          "votos": 424,
+          "porcentaje": 16.4
+        },
+        "MITI": {
+          "votos": 8,
+          "porcentaje": 0.31
+        },
+        "PLRE-FRA": {
+          "votos": 746,
+          "porcentaje": 28.86
+        }
+      }
+    },
+    "3325": {
+      "nombre": "PARROQUIA_3325",
+      "votos_validos": 4737,
+      "votos_blancos": 981,
+      "votos_nulos": 710,
+      "total_votos": 6428,
+      "partidos": {
+        "PCE": {
+          "votos": 35,
+          "porcentaje": 0.74
+        },
+        "CFP": {
+          "votos": 85,
+          "porcentaje": 1.79
+        },
+        "DP": {
+          "votos": 592,
+          "porcentaje": 12.5
+        },
+        "PSC": {
+          "votos": 596,
+          "porcentaje": 12.58
+        },
+        "PRE": {
+          "votos": 464,
+          "porcentaje": 9.8
+        },
+        "AN": {
+          "votos": 19,
+          "porcentaje": 0.4
+        },
+        "ID": {
+          "votos": 521,
+          "porcentaje": 11.0
+        },
+        "APRE": {
+          "votos": 232,
+          "porcentaje": 4.9
+        },
+        "MPD": {
+          "votos": 136,
+          "porcentaje": 2.87
+        },
+        "UPL": {
+          "votos": 43,
+          "porcentaje": 0.91
+        },
+        "PSE": {
+          "votos": 71,
+          "porcentaje": 1.5
+        },
+        "MUPP-NP": {
+          "votos": 937,
+          "porcentaje": 19.78
+        },
+        "MITI": {
+          "votos": 60,
+          "porcentaje": 1.27
+        },
+        "PLRE-FRA": {
+          "votos": 946,
+          "porcentaje": 19.97
+        }
+      }
+    },
+    "3475": {
+      "nombre": "PARROQUIA_3475",
+      "votos_validos": 1387,
+      "votos_blancos": 480,
+      "votos_nulos": 442,
+      "total_votos": 2309,
+      "partidos": {
+        "PCE": {
+          "votos": 17,
+          "porcentaje": 1.23
+        },
+        "CFP": {
+          "votos": 18,
+          "porcentaje": 1.3
+        },
+        "DP": {
+          "votos": 179,
+          "porcentaje": 12.91
+        },
+        "PSC": {
+          "votos": 337,
+          "porcentaje": 24.3
+        },
+        "PRE": {
+          "votos": 111,
+          "porcentaje": 8.0
+        },
+        "AN": {
+          "votos": 11,
+          "porcentaje": 0.79
+        },
+        "ID": {
+          "votos": 77,
+          "porcentaje": 5.55
+        },
+        "APRE": {
+          "votos": 105,
+          "porcentaje": 7.57
+        },
+        "MPD": {
+          "votos": 65,
+          "porcentaje": 4.69
+        },
+        "UPL": {
+          "votos": 23,
+          "porcentaje": 1.66
+        },
+        "PSE": {
+          "votos": 62,
+          "porcentaje": 4.47
+        },
+        "MUPP-NP": {
+          "votos": 227,
+          "porcentaje": 16.37
+        },
+        "MITI": {
+          "votos": 3,
+          "porcentaje": 0.22
+        },
+        "PLRE-FRA": {
+          "votos": 152,
+          "porcentaje": 10.96
+        }
+      }
+    },
+    "3925": {
+      "nombre": "PARROQUIA_3925",
+      "votos_validos": 467,
+      "votos_blancos": 99,
+      "votos_nulos": 75,
+      "total_votos": 641,
+      "partidos": {
+        "PCE": {
+          "votos": 4,
+          "porcentaje": 0.86
+        },
+        "CFP": {
+          "votos": 10,
+          "porcentaje": 2.14
+        },
+        "DP": {
+          "votos": 87,
+          "porcentaje": 18.63
+        },
+        "PSC": {
+          "votos": 71,
+          "porcentaje": 15.2
+        },
+        "PRE": {
+          "votos": 42,
+          "porcentaje": 8.99
+        },
+        "AN": {
+          "votos": 2,
+          "porcentaje": 0.43
+        },
+        "ID": {
+          "votos": 27,
+          "porcentaje": 5.78
+        },
+        "APRE": {
+          "votos": 14,
+          "porcentaje": 3.0
+        },
+        "MPD": {
+          "votos": 24,
+          "porcentaje": 5.14
+        },
+        "UPL": {
+          "votos": 2,
+          "porcentaje": 0.43
+        },
+        "PSE": {
+          "votos": 12,
+          "porcentaje": 2.57
+        },
+        "MUPP-NP": {
+          "votos": 81,
+          "porcentaje": 17.34
+        },
+        "PLRE-FRA": {
+          "votos": 91,
+          "porcentaje": 19.49
+        }
+      }
+    },
+    "4085": {
+      "nombre": "PARROQUIA_4085",
+      "votos_validos": 8936,
+      "votos_blancos": 1517,
+      "votos_nulos": 1371,
+      "total_votos": 11824,
+      "partidos": {
+        "PCE": {
+          "votos": 135,
+          "porcentaje": 1.51
+        },
+        "CFP": {
+          "votos": 87,
+          "porcentaje": 0.97
+        },
+        "DP": {
+          "votos": 2144,
+          "porcentaje": 23.99
+        },
+        "PSC": {
+          "votos": 1360,
+          "porcentaje": 15.22
+        },
+        "PRE": {
+          "votos": 396,
+          "porcentaje": 4.43
+        },
+        "AN": {
+          "votos": 52,
+          "porcentaje": 0.58
+        },
+        "ID": {
+          "votos": 593,
+          "porcentaje": 6.64
+        },
+        "APRE": {
+          "votos": 405,
+          "porcentaje": 4.53
+        },
+        "MPD": {
+          "votos": 333,
+          "porcentaje": 3.73
+        },
+        "UPL": {
+          "votos": 148,
+          "porcentaje": 1.66
+        },
+        "PSE": {
+          "votos": 140,
+          "porcentaje": 1.57
+        },
+        "MUPP-NP": {
+          "votos": 1939,
+          "porcentaje": 21.7
+        },
+        "MITI": {
+          "votos": 29,
+          "porcentaje": 0.32
+        },
+        "PLRE-FRA": {
+          "votos": 1175,
+          "porcentaje": 13.15
+        }
+      }
+    },
+    "4290": {
+      "nombre": "PARROQUIA_4290",
+      "votos_validos": 3168,
+      "votos_blancos": 727,
+      "votos_nulos": 617,
+      "total_votos": 4512,
+      "partidos": {
+        "PCE": {
+          "votos": 44,
+          "porcentaje": 1.39
+        },
+        "CFP": {
+          "votos": 41,
+          "porcentaje": 1.29
+        },
+        "DP": {
+          "votos": 650,
+          "porcentaje": 20.52
+        },
+        "PSC": {
+          "votos": 390,
+          "porcentaje": 12.31
+        },
+        "PRE": {
+          "votos": 188,
+          "porcentaje": 5.93
+        },
+        "AN": {
+          "votos": 18,
+          "porcentaje": 0.57
+        },
+        "ID": {
+          "votos": 217,
+          "porcentaje": 6.85
+        },
+        "APRE": {
+          "votos": 232,
+          "porcentaje": 7.32
+        },
+        "MPD": {
+          "votos": 85,
+          "porcentaje": 2.68
+        },
+        "UPL": {
+          "votos": 40,
+          "porcentaje": 1.26
+        },
+        "PSE": {
+          "votos": 62,
+          "porcentaje": 1.96
+        },
+        "MUPP-NP": {
+          "votos": 496,
+          "porcentaje": 15.66
+        },
+        "MITI": {
+          "votos": 8,
+          "porcentaje": 0.25
+        },
+        "PLRE-FRA": {
+          "votos": 697,
+          "porcentaje": 22.0
+        }
+      }
+    },
+    "4325": {
+      "nombre": "PARROQUIA_4325",
+      "votos_validos": 1402,
+      "votos_blancos": 192,
+      "votos_nulos": 198,
+      "total_votos": 1792,
+      "partidos": {
+        "PCE": {
+          "votos": 24,
+          "porcentaje": 1.71
+        },
+        "CFP": {
+          "votos": 20,
+          "porcentaje": 1.43
+        },
+        "DP": {
+          "votos": 251,
+          "porcentaje": 17.9
+        },
+        "PSC": {
+          "votos": 151,
+          "porcentaje": 10.77
+        },
+        "PRE": {
+          "votos": 55,
+          "porcentaje": 3.92
+        },
+        "AN": {
+          "votos": 8,
+          "porcentaje": 0.57
+        },
+        "ID": {
+          "votos": 101,
+          "porcentaje": 7.2
+        },
+        "APRE": {
+          "votos": 85,
+          "porcentaje": 6.06
+        },
+        "MPD": {
+          "votos": 102,
+          "porcentaje": 7.28
+        },
+        "UPL": {
+          "votos": 21,
+          "porcentaje": 1.5
+        },
+        "PSE": {
+          "votos": 26,
+          "porcentaje": 1.85
+        },
+        "MUPP-NP": {
+          "votos": 415,
+          "porcentaje": 29.6
+        },
+        "MITI": {
+          "votos": 5,
+          "porcentaje": 0.36
+        },
+        "PLRE-FRA": {
+          "votos": 138,
+          "porcentaje": 9.84
+        }
+      }
+    },
+    "5015": {
+      "nombre": "PARROQUIA_5015",
+      "votos_validos": 71130,
+      "votos_blancos": 7710,
+      "votos_nulos": 8322,
+      "total_votos": 87162,
+      "partidos": {
+        "PCE": {
+          "votos": 865,
+          "porcentaje": 1.22
+        },
+        "CFP": {
+          "votos": 976,
+          "porcentaje": 1.37
+        },
+        "DP": {
+          "votos": 15259,
+          "porcentaje": 21.45
+        },
+        "PSC": {
+          "votos": 8605,
+          "porcentaje": 12.1
+        },
+        "PRE": {
+          "votos": 3942,
+          "porcentaje": 5.54
+        },
+        "AN": {
+          "votos": 338,
+          "porcentaje": 0.48
+        },
+        "ID": {
+          "votos": 6645,
+          "porcentaje": 9.34
+        },
+        "APRE": {
+          "votos": 4649,
+          "porcentaje": 6.54
+        },
+        "MPD": {
+          "votos": 4559,
+          "porcentaje": 6.41
+        },
+        "UPL": {
+          "votos": 1156,
+          "porcentaje": 1.63
+        },
+        "PSE": {
+          "votos": 990,
+          "porcentaje": 1.39
+        },
+        "MUPP-NP": {
+          "votos": 12212,
+          "porcentaje": 17.17
+        },
+        "MITI": {
+          "votos": 296,
+          "porcentaje": 0.42
+        },
+        "PLRE-FRA": {
+          "votos": 10638,
+          "porcentaje": 14.96
+        }
+      }
+    },
+    "5110": {
+      "nombre": "PARROQUIA_5110",
+      "votos_validos": 40889,
+      "votos_blancos": 2485,
+      "votos_nulos": 3235,
+      "total_votos": 46609,
+      "partidos": {
+        "PCE": {
+          "votos": 887,
+          "porcentaje": 2.17
+        },
+        "CFP": {
+          "votos": 239,
+          "porcentaje": 0.58
+        },
+        "DP": {
+          "votos": 12221,
+          "porcentaje": 29.89
+        },
+        "PSC": {
+          "votos": 10823,
+          "porcentaje": 26.47
+        },
+        "PRE": {
+          "votos": 1001,
+          "porcentaje": 2.45
+        },
+        "AN": {
+          "votos": 143,
+          "porcentaje": 0.35
+        },
+        "ID": {
+          "votos": 4188,
+          "porcentaje": 10.24
+        },
+        "APRE": {
+          "votos": 1356,
+          "porcentaje": 3.32
+        },
+        "MPD": {
+          "votos": 913,
+          "porcentaje": 2.23
+        },
+        "UPL": {
+          "votos": 336,
+          "porcentaje": 0.82
+        },
+        "PSE": {
+          "votos": 376,
+          "porcentaje": 0.92
+        },
+        "MUPP-NP": {
+          "votos": 4509,
+          "porcentaje": 11.03
+        },
+        "MITI": {
+          "votos": 156,
+          "porcentaje": 0.38
+        },
+        "PLRE-FRA": {
+          "votos": 3741,
+          "porcentaje": 9.15
+        }
+      }
+    },
+    "5220": {
+      "nombre": "PARROQUIA_5220",
+      "votos_validos": 75392,
+      "votos_blancos": 7114,
+      "votos_nulos": 7742,
+      "total_votos": 90248,
+      "partidos": {
+        "PCE": {
+          "votos": 992,
+          "porcentaje": 1.32
+        },
+        "CFP": {
+          "votos": 681,
+          "porcentaje": 0.9
+        },
+        "DP": {
+          "votos": 20286,
+          "porcentaje": 26.91
+        },
+        "PSC": {
+          "votos": 11156,
+          "porcentaje": 14.8
+        },
+        "PRE": {
+          "votos": 3307,
+          "porcentaje": 4.39
+        },
+        "AN": {
+          "votos": 377,
+          "porcentaje": 0.5
+        },
+        "ID": {
+          "votos": 8244,
+          "porcentaje": 10.93
+        },
+        "APRE": {
+          "votos": 3776,
+          "porcentaje": 5.01
+        },
+        "MPD": {
+          "votos": 3365,
+          "porcentaje": 4.46
+        },
+        "UPL": {
+          "votos": 815,
+          "porcentaje": 1.08
+        },
+        "PSE": {
+          "votos": 981,
+          "porcentaje": 1.3
+        },
+        "MUPP-NP": {
+          "votos": 11461,
+          "porcentaje": 15.2
+        },
+        "MITI": {
+          "votos": 372,
+          "porcentaje": 0.49
+        },
+        "PLRE-FRA": {
+          "votos": 9579,
+          "porcentaje": 12.71
+        }
+      }
+    },
+    "5235": {
+      "nombre": "PARROQUIA_5235",
+      "votos_validos": 73782,
+      "votos_blancos": 5296,
+      "votos_nulos": 6090,
+      "total_votos": 85168,
+      "partidos": {
+        "PCE": {
+          "votos": 1212,
+          "porcentaje": 1.64
+        },
+        "CFP": {
+          "votos": 572,
+          "porcentaje": 0.78
+        },
+        "DP": {
+          "votos": 22495,
+          "porcentaje": 30.49
+        },
+        "PSC": {
+          "votos": 15166,
+          "porcentaje": 20.56
+        },
+        "PRE": {
+          "votos": 2220,
+          "porcentaje": 3.01
+        },
+        "AN": {
+          "votos": 301,
+          "porcentaje": 0.41
+        },
+        "ID": {
+          "votos": 8081,
+          "porcentaje": 10.95
+        },
+        "APRE": {
+          "votos": 2865,
+          "porcentaje": 3.88
+        },
+        "MPD": {
+          "votos": 2172,
+          "porcentaje": 2.94
+        },
+        "UPL": {
+          "votos": 696,
+          "porcentaje": 0.94
+        },
+        "PSE": {
+          "votos": 815,
+          "porcentaje": 1.1
+        },
+        "MUPP-NP": {
+          "votos": 9726,
+          "porcentaje": 13.18
+        },
+        "MITI": {
+          "votos": 326,
+          "porcentaje": 0.44
+        },
+        "PLRE-FRA": {
+          "votos": 7135,
+          "porcentaje": 9.67
+        }
+      }
+    },
+    "5260": {
+      "nombre": "PARROQUIA_5260",
+      "votos_validos": 50669,
+      "votos_blancos": 5677,
+      "votos_nulos": 6071,
+      "total_votos": 62417,
+      "partidos": {
+        "PCE": {
+          "votos": 722,
+          "porcentaje": 1.42
+        },
+        "CFP": {
+          "votos": 718,
+          "porcentaje": 1.42
+        },
+        "DP": {
+          "votos": 10261,
+          "porcentaje": 20.25
+        },
+        "PSC": {
+          "votos": 5984,
+          "porcentaje": 11.81
+        },
+        "PRE": {
+          "votos": 3449,
+          "porcentaje": 6.81
+        },
+        "AN": {
+          "votos": 201,
+          "porcentaje": 0.4
+        },
+        "ID": {
+          "votos": 3609,
+          "porcentaje": 7.12
+        },
+        "APRE": {
+          "votos": 3572,
+          "porcentaje": 7.05
+        },
+        "MPD": {
+          "votos": 3055,
+          "porcentaje": 6.03
+        },
+        "UPL": {
+          "votos": 922,
+          "porcentaje": 1.82
+        },
+        "PSE": {
+          "votos": 839,
+          "porcentaje": 1.66
+        },
+        "MUPP-NP": {
+          "votos": 8576,
+          "porcentaje": 16.93
+        },
+        "MITI": {
+          "votos": 279,
+          "porcentaje": 0.55
+        },
+        "PLRE-FRA": {
+          "votos": 8482,
+          "porcentaje": 16.74
+        }
+      }
+    },
+    "5325": {
+      "nombre": "PARROQUIA_5325",
+      "votos_validos": 14112,
+      "votos_blancos": 1574,
+      "votos_nulos": 1826,
+      "total_votos": 17512,
+      "partidos": {
+        "PCE": {
+          "votos": 196,
+          "porcentaje": 1.39
+        },
+        "CFP": {
+          "votos": 156,
+          "porcentaje": 1.11
+        },
+        "DP": {
+          "votos": 2910,
+          "porcentaje": 20.62
+        },
+        "PSC": {
+          "votos": 1761,
+          "porcentaje": 12.48
+        },
+        "PRE": {
+          "votos": 693,
+          "porcentaje": 4.91
+        },
+        "AN": {
+          "votos": 69,
+          "porcentaje": 0.49
+        },
+        "ID": {
+          "votos": 1179,
+          "porcentaje": 8.35
+        },
+        "APRE": {
+          "votos": 959,
+          "porcentaje": 6.8
+        },
+        "MPD": {
+          "votos": 1075,
+          "porcentaje": 7.62
+        },
+        "UPL": {
+          "votos": 253,
+          "porcentaje": 1.79
+        },
+        "PSE": {
+          "votos": 220,
+          "porcentaje": 1.56
+        },
+        "MUPP-NP": {
+          "votos": 2578,
+          "porcentaje": 18.27
+        },
+        "MITI": {
+          "votos": 69,
+          "porcentaje": 0.49
+        },
+        "PLRE-FRA": {
+          "votos": 1994,
+          "porcentaje": 14.13
+        }
+      }
+    },
+    "5410": {
+      "nombre": "PARROQUIA_5410",
+      "votos_validos": 3739,
+      "votos_blancos": 301,
+      "votos_nulos": 419,
+      "total_votos": 4459,
+      "partidos": {
+        "PCE": {
+          "votos": 74,
+          "porcentaje": 1.98
+        },
+        "CFP": {
+          "votos": 22,
+          "porcentaje": 0.59
+        },
+        "DP": {
+          "votos": 858,
+          "porcentaje": 22.95
+        },
+        "PSC": {
+          "votos": 664,
+          "porcentaje": 17.76
+        },
+        "PRE": {
+          "votos": 163,
+          "porcentaje": 4.36
+        },
+        "AN": {
+          "votos": 25,
+          "porcentaje": 0.67
+        },
+        "ID": {
+          "votos": 358,
+          "porcentaje": 9.57
+        },
+        "APRE": {
+          "votos": 228,
+          "porcentaje": 6.1
+        },
+        "MPD": {
+          "votos": 174,
+          "porcentaje": 4.65
+        },
+        "UPL": {
+          "votos": 48,
+          "porcentaje": 1.28
+        },
+        "PSE": {
+          "votos": 48,
+          "porcentaje": 1.28
+        },
+        "MUPP-NP": {
+          "votos": 583,
+          "porcentaje": 15.59
+        },
+        "MITI": {
+          "votos": 21,
+          "porcentaje": 0.56
+        },
+        "PLRE-FRA": {
+          "votos": 473,
+          "porcentaje": 12.65
+        }
+      }
+    },
+    "5435": {
+      "nombre": "PARROQUIA_5435",
+      "votos_validos": 1853,
+      "votos_blancos": 192,
+      "votos_nulos": 193,
+      "total_votos": 2238,
+      "partidos": {
+        "PCE": {
+          "votos": 23,
+          "porcentaje": 1.24
+        },
+        "CFP": {
+          "votos": 14,
+          "porcentaje": 0.76
+        },
+        "DP": {
+          "votos": 416,
+          "porcentaje": 22.45
+        },
+        "PSC": {
+          "votos": 246,
+          "porcentaje": 13.28
+        },
+        "PRE": {
+          "votos": 83,
+          "porcentaje": 4.48
+        },
+        "AN": {
+          "votos": 8,
+          "porcentaje": 0.43
+        },
+        "ID": {
+          "votos": 170,
+          "porcentaje": 9.17
+        },
+        "APRE": {
+          "votos": 128,
+          "porcentaje": 6.91
+        },
+        "MPD": {
+          "votos": 76,
+          "porcentaje": 4.1
+        },
+        "UPL": {
+          "votos": 30,
+          "porcentaje": 1.62
+        },
+        "PSE": {
+          "votos": 22,
+          "porcentaje": 1.19
+        },
+        "MUPP-NP": {
+          "votos": 340,
+          "porcentaje": 18.35
+        },
+        "MITI": {
+          "votos": 3,
+          "porcentaje": 0.16
+        },
+        "PLRE-FRA": {
+          "votos": 294,
+          "porcentaje": 15.87
+        }
+      }
+    },
+    "5530": {
+      "nombre": "PARROQUIA_5530",
+      "votos_validos": 9467,
+      "votos_blancos": 641,
+      "votos_nulos": 790,
+      "total_votos": 10898,
+      "partidos": {
+        "PCE": {
+          "votos": 201,
+          "porcentaje": 2.12
+        },
+        "CFP": {
+          "votos": 59,
+          "porcentaje": 0.62
+        },
+        "DP": {
+          "votos": 2638,
+          "porcentaje": 27.87
+        },
+        "PSC": {
+          "votos": 2322,
+          "porcentaje": 24.53
+        },
+        "PRE": {
+          "votos": 276,
+          "porcentaje": 2.92
+        },
+        "AN": {
+          "votos": 23,
+          "porcentaje": 0.24
+        },
+        "ID": {
+          "votos": 935,
+          "porcentaje": 9.88
+        },
+        "APRE": {
+          "votos": 313,
+          "porcentaje": 3.31
+        },
+        "MPD": {
+          "votos": 237,
+          "porcentaje": 2.5
+        },
+        "UPL": {
+          "votos": 60,
+          "porcentaje": 0.63
+        },
+        "PSE": {
+          "votos": 124,
+          "porcentaje": 1.31
+        },
+        "MUPP-NP": {
+          "votos": 1255,
+          "porcentaje": 13.26
+        },
+        "MITI": {
+          "votos": 29,
+          "porcentaje": 0.31
+        },
+        "PLRE-FRA": {
+          "votos": 995,
+          "porcentaje": 10.51
+        }
+      }
+    },
+    "5535": {
+      "nombre": "PARROQUIA_5535",
+      "votos_validos": 11651,
+      "votos_blancos": 1259,
+      "votos_nulos": 1408,
+      "total_votos": 14318,
+      "partidos": {
+        "PCE": {
+          "votos": 177,
+          "porcentaje": 1.52
+        },
+        "CFP": {
+          "votos": 199,
+          "porcentaje": 1.71
+        },
+        "DP": {
+          "votos": 2447,
+          "porcentaje": 21.0
+        },
+        "PSC": {
+          "votos": 1343,
+          "porcentaje": 11.53
+        },
+        "PRE": {
+          "votos": 728,
+          "porcentaje": 6.25
+        },
+        "AN": {
+          "votos": 46,
+          "porcentaje": 0.39
+        },
+        "ID": {
+          "votos": 977,
+          "porcentaje": 8.39
+        },
+        "APRE": {
+          "votos": 875,
+          "porcentaje": 7.51
+        },
+        "MPD": {
+          "votos": 876,
+          "porcentaje": 7.52
+        },
+        "UPL": {
+          "votos": 238,
+          "porcentaje": 2.04
+        },
+        "PSE": {
+          "votos": 160,
+          "porcentaje": 1.37
+        },
+        "MUPP-NP": {
+          "votos": 1958,
+          "porcentaje": 16.81
+        },
+        "MITI": {
+          "votos": 58,
+          "porcentaje": 0.5
+        },
+        "PLRE-FRA": {
+          "votos": 1569,
+          "porcentaje": 13.47
+        }
+      }
+    },
+    "5540": {
+      "nombre": "PARROQUIA_5540",
+      "votos_validos": 44359,
+      "votos_blancos": 4237,
+      "votos_nulos": 4926,
+      "total_votos": 53522,
+      "partidos": {
+        "PCE": {
+          "votos": 604,
+          "porcentaje": 1.36
+        },
+        "CFP": {
+          "votos": 537,
+          "porcentaje": 1.21
+        },
+        "DP": {
+          "votos": 10518,
+          "porcentaje": 23.71
+        },
+        "PSC": {
+          "votos": 5885,
+          "porcentaje": 13.27
+        },
+        "PRE": {
+          "votos": 2045,
+          "porcentaje": 4.61
+        },
+        "AN": {
+          "votos": 254,
+          "porcentaje": 0.57
+        },
+        "ID": {
+          "votos": 4321,
+          "porcentaje": 9.74
+        },
+        "APRE": {
+          "votos": 2860,
+          "porcentaje": 6.45
+        },
+        "MPD": {
+          "votos": 2569,
+          "porcentaje": 5.79
+        },
+        "UPL": {
+          "votos": 897,
+          "porcentaje": 2.02
+        },
+        "PSE": {
+          "votos": 695,
+          "porcentaje": 1.57
+        },
+        "MUPP-NP": {
+          "votos": 6942,
+          "porcentaje": 15.65
+        },
+        "MITI": {
+          "votos": 243,
+          "porcentaje": 0.55
+        },
+        "PLRE-FRA": {
+          "votos": 5989,
+          "porcentaje": 13.5
+        }
+      }
+    },
+    "5575": {
+      "nombre": "PARROQUIA_5575",
+      "votos_validos": 8904,
+      "votos_blancos": 739,
+      "votos_nulos": 964,
+      "total_votos": 10607,
+      "partidos": {
+        "PCE": {
+          "votos": 122,
+          "porcentaje": 1.37
+        },
+        "CFP": {
+          "votos": 87,
+          "porcentaje": 0.98
+        },
+        "DP": {
+          "votos": 2476,
+          "porcentaje": 27.81
+        },
+        "PSC": {
+          "votos": 1330,
+          "porcentaje": 14.94
+        },
+        "PRE": {
+          "votos": 259,
+          "porcentaje": 2.91
+        },
+        "AN": {
+          "votos": 34,
+          "porcentaje": 0.38
+        },
+        "ID": {
+          "votos": 1009,
+          "porcentaje": 11.33
+        },
+        "APRE": {
+          "votos": 455,
+          "porcentaje": 5.11
+        },
+        "MPD": {
+          "votos": 383,
+          "porcentaje": 4.3
+        },
+        "UPL": {
+          "votos": 84,
+          "porcentaje": 0.94
+        },
+        "PSE": {
+          "votos": 138,
+          "porcentaje": 1.55
+        },
+        "MUPP-NP": {
+          "votos": 1334,
+          "porcentaje": 14.98
+        },
+        "MITI": {
+          "votos": 27,
+          "porcentaje": 0.3
+        },
+        "PLRE-FRA": {
+          "votos": 1166,
+          "porcentaje": 13.1
+        }
+      }
+    },
+    "5935": {
+      "nombre": "PARROQUIA_5935",
+      "votos_validos": 22283,
+      "votos_blancos": 1717,
+      "votos_nulos": 2339,
+      "total_votos": 26339,
+      "partidos": {
+        "PCE": {
+          "votos": 297,
+          "porcentaje": 1.33
+        },
+        "CFP": {
+          "votos": 234,
+          "porcentaje": 1.05
+        },
+        "DP": {
+          "votos": 5652,
+          "porcentaje": 25.36
+        },
+        "PSC": {
+          "votos": 3152,
+          "porcentaje": 14.15
+        },
+        "PRE": {
+          "votos": 942,
+          "porcentaje": 4.23
+        },
+        "AN": {
+          "votos": 74,
+          "porcentaje": 0.33
+        },
+        "ID": {
+          "votos": 2501,
+          "porcentaje": 11.22
+        },
+        "APRE": {
+          "votos": 1216,
+          "porcentaje": 5.46
+        },
+        "MPD": {
+          "votos": 1114,
+          "porcentaje": 5.0
+        },
+        "UPL": {
+          "votos": 252,
+          "porcentaje": 1.13
+        },
+        "PSE": {
+          "votos": 313,
+          "porcentaje": 1.4
+        },
+        "MUPP-NP": {
+          "votos": 3718,
+          "porcentaje": 16.69
+        },
+        "MITI": {
+          "votos": 114,
+          "porcentaje": 0.51
+        },
+        "PLRE-FRA": {
+          "votos": 2704,
+          "porcentaje": 12.13
+        }
+      }
+    },
+    "5985": {
+      "nombre": "PARROQUIA_5985",
+      "votos_validos": 7397,
+      "votos_blancos": 658,
+      "votos_nulos": 754,
+      "total_votos": 8809,
+      "partidos": {
+        "PCE": {
+          "votos": 130,
+          "porcentaje": 1.76
+        },
+        "CFP": {
+          "votos": 86,
+          "porcentaje": 1.16
+        },
+        "DP": {
+          "votos": 1873,
+          "porcentaje": 25.32
+        },
+        "PSC": {
+          "votos": 1115,
+          "porcentaje": 15.07
+        },
+        "PRE": {
+          "votos": 320,
+          "porcentaje": 4.33
+        },
+        "AN": {
+          "votos": 19,
+          "porcentaje": 0.26
+        },
+        "ID": {
+          "votos": 850,
+          "porcentaje": 11.49
+        },
+        "APRE": {
+          "votos": 430,
+          "porcentaje": 5.81
+        },
+        "MPD": {
+          "votos": 396,
+          "porcentaje": 5.35
+        },
+        "UPL": {
+          "votos": 85,
+          "porcentaje": 1.15
+        },
+        "PSE": {
+          "votos": 100,
+          "porcentaje": 1.35
+        },
+        "MUPP-NP": {
+          "votos": 1148,
+          "porcentaje": 15.52
+        },
+        "MITI": {
+          "votos": 36,
+          "porcentaje": 0.49
+        },
+        "PLRE-FRA": {
+          "votos": 809,
+          "porcentaje": 10.94
+        }
+      }
+    }
+  }
+}

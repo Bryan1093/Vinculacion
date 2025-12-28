@@ -1,0 +1,1127 @@
+{
+  "PASTAZA": {
+    "3180": {
+      "nombre": "PARROQUIA_3180",
+      "votos_validos": 42,
+      "votos_blancos": 2,
+      "votos_nulos": 12,
+      "total_votos": 56,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 35,
+          "porcentaje": 83.33
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 7,
+          "porcentaje": 16.67
+        }
+      }
+    },
+    "3195": {
+      "nombre": "PARROQUIA_3195",
+      "votos_validos": 25,
+      "votos_blancos": 0,
+      "votos_nulos": 28,
+      "total_votos": 53,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 9,
+          "porcentaje": 36.0
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 16,
+          "porcentaje": 64.0
+        }
+      }
+    },
+    "3785": {
+      "nombre": "PARROQUIA_3785",
+      "votos_validos": 147,
+      "votos_blancos": 7,
+      "votos_nulos": 52,
+      "total_votos": 206,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 127,
+          "porcentaje": 86.39
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 20,
+          "porcentaje": 13.61
+        }
+      }
+    },
+    "3985": {
+      "nombre": "PARROQUIA_3985",
+      "votos_validos": 215,
+      "votos_blancos": 0,
+      "votos_nulos": 26,
+      "total_votos": 241,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 160,
+          "porcentaje": 74.42
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 55,
+          "porcentaje": 25.58
+        }
+      }
+    },
+    "4005": {
+      "nombre": "PARROQUIA_4005",
+      "votos_validos": 278,
+      "votos_blancos": 2,
+      "votos_nulos": 24,
+      "total_votos": 304,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 221,
+          "porcentaje": 79.5
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 57,
+          "porcentaje": 20.5
+        }
+      }
+    },
+    "4205": {
+      "nombre": "PARROQUIA_4205",
+      "votos_validos": 644,
+      "votos_blancos": 2,
+      "votos_nulos": 34,
+      "total_votos": 680,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 510,
+          "porcentaje": 79.19
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 134,
+          "porcentaje": 20.81
+        }
+      }
+    },
+    "4510": {
+      "nombre": "PARROQUIA_4510",
+      "votos_validos": 296,
+      "votos_blancos": 4,
+      "votos_nulos": 32,
+      "total_votos": 332,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 263,
+          "porcentaje": 88.85
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 33,
+          "porcentaje": 11.15
+        }
+      }
+    },
+    "5825": {
+      "nombre": "PARROQUIA_5825",
+      "votos_validos": 9454,
+      "votos_blancos": 53,
+      "votos_nulos": 1047,
+      "total_votos": 10554,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 6996,
+          "porcentaje": 74.0
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 2458,
+          "porcentaje": 26.0
+        }
+      }
+    },
+    "2310": {
+      "nombre": "PARROQUIA_2310",
+      "votos_validos": 367,
+      "votos_blancos": 8,
+      "votos_nulos": 33,
+      "total_votos": 408,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 309,
+          "porcentaje": 84.2
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 58,
+          "porcentaje": 15.8
+        }
+      }
+    },
+    "3840": {
+      "nombre": "PARROQUIA_3840",
+      "votos_validos": 1201,
+      "votos_blancos": 7,
+      "votos_nulos": 85,
+      "total_votos": 1293,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 923,
+          "porcentaje": 76.85
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 278,
+          "porcentaje": 23.15
+        }
+      }
+    },
+    "5650": {
+      "nombre": "PARROQUIA_5650",
+      "votos_validos": 459,
+      "votos_blancos": 2,
+      "votos_nulos": 36,
+      "total_votos": 497,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 311,
+          "porcentaje": 67.76
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 148,
+          "porcentaje": 32.24
+        }
+      }
+    },
+    "6395": {
+      "nombre": "PARROQUIA_6395",
+      "votos_validos": 1155,
+      "votos_blancos": 12,
+      "votos_nulos": 75,
+      "total_votos": 1242,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 839,
+          "porcentaje": 72.64
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 316,
+          "porcentaje": 27.36
+        }
+      }
+    }
+  },
+  "PICHINCHA": {
+    "30": {
+      "nombre": "PARROQUIA_30",
+      "votos_validos": 3961,
+      "votos_blancos": 88,
+      "votos_nulos": 721,
+      "total_votos": 4770,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 2558,
+          "porcentaje": 64.58
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1403,
+          "porcentaje": 35.42
+        }
+      }
+    },
+    "80": {
+      "nombre": "PARROQUIA_80",
+      "votos_validos": 8037,
+      "votos_blancos": 103,
+      "votos_nulos": 1231,
+      "total_votos": 9371,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 6180,
+          "porcentaje": 76.89
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1857,
+          "porcentaje": 23.11
+        }
+      }
+    },
+    "195": {
+      "nombre": "PARROQUIA_195",
+      "votos_validos": 838,
+      "votos_blancos": 12,
+      "votos_nulos": 157,
+      "total_votos": 1007,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 557,
+          "porcentaje": 66.47
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 281,
+          "porcentaje": 33.53
+        }
+      }
+    },
+    "430": {
+      "nombre": "PARROQUIA_430",
+      "votos_validos": 1478,
+      "votos_blancos": 31,
+      "votos_nulos": 187,
+      "total_votos": 1696,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 947,
+          "porcentaje": 64.07
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 531,
+          "porcentaje": 35.93
+        }
+      }
+    },
+    "440": {
+      "nombre": "PARROQUIA_440",
+      "votos_validos": 14405,
+      "votos_blancos": 216,
+      "votos_nulos": 2487,
+      "total_votos": 17108,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 8178,
+          "porcentaje": 56.77
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 6227,
+          "porcentaje": 43.23
+        }
+      }
+    },
+    "625": {
+      "nombre": "PARROQUIA_625",
+      "votos_validos": 12864,
+      "votos_blancos": 88,
+      "votos_nulos": 2262,
+      "total_votos": 15214,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 6615,
+          "porcentaje": 51.42
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 6249,
+          "porcentaje": 48.58
+        }
+      }
+    },
+    "725": {
+      "nombre": "PARROQUIA_725",
+      "votos_validos": 5638,
+      "votos_blancos": 28,
+      "votos_nulos": 830,
+      "total_votos": 6496,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 2851,
+          "porcentaje": 50.57
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 2787,
+          "porcentaje": 49.43
+        }
+      }
+    },
+    "855": {
+      "nombre": "PARROQUIA_855",
+      "votos_validos": 348,
+      "votos_blancos": 4,
+      "votos_nulos": 57,
+      "total_votos": 409,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 241,
+          "porcentaje": 69.25
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 107,
+          "porcentaje": 30.75
+        }
+      }
+    },
+    "865": {
+      "nombre": "PARROQUIA_865",
+      "votos_validos": 1191,
+      "votos_blancos": 18,
+      "votos_nulos": 273,
+      "total_votos": 1482,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 667,
+          "porcentaje": 56.0
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 524,
+          "porcentaje": 44.0
+        }
+      }
+    },
+    "1400": {
+      "nombre": "PARROQUIA_1400",
+      "votos_validos": 652,
+      "votos_blancos": 9,
+      "votos_nulos": 114,
+      "total_votos": 775,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 481,
+          "porcentaje": 73.77
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 171,
+          "porcentaje": 26.23
+        }
+      }
+    },
+    "1440": {
+      "nombre": "PARROQUIA_1440",
+      "votos_validos": 841,
+      "votos_blancos": 11,
+      "votos_nulos": 103,
+      "total_votos": 955,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 682,
+          "porcentaje": 81.09
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 159,
+          "porcentaje": 18.91
+        }
+      }
+    },
+    "1475": {
+      "nombre": "PARROQUIA_1475",
+      "votos_validos": 3186,
+      "votos_blancos": 35,
+      "votos_nulos": 575,
+      "total_votos": 3796,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1994,
+          "porcentaje": 62.59
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1192,
+          "porcentaje": 37.41
+        }
+      }
+    },
+    "2055": {
+      "nombre": "PARROQUIA_2055",
+      "votos_validos": 1192,
+      "votos_blancos": 23,
+      "votos_nulos": 277,
+      "total_votos": 1492,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 679,
+          "porcentaje": 56.96
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 513,
+          "porcentaje": 43.04
+        }
+      }
+    },
+    "2265": {
+      "nombre": "PARROQUIA_2265",
+      "votos_validos": 1540,
+      "votos_blancos": 12,
+      "votos_nulos": 211,
+      "total_votos": 1763,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 997,
+          "porcentaje": 64.74
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 543,
+          "porcentaje": 35.26
+        }
+      }
+    },
+    "2275": {
+      "nombre": "PARROQUIA_2275",
+      "votos_validos": 650,
+      "votos_blancos": 8,
+      "votos_nulos": 105,
+      "total_votos": 763,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 371,
+          "porcentaje": 57.08
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 279,
+          "porcentaje": 42.92
+        }
+      }
+    },
+    "2525": {
+      "nombre": "PARROQUIA_2525",
+      "votos_validos": 856,
+      "votos_blancos": 33,
+      "votos_nulos": 150,
+      "total_votos": 1039,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 562,
+          "porcentaje": 65.65
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 294,
+          "porcentaje": 34.35
+        }
+      }
+    },
+    "2530": {
+      "nombre": "PARROQUIA_2530",
+      "votos_validos": 953,
+      "votos_blancos": 11,
+      "votos_nulos": 143,
+      "total_votos": 1107,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 641,
+          "porcentaje": 67.26
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 312,
+          "porcentaje": 32.74
+        }
+      }
+    },
+    "2540": {
+      "nombre": "PARROQUIA_2540",
+      "votos_validos": 2317,
+      "votos_blancos": 22,
+      "votos_nulos": 429,
+      "total_votos": 2768,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1320,
+          "porcentaje": 56.97
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 997,
+          "porcentaje": 43.03
+        }
+      }
+    },
+    "2560": {
+      "nombre": "PARROQUIA_2560",
+      "votos_validos": 619,
+      "votos_blancos": 14,
+      "votos_nulos": 123,
+      "total_votos": 756,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 337,
+          "porcentaje": 54.44
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 282,
+          "porcentaje": 45.56
+        }
+      }
+    },
+    "2690": {
+      "nombre": "PARROQUIA_2690",
+      "votos_validos": 1429,
+      "votos_blancos": 19,
+      "votos_nulos": 188,
+      "total_votos": 1636,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1084,
+          "porcentaje": 75.86
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 345,
+          "porcentaje": 24.14
+        }
+      }
+    },
+    "2825": {
+      "nombre": "PARROQUIA_2825",
+      "votos_validos": 285,
+      "votos_blancos": 2,
+      "votos_nulos": 72,
+      "total_votos": 359,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 133,
+          "porcentaje": 46.67
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 152,
+          "porcentaje": 53.33
+        }
+      }
+    },
+    "2855": {
+      "nombre": "PARROQUIA_2855",
+      "votos_validos": 3334,
+      "votos_blancos": 65,
+      "votos_nulos": 662,
+      "total_votos": 4061,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1838,
+          "porcentaje": 55.13
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1496,
+          "porcentaje": 44.87
+        }
+      }
+    },
+    "2895": {
+      "nombre": "PARROQUIA_2895",
+      "votos_validos": 4780,
+      "votos_blancos": 123,
+      "votos_nulos": 902,
+      "total_votos": 5805,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 3245,
+          "porcentaje": 67.89
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1535,
+          "porcentaje": 32.11
+        }
+      }
+    },
+    "2925": {
+      "nombre": "PARROQUIA_2925",
+      "votos_validos": 5754,
+      "votos_blancos": 29,
+      "votos_nulos": 889,
+      "total_votos": 6672,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 2992,
+          "porcentaje": 52.0
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 2762,
+          "porcentaje": 48.0
+        }
+      }
+    },
+    "2980": {
+      "nombre": "PARROQUIA_2980",
+      "votos_validos": 2141,
+      "votos_blancos": 38,
+      "votos_nulos": 339,
+      "total_votos": 2518,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1279,
+          "porcentaje": 59.74
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 862,
+          "porcentaje": 40.26
+        }
+      }
+    },
+    "2985": {
+      "nombre": "PARROQUIA_2985",
+      "votos_validos": 2386,
+      "votos_blancos": 16,
+      "votos_nulos": 407,
+      "total_votos": 2809,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1403,
+          "porcentaje": 58.8
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 983,
+          "porcentaje": 41.2
+        }
+      }
+    },
+    "3100": {
+      "nombre": "PARROQUIA_3100",
+      "votos_validos": 3184,
+      "votos_blancos": 57,
+      "votos_nulos": 598,
+      "total_votos": 3839,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1896,
+          "porcentaje": 59.55
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1288,
+          "porcentaje": 40.45
+        }
+      }
+    },
+    "3325": {
+      "nombre": "PARROQUIA_3325",
+      "votos_validos": 5478,
+      "votos_blancos": 88,
+      "votos_nulos": 1012,
+      "total_votos": 6578,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 3395,
+          "porcentaje": 61.98
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 2083,
+          "porcentaje": 38.02
+        }
+      }
+    },
+    "3475": {
+      "nombre": "PARROQUIA_3475",
+      "votos_validos": 2005,
+      "votos_blancos": 27,
+      "votos_nulos": 454,
+      "total_votos": 2486,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1381,
+          "porcentaje": 68.88
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 624,
+          "porcentaje": 31.12
+        }
+      }
+    },
+    "3925": {
+      "nombre": "PARROQUIA_3925",
+      "votos_validos": 534,
+      "votos_blancos": 17,
+      "votos_nulos": 115,
+      "total_votos": 666,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 309,
+          "porcentaje": 57.87
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 225,
+          "porcentaje": 42.13
+        }
+      }
+    },
+    "4085": {
+      "nombre": "PARROQUIA_4085",
+      "votos_validos": 10023,
+      "votos_blancos": 108,
+      "votos_nulos": 1965,
+      "total_votos": 12096,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 5109,
+          "porcentaje": 50.97
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 4914,
+          "porcentaje": 49.03
+        }
+      }
+    },
+    "4290": {
+      "nombre": "PARROQUIA_4290",
+      "votos_validos": 3872,
+      "votos_blancos": 57,
+      "votos_nulos": 763,
+      "total_votos": 4692,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 2364,
+          "porcentaje": 61.05
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1508,
+          "porcentaje": 38.95
+        }
+      }
+    },
+    "4325": {
+      "nombre": "PARROQUIA_4325",
+      "votos_validos": 1630,
+      "votos_blancos": 12,
+      "votos_nulos": 200,
+      "total_votos": 1842,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1027,
+          "porcentaje": 63.01
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 603,
+          "porcentaje": 36.99
+        }
+      }
+    },
+    "5015": {
+      "nombre": "PARROQUIA_5015",
+      "votos_validos": 76418,
+      "votos_blancos": 419,
+      "votos_nulos": 14175,
+      "total_votos": 91012,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 40302,
+          "porcentaje": 52.74
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 36116,
+          "porcentaje": 47.26
+        }
+      }
+    },
+    "5110": {
+      "nombre": "PARROQUIA_5110",
+      "votos_validos": 42962,
+      "votos_blancos": 125,
+      "votos_nulos": 5197,
+      "total_votos": 48284,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 10928,
+          "porcentaje": 25.44
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 32034,
+          "porcentaje": 74.56
+        }
+      }
+    },
+    "5220": {
+      "nombre": "PARROQUIA_5220",
+      "votos_validos": 80498,
+      "votos_blancos": 329,
+      "votos_nulos": 13345,
+      "total_votos": 94172,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 35973,
+          "porcentaje": 44.69
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 44525,
+          "porcentaje": 55.31
+        }
+      }
+    },
+    "5235": {
+      "nombre": "PARROQUIA_5235",
+      "votos_validos": 77148,
+      "votos_blancos": 212,
+      "votos_nulos": 10990,
+      "total_votos": 88350,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 24837,
+          "porcentaje": 32.19
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 52311,
+          "porcentaje": 67.81
+        }
+      }
+    },
+    "5260": {
+      "nombre": "PARROQUIA_5260",
+      "votos_validos": 55701,
+      "votos_blancos": 315,
+      "votos_nulos": 10104,
+      "total_votos": 66120,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 32741,
+          "porcentaje": 58.78
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 22960,
+          "porcentaje": 41.22
+        }
+      }
+    },
+    "5325": {
+      "nombre": "PARROQUIA_5325",
+      "votos_validos": 15213,
+      "votos_blancos": 75,
+      "votos_nulos": 3002,
+      "total_votos": 18290,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 8034,
+          "porcentaje": 52.81
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 7179,
+          "porcentaje": 47.19
+        }
+      }
+    },
+    "5410": {
+      "nombre": "PARROQUIA_5410",
+      "votos_validos": 4220,
+      "votos_blancos": 15,
+      "votos_nulos": 706,
+      "total_votos": 4941,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1792,
+          "porcentaje": 42.46
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 2428,
+          "porcentaje": 57.54
+        }
+      }
+    },
+    "5435": {
+      "nombre": "PARROQUIA_5435",
+      "votos_validos": 1914,
+      "votos_blancos": 8,
+      "votos_nulos": 374,
+      "total_votos": 2296,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1032,
+          "porcentaje": 53.92
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 882,
+          "porcentaje": 46.08
+        }
+      }
+    },
+    "5530": {
+      "nombre": "PARROQUIA_5530",
+      "votos_validos": 9926,
+      "votos_blancos": 32,
+      "votos_nulos": 1377,
+      "total_votos": 11335,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 2893,
+          "porcentaje": 29.15
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 7033,
+          "porcentaje": 70.85
+        }
+      }
+    },
+    "5535": {
+      "nombre": "PARROQUIA_5535",
+      "votos_validos": 12721,
+      "votos_blancos": 54,
+      "votos_nulos": 2304,
+      "total_votos": 15079,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 7012,
+          "porcentaje": 55.12
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 5709,
+          "porcentaje": 44.88
+        }
+      }
+    },
+    "5540": {
+      "nombre": "PARROQUIA_5540",
+      "votos_validos": 46665,
+      "votos_blancos": 159,
+      "votos_nulos": 8493,
+      "total_votos": 55317,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 22213,
+          "porcentaje": 47.6
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 24452,
+          "porcentaje": 52.4
+        }
+      }
+    },
+    "5575": {
+      "nombre": "PARROQUIA_5575",
+      "votos_validos": 9165,
+      "votos_blancos": 37,
+      "votos_nulos": 1702,
+      "total_votos": 10904,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 3441,
+          "porcentaje": 37.55
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 5724,
+          "porcentaje": 62.45
+        }
+      }
+    },
+    "5935": {
+      "nombre": "PARROQUIA_5935",
+      "votos_validos": 23101,
+      "votos_blancos": 65,
+      "votos_nulos": 4309,
+      "total_votos": 27475,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 10113,
+          "porcentaje": 43.78
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 12988,
+          "porcentaje": 56.22
+        }
+      }
+    },
+    "5985": {
+      "nombre": "PARROQUIA_5985",
+      "votos_validos": 7648,
+      "votos_blancos": 52,
+      "votos_nulos": 1362,
+      "total_votos": 9062,
+      "candidatos": {
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 3233,
+          "porcentaje": 42.27
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 4415,
+          "porcentaje": 57.73
+        }
+      }
+    }
+  }
+}

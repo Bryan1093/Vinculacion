@@ -1,0 +1,3147 @@
+{
+  "PASTAZA": {
+    "3180": {
+      "nombre": "PARROQUIA_3180",
+      "votos_validos": 52,
+      "votos_blancos": 7,
+      "votos_nulos": 7,
+      "total_votos": 66,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 1,
+          "porcentaje": 1.92
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 3,
+          "porcentaje": 5.77
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 1,
+          "porcentaje": 1.92
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 46,
+          "porcentaje": 88.46
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 1,
+          "porcentaje": 1.92
+        }
+      }
+    },
+    "3195": {
+      "nombre": "PARROQUIA_3195",
+      "votos_validos": 32,
+      "votos_blancos": 18,
+      "votos_nulos": 10,
+      "total_votos": 60,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 2,
+          "porcentaje": 6.25
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 21,
+          "porcentaje": 65.62
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1,
+          "porcentaje": 3.12
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1,
+          "porcentaje": 3.12
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 3,
+          "porcentaje": 9.38
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 2,
+          "porcentaje": 6.25
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 2,
+          "porcentaje": 6.25
+        }
+      }
+    },
+    "3785": {
+      "nombre": "PARROQUIA_3785",
+      "votos_validos": 210,
+      "votos_blancos": 61,
+      "votos_nulos": 19,
+      "total_votos": 290,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 2,
+          "porcentaje": 0.95
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 5,
+          "porcentaje": 2.38
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 15,
+          "porcentaje": 7.14
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 10,
+          "porcentaje": 4.76
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 4,
+          "porcentaje": 1.9
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 1,
+          "porcentaje": 0.48
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 171,
+          "porcentaje": 81.43
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 1,
+          "porcentaje": 0.48
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 1,
+          "porcentaje": 0.48
+        }
+      }
+    },
+    "3985": {
+      "nombre": "PARROQUIA_3985",
+      "votos_validos": 194,
+      "votos_blancos": 12,
+      "votos_nulos": 33,
+      "total_votos": 239,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 9,
+          "porcentaje": 4.64
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 14,
+          "porcentaje": 7.22
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 35,
+          "porcentaje": 18.04
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 88,
+          "porcentaje": 45.36
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 13,
+          "porcentaje": 6.7
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 5,
+          "porcentaje": 2.58
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 28,
+          "porcentaje": 14.43
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 2,
+          "porcentaje": 1.03
+        }
+      }
+    },
+    "4005": {
+      "nombre": "PARROQUIA_4005",
+      "votos_validos": 231,
+      "votos_blancos": 24,
+      "votos_nulos": 31,
+      "total_votos": 286,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 5,
+          "porcentaje": 2.16
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 7,
+          "porcentaje": 3.03
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 30,
+          "porcentaje": 12.99
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 86,
+          "porcentaje": 37.23
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 20,
+          "porcentaje": 8.66
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 17,
+          "porcentaje": 7.36
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 63,
+          "porcentaje": 27.27
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 1,
+          "porcentaje": 0.43
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 2,
+          "porcentaje": 0.87
+        }
+      }
+    },
+    "4205": {
+      "nombre": "PARROQUIA_4205",
+      "votos_validos": 522,
+      "votos_blancos": 70,
+      "votos_nulos": 64,
+      "total_votos": 656,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 10,
+          "porcentaje": 1.92
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 56,
+          "porcentaje": 10.73
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 54,
+          "porcentaje": 10.34
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 249,
+          "porcentaje": 47.7
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 46,
+          "porcentaje": 8.81
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 12,
+          "porcentaje": 2.3
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 87,
+          "porcentaje": 16.67
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 5,
+          "porcentaje": 0.96
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 3,
+          "porcentaje": 0.57
+        }
+      }
+    },
+    "4510": {
+      "nombre": "PARROQUIA_4510",
+      "votos_validos": 267,
+      "votos_blancos": 28,
+      "votos_nulos": 47,
+      "total_votos": 342,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 1,
+          "porcentaje": 0.37
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 25,
+          "porcentaje": 9.36
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 27,
+          "porcentaje": 10.11
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 97,
+          "porcentaje": 36.33
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 7,
+          "porcentaje": 2.62
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 10,
+          "porcentaje": 3.75
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 91,
+          "porcentaje": 34.08
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 7,
+          "porcentaje": 2.62
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 2,
+          "porcentaje": 0.75
+        }
+      }
+    },
+    "5825": {
+      "nombre": "PARROQUIA_5825",
+      "votos_validos": 9248,
+      "votos_blancos": 498,
+      "votos_nulos": 644,
+      "total_votos": 10390,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 280,
+          "porcentaje": 3.03
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 1747,
+          "porcentaje": 18.89
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1116,
+          "porcentaje": 12.07
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 4078,
+          "porcentaje": 44.1
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 438,
+          "porcentaje": 4.74
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 291,
+          "porcentaje": 3.15
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1167,
+          "porcentaje": 12.62
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 79,
+          "porcentaje": 0.85
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 52,
+          "porcentaje": 0.56
+        }
+      }
+    },
+    "2310": {
+      "nombre": "PARROQUIA_2310",
+      "votos_validos": 303,
+      "votos_blancos": 74,
+      "votos_nulos": 46,
+      "total_votos": 423,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 13,
+          "porcentaje": 4.29
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 20,
+          "porcentaje": 6.6
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 29,
+          "porcentaje": 9.57
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 122,
+          "porcentaje": 40.26
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 19,
+          "porcentaje": 6.27
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 38,
+          "porcentaje": 12.54
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 57,
+          "porcentaje": 18.81
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 4,
+          "porcentaje": 1.32
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 1,
+          "porcentaje": 0.33
+        }
+      }
+    },
+    "3840": {
+      "nombre": "PARROQUIA_3840",
+      "votos_validos": 1149,
+      "votos_blancos": 52,
+      "votos_nulos": 57,
+      "total_votos": 1258,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 14,
+          "porcentaje": 1.22
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 213,
+          "porcentaje": 18.54
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 160,
+          "porcentaje": 13.93
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 496,
+          "porcentaje": 43.17
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 83,
+          "porcentaje": 7.22
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 52,
+          "porcentaje": 4.53
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 109,
+          "porcentaje": 9.49
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 16,
+          "porcentaje": 1.39
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 6,
+          "porcentaje": 0.52
+        }
+      }
+    },
+    "5650": {
+      "nombre": "PARROQUIA_5650",
+      "votos_validos": 448,
+      "votos_blancos": 25,
+      "votos_nulos": 18,
+      "total_votos": 491,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 12,
+          "porcentaje": 2.68
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 58,
+          "porcentaje": 12.95
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 85,
+          "porcentaje": 18.97
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 190,
+          "porcentaje": 42.41
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 60,
+          "porcentaje": 13.39
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 8,
+          "porcentaje": 1.79
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 31,
+          "porcentaje": 6.92
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 2,
+          "porcentaje": 0.45
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 2,
+          "porcentaje": 0.45
+        }
+      }
+    },
+    "6395": {
+      "nombre": "PARROQUIA_6395",
+      "votos_validos": 1033,
+      "votos_blancos": 151,
+      "votos_nulos": 61,
+      "total_votos": 1245,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 12,
+          "porcentaje": 1.16
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 40,
+          "porcentaje": 3.87
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 184,
+          "porcentaje": 17.81
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 379,
+          "porcentaje": 36.69
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 32,
+          "porcentaje": 3.1
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 22,
+          "porcentaje": 2.13
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 340,
+          "porcentaje": 32.91
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 15,
+          "porcentaje": 1.45
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 9,
+          "porcentaje": 0.87
+        }
+      }
+    }
+  },
+  "PICHINCHA": {
+    "30": {
+      "nombre": "PARROQUIA_30",
+      "votos_validos": 3922,
+      "votos_blancos": 289,
+      "votos_nulos": 430,
+      "total_votos": 4641,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 69,
+          "porcentaje": 1.76
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 828,
+          "porcentaje": 21.11
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 341,
+          "porcentaje": 8.69
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 414,
+          "porcentaje": 10.56
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 385,
+          "porcentaje": 9.82
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 83,
+          "porcentaje": 2.12
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1723,
+          "porcentaje": 43.93
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 44,
+          "porcentaje": 1.12
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 35,
+          "porcentaje": 0.89
+        }
+      }
+    },
+    "80": {
+      "nombre": "PARROQUIA_80",
+      "votos_validos": 7556,
+      "votos_blancos": 684,
+      "votos_nulos": 841,
+      "total_votos": 9081,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 162,
+          "porcentaje": 2.14
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 882,
+          "porcentaje": 11.67
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 567,
+          "porcentaje": 7.5
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1106,
+          "porcentaje": 14.64
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 990,
+          "porcentaje": 13.1
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 329,
+          "porcentaje": 4.35
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 3372,
+          "porcentaje": 44.63
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 85,
+          "porcentaje": 1.12
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 63,
+          "porcentaje": 0.83
+        }
+      }
+    },
+    "195": {
+      "nombre": "PARROQUIA_195",
+      "votos_validos": 720,
+      "votos_blancos": 60,
+      "votos_nulos": 161,
+      "total_votos": 941,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 31,
+          "porcentaje": 4.31
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 98,
+          "porcentaje": 13.61
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 100,
+          "porcentaje": 13.89
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 133,
+          "porcentaje": 18.47
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 51,
+          "porcentaje": 7.08
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 14,
+          "porcentaje": 1.94
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 280,
+          "porcentaje": 38.89
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 8,
+          "porcentaje": 1.11
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 5,
+          "porcentaje": 0.69
+        }
+      }
+    },
+    "430": {
+      "nombre": "PARROQUIA_430",
+      "votos_validos": 1307,
+      "votos_blancos": 144,
+      "votos_nulos": 188,
+      "total_votos": 1639,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 37,
+          "porcentaje": 2.83
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 194,
+          "porcentaje": 14.84
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 153,
+          "porcentaje": 11.71
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 194,
+          "porcentaje": 14.84
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 98,
+          "porcentaje": 7.5
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 19,
+          "porcentaje": 1.45
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 599,
+          "porcentaje": 45.83
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 9,
+          "porcentaje": 0.69
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 4,
+          "porcentaje": 0.31
+        }
+      }
+    },
+    "440": {
+      "nombre": "PARROQUIA_440",
+      "votos_validos": 13847,
+      "votos_blancos": 1150,
+      "votos_nulos": 1445,
+      "total_votos": 16442,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 272,
+          "porcentaje": 1.96
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 3912,
+          "porcentaje": 28.25
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1545,
+          "porcentaje": 11.16
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1389,
+          "porcentaje": 10.03
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 1155,
+          "porcentaje": 8.34
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 295,
+          "porcentaje": 2.13
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 5003,
+          "porcentaje": 36.13
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 199,
+          "porcentaje": 1.44
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 77,
+          "porcentaje": 0.56
+        }
+      }
+    },
+    "625": {
+      "nombre": "PARROQUIA_625",
+      "votos_validos": 13244,
+      "votos_blancos": 390,
+      "votos_nulos": 1079,
+      "total_votos": 14713,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 260,
+          "porcentaje": 1.96
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 3649,
+          "porcentaje": 27.55
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1497,
+          "porcentaje": 11.3
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1141,
+          "porcentaje": 8.62
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 1085,
+          "porcentaje": 8.19
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 225,
+          "porcentaje": 1.7
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 5065,
+          "porcentaje": 38.24
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 152,
+          "porcentaje": 1.15
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 170,
+          "porcentaje": 1.28
+        }
+      }
+    },
+    "725": {
+      "nombre": "PARROQUIA_725",
+      "votos_validos": 5751,
+      "votos_blancos": 176,
+      "votos_nulos": 381,
+      "total_votos": 6308,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 235,
+          "porcentaje": 4.09
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 1639,
+          "porcentaje": 28.5
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 656,
+          "porcentaje": 11.41
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 374,
+          "porcentaje": 6.5
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 391,
+          "porcentaje": 6.8
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 56,
+          "porcentaje": 0.97
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 2311,
+          "porcentaje": 40.18
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 49,
+          "porcentaje": 0.85
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 40,
+          "porcentaje": 0.7
+        }
+      }
+    },
+    "855": {
+      "nombre": "PARROQUIA_855",
+      "votos_validos": 275,
+      "votos_blancos": 52,
+      "votos_nulos": 58,
+      "total_votos": 385,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 7,
+          "porcentaje": 2.55
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 66,
+          "porcentaje": 24.0
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 26,
+          "porcentaje": 9.45
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 67,
+          "porcentaje": 24.36
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 23,
+          "porcentaje": 8.36
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 5,
+          "porcentaje": 1.82
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 73,
+          "porcentaje": 26.55
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 5,
+          "porcentaje": 1.82
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 3,
+          "porcentaje": 1.09
+        }
+      }
+    },
+    "865": {
+      "nombre": "PARROQUIA_865",
+      "votos_validos": 1109,
+      "votos_blancos": 131,
+      "votos_nulos": 194,
+      "total_votos": 1434,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 30,
+          "porcentaje": 2.71
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 221,
+          "porcentaje": 19.93
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 126,
+          "porcentaje": 11.36
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 175,
+          "porcentaje": 15.78
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 117,
+          "porcentaje": 10.55
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 19,
+          "porcentaje": 1.71
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 384,
+          "porcentaje": 34.63
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 29,
+          "porcentaje": 2.61
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 8,
+          "porcentaje": 0.72
+        }
+      }
+    },
+    "1400": {
+      "nombre": "PARROQUIA_1400",
+      "votos_validos": 509,
+      "votos_blancos": 81,
+      "votos_nulos": 75,
+      "total_votos": 665,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 25,
+          "porcentaje": 4.91
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 58,
+          "porcentaje": 11.39
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 69,
+          "porcentaje": 13.56
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 93,
+          "porcentaje": 18.27
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 54,
+          "porcentaje": 10.61
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 20,
+          "porcentaje": 3.93
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 175,
+          "porcentaje": 34.38
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 15,
+          "porcentaje": 2.95
+        }
+      }
+    },
+    "1440": {
+      "nombre": "PARROQUIA_1440",
+      "votos_validos": 726,
+      "votos_blancos": 48,
+      "votos_nulos": 118,
+      "total_votos": 892,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 12,
+          "porcentaje": 1.65
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 80,
+          "porcentaje": 11.02
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 66,
+          "porcentaje": 9.09
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 64,
+          "porcentaje": 8.82
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 79,
+          "porcentaje": 10.88
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 18,
+          "porcentaje": 2.48
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 395,
+          "porcentaje": 54.41
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 9,
+          "porcentaje": 1.24
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 3,
+          "porcentaje": 0.41
+        }
+      }
+    },
+    "1475": {
+      "nombre": "PARROQUIA_1475",
+      "votos_validos": 3102,
+      "votos_blancos": 215,
+      "votos_nulos": 351,
+      "total_votos": 3668,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 61,
+          "porcentaje": 1.97
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 548,
+          "porcentaje": 17.67
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 403,
+          "porcentaje": 12.99
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 398,
+          "porcentaje": 12.83
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 231,
+          "porcentaje": 7.45
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 79,
+          "porcentaje": 2.55
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1340,
+          "porcentaje": 43.2
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 30,
+          "porcentaje": 0.97
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 12,
+          "porcentaje": 0.39
+        }
+      }
+    },
+    "2055": {
+      "nombre": "PARROQUIA_2055",
+      "votos_validos": 1150,
+      "votos_blancos": 85,
+      "votos_nulos": 251,
+      "total_votos": 1486,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 15,
+          "porcentaje": 1.3
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 210,
+          "porcentaje": 18.26
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 142,
+          "porcentaje": 12.35
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 126,
+          "porcentaje": 10.96
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 139,
+          "porcentaje": 12.09
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 11,
+          "porcentaje": 0.96
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 474,
+          "porcentaje": 41.22
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 15,
+          "porcentaje": 1.3
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 18,
+          "porcentaje": 1.57
+        }
+      }
+    },
+    "2265": {
+      "nombre": "PARROQUIA_2265",
+      "votos_validos": 1417,
+      "votos_blancos": 110,
+      "votos_nulos": 143,
+      "total_votos": 1670,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 18,
+          "porcentaje": 1.27
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 265,
+          "porcentaje": 18.7
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 161,
+          "porcentaje": 11.36
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 127,
+          "porcentaje": 8.96
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 174,
+          "porcentaje": 12.28
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 74,
+          "porcentaje": 5.22
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 582,
+          "porcentaje": 41.07
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 13,
+          "porcentaje": 0.92
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 3,
+          "porcentaje": 0.21
+        }
+      }
+    },
+    "2275": {
+      "nombre": "PARROQUIA_2275",
+      "votos_validos": 553,
+      "votos_blancos": 73,
+      "votos_nulos": 102,
+      "total_votos": 728,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 18,
+          "porcentaje": 3.25
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 87,
+          "porcentaje": 15.73
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 110,
+          "porcentaje": 19.89
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 43,
+          "porcentaje": 7.78
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 79,
+          "porcentaje": 14.29
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 14,
+          "porcentaje": 2.53
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 184,
+          "porcentaje": 33.27
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 5,
+          "porcentaje": 0.9
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 13,
+          "porcentaje": 2.35
+        }
+      }
+    },
+    "2525": {
+      "nombre": "PARROQUIA_2525",
+      "votos_validos": 583,
+      "votos_blancos": 186,
+      "votos_nulos": 122,
+      "total_votos": 891,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 12,
+          "porcentaje": 2.06
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 102,
+          "porcentaje": 17.5
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 141,
+          "porcentaje": 24.19
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 63,
+          "porcentaje": 10.81
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 38,
+          "porcentaje": 6.52
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 14,
+          "porcentaje": 2.4
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 204,
+          "porcentaje": 34.99
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 7,
+          "porcentaje": 1.2
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 2,
+          "porcentaje": 0.34
+        }
+      }
+    },
+    "2530": {
+      "nombre": "PARROQUIA_2530",
+      "votos_validos": 817,
+      "votos_blancos": 51,
+      "votos_nulos": 153,
+      "total_votos": 1021,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 20,
+          "porcentaje": 2.45
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 157,
+          "porcentaje": 19.22
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 105,
+          "porcentaje": 12.85
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 153,
+          "porcentaje": 18.73
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 48,
+          "porcentaje": 5.88
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 22,
+          "porcentaje": 2.69
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 290,
+          "porcentaje": 35.5
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 18,
+          "porcentaje": 2.2
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 4,
+          "porcentaje": 0.49
+        }
+      }
+    },
+    "2540": {
+      "nombre": "PARROQUIA_2540",
+      "votos_validos": 2385,
+      "votos_blancos": 113,
+      "votos_nulos": 186,
+      "total_votos": 2684,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 92,
+          "porcentaje": 3.86
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 421,
+          "porcentaje": 17.65
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 224,
+          "porcentaje": 9.39
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 164,
+          "porcentaje": 6.88
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 229,
+          "porcentaje": 9.6
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 71,
+          "porcentaje": 2.98
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1127,
+          "porcentaje": 47.25
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 38,
+          "porcentaje": 1.59
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 19,
+          "porcentaje": 0.8
+        }
+      }
+    },
+    "2560": {
+      "nombre": "PARROQUIA_2560",
+      "votos_validos": 510,
+      "votos_blancos": 86,
+      "votos_nulos": 111,
+      "total_votos": 707,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 16,
+          "porcentaje": 3.14
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 97,
+          "porcentaje": 19.02
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 97,
+          "porcentaje": 19.02
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 40,
+          "porcentaje": 7.84
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 71,
+          "porcentaje": 13.92
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 16,
+          "porcentaje": 3.14
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 160,
+          "porcentaje": 31.37
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 10,
+          "porcentaje": 1.96
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 3,
+          "porcentaje": 0.59
+        }
+      }
+    },
+    "2690": {
+      "nombre": "PARROQUIA_2690",
+      "votos_validos": 1015,
+      "votos_blancos": 173,
+      "votos_nulos": 219,
+      "total_votos": 1407,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 20,
+          "porcentaje": 1.97
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 94,
+          "porcentaje": 9.26
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 195,
+          "porcentaje": 19.21
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 297,
+          "porcentaje": 29.26
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 54,
+          "porcentaje": 5.32
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 128,
+          "porcentaje": 12.61
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 211,
+          "porcentaje": 20.79
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 11,
+          "porcentaje": 1.08
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 5,
+          "porcentaje": 0.49
+        }
+      }
+    },
+    "2825": {
+      "nombre": "PARROQUIA_2825",
+      "votos_validos": 249,
+      "votos_blancos": 35,
+      "votos_nulos": 57,
+      "total_votos": 341,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 7,
+          "porcentaje": 2.81
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 38,
+          "porcentaje": 15.26
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 31,
+          "porcentaje": 12.45
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 31,
+          "porcentaje": 12.45
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 11,
+          "porcentaje": 4.42
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 8,
+          "porcentaje": 3.21
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 119,
+          "porcentaje": 47.79
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 2,
+          "porcentaje": 0.8
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 2,
+          "porcentaje": 0.8
+        }
+      }
+    },
+    "2855": {
+      "nombre": "PARROQUIA_2855",
+      "votos_validos": 3000,
+      "votos_blancos": 269,
+      "votos_nulos": 612,
+      "total_votos": 3881,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 101,
+          "porcentaje": 3.37
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 527,
+          "porcentaje": 17.57
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 436,
+          "porcentaje": 14.53
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 359,
+          "porcentaje": 11.97
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 166,
+          "porcentaje": 5.53
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 76,
+          "porcentaje": 2.53
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1264,
+          "porcentaje": 42.13
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 56,
+          "porcentaje": 1.87
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 15,
+          "porcentaje": 0.5
+        }
+      }
+    },
+    "2895": {
+      "nombre": "PARROQUIA_2895",
+      "votos_validos": 4236,
+      "votos_blancos": 635,
+      "votos_nulos": 632,
+      "total_votos": 5503,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 78,
+          "porcentaje": 1.84
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 733,
+          "porcentaje": 17.3
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 587,
+          "porcentaje": 13.86
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 579,
+          "porcentaje": 13.67
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 468,
+          "porcentaje": 11.05
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 118,
+          "porcentaje": 2.79
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1616,
+          "porcentaje": 38.15
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 36,
+          "porcentaje": 0.85
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 21,
+          "porcentaje": 0.5
+        }
+      }
+    },
+    "2925": {
+      "nombre": "PARROQUIA_2925",
+      "votos_validos": 5738,
+      "votos_blancos": 249,
+      "votos_nulos": 509,
+      "total_votos": 6496,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 262,
+          "porcentaje": 4.57
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 1283,
+          "porcentaje": 22.36
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 757,
+          "porcentaje": 13.19
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 528,
+          "porcentaje": 9.2
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 604,
+          "porcentaje": 10.53
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 66,
+          "porcentaje": 1.15
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 2137,
+          "porcentaje": 37.24
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 52,
+          "porcentaje": 0.91
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 49,
+          "porcentaje": 0.85
+        }
+      }
+    },
+    "2980": {
+      "nombre": "PARROQUIA_2980",
+      "votos_validos": 1698,
+      "votos_blancos": 315,
+      "votos_nulos": 327,
+      "total_votos": 2340,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 50,
+          "porcentaje": 2.94
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 242,
+          "porcentaje": 14.25
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 282,
+          "porcentaje": 16.61
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 229,
+          "porcentaje": 13.49
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 88,
+          "porcentaje": 5.18
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 94,
+          "porcentaje": 5.54
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 672,
+          "porcentaje": 39.58
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 11,
+          "porcentaje": 0.65
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 30,
+          "porcentaje": 1.77
+        }
+      }
+    },
+    "2985": {
+      "nombre": "PARROQUIA_2985",
+      "votos_validos": 2326,
+      "votos_blancos": 157,
+      "votos_nulos": 250,
+      "total_votos": 2733,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 58,
+          "porcentaje": 2.49
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 404,
+          "porcentaje": 17.37
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 256,
+          "porcentaje": 11.01
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 303,
+          "porcentaje": 13.03
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 148,
+          "porcentaje": 6.36
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 52,
+          "porcentaje": 2.24
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1057,
+          "porcentaje": 45.44
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 34,
+          "porcentaje": 1.46
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 14,
+          "porcentaje": 0.6
+        }
+      }
+    },
+    "3100": {
+      "nombre": "PARROQUIA_3100",
+      "votos_validos": 2955,
+      "votos_blancos": 288,
+      "votos_nulos": 459,
+      "total_votos": 3702,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 89,
+          "porcentaje": 3.01
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 507,
+          "porcentaje": 17.16
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 365,
+          "porcentaje": 12.35
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 407,
+          "porcentaje": 13.77
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 319,
+          "porcentaje": 10.8
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 50,
+          "porcentaje": 1.69
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1141,
+          "porcentaje": 38.61
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 58,
+          "porcentaje": 1.96
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 19,
+          "porcentaje": 0.64
+        }
+      }
+    },
+    "3325": {
+      "nombre": "PARROQUIA_3325",
+      "votos_validos": 5199,
+      "votos_blancos": 476,
+      "votos_nulos": 717,
+      "total_votos": 6392,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 196,
+          "porcentaje": 3.77
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 877,
+          "porcentaje": 16.87
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 537,
+          "porcentaje": 10.33
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 746,
+          "porcentaje": 14.35
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 503,
+          "porcentaje": 9.67
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 79,
+          "porcentaje": 1.52
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 2158,
+          "porcentaje": 41.51
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 71,
+          "porcentaje": 1.37
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 32,
+          "porcentaje": 0.62
+        }
+      }
+    },
+    "3475": {
+      "nombre": "PARROQUIA_3475",
+      "votos_validos": 1624,
+      "votos_blancos": 259,
+      "votos_nulos": 429,
+      "total_votos": 2312,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 35,
+          "porcentaje": 2.16
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 187,
+          "porcentaje": 11.51
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 278,
+          "porcentaje": 17.12
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 275,
+          "porcentaje": 16.93
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 155,
+          "porcentaje": 9.54
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 49,
+          "porcentaje": 3.02
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 615,
+          "porcentaje": 37.87
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 22,
+          "porcentaje": 1.35
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 8,
+          "porcentaje": 0.49
+        }
+      }
+    },
+    "3925": {
+      "nombre": "PARROQUIA_3925",
+      "votos_validos": 535,
+      "votos_blancos": 36,
+      "votos_nulos": 72,
+      "total_votos": 643,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 15,
+          "porcentaje": 2.8
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 118,
+          "porcentaje": 22.06
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 76,
+          "porcentaje": 14.21
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 63,
+          "porcentaje": 11.78
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 37,
+          "porcentaje": 6.92
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 8,
+          "porcentaje": 1.5
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 208,
+          "porcentaje": 38.88
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 10,
+          "porcentaje": 1.87
+        }
+      }
+    },
+    "4085": {
+      "nombre": "PARROQUIA_4085",
+      "votos_validos": 9974,
+      "votos_blancos": 605,
+      "votos_nulos": 1234,
+      "total_votos": 11813,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 281,
+          "porcentaje": 2.82
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 2710,
+          "porcentaje": 27.17
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1210,
+          "porcentaje": 12.13
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 720,
+          "porcentaje": 7.22
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 748,
+          "porcentaje": 7.5
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 184,
+          "porcentaje": 1.84
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 3915,
+          "porcentaje": 39.25
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 129,
+          "porcentaje": 1.29
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 77,
+          "porcentaje": 0.77
+        }
+      }
+    },
+    "4290": {
+      "nombre": "PARROQUIA_4290",
+      "votos_validos": 3602,
+      "votos_blancos": 343,
+      "votos_nulos": 592,
+      "total_votos": 4537,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 110,
+          "porcentaje": 3.05
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 709,
+          "porcentaje": 19.68
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 333,
+          "porcentaje": 9.24
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 423,
+          "porcentaje": 11.74
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 451,
+          "porcentaje": 12.52
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 47,
+          "porcentaje": 1.3
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1420,
+          "porcentaje": 39.42
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 85,
+          "porcentaje": 2.36
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 24,
+          "porcentaje": 0.67
+        }
+      }
+    },
+    "4325": {
+      "nombre": "PARROQUIA_4325",
+      "votos_validos": 1519,
+      "votos_blancos": 89,
+      "votos_nulos": 188,
+      "total_votos": 1796,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 17,
+          "porcentaje": 1.12
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 351,
+          "porcentaje": 23.11
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 150,
+          "porcentaje": 9.87
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 105,
+          "porcentaje": 6.91
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 192,
+          "porcentaje": 12.64
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 53,
+          "porcentaje": 3.49
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 626,
+          "porcentaje": 41.21
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 20,
+          "porcentaje": 1.32
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 5,
+          "porcentaje": 0.33
+        }
+      }
+    },
+    "5015": {
+      "nombre": "PARROQUIA_5015",
+      "votos_validos": 79007,
+      "votos_blancos": 2353,
+      "votos_nulos": 5845,
+      "total_votos": 87205,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 1337,
+          "porcentaje": 1.69
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 23047,
+          "porcentaje": 29.17
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 8178,
+          "porcentaje": 10.35
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 7981,
+          "porcentaje": 10.1
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 8297,
+          "porcentaje": 10.5
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 1730,
+          "porcentaje": 2.19
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 26530,
+          "porcentaje": 33.58
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 948,
+          "porcentaje": 1.2
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 959,
+          "porcentaje": 1.21
+        }
+      }
+    },
+    "5110": {
+      "nombre": "PARROQUIA_5110",
+      "votos_validos": 44253,
+      "votos_blancos": 580,
+      "votos_nulos": 1789,
+      "total_votos": 46622,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 2510,
+          "porcentaje": 5.67
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 19424,
+          "porcentaje": 43.89
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 8621,
+          "porcentaje": 19.48
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1877,
+          "porcentaje": 4.24
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 1726,
+          "porcentaje": 3.9
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 326,
+          "porcentaje": 0.74
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 8539,
+          "porcentaje": 19.3
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 568,
+          "porcentaje": 1.28
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 662,
+          "porcentaje": 1.5
+        }
+      }
+    },
+    "5220": {
+      "nombre": "PARROQUIA_5220",
+      "votos_validos": 83034,
+      "votos_blancos": 2032,
+      "votos_nulos": 5102,
+      "total_votos": 90168,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 2022,
+          "porcentaje": 2.44
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 30630,
+          "porcentaje": 36.89
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 9614,
+          "porcentaje": 11.58
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 6626,
+          "porcentaje": 7.98
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 5827,
+          "porcentaje": 7.02
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 1252,
+          "porcentaje": 1.51
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 25009,
+          "porcentaje": 30.12
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 1037,
+          "porcentaje": 1.25
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 1017,
+          "porcentaje": 1.22
+        }
+      }
+    },
+    "5235": {
+      "nombre": "PARROQUIA_5235",
+      "votos_validos": 80224,
+      "votos_blancos": 1317,
+      "votos_nulos": 3574,
+      "total_votos": 85115,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 3152,
+          "porcentaje": 3.93
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 34593,
+          "porcentaje": 43.12
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 12217,
+          "porcentaje": 15.23
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 4108,
+          "porcentaje": 5.12
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 4104,
+          "porcentaje": 5.12
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 800,
+          "porcentaje": 1.0
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 19173,
+          "porcentaje": 23.9
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 953,
+          "porcentaje": 1.19
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 1124,
+          "porcentaje": 1.4
+        }
+      }
+    },
+    "5260": {
+      "nombre": "PARROQUIA_5260",
+      "votos_validos": 55988,
+      "votos_blancos": 1858,
+      "votos_nulos": 4603,
+      "total_votos": 62449,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 974,
+          "porcentaje": 1.74
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 13705,
+          "porcentaje": 24.48
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 5739,
+          "porcentaje": 10.25
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 7105,
+          "porcentaje": 12.69
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 6805,
+          "porcentaje": 12.15
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 1204,
+          "porcentaje": 2.15
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 19307,
+          "porcentaje": 34.48
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 605,
+          "porcentaje": 1.08
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 544,
+          "porcentaje": 0.97
+        }
+      }
+    },
+    "5325": {
+      "nombre": "PARROQUIA_5325",
+      "votos_validos": 15677,
+      "votos_blancos": 501,
+      "votos_nulos": 1345,
+      "total_votos": 17523,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 299,
+          "porcentaje": 1.91
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 4306,
+          "porcentaje": 27.47
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1629,
+          "porcentaje": 10.39
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1397,
+          "porcentaje": 8.91
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 1714,
+          "porcentaje": 10.93
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 402,
+          "porcentaje": 2.56
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 5556,
+          "porcentaje": 35.44
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 176,
+          "porcentaje": 1.12
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 198,
+          "porcentaje": 1.26
+        }
+      }
+    },
+    "5410": {
+      "nombre": "PARROQUIA_5410",
+      "votos_validos": 4125,
+      "votos_blancos": 90,
+      "votos_nulos": 255,
+      "total_votos": 4470,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 121,
+          "porcentaje": 2.93
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 1391,
+          "porcentaje": 33.72
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 555,
+          "porcentaje": 13.45
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 344,
+          "porcentaje": 8.34
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 306,
+          "porcentaje": 7.42
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 66,
+          "porcentaje": 1.6
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 1209,
+          "porcentaje": 29.31
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 65,
+          "porcentaje": 1.58
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 68,
+          "porcentaje": 1.65
+        }
+      }
+    },
+    "5435": {
+      "nombre": "PARROQUIA_5435",
+      "votos_validos": 2009,
+      "votos_blancos": 50,
+      "votos_nulos": 181,
+      "total_votos": 2240,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 48,
+          "porcentaje": 2.39
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 544,
+          "porcentaje": 27.08
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 233,
+          "porcentaje": 11.6
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 199,
+          "porcentaje": 9.91
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 228,
+          "porcentaje": 11.35
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 31,
+          "porcentaje": 1.54
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 696,
+          "porcentaje": 34.64
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 14,
+          "porcentaje": 0.7
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 16,
+          "porcentaje": 0.8
+        }
+      }
+    },
+    "5530": {
+      "nombre": "PARROQUIA_5530",
+      "votos_validos": 10370,
+      "votos_blancos": 164,
+      "votos_nulos": 454,
+      "total_votos": 10988,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 489,
+          "porcentaje": 4.72
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 4236,
+          "porcentaje": 40.85
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1871,
+          "porcentaje": 18.04
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 533,
+          "porcentaje": 5.14
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 461,
+          "porcentaje": 4.45
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 97,
+          "porcentaje": 0.94
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 2441,
+          "porcentaje": 23.54
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 110,
+          "porcentaje": 1.06
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 132,
+          "porcentaje": 1.27
+        }
+      }
+    },
+    "5535": {
+      "nombre": "PARROQUIA_5535",
+      "votos_validos": 12857,
+      "votos_blancos": 393,
+      "votos_nulos": 1049,
+      "total_votos": 14299,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 237,
+          "porcentaje": 1.84
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 3507,
+          "porcentaje": 27.28
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1256,
+          "porcentaje": 9.77
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1407,
+          "porcentaje": 10.94
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 1588,
+          "porcentaje": 12.35
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 290,
+          "porcentaje": 2.26
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 4212,
+          "porcentaje": 32.76
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 220,
+          "porcentaje": 1.71
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 140,
+          "porcentaje": 1.09
+        }
+      }
+    },
+    "5540": {
+      "nombre": "PARROQUIA_5540",
+      "votos_validos": 49243,
+      "votos_blancos": 1106,
+      "votos_nulos": 3255,
+      "total_votos": 53604,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 1040,
+          "porcentaje": 2.11
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 16013,
+          "porcentaje": 32.52
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 5553,
+          "porcentaje": 11.28
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 4358,
+          "porcentaje": 8.85
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 5115,
+          "porcentaje": 10.39
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 997,
+          "porcentaje": 2.02
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 14788,
+          "porcentaje": 30.03
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 698,
+          "porcentaje": 1.42
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 681,
+          "porcentaje": 1.38
+        }
+      }
+    },
+    "5575": {
+      "nombre": "PARROQUIA_5575",
+      "votos_validos": 9807,
+      "votos_blancos": 173,
+      "votos_nulos": 615,
+      "total_votos": 10595,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 290,
+          "porcentaje": 2.96
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 3936,
+          "porcentaje": 40.13
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1111,
+          "porcentaje": 11.33
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 586,
+          "porcentaje": 5.98
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 693,
+          "porcentaje": 7.07
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 148,
+          "porcentaje": 1.51
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 2773,
+          "porcentaje": 28.28
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 142,
+          "porcentaje": 1.45
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 128,
+          "porcentaje": 1.31
+        }
+      }
+    },
+    "5935": {
+      "nombre": "PARROQUIA_5935",
+      "votos_validos": 24610,
+      "votos_blancos": 415,
+      "votos_nulos": 1367,
+      "total_votos": 26392,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 508,
+          "porcentaje": 2.06
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 9089,
+          "porcentaje": 36.93
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 2764,
+          "porcentaje": 11.23
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 1826,
+          "porcentaje": 7.42
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 1845,
+          "porcentaje": 7.5
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 393,
+          "porcentaje": 1.6
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 7501,
+          "porcentaje": 30.48
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 310,
+          "porcentaje": 1.26
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 374,
+          "porcentaje": 1.52
+        }
+      }
+    },
+    "5985": {
+      "nombre": "PARROQUIA_5985",
+      "votos_validos": 8154,
+      "votos_blancos": 216,
+      "votos_nulos": 462,
+      "total_votos": 8832,
+      "candidatos": {
+        "NOBOA RICARDO": {
+          "partido": "PLRE-FRA",
+          "votos": 153,
+          "porcentaje": 1.88
+        },
+        "PAZ RODRIGO": {
+          "partido": "DP",
+          "votos": 3040,
+          "porcentaje": 37.28
+        },
+        "NEBOT JAIME": {
+          "partido": "PSC",
+          "votos": 1010,
+          "porcentaje": 12.39
+        },
+        "BUCARAM ABDALÁ": {
+          "partido": "PRE",
+          "votos": 670,
+          "porcentaje": 8.22
+        },
+        "VARGAS FRANK": {
+          "partido": "APRE",
+          "votos": 613,
+          "porcentaje": 7.52
+        },
+        "CASTELLÓ JUAN": {
+          "partido": "MPD",
+          "votos": 147,
+          "porcentaje": 1.8
+        },
+        "EHLEARS FREDDY": {
+          "partido": "MUPP-NP",
+          "votos": 2298,
+          "porcentaje": 28.18
+        },
+        "GALLARDO JOSÉ": {
+          "partido": "UCI",
+          "votos": 112,
+          "porcentaje": 1.37
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
+          "votos": 111,
+          "porcentaje": 1.36
+        }
+      }
+    }
+  }
+}
