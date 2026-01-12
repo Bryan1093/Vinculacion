@@ -1,0 +1,68 @@
+PRESIDENTES - PRIMERA VUELTA
+
+[
+  {
+    "CODPAR": "XXX",
+    "CODCAN": "XXX",
+    "PARROQUIA": "NOMBRE_PARROQUIA",
+    "ganador": "CODIGO_PARTIDO",
+    "resultados": {
+      "VOTOS": {
+        "candidato": "VALIDOS",
+        "votos": 9999,
+        "porcentaje": 100.0
+      },
+      "CODIGO_PARTIDO": {
+        "candidato": "NOMBRE_COMPLETO_CANDIDATO",
+        "votos": 9999,
+        "porcentaje": 99.99
+      }
+    }
+  }
+]
+
+PRESIDENTES - SEGUNDA VUELTA
+
+[
+  {
+    "CODPAR": "XXX",
+    "CODCAN": "XXX",
+    "PARROQUIA": "NOMBRE_PARROQUIA",
+    "ganador": "CODIGO_PARTIDO",
+    "resultados": {
+      "VOTOS": {
+        "candidato": "VALIDOS",
+        "votos": 9999,
+        "porcentaje": 100.0
+      },
+      "CODIGO_PARTIDO": {
+        "candidato": "NOMBRE_COMPLETO_CANDIDATO",
+        "votos": 9999,
+        "porcentaje": 99.99
+      }
+    }
+  }
+]
+
+DIPUTADOS NACIONALES
+
+[
+  {
+    "CODPAR": "XXX",
+    "CODCAN": "XXX",
+    "PARROQUIA": "NOMBRE_PARROQUIA",
+    "ganador": "CODIGO_PARTIDO",
+    "resultados": {
+      "VOTOS": {
+        "candidato": "VALIDOS",
+        "votos": 9999,
+        "porcentaje": 100.0
+      },
+      "CODIGO_PARTIDO": {
+        "candidato": "CODIGO_PARTIDO",
+        "votos": 9999,
+        "porcentaje": 99.99
+      }
+    }
+  }
+]

@@ -1,0 +1,3602 @@
+[
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "10",
+    "CANTON": "MONTUFAR",
+    "votos_validos": 10700,
+    "votos_blancos": 1725,
+    "votos_nulos": 1916,
+    "votos_total": 14341,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 2211,
+        "porcentaje": 20.66
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "100",
+    "CANTON": "LATACUNGA",
+    "votos_validos": 46409,
+    "votos_blancos": 9336,
+    "votos_nulos": 8924,
+    "votos_total": 64669,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 8877,
+        "porcentaje": 19.13
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "105",
+    "CANTON": "PUJILI",
+    "votos_validos": 13551,
+    "votos_blancos": 5026,
+    "votos_nulos": 3922,
+    "votos_total": 22499,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 3538,
+        "porcentaje": 26.11
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "110",
+    "CANTON": "SALCEDO",
+    "votos_validos": 15643,
+    "votos_blancos": 3922,
+    "votos_nulos": 4088,
+    "votos_total": 23653,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 2722,
+        "porcentaje": 17.4
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "115",
+    "CANTON": "SAQUISILI",
+    "votos_validos": 5484,
+    "votos_blancos": 1179,
+    "votos_nulos": 1048,
+    "votos_total": 7711,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 2201,
+        "porcentaje": 40.13
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "120",
+    "CANTON": "PANGUA",
+    "votos_validos": 3409,
+    "votos_blancos": 986,
+    "votos_nulos": 1052,
+    "votos_total": 5447,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 875,
+        "porcentaje": 25.67
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "125",
+    "CANTON": "COLIMES",
+    "votos_validos": 3947,
+    "votos_blancos": 1098,
+    "votos_nulos": 508,
+    "votos_total": 5553,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1413,
+        "porcentaje": 35.8
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "130",
+    "CANTON": "NANGARITZA",
+    "votos_validos": 787,
+    "votos_blancos": 123,
+    "votos_nulos": 142,
+    "votos_total": 1052,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 168,
+        "porcentaje": 21.35
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "135",
+    "CANTON": "AMBATO",
+    "votos_validos": 96895,
+    "votos_blancos": 13804,
+    "votos_nulos": 16139,
+    "votos_total": 126838,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 25697,
+        "porcentaje": 26.52
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "140",
+    "CANTON": "BAÑOS",
+    "votos_validos": 14490,
+    "votos_blancos": 3188,
+    "votos_nulos": 3885,
+    "votos_total": 21563,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 3096,
+        "porcentaje": 21.37
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "145",
+    "CANTON": "PATATE",
+    "votos_validos": 11904,
+    "votos_blancos": 3061,
+    "votos_nulos": 3172,
+    "votos_total": 18137,
+    "ganador": "ID12",
+    "resultados": {
+      "ID12": {
+        "candidato": "ID12",
+        "votos": 3079,
+        "porcentaje": 25.87
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "15",
+    "CANTON": "ESPEJO",
+    "votos_validos": 5273,
+    "votos_blancos": 863,
+    "votos_nulos": 861,
+    "votos_total": 6997,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1650,
+        "porcentaje": 31.29
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "150",
+    "CANTON": "AMBATO",
+    "votos_validos": 6713,
+    "votos_blancos": 989,
+    "votos_nulos": 1193,
+    "votos_total": 8895,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1599,
+        "porcentaje": 23.82
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "155",
+    "CANTON": "AMBATO",
+    "votos_validos": 3530,
+    "votos_blancos": 906,
+    "votos_nulos": 684,
+    "votos_total": 5120,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 919,
+        "porcentaje": 26.03
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "160",
+    "CANTON": "QUERO",
+    "votos_validos": 5168,
+    "votos_blancos": 1497,
+    "votos_nulos": 1356,
+    "votos_total": 8021,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 1073,
+        "porcentaje": 20.76
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "165",
+    "CANTON": "GUARANDA",
+    "votos_validos": 19974,
+    "votos_blancos": 6214,
+    "votos_nulos": 4042,
+    "votos_total": 30230,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 4968,
+        "porcentaje": 24.87
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "170",
+    "CANTON": "CHIMBO",
+    "votos_validos": 4753,
+    "votos_blancos": 907,
+    "votos_nulos": 799,
+    "votos_total": 6459,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1844,
+        "porcentaje": 38.8
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "175",
+    "CANTON": "SAN MIGUEL",
+    "votos_validos": 8332,
+    "votos_blancos": 1754,
+    "votos_nulos": 1611,
+    "votos_total": 11697,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 2691,
+        "porcentaje": 32.3
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "180",
+    "CANTON": "CHILLANES",
+    "votos_validos": 4679,
+    "votos_blancos": 1004,
+    "votos_nulos": 703,
+    "votos_total": 6386,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1747,
+        "porcentaje": 37.34
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "185",
+    "CANTON": "ECHEANDIA",
+    "votos_validos": 3958,
+    "votos_blancos": 888,
+    "votos_nulos": 580,
+    "votos_total": 5426,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1023,
+        "porcentaje": 25.85
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "190",
+    "CANTON": "CHAMBO",
+    "votos_validos": 3027,
+    "votos_blancos": 877,
+    "votos_nulos": 630,
+    "votos_total": 4534,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 863,
+        "porcentaje": 28.51
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "195",
+    "CANTON": "RIOBAMBA",
+    "votos_validos": 62726,
+    "votos_blancos": 11448,
+    "votos_nulos": 11596,
+    "votos_total": 85770,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 12804,
+        "porcentaje": 20.41
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "20",
+    "CANTON": "MIRA",
+    "votos_validos": 3758,
+    "votos_blancos": 834,
+    "votos_nulos": 903,
+    "votos_total": 5495,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1026,
+        "porcentaje": 27.3
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "200",
+    "CANTON": "GUANO",
+    "votos_validos": 10488,
+    "votos_blancos": 3004,
+    "votos_nulos": 2952,
+    "votos_total": 16444,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 3346,
+        "porcentaje": 31.9
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "205",
+    "CANTON": "COLTA",
+    "votos_validos": 11920,
+    "votos_blancos": 4872,
+    "votos_nulos": 3592,
+    "votos_total": 20384,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 3426,
+        "porcentaje": 28.74
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "210",
+    "CANTON": "GUAMOTE",
+    "votos_validos": 8201,
+    "votos_blancos": 2896,
+    "votos_nulos": 1553,
+    "votos_total": 12650,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 3538,
+        "porcentaje": 43.14
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "215",
+    "CANTON": "ALAUSI",
+    "votos_validos": 8666,
+    "votos_blancos": 4612,
+    "votos_nulos": 2806,
+    "votos_total": 16084,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1523,
+        "porcentaje": 17.57
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "220",
+    "CANTON": "CHUNCHI",
+    "votos_validos": 3374,
+    "votos_blancos": 1012,
+    "votos_nulos": 694,
+    "votos_total": 5080,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 956,
+        "porcentaje": 28.33
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "225",
+    "CANTON": "PENIPE",
+    "votos_validos": 2615,
+    "votos_blancos": 431,
+    "votos_nulos": 497,
+    "votos_total": 3543,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 832,
+        "porcentaje": 31.82
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "230",
+    "CANTON": "FLAVIO ALFARO",
+    "votos_validos": 6197,
+    "votos_blancos": 1498,
+    "votos_nulos": 770,
+    "votos_total": 8465,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1976,
+        "porcentaje": 31.89
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "235",
+    "CANTON": "AZOGUES",
+    "votos_validos": 19616,
+    "votos_blancos": 2917,
+    "votos_nulos": 3907,
+    "votos_total": 26440,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 4455,
+        "porcentaje": 22.71
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "240",
+    "CANTON": "CAÑAR",
+    "votos_validos": 15043,
+    "votos_blancos": 3556,
+    "votos_nulos": 3546,
+    "votos_total": 22145,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 4370,
+        "porcentaje": 29.05
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "245",
+    "CANTON": "BIBLIAN",
+    "votos_validos": 5259,
+    "votos_blancos": 1009,
+    "votos_nulos": 1254,
+    "votos_total": 7522,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1552,
+        "porcentaje": 29.51
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "25",
+    "CANTON": "BOLIVAR",
+    "votos_validos": 4272,
+    "votos_blancos": 940,
+    "votos_nulos": 1084,
+    "votos_total": 6296,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1104,
+        "porcentaje": 25.84
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "250",
+    "CANTON": "LA TRONCAL",
+    "votos_validos": 8961,
+    "votos_blancos": 1714,
+    "votos_nulos": 1568,
+    "votos_total": 12243,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 2770,
+        "porcentaje": 30.91
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "255",
+    "CANTON": "EL CHACO",
+    "votos_validos": 1332,
+    "votos_blancos": 247,
+    "votos_nulos": 234,
+    "votos_total": 1813,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 261,
+        "porcentaje": 19.59
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "260",
+    "CANTON": "CUENCA",
+    "votos_validos": 125099,
+    "votos_blancos": 16922,
+    "votos_nulos": 13862,
+    "votos_total": 155883,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 42834,
+        "porcentaje": 34.24
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "265",
+    "CANTON": "GUALACEO",
+    "votos_validos": 8199,
+    "votos_blancos": 2483,
+    "votos_nulos": 1954,
+    "votos_total": 12636,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 3550,
+        "porcentaje": 43.3
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "270",
+    "CANTON": "GIRON",
+    "votos_validos": 3535,
+    "votos_blancos": 711,
+    "votos_nulos": 540,
+    "votos_total": 4786,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 1011,
+        "porcentaje": 28.6
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "275",
+    "CANTON": "PAUTE",
+    "votos_validos": 5975,
+    "votos_blancos": 1438,
+    "votos_nulos": 1276,
+    "votos_total": 8689,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 1865,
+        "porcentaje": 31.21
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "280",
+    "CANTON": "SIGSIG",
+    "votos_validos": 6157,
+    "votos_blancos": 1508,
+    "votos_nulos": 1548,
+    "votos_total": 9213,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 2559,
+        "porcentaje": 41.56
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "285",
+    "CANTON": "SANTA ISABEL",
+    "votos_validos": 5450,
+    "votos_blancos": 804,
+    "votos_nulos": 600,
+    "votos_total": 6854,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 2023,
+        "porcentaje": 37.12
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "290",
+    "CANTON": "CATAMAYO",
+    "votos_validos": 7083,
+    "votos_blancos": 835,
+    "votos_nulos": 1071,
+    "votos_total": 8989,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1976,
+        "porcentaje": 27.9
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "295",
+    "CANTON": "ZAPOTILLO",
+    "votos_validos": 3031,
+    "votos_blancos": 314,
+    "votos_nulos": 233,
+    "votos_total": 3578,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1157,
+        "porcentaje": 38.17
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "30",
+    "CANTON": "IBARRA",
+    "votos_validos": 48145,
+    "votos_blancos": 7010,
+    "votos_nulos": 7958,
+    "votos_total": 63113,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 9094,
+        "porcentaje": 18.89
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "300",
+    "CANTON": "LOJA",
+    "votos_validos": 55203,
+    "votos_blancos": 6347,
+    "votos_nulos": 6949,
+    "votos_total": 68499,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 10273,
+        "porcentaje": 18.61
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "305",
+    "CANTON": "SARAGURO",
+    "votos_validos": 6383,
+    "votos_blancos": 1153,
+    "votos_nulos": 1154,
+    "votos_total": 8690,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 2225,
+        "porcentaje": 34.86
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "310",
+    "CANTON": "PALTAS",
+    "votos_validos": 7900,
+    "votos_blancos": 1266,
+    "votos_nulos": 1619,
+    "votos_total": 10785,
+    "ganador": "CFP4",
+    "resultados": {
+      "CFP4": {
+        "candidato": "CFP4",
+        "votos": 1707,
+        "porcentaje": 21.61
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "315",
+    "CANTON": "CELICA",
+    "votos_validos": 3358,
+    "votos_blancos": 502,
+    "votos_nulos": 452,
+    "votos_total": 4312,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 1286,
+        "porcentaje": 38.3
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "320",
+    "CANTON": "CALVAS",
+    "votos_validos": 7365,
+    "votos_blancos": 991,
+    "votos_nulos": 1149,
+    "votos_total": 9505,
+    "ganador": "CFP4",
+    "resultados": {
+      "CFP4": {
+        "candidato": "CFP4",
+        "votos": 3673,
+        "porcentaje": 49.87
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "325",
+    "CANTON": "MACARA",
+    "votos_validos": 5077,
+    "votos_blancos": 546,
+    "votos_nulos": 801,
+    "votos_total": 6424,
+    "ganador": "PLRE - FRA",
+    "resultados": {
+      "PLRE - FRA": {
+        "candidato": "PLRE - FRA",
+        "votos": 1033,
+        "porcentaje": 20.35
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "330",
+    "CANTON": "PUYANGO",
+    "votos_validos": 4461,
+    "votos_blancos": 732,
+    "votos_nulos": 540,
+    "votos_total": 5733,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1106,
+        "porcentaje": 24.79
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "335",
+    "CANTON": "GONZANAMA",
+    "votos_validos": 4524,
+    "votos_blancos": 624,
+    "votos_nulos": 882,
+    "votos_total": 6030,
+    "ganador": "CFP4",
+    "resultados": {
+      "CFP4": {
+        "candidato": "CFP4",
+        "votos": 1437,
+        "porcentaje": 31.76
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "340",
+    "CANTON": "ESPINDOLA",
+    "votos_validos": 3793,
+    "votos_blancos": 557,
+    "votos_nulos": 805,
+    "votos_total": 5155,
+    "ganador": "CFP4",
+    "resultados": {
+      "CFP4": {
+        "candidato": "CFP4",
+        "votos": 892,
+        "porcentaje": 23.52
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "345",
+    "CANTON": "SOZORANGA",
+    "votos_validos": 2090,
+    "votos_blancos": 267,
+    "votos_nulos": 201,
+    "votos_total": 2558,
+    "ganador": "CFP4",
+    "resultados": {
+      "CFP4": {
+        "candidato": "CFP4",
+        "votos": 922,
+        "porcentaje": 44.11
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "35",
+    "CANTON": "OTAVALO",
+    "votos_validos": 21612,
+    "votos_blancos": 5294,
+    "votos_nulos": 5067,
+    "votos_total": 31973,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 4957,
+        "porcentaje": 22.94
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "350",
+    "CANTON": "MACHALA",
+    "votos_validos": 67561,
+    "votos_blancos": 6846,
+    "votos_nulos": 6692,
+    "votos_total": 81099,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 22673,
+        "porcentaje": 33.56
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "355",
+    "CANTON": "SANTA ROSA",
+    "votos_validos": 18693,
+    "votos_blancos": 2556,
+    "votos_nulos": 2010,
+    "votos_total": 23259,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 6389,
+        "porcentaje": 34.18
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "360",
+    "CANTON": "ZARUMA",
+    "votos_validos": 8084,
+    "votos_blancos": 992,
+    "votos_nulos": 776,
+    "votos_total": 9852,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 2392,
+        "porcentaje": 29.59
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "365",
+    "CANTON": "PASAJE",
+    "votos_validos": 21393,
+    "votos_blancos": 3240,
+    "votos_nulos": 2874,
+    "votos_total": 27507,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 6701,
+        "porcentaje": 31.32
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "370",
+    "CANTON": "PIÑAS",
+    "votos_validos": 8081,
+    "votos_blancos": 1433,
+    "votos_nulos": 948,
+    "votos_total": 10462,
+    "ganador": "ID12",
+    "resultados": {
+      "ID12": {
+        "candidato": "ID12",
+        "votos": 2131,
+        "porcentaje": 26.37
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "375",
+    "CANTON": "ARENILLAS",
+    "votos_validos": 6032,
+    "votos_blancos": 858,
+    "votos_nulos": 614,
+    "votos_total": 7504,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1651,
+        "porcentaje": 27.37
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "380",
+    "CANTON": "EL GUABO",
+    "votos_validos": 10985,
+    "votos_blancos": 1347,
+    "votos_nulos": 762,
+    "votos_total": 13094,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 4402,
+        "porcentaje": 40.07
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "385",
+    "CANTON": "EL EMPALME",
+    "votos_validos": 15897,
+    "votos_blancos": 3814,
+    "votos_nulos": 3299,
+    "votos_total": 23010,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 6614,
+        "porcentaje": 41.61
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "390",
+    "CANTON": "GUAYAQUIL",
+    "votos_validos": 684651,
+    "votos_blancos": 50996,
+    "votos_nulos": 50631,
+    "votos_total": 786278,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 387282,
+        "porcentaje": 56.57
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "395",
+    "CANTON": "YAGUACHI",
+    "votos_validos": 9906,
+    "votos_blancos": 2060,
+    "votos_nulos": 1543,
+    "votos_total": 13509,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 3572,
+        "porcentaje": 36.06
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "40",
+    "CANTON": "COTACACHI",
+    "votos_validos": 8386,
+    "votos_blancos": 2142,
+    "votos_nulos": 2066,
+    "votos_total": 12594,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 2500,
+        "porcentaje": 29.81
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "400",
+    "CANTON": "DAULE",
+    "votos_validos": 26362,
+    "votos_blancos": 7069,
+    "votos_nulos": 5004,
+    "votos_total": 38435,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 9937,
+        "porcentaje": 37.69
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "405",
+    "CANTON": "SALINAS",
+    "votos_validos": 11837,
+    "votos_blancos": 1729,
+    "votos_nulos": 919,
+    "votos_total": 14485,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 4871,
+        "porcentaje": 41.15
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "410",
+    "CANTON": "SANTA ELENA",
+    "votos_validos": 29815,
+    "votos_blancos": 5251,
+    "votos_nulos": 4014,
+    "votos_total": 39080,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 11553,
+        "porcentaje": 38.75
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "415",
+    "CANTON": "BALZAR",
+    "votos_validos": 13980,
+    "votos_blancos": 3405,
+    "votos_nulos": 1725,
+    "votos_total": 19110,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 5743,
+        "porcentaje": 41.08
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "420",
+    "CANTON": "MILAGRO",
+    "votos_validos": 49211,
+    "votos_blancos": 7355,
+    "votos_nulos": 7419,
+    "votos_total": 63985,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 17256,
+        "porcentaje": 35.07
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "425",
+    "CANTON": "SAMBORONDON",
+    "votos_validos": 11732,
+    "votos_blancos": 1826,
+    "votos_nulos": 1085,
+    "votos_total": 14643,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 5980,
+        "porcentaje": 50.97
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "430",
+    "CANTON": "SALITRE",
+    "votos_validos": 11345,
+    "votos_blancos": 3504,
+    "votos_nulos": 2088,
+    "votos_total": 16937,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 4060,
+        "porcentaje": 35.79
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "435",
+    "CANTON": "NARANJAL",
+    "votos_validos": 11378,
+    "votos_blancos": 2597,
+    "votos_nulos": 1347,
+    "votos_total": 15322,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 4906,
+        "porcentaje": 43.12
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "440",
+    "CANTON": "PORTOVIEJO",
+    "votos_validos": 73877,
+    "votos_blancos": 12284,
+    "votos_nulos": 9636,
+    "votos_total": 95797,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 24652,
+        "porcentaje": 33.37
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "445",
+    "CANTON": "MONTECRISTI",
+    "votos_validos": 14219,
+    "votos_blancos": 3082,
+    "votos_nulos": 2320,
+    "votos_total": 19621,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 4385,
+        "porcentaje": 30.84
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "45",
+    "CANTON": "ANTONIO ANTE",
+    "votos_validos": 11517,
+    "votos_blancos": 1801,
+    "votos_nulos": 2047,
+    "votos_total": 15365,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 2638,
+        "porcentaje": 22.91
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "450",
+    "CANTON": "MANTA",
+    "votos_validos": 48948,
+    "votos_blancos": 10800,
+    "votos_nulos": 7395,
+    "votos_total": 67143,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 14903,
+        "porcentaje": 30.45
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "455",
+    "CANTON": "JIPIJAPA",
+    "votos_validos": 23988,
+    "votos_blancos": 4639,
+    "votos_nulos": 4946,
+    "votos_total": 33573,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 9680,
+        "porcentaje": 40.35
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "460",
+    "CANTON": "24 DE MAYO",
+    "votos_validos": 9113,
+    "votos_blancos": 2459,
+    "votos_nulos": 1563,
+    "votos_total": 13135,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 3306,
+        "porcentaje": 36.28
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "465",
+    "CANTON": "ROCAFUERTE",
+    "votos_validos": 10085,
+    "votos_blancos": 1853,
+    "votos_nulos": 1375,
+    "votos_total": 13313,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 4156,
+        "porcentaje": 41.21
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "470",
+    "CANTON": "SANTA ANA",
+    "votos_validos": 13593,
+    "votos_blancos": 3204,
+    "votos_nulos": 1760,
+    "votos_total": 18557,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 7121,
+        "porcentaje": 52.39
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "475",
+    "CANTON": "SUCRE",
+    "votos_validos": 23682,
+    "votos_blancos": 4074,
+    "votos_nulos": 3713,
+    "votos_total": 31469,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 8399,
+        "porcentaje": 35.47
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "480",
+    "CANTON": "CHONE",
+    "votos_validos": 31554,
+    "votos_blancos": 7056,
+    "votos_nulos": 5026,
+    "votos_total": 43636,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 12460,
+        "porcentaje": 39.49
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "485",
+    "CANTON": "BOLIVAR",
+    "votos_validos": 12290,
+    "votos_blancos": 1376,
+    "votos_nulos": 1159,
+    "votos_total": 14825,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 4723,
+        "porcentaje": 38.43
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "490",
+    "CANTON": "JUNIN",
+    "votos_validos": 7375,
+    "votos_blancos": 1004,
+    "votos_nulos": 728,
+    "votos_total": 9107,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 3432,
+        "porcentaje": 46.54
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "495",
+    "CANTON": "PAJAN",
+    "votos_validos": 14080,
+    "votos_blancos": 3036,
+    "votos_nulos": 1694,
+    "votos_total": 18810,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 7250,
+        "porcentaje": 51.49
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "5",
+    "CANTON": "TULCAN",
+    "votos_validos": 25596,
+    "votos_blancos": 3259,
+    "votos_nulos": 3412,
+    "votos_total": 32267,
+    "ganador": "PCE1",
+    "resultados": {
+      "PCE1": {
+        "candidato": "PCE1",
+        "votos": 4358,
+        "porcentaje": 17.03
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "50",
+    "CANTON": "PIMAMPIRO",
+    "votos_validos": 4559,
+    "votos_blancos": 1116,
+    "votos_nulos": 1089,
+    "votos_total": 6764,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 1249,
+        "porcentaje": 27.4
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "500",
+    "CANTON": "EL CARMEN",
+    "votos_validos": 17015,
+    "votos_blancos": 4369,
+    "votos_nulos": 2802,
+    "votos_total": 24186,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 6365,
+        "porcentaje": 37.41
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "505",
+    "CANTON": "EL TRIUNFO",
+    "votos_validos": 9888,
+    "votos_blancos": 1531,
+    "votos_nulos": 1249,
+    "votos_total": 12668,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 3900,
+        "porcentaje": 39.44
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "510",
+    "CANTON": "NARANJITO",
+    "votos_validos": 10279,
+    "votos_blancos": 1575,
+    "votos_nulos": 1113,
+    "votos_total": 12967,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 3667,
+        "porcentaje": 35.67
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "515",
+    "CANTON": "BABAHOYO",
+    "votos_validos": 37776,
+    "votos_blancos": 7562,
+    "votos_nulos": 3970,
+    "votos_total": 49308,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 19319,
+        "porcentaje": 51.14
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "516",
+    "CANTON": "VALENCIA",
+    "votos_validos": 4240,
+    "votos_blancos": 874,
+    "votos_nulos": 475,
+    "votos_total": 5589,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1443,
+        "porcentaje": 34.03
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "520",
+    "CANTON": "BABA",
+    "votos_validos": 8293,
+    "votos_blancos": 2190,
+    "votos_nulos": 1346,
+    "votos_total": 11829,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 4111,
+        "porcentaje": 49.57
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "525",
+    "CANTON": "VINCES",
+    "votos_validos": 17659,
+    "votos_blancos": 4137,
+    "votos_nulos": 3111,
+    "votos_total": 24907,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 5979,
+        "porcentaje": 33.86
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "530",
+    "CANTON": "PUEBLO VIEJO",
+    "votos_validos": 6876,
+    "votos_blancos": 2034,
+    "votos_nulos": 1154,
+    "votos_total": 10064,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 3146,
+        "porcentaje": 45.75
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "535",
+    "CANTON": "URDANETA",
+    "votos_validos": 7055,
+    "votos_blancos": 1237,
+    "votos_nulos": 568,
+    "votos_total": 8860,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 3188,
+        "porcentaje": 45.19
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "540",
+    "CANTON": "QUEVEDO",
+    "votos_validos": 53181,
+    "votos_blancos": 10658,
+    "votos_nulos": 7096,
+    "votos_total": 70935,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 23367,
+        "porcentaje": 43.94
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "545",
+    "CANTON": "VENTANAS",
+    "votos_validos": 16270,
+    "votos_blancos": 3791,
+    "votos_nulos": 3004,
+    "votos_total": 23065,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 5482,
+        "porcentaje": 33.69
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "55",
+    "CANTON": "URCUQUI",
+    "votos_validos": 4212,
+    "votos_blancos": 1055,
+    "votos_nulos": 1026,
+    "votos_total": 6293,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1385,
+        "porcentaje": 32.88
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "550",
+    "CANTON": "TOSAGUA",
+    "votos_validos": 11781,
+    "votos_blancos": 1897,
+    "votos_nulos": 1168,
+    "votos_total": 14846,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 3787,
+        "porcentaje": 32.14
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "555",
+    "CANTON": "PUCARA",
+    "votos_validos": 3016,
+    "votos_blancos": 781,
+    "votos_nulos": 494,
+    "votos_total": 4291,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1168,
+        "porcentaje": 38.73
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "560",
+    "CANTON": "ESMERALDAS",
+    "votos_validos": 49279,
+    "votos_blancos": 6909,
+    "votos_nulos": 9123,
+    "votos_total": 65311,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 21569,
+        "porcentaje": 43.77
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "565",
+    "CANTON": "ELOY ALFARO",
+    "votos_validos": 6299,
+    "votos_blancos": 815,
+    "votos_nulos": 912,
+    "votos_total": 8026,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 3448,
+        "porcentaje": 54.74
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "570",
+    "CANTON": "MUISNE",
+    "votos_validos": 4618,
+    "votos_blancos": 823,
+    "votos_nulos": 788,
+    "votos_total": 6229,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1721,
+        "porcentaje": 37.27
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "575",
+    "CANTON": "QUININDE",
+    "votos_validos": 18932,
+    "votos_blancos": 3968,
+    "votos_nulos": 3841,
+    "votos_total": 26741,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 7566,
+        "porcentaje": 39.96
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "580",
+    "CANTON": "SAN LORENZO",
+    "votos_validos": 3987,
+    "votos_blancos": 608,
+    "votos_nulos": 749,
+    "votos_total": 5344,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1559,
+        "porcentaje": 39.1
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "585",
+    "CANTON": "CHILLA",
+    "votos_validos": 1134,
+    "votos_blancos": 158,
+    "votos_nulos": 84,
+    "votos_total": 1376,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 478,
+        "porcentaje": 42.15
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "590",
+    "CANTON": "MORONA",
+    "votos_validos": 7020,
+    "votos_blancos": 1087,
+    "votos_nulos": 1328,
+    "votos_total": 9435,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 1586,
+        "porcentaje": 22.59
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "595",
+    "CANTON": "GUALAQUIZA",
+    "votos_validos": 2909,
+    "votos_blancos": 507,
+    "votos_nulos": 550,
+    "votos_total": 3966,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 912,
+        "porcentaje": 31.35
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "60",
+    "CANTON": "QUITO",
+    "votos_validos": 612310,
+    "votos_blancos": 64930,
+    "votos_nulos": 68039,
+    "votos_total": 745279,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 147639,
+        "porcentaje": 24.11
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "600",
+    "CANTON": "LIMON INDANZA",
+    "votos_validos": 2263,
+    "votos_blancos": 414,
+    "votos_nulos": 460,
+    "votos_total": 3137,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 547,
+        "porcentaje": 24.17
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "605",
+    "CANTON": "SANTIAGO",
+    "votos_validos": 2267,
+    "votos_blancos": 320,
+    "votos_nulos": 499,
+    "votos_total": 3086,
+    "ganador": "ID12",
+    "resultados": {
+      "ID12": {
+        "candidato": "ID12",
+        "votos": 695,
+        "porcentaje": 30.66
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "610",
+    "CANTON": "SUCUA",
+    "votos_validos": 4039,
+    "votos_blancos": 903,
+    "votos_nulos": 660,
+    "votos_total": 5602,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 875,
+        "porcentaje": 21.66
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "615",
+    "CANTON": "PALORA",
+    "votos_validos": 1605,
+    "votos_blancos": 211,
+    "votos_nulos": 283,
+    "votos_total": 2099,
+    "ganador": "ID12",
+    "resultados": {
+      "ID12": {
+        "candidato": "ID12",
+        "votos": 475,
+        "porcentaje": 29.6
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "620",
+    "CANTON": "TENA",
+    "votos_validos": 11043,
+    "votos_blancos": 1361,
+    "votos_nulos": 1715,
+    "votos_total": 14119,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 2979,
+        "porcentaje": 26.98
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "625",
+    "CANTON": "LAGO AGRIO",
+    "votos_validos": 11053,
+    "votos_blancos": 3005,
+    "votos_nulos": 2431,
+    "votos_total": 16489,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 2986,
+        "porcentaje": 27.02
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "630",
+    "CANTON": "AGUARICO",
+    "votos_validos": 739,
+    "votos_blancos": 124,
+    "votos_nulos": 59,
+    "votos_total": 922,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 165,
+        "porcentaje": 22.33
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "635",
+    "CANTON": "QUIJOS",
+    "votos_validos": 1374,
+    "votos_blancos": 179,
+    "votos_nulos": 198,
+    "votos_total": 1751,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 285,
+        "porcentaje": 20.74
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "640",
+    "CANTON": "SUCUMBIOS",
+    "votos_validos": 888,
+    "votos_blancos": 99,
+    "votos_nulos": 114,
+    "votos_total": 1101,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 340,
+        "porcentaje": 38.29
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "645",
+    "CANTON": "FCO.DE ORELLANA",
+    "votos_validos": 5103,
+    "votos_blancos": 950,
+    "votos_nulos": 1092,
+    "votos_total": 7145,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 1244,
+        "porcentaje": 24.38
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "65",
+    "CANTON": "CAYAMBE",
+    "votos_validos": 16566,
+    "votos_blancos": 3546,
+    "votos_nulos": 3431,
+    "votos_total": 23543,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 4351,
+        "porcentaje": 26.26
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "650",
+    "CANTON": "PUTUMAYO",
+    "votos_validos": 717,
+    "votos_blancos": 83,
+    "votos_nulos": 181,
+    "votos_total": 981,
+    "ganador": "APRE13",
+    "resultados": {
+      "APRE13": {
+        "candidato": "APRE13",
+        "votos": 293,
+        "porcentaje": 40.86
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "655",
+    "CANTON": "ZAMORA",
+    "votos_validos": 5872,
+    "votos_blancos": 906,
+    "votos_nulos": 751,
+    "votos_total": 7529,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1359,
+        "porcentaje": 23.14
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "660",
+    "CANTON": "CHINCHIPE",
+    "votos_validos": 3034,
+    "votos_blancos": 378,
+    "votos_nulos": 372,
+    "votos_total": 3784,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 874,
+        "porcentaje": 28.81
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "665",
+    "CANTON": "YACUAMBI",
+    "votos_validos": 959,
+    "votos_blancos": 133,
+    "votos_nulos": 161,
+    "votos_total": 1253,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 248,
+        "porcentaje": 25.86
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "670",
+    "CANTON": "YANZATZA",
+    "votos_validos": 3963,
+    "votos_blancos": 561,
+    "votos_nulos": 644,
+    "votos_total": 5168,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 851,
+        "porcentaje": 21.47
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "675",
+    "CANTON": "PALESTINA",
+    "votos_validos": 3439,
+    "votos_blancos": 990,
+    "votos_nulos": 509,
+    "votos_total": 4938,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1125,
+        "porcentaje": 32.71
+      }
+    }
+  },
+  {
+    "CODPRO": "16",
+    "PROVINCIA": "PASTAZA",
+    "CODCAN": "680",
+    "CANTON": "PASTAZA",
+    "votos_validos": 11132,
+    "votos_blancos": 1912,
+    "votos_nulos": 1484,
+    "votos_total": 14528,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 2052,
+        "porcentaje": 18.43
+      }
+    }
+  },
+  {
+    "CODPRO": "16",
+    "PROVINCIA": "PASTAZA",
+    "CODCAN": "685",
+    "CANTON": "MERA",
+    "votos_validos": 1669,
+    "votos_blancos": 274,
+    "votos_nulos": 228,
+    "votos_total": 2171,
+    "ganador": "MPD15",
+    "resultados": {
+      "MPD15": {
+        "candidato": "MPD15",
+        "votos": 287,
+        "porcentaje": 17.2
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "690",
+    "CANTON": "PORTOVELO",
+    "votos_validos": 4189,
+    "votos_blancos": 391,
+    "votos_nulos": 384,
+    "votos_total": 4964,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1366,
+        "porcentaje": 32.61
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "695",
+    "CANTON": "HUAQUILLAS",
+    "votos_validos": 9997,
+    "votos_blancos": 1560,
+    "votos_nulos": 1046,
+    "votos_total": 12603,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 2863,
+        "porcentaje": 28.64
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "70",
+    "CANTON": "MEJIA",
+    "votos_validos": 19669,
+    "votos_blancos": 2239,
+    "votos_nulos": 2822,
+    "votos_total": 24730,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 3360,
+        "porcentaje": 17.08
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "700",
+    "CANTON": "ARCHIDONA",
+    "votos_validos": 5251,
+    "votos_blancos": 660,
+    "votos_nulos": 747,
+    "votos_total": 6658,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 2140,
+        "porcentaje": 40.75
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "705",
+    "CANTON": "ATAHUALPA",
+    "votos_validos": 2674,
+    "votos_blancos": 375,
+    "votos_nulos": 214,
+    "votos_total": 3263,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1203,
+        "porcentaje": 44.99
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "710",
+    "CANTON": "MONTALVO",
+    "votos_validos": 5649,
+    "votos_blancos": 1378,
+    "votos_nulos": 758,
+    "votos_total": 7785,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1728,
+        "porcentaje": 30.59
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "715",
+    "CANTON": "PEDRO CARBO",
+    "votos_validos": 9886,
+    "votos_blancos": 2731,
+    "votos_nulos": 1961,
+    "votos_total": 14578,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 3618,
+        "porcentaje": 36.6
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "720",
+    "CANTON": "SHUSHUFINDI",
+    "votos_validos": 4637,
+    "votos_blancos": 964,
+    "votos_nulos": 1317,
+    "votos_total": 6918,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 1091,
+        "porcentaje": 23.53
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "725",
+    "CANTON": "JOYA DE LOS SACHAS",
+    "votos_validos": 3580,
+    "votos_blancos": 691,
+    "votos_nulos": 614,
+    "votos_total": 4885,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 945,
+        "porcentaje": 26.4
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "730",
+    "CANTON": "PINDAL",
+    "votos_validos": 2117,
+    "votos_blancos": 134,
+    "votos_nulos": 88,
+    "votos_total": 2339,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1154,
+        "porcentaje": 54.51
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "735",
+    "CANTON": "PLAYAS",
+    "votos_validos": 7557,
+    "votos_blancos": 1086,
+    "votos_nulos": 1058,
+    "votos_total": 9701,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 2940,
+        "porcentaje": 38.9
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "740",
+    "CANTON": "QUILANGA",
+    "votos_validos": 1498,
+    "votos_blancos": 218,
+    "votos_nulos": 185,
+    "votos_total": 1901,
+    "ganador": "CFP4",
+    "resultados": {
+      "CFP4": {
+        "candidato": "CFP4",
+        "votos": 516,
+        "porcentaje": 34.45
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "745",
+    "CANTON": "CASCALES",
+    "votos_validos": 1483,
+    "votos_blancos": 244,
+    "votos_nulos": 235,
+    "votos_total": 1962,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 444,
+        "porcentaje": 29.94
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "75",
+    "CANTON": "PEDRO MONCAYO",
+    "votos_validos": 5565,
+    "votos_blancos": 982,
+    "votos_nulos": 1504,
+    "votos_total": 8051,
+    "ganador": "PSE17",
+    "resultados": {
+      "PSE17": {
+        "candidato": "PSE17",
+        "votos": 1394,
+        "porcentaje": 25.05
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "750",
+    "CANTON": "PALENQUE",
+    "votos_validos": 3893,
+    "votos_blancos": 1229,
+    "votos_nulos": 701,
+    "votos_total": 5823,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1596,
+        "porcentaje": 41.0
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "755",
+    "CANTON": "LAS LAJAS",
+    "votos_validos": 2393,
+    "votos_blancos": 165,
+    "votos_nulos": 67,
+    "votos_total": 2625,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1156,
+        "porcentaje": 48.31
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "760",
+    "CANTON": "CALUMA",
+    "votos_validos": 3245,
+    "votos_blancos": 695,
+    "votos_nulos": 396,
+    "votos_total": 4336,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1440,
+        "porcentaje": 44.38
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "765",
+    "CANTON": "EL TAMBO",
+    "votos_validos": 2264,
+    "votos_blancos": 630,
+    "votos_nulos": 428,
+    "votos_total": 3322,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 612,
+        "porcentaje": 27.03
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "770",
+    "CANTON": "SAN MIGUEL DE LOS BANCOS",
+    "votos_validos": 3439,
+    "votos_blancos": 777,
+    "votos_nulos": 570,
+    "votos_total": 4786,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1105,
+        "porcentaje": 32.13
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "775",
+    "CANTON": "EL PANGUI",
+    "votos_validos": 1481,
+    "votos_blancos": 166,
+    "votos_nulos": 251,
+    "votos_total": 1898,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 384,
+        "porcentaje": 25.93
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "780",
+    "CANTON": "OÑA",
+    "votos_validos": 707,
+    "votos_blancos": 307,
+    "votos_nulos": 161,
+    "votos_total": 1175,
+    "ganador": "ID12",
+    "resultados": {
+      "ID12": {
+        "candidato": "ID12",
+        "votos": 164,
+        "porcentaje": 23.2
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "785",
+    "CANTON": "ATACAMES",
+    "votos_validos": 4546,
+    "votos_blancos": 1101,
+    "votos_nulos": 1149,
+    "votos_total": 6796,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1764,
+        "porcentaje": 38.8
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "790",
+    "CANTON": "SIMON BOLIVAR",
+    "votos_validos": 4352,
+    "votos_blancos": 1043,
+    "votos_nulos": 791,
+    "votos_total": 6186,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1210,
+        "porcentaje": 27.8
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "795",
+    "CANTON": "HUAMBOYA",
+    "votos_validos": 1185,
+    "votos_blancos": 114,
+    "votos_nulos": 184,
+    "votos_total": 1483,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 465,
+        "porcentaje": 39.24
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "80",
+    "CANTON": "RUMINAHUI",
+    "votos_validos": 22359,
+    "votos_blancos": 1460,
+    "votos_nulos": 2227,
+    "votos_total": 26046,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 4118,
+        "porcentaje": 18.42
+      }
+    }
+  },
+  {
+    "CODPRO": "20",
+    "PROVINCIA": "GALAPAGOS",
+    "CODCAN": "800",
+    "CANTON": "SAN CRISTOBAL",
+    "votos_validos": 1376,
+    "votos_blancos": 228,
+    "votos_nulos": 137,
+    "votos_total": 1741,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 578,
+        "porcentaje": 42.01
+      }
+    }
+  },
+  {
+    "CODPRO": "20",
+    "PROVINCIA": "GALAPAGOS",
+    "CODCAN": "805",
+    "CANTON": "SANTA CRUZ",
+    "votos_validos": 1856,
+    "votos_blancos": 194,
+    "votos_nulos": 271,
+    "votos_total": 2321,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 558,
+        "porcentaje": 30.06
+      }
+    }
+  },
+  {
+    "CODPRO": "20",
+    "PROVINCIA": "GALAPAGOS",
+    "CODCAN": "810",
+    "CANTON": "ISABELA",
+    "votos_validos": 339,
+    "votos_blancos": 60,
+    "votos_nulos": 35,
+    "votos_total": 434,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 130,
+        "porcentaje": 38.35
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "815",
+    "CANTON": "CHAGUARPAMBA",
+    "votos_validos": 2379,
+    "votos_blancos": 473,
+    "votos_nulos": 455,
+    "votos_total": 3307,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 728,
+        "porcentaje": 30.6
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "820",
+    "CANTON": "DURAN",
+    "votos_validos": 31171,
+    "votos_blancos": 2866,
+    "votos_nulos": 3203,
+    "votos_total": 37240,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 14828,
+        "porcentaje": 47.57
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "825",
+    "CANTON": "LA MANA",
+    "votos_validos": 6424,
+    "votos_blancos": 1719,
+    "votos_nulos": 1599,
+    "votos_total": 9742,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1302,
+        "porcentaje": 20.27
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "830",
+    "CANTON": "PALLATANGA",
+    "votos_validos": 2862,
+    "votos_blancos": 855,
+    "votos_nulos": 496,
+    "votos_total": 4213,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 708,
+        "porcentaje": 24.74
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "835",
+    "CANTON": "A.BAQUERIZO MORENO",
+    "votos_validos": 4782,
+    "votos_blancos": 1219,
+    "votos_nulos": 1225,
+    "votos_total": 7226,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1680,
+        "porcentaje": 35.13
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "840",
+    "CANTON": "PICHINCHA",
+    "votos_validos": 9476,
+    "votos_blancos": 2131,
+    "votos_nulos": 1212,
+    "votos_total": 12819,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 3480,
+        "porcentaje": 36.72
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "845",
+    "CANTON": "AMBATO",
+    "votos_validos": 2917,
+    "votos_blancos": 362,
+    "votos_nulos": 431,
+    "votos_total": 3710,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 658,
+        "porcentaje": 22.56
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "85",
+    "CANTON": "SANTO DOMINGO",
+    "votos_validos": 69135,
+    "votos_blancos": 12478,
+    "votos_nulos": 9504,
+    "votos_total": 91117,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 20697,
+        "porcentaje": 29.94
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "850",
+    "CANTON": "CEVALLOS",
+    "votos_validos": 2538,
+    "votos_blancos": 471,
+    "votos_nulos": 504,
+    "votos_total": 3513,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 549,
+        "porcentaje": 21.63
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "855",
+    "CANTON": "SAN FERNANDO",
+    "votos_validos": 1487,
+    "votos_blancos": 183,
+    "votos_nulos": 134,
+    "votos_total": 1804,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 581,
+        "porcentaje": 39.07
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "860",
+    "CANTON": "MARCABELI",
+    "votos_validos": 1841,
+    "votos_blancos": 274,
+    "votos_nulos": 202,
+    "votos_total": 2317,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 627,
+        "porcentaje": 34.06
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "865",
+    "CANTON": "GONZALO PIZARRO",
+    "votos_validos": 1346,
+    "votos_blancos": 174,
+    "votos_nulos": 199,
+    "votos_total": 1719,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 339,
+        "porcentaje": 25.19
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "870",
+    "CANTON": "SANTA LUCIA",
+    "votos_validos": 9287,
+    "votos_blancos": 2873,
+    "votos_nulos": 1532,
+    "votos_total": 13692,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 3303,
+        "porcentaje": 35.57
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "875",
+    "CANTON": "BALSAS",
+    "votos_validos": 2062,
+    "votos_blancos": 329,
+    "votos_nulos": 148,
+    "votos_total": 2539,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 808,
+        "porcentaje": 39.19
+      }
+    }
+  },
+  {
+    "CODPRO": "16",
+    "PROVINCIA": "PASTAZA",
+    "CODCAN": "880",
+    "CANTON": "SANTA CLARA",
+    "votos_validos": 972,
+    "votos_blancos": 192,
+    "votos_nulos": 82,
+    "votos_total": 1246,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 245,
+        "porcentaje": 25.21
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "885",
+    "CANTON": "NABON",
+    "votos_validos": 3124,
+    "votos_blancos": 998,
+    "votos_nulos": 693,
+    "votos_total": 4815,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 1059,
+        "porcentaje": 33.9
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "890",
+    "CANTON": "CRNL MARCELINO MARIDUENAS",
+    "votos_validos": 4636,
+    "votos_blancos": 425,
+    "votos_nulos": 458,
+    "votos_total": 5519,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1609,
+        "porcentaje": 34.71
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "895",
+    "CANTON": "PEDRO VICENTE MALDONADO",
+    "votos_validos": 1696,
+    "votos_blancos": 402,
+    "votos_nulos": 344,
+    "votos_total": 2442,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 350,
+        "porcentaje": 20.64
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "90",
+    "CANTON": "AMBATO",
+    "votos_validos": 3435,
+    "votos_blancos": 547,
+    "votos_nulos": 693,
+    "votos_total": 4675,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 579,
+        "porcentaje": 16.86
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "900",
+    "CANTON": "CUMANDA",
+    "votos_validos": 2013,
+    "votos_blancos": 816,
+    "votos_nulos": 500,
+    "votos_total": 3329,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 512,
+        "porcentaje": 25.43
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "905",
+    "CANTON": "DELEG",
+    "votos_validos": 1326,
+    "votos_blancos": 372,
+    "votos_nulos": 530,
+    "votos_total": 2228,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 302,
+        "porcentaje": 22.78
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "910",
+    "CANTON": "PEDERNALES",
+    "votos_validos": 6719,
+    "votos_blancos": 1470,
+    "votos_nulos": 948,
+    "votos_total": 9137,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 2536,
+        "porcentaje": 37.74
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "915",
+    "CANTON": "CHORDELEG",
+    "votos_validos": 2643,
+    "votos_blancos": 536,
+    "votos_nulos": 421,
+    "votos_total": 3600,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 1281,
+        "porcentaje": 48.47
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "920",
+    "CANTON": "LOMAS DE SARGENTILLO",
+    "votos_validos": 5646,
+    "votos_blancos": 1060,
+    "votos_nulos": 452,
+    "votos_total": 7158,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 2765,
+        "porcentaje": 48.97
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "925",
+    "CANTON": "SAN JUAN BOSCO",
+    "votos_validos": 572,
+    "votos_blancos": 74,
+    "votos_nulos": 113,
+    "votos_total": 759,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 246,
+        "porcentaje": 43.01
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "930",
+    "CANTON": "SIGCHOS",
+    "votos_validos": 3510,
+    "votos_blancos": 1850,
+    "votos_nulos": 1161,
+    "votos_total": 6521,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 929,
+        "porcentaje": 26.47
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "935",
+    "CANTON": "LORETO",
+    "votos_validos": 1647,
+    "votos_blancos": 348,
+    "votos_nulos": 516,
+    "votos_total": 2511,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 516,
+        "porcentaje": 31.33
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "940",
+    "CANTON": "NOBOL / PIEDRAHITA",
+    "votos_validos": 3536,
+    "votos_blancos": 709,
+    "votos_nulos": 453,
+    "votos_total": 4698,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1705,
+        "porcentaje": 48.22
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "945",
+    "CANTON": "BUENA FE",
+    "votos_validos": 6577,
+    "votos_blancos": 1717,
+    "votos_nulos": 1099,
+    "votos_total": 9393,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 2963,
+        "porcentaje": 45.05
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "95",
+    "CANTON": "BALAO",
+    "votos_validos": 2988,
+    "votos_blancos": 593,
+    "votos_nulos": 380,
+    "votos_total": 3961,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 830,
+        "porcentaje": 27.78
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "950",
+    "CANTON": "LAS NAVES",
+    "votos_validos": 1254,
+    "votos_blancos": 488,
+    "votos_nulos": 186,
+    "votos_total": 1928,
+    "ganador": "DP5",
+    "resultados": {
+      "DP5": {
+        "candidato": "DP5",
+        "votos": 321,
+        "porcentaje": 25.6
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "955",
+    "CANTON": "SEVILLA DE ORO",
+    "votos_validos": 1598,
+    "votos_blancos": 449,
+    "votos_nulos": 269,
+    "votos_total": 2316,
+    "ganador": "MUPP-NP-18",
+    "resultados": {
+      "MUPP-NP-18": {
+        "candidato": "MUPP-NP-18",
+        "votos": 476,
+        "porcentaje": 29.79
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "960",
+    "CANTON": "EL PAN",
+    "votos_validos": 784,
+    "votos_blancos": 158,
+    "votos_nulos": 199,
+    "votos_total": 1141,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 282,
+        "porcentaje": 35.97
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "965",
+    "CANTON": "LA LIBERTAD",
+    "votos_validos": 22092,
+    "votos_blancos": 2229,
+    "votos_nulos": 1884,
+    "votos_total": 26205,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 10048,
+        "porcentaje": 45.48
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "970",
+    "CANTON": "OLMEDO",
+    "votos_validos": 3209,
+    "votos_blancos": 768,
+    "votos_nulos": 397,
+    "votos_total": 4374,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 1520,
+        "porcentaje": 47.37
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "975",
+    "CANTON": "PUERTO LOPEZ",
+    "votos_validos": 4539,
+    "votos_blancos": 764,
+    "votos_nulos": 465,
+    "votos_total": 5768,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 1506,
+        "porcentaje": 33.18
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "980",
+    "CANTON": "CENTINELA DEL CONDOR",
+    "votos_validos": 1807,
+    "votos_blancos": 259,
+    "votos_nulos": 286,
+    "votos_total": 2352,
+    "ganador": "MPD15",
+    "resultados": {
+      "MPD15": {
+        "candidato": "MPD15",
+        "votos": 418,
+        "porcentaje": 23.13
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "985",
+    "CANTON": "GRAL. A. ELIZALDE",
+    "votos_validos": 2046,
+    "votos_blancos": 427,
+    "votos_nulos": 270,
+    "votos_total": 2743,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 654,
+        "porcentaje": 31.96
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "990",
+    "CANTON": "GUACHAPALA",
+    "votos_validos": 866,
+    "votos_blancos": 160,
+    "votos_nulos": 146,
+    "votos_total": 1172,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "PSC6",
+        "votos": 338,
+        "porcentaje": 39.03
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "995",
+    "CANTON": "SAN PEDRO DE HUACA",
+    "votos_validos": 2788,
+    "votos_blancos": 383,
+    "votos_nulos": 362,
+    "votos_total": 3533,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "PRE10",
+        "votos": 791,
+        "porcentaje": 28.37
+      }
+    }
+  }
+]

@@ -1,0 +1,338 @@
+[
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "votos_validos": 185434,
+    "votos_blancos": 17067,
+    "votos_nulos": 16475,
+    "votos_total": 218976,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 96458,
+        "porcentaje": 52.02
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLÍVAR",
+    "votos_validos": 49566,
+    "votos_blancos": 9423,
+    "votos_nulos": 7427,
+    "votos_total": 66416,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 13146,
+        "porcentaje": 26.52
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "votos_validos": 57955,
+    "votos_blancos": 5665,
+    "votos_nulos": 5409,
+    "votos_total": 69029,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 16985,
+        "porcentaje": 29.31
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "votos_validos": 57254,
+    "votos_blancos": 7427,
+    "votos_nulos": 9285,
+    "votos_total": 73966,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 21650,
+        "porcentaje": 37.81
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "votos_validos": 128348,
+    "votos_blancos": 20607,
+    "votos_nulos": 23251,
+    "votos_total": 172206,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 40929,
+        "porcentaje": 31.89
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "votos_validos": 103490,
+    "votos_blancos": 18173,
+    "votos_nulos": 19119,
+    "votos_total": 140782,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 33416,
+        "porcentaje": 32.29
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "votos_validos": 178853,
+    "votos_blancos": 11979,
+    "votos_nulos": 11910,
+    "votos_total": 202742,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 74496,
+        "porcentaje": 41.65
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "votos_validos": 95728,
+    "votos_blancos": 8558,
+    "votos_nulos": 14177,
+    "votos_total": 118463,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 52920,
+        "porcentaje": 55.28
+      }
+    }
+  },
+  {
+    "CODPRO": "20",
+    "PROVINCIA": "GALÁPAGOS",
+    "votos_validos": 4001,
+    "votos_blancos": 197,
+    "votos_nulos": 317,
+    "votos_total": 4515,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 1274,
+        "porcentaje": 31.84
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "votos_validos": 1061575,
+    "votos_blancos": 76884,
+    "votos_nulos": 84103,
+    "votos_total": 1222562,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 493310,
+        "porcentaje": 46.47
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "votos_validos": 108554,
+    "votos_blancos": 12732,
+    "votos_nulos": 14872,
+    "votos_total": 136158,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 35445,
+        "porcentaje": 32.65
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "votos_validos": 121834,
+    "votos_blancos": 14840,
+    "votos_nulos": 10400,
+    "votos_total": 147074,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 30565,
+        "porcentaje": 25.09
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RÍOS",
+    "votos_validos": 180173,
+    "votos_blancos": 25539,
+    "votos_nulos": 21168,
+    "votos_total": 226880,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 79083,
+        "porcentaje": 43.89
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABÍ",
+    "votos_validos": 372844,
+    "votos_blancos": 44360,
+    "votos_nulos": 41521,
+    "votos_total": 458725,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 142419,
+        "porcentaje": 38.2
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "votos_validos": 23539,
+    "votos_blancos": 3340,
+    "votos_nulos": 2679,
+    "votos_total": 29558,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 7751,
+        "porcentaje": 32.93
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "votos_validos": 31643,
+    "votos_blancos": 4136,
+    "votos_nulos": 4032,
+    "votos_total": 39811,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 11200,
+        "porcentaje": 35.39
+      }
+    }
+  },
+  {
+    "CODPRO": "16",
+    "PROVINCIA": "PASTAZA",
+    "votos_validos": 15325,
+    "votos_blancos": 1341,
+    "votos_nulos": 1264,
+    "votos_total": 17930,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6228,
+        "porcentaje": 40.64
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "votos_validos": 827054,
+    "votos_blancos": 34369,
+    "votos_nulos": 65116,
+    "votos_total": 926539,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 260904,
+        "porcentaje": 31.55
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBÍOS",
+    "votos_validos": 22093,
+    "votos_blancos": 3211,
+    "votos_nulos": 4006,
+    "votos_total": 29310,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 6696,
+        "porcentaje": 30.31
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "votos_validos": 165565,
+    "votos_blancos": 13986,
+    "votos_nulos": 21662,
+    "votos_total": 201213,
+    "ganador": "MUPP-NP18",
+    "resultados": {
+      "MUPP-NP18": {
+        "candidato": "FREDDY EHLERS ZURITA",
+        "votos": 60754,
+        "porcentaje": 36.69
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "votos_validos": 18916,
+    "votos_blancos": 2238,
+    "votos_nulos": 1872,
+    "votos_total": 23026,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6125,
+        "porcentaje": 32.38
+      }
+    }
+  }
+]

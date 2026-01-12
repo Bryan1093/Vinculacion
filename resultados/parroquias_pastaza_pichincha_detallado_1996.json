@@ -1,7 +1,7 @@
 {
   "PASTAZA": {
-    "3180": {
-      "nombre": "PARROQUIA_3180",
+    "7": {
+      "nombre": "PARROQUIA_7",
       "votos_validos": 52,
       "votos_blancos": 7,
       "votos_nulos": 7,
@@ -34,8 +34,8 @@
         }
       }
     },
-    "3195": {
-      "nombre": "PARROQUIA_3195",
+    "10": {
+      "nombre": "PARROQUIA_10",
       "votos_validos": 32,
       "votos_blancos": 18,
       "votos_nulos": 10,
@@ -78,8 +78,8 @@
         }
       }
     },
-    "3785": {
-      "nombre": "PARROQUIA_3785",
+    "19": {
+      "nombre": "PARROQUIA_19",
       "votos_validos": 210,
       "votos_blancos": 61,
       "votos_nulos": 19,
@@ -132,8 +132,8 @@
         }
       }
     },
-    "3985": {
-      "nombre": "PARROQUIA_3985",
+    "33": {
+      "nombre": "PARROQUIA_33",
       "votos_validos": 194,
       "votos_blancos": 12,
       "votos_nulos": 33,
@@ -181,8 +181,8 @@
         }
       }
     },
-    "4005": {
-      "nombre": "PARROQUIA_4005",
+    "31": {
+      "nombre": "PARROQUIA_31",
       "votos_validos": 231,
       "votos_blancos": 24,
       "votos_nulos": 31,
@@ -235,8 +235,8 @@
         }
       }
     },
-    "4205": {
-      "nombre": "PARROQUIA_4205",
+    "64": {
+      "nombre": "PARROQUIA_64",
       "votos_validos": 522,
       "votos_blancos": 70,
       "votos_nulos": 64,
@@ -289,8 +289,8 @@
         }
       }
     },
-    "4510": {
-      "nombre": "PARROQUIA_4510",
+    "47": {
+      "nombre": "PARROQUIA_47",
       "votos_validos": 267,
       "votos_blancos": 28,
       "votos_nulos": 47,
@@ -343,8 +343,8 @@
         }
       }
     },
-    "5825": {
-      "nombre": "PARROQUIA_5825",
+    "644": {
+      "nombre": "PARROQUIA_644",
       "votos_validos": 9248,
       "votos_blancos": 498,
       "votos_nulos": 644,
@@ -397,62 +397,62 @@
         }
       }
     },
-    "2310": {
-      "nombre": "PARROQUIA_2310",
-      "votos_validos": 303,
-      "votos_blancos": 74,
-      "votos_nulos": 46,
-      "total_votos": 423,
+    "46": {
+      "nombre": "PARROQUIA_46",
+      "votos_validos": 606,
+      "votos_blancos": 133,
+      "votos_nulos": 92,
+      "total_votos": 831,
       "candidatos": {
         "NOBOA RICARDO": {
           "partido": "PLRE-FRA",
-          "votos": 13,
-          "porcentaje": 4.29
+          "votos": 18,
+          "porcentaje": 2.97
         },
         "PAZ RODRIGO": {
           "partido": "DP",
-          "votos": 20,
-          "porcentaje": 6.6
+          "votos": 54,
+          "porcentaje": 8.91
         },
         "NEBOT JAIME": {
           "partido": "PSC",
-          "votos": 29,
-          "porcentaje": 9.57
+          "votos": 60,
+          "porcentaje": 9.9
         },
         "BUCARAM ABDALÁ": {
           "partido": "PRE",
-          "votos": 122,
-          "porcentaje": 40.26
+          "votos": 265,
+          "porcentaje": 43.73
         },
         "VARGAS FRANK": {
           "partido": "APRE",
-          "votos": 19,
-          "porcentaje": 6.27
+          "votos": 28,
+          "porcentaje": 4.62
         },
         "CASTELLÓ JUAN": {
           "partido": "MPD",
-          "votos": 38,
-          "porcentaje": 12.54
+          "votos": 48,
+          "porcentaje": 7.92
         },
         "EHLEARS FREDDY": {
           "partido": "MUPP-NP",
-          "votos": 57,
-          "porcentaje": 18.81
+          "votos": 127,
+          "porcentaje": 20.96
         },
         "GALLARDO JOSÉ": {
           "partido": "UCI",
-          "votos": 4,
-          "porcentaje": 1.32
+          "votos": 5,
+          "porcentaje": 0.83
         },
         "VELÁZQUEZ JACINTO": {
           "partido": "MITI",
           "votos": 1,
-          "porcentaje": 0.33
+          "porcentaje": 0.17
         }
       }
     },
-    "3840": {
-      "nombre": "PARROQUIA_3840",
+    "57": {
+      "nombre": "PARROQUIA_57",
       "votos_validos": 1149,
       "votos_blancos": 52,
       "votos_nulos": 57,
@@ -505,8 +505,8 @@
         }
       }
     },
-    "5650": {
-      "nombre": "PARROQUIA_5650",
+    "18": {
+      "nombre": "PARROQUIA_18",
       "votos_validos": 448,
       "votos_blancos": 25,
       "votos_nulos": 18,
@@ -559,8 +559,8 @@
         }
       }
     },
-    "6395": {
-      "nombre": "PARROQUIA_6395",
+    "61": {
+      "nombre": "PARROQUIA_61",
       "votos_validos": 1033,
       "votos_blancos": 151,
       "votos_nulos": 61,
@@ -615,8 +615,8 @@
     }
   },
   "PICHINCHA": {
-    "30": {
-      "nombre": "PARROQUIA_30",
+    "430": {
+      "nombre": "PARROQUIA_430",
       "votos_validos": 3922,
       "votos_blancos": 289,
       "votos_nulos": 430,
@@ -669,8 +669,8 @@
         }
       }
     },
-    "80": {
-      "nombre": "PARROQUIA_80",
+    "841": {
+      "nombre": "PARROQUIA_841",
       "votos_validos": 7556,
       "votos_blancos": 684,
       "votos_nulos": 841,
@@ -723,116 +723,116 @@
         }
       }
     },
-    "195": {
-      "nombre": "PARROQUIA_195",
-      "votos_validos": 720,
-      "votos_blancos": 60,
-      "votos_nulos": 161,
-      "total_votos": 941,
+    "161": {
+      "nombre": "PARROQUIA_161",
+      "votos_validos": 1738,
+      "votos_blancos": 150,
+      "votos_nulos": 322,
+      "total_votos": 2210,
       "candidatos": {
         "NOBOA RICARDO": {
           "partido": "PLRE-FRA",
-          "votos": 31,
-          "porcentaje": 4.31
+          "votos": 62,
+          "porcentaje": 3.57
         },
         "PAZ RODRIGO": {
           "partido": "DP",
-          "votos": 98,
-          "porcentaje": 13.61
+          "votos": 225,
+          "porcentaje": 12.95
         },
         "NEBOT JAIME": {
           "partido": "PSC",
-          "votos": 100,
-          "porcentaje": 13.89
+          "votos": 174,
+          "porcentaje": 10.01
         },
         "BUCARAM ABDALÁ": {
           "partido": "PRE",
-          "votos": 133,
-          "porcentaje": 18.47
+          "votos": 358,
+          "porcentaje": 20.6
         },
         "VARGAS FRANK": {
           "partido": "APRE",
-          "votos": 51,
-          "porcentaje": 7.08
+          "votos": 207,
+          "porcentaje": 11.91
         },
         "CASTELLÓ JUAN": {
           "partido": "MPD",
-          "votos": 14,
-          "porcentaje": 1.94
+          "votos": 54,
+          "porcentaje": 3.11
         },
         "EHLEARS FREDDY": {
           "partido": "MUPP-NP",
-          "votos": 280,
-          "porcentaje": 38.89
+          "votos": 635,
+          "porcentaje": 36.54
         },
         "GALLARDO JOSÉ": {
           "partido": "UCI",
-          "votos": 8,
-          "porcentaje": 1.11
+          "votos": 13,
+          "porcentaje": 0.75
         },
         "VELÁZQUEZ JACINTO": {
           "partido": "MITI",
-          "votos": 5,
-          "porcentaje": 0.69
+          "votos": 10,
+          "porcentaje": 0.58
         }
       }
     },
-    "430": {
-      "nombre": "PARROQUIA_430",
-      "votos_validos": 1307,
-      "votos_blancos": 144,
-      "votos_nulos": 188,
-      "total_votos": 1639,
+    "188": {
+      "nombre": "PARROQUIA_188",
+      "votos_validos": 2826,
+      "votos_blancos": 233,
+      "votos_nulos": 376,
+      "total_votos": 3435,
       "candidatos": {
         "NOBOA RICARDO": {
           "partido": "PLRE-FRA",
-          "votos": 37,
-          "porcentaje": 2.83
+          "votos": 54,
+          "porcentaje": 1.91
         },
         "PAZ RODRIGO": {
           "partido": "DP",
-          "votos": 194,
-          "porcentaje": 14.84
+          "votos": 545,
+          "porcentaje": 19.29
         },
         "NEBOT JAIME": {
           "partido": "PSC",
-          "votos": 153,
-          "porcentaje": 11.71
+          "votos": 303,
+          "porcentaje": 10.72
         },
         "BUCARAM ABDALÁ": {
           "partido": "PRE",
-          "votos": 194,
-          "porcentaje": 14.84
+          "votos": 299,
+          "porcentaje": 10.58
         },
         "VARGAS FRANK": {
           "partido": "APRE",
-          "votos": 98,
-          "porcentaje": 7.5
+          "votos": 290,
+          "porcentaje": 10.26
         },
         "CASTELLÓ JUAN": {
           "partido": "MPD",
-          "votos": 19,
-          "porcentaje": 1.45
+          "votos": 72,
+          "porcentaje": 2.55
         },
         "EHLEARS FREDDY": {
           "partido": "MUPP-NP",
-          "votos": 599,
-          "porcentaje": 45.83
+          "votos": 1225,
+          "porcentaje": 43.35
         },
         "GALLARDO JOSÉ": {
           "partido": "UCI",
+          "votos": 29,
+          "porcentaje": 1.03
+        },
+        "VELÁZQUEZ JACINTO": {
+          "partido": "MITI",
           "votos": 9,
-          "porcentaje": 0.69
-        },
-        "VELÁZQUEZ JACINTO": {
-          "partido": "MITI",
-          "votos": 4,
-          "porcentaje": 0.31
+          "porcentaje": 0.32
         }
       }
     },
-    "440": {
-      "nombre": "PARROQUIA_440",
+    "1445": {
+      "nombre": "PARROQUIA_1445",
       "votos_validos": 13847,
       "votos_blancos": 1150,
       "votos_nulos": 1445,
@@ -885,8 +885,8 @@
         }
       }
     },
-    "625": {
-      "nombre": "PARROQUIA_625",
+    "1079": {
+      "nombre": "PARROQUIA_1079",
       "votos_validos": 13244,
       "votos_blancos": 390,
       "votos_nulos": 1079,
@@ -939,8 +939,8 @@
         }
       }
     },
-    "725": {
-      "nombre": "PARROQUIA_725",
+    "381": {
+      "nombre": "PARROQUIA_381",
       "votos_validos": 5751,
       "votos_blancos": 176,
       "votos_nulos": 381,
@@ -993,8 +993,8 @@
         }
       }
     },
-    "855": {
-      "nombre": "PARROQUIA_855",
+    "58": {
+      "nombre": "PARROQUIA_58",
       "votos_validos": 275,
       "votos_blancos": 52,
       "votos_nulos": 58,
@@ -1047,8 +1047,8 @@
         }
       }
     },
-    "865": {
-      "nombre": "PARROQUIA_865",
+    "194": {
+      "nombre": "PARROQUIA_194",
       "votos_validos": 1109,
       "votos_blancos": 131,
       "votos_nulos": 194,
@@ -1101,8 +1101,8 @@
         }
       }
     },
-    "1400": {
-      "nombre": "PARROQUIA_1400",
+    "75": {
+      "nombre": "PARROQUIA_75",
       "votos_validos": 509,
       "votos_blancos": 81,
       "votos_nulos": 75,
@@ -1150,8 +1150,8 @@
         }
       }
     },
-    "1440": {
-      "nombre": "PARROQUIA_1440",
+    "118": {
+      "nombre": "PARROQUIA_118",
       "votos_validos": 726,
       "votos_blancos": 48,
       "votos_nulos": 118,
@@ -1204,8 +1204,8 @@
         }
       }
     },
-    "1475": {
-      "nombre": "PARROQUIA_1475",
+    "351": {
+      "nombre": "PARROQUIA_351",
       "votos_validos": 3102,
       "votos_blancos": 215,
       "votos_nulos": 351,
@@ -1258,62 +1258,62 @@
         }
       }
     },
-    "2055": {
-      "nombre": "PARROQUIA_2055",
-      "votos_validos": 1150,
-      "votos_blancos": 85,
-      "votos_nulos": 251,
-      "total_votos": 1486,
+    "251": {
+      "nombre": "PARROQUIA_251",
+      "votos_validos": 2710,
+      "votos_blancos": 271,
+      "votos_nulos": 502,
+      "total_votos": 3483,
       "candidatos": {
         "NOBOA RICARDO": {
           "partido": "PLRE-FRA",
-          "votos": 15,
-          "porcentaje": 1.3
+          "votos": 63,
+          "porcentaje": 2.32
         },
         "PAZ RODRIGO": {
           "partido": "DP",
-          "votos": 210,
-          "porcentaje": 18.26
+          "votos": 362,
+          "porcentaje": 13.36
         },
         "NEBOT JAIME": {
           "partido": "PSC",
-          "votos": 142,
-          "porcentaje": 12.35
+          "votos": 544,
+          "porcentaje": 20.07
         },
         "BUCARAM ABDALÁ": {
           "partido": "PRE",
-          "votos": 126,
-          "porcentaje": 10.96
+          "votos": 426,
+          "porcentaje": 15.72
         },
         "VARGAS FRANK": {
           "partido": "APRE",
-          "votos": 139,
-          "porcentaje": 12.09
+          "votos": 234,
+          "porcentaje": 8.63
         },
         "CASTELLÓ JUAN": {
           "partido": "MPD",
-          "votos": 11,
-          "porcentaje": 0.96
+          "votos": 77,
+          "porcentaje": 2.84
         },
         "EHLEARS FREDDY": {
           "partido": "MUPP-NP",
-          "votos": 474,
-          "porcentaje": 41.22
+          "votos": 931,
+          "porcentaje": 34.35
         },
         "GALLARDO JOSÉ": {
           "partido": "UCI",
-          "votos": 15,
-          "porcentaje": 1.3
+          "votos": 30,
+          "porcentaje": 1.11
         },
         "VELÁZQUEZ JACINTO": {
           "partido": "MITI",
-          "votos": 18,
-          "porcentaje": 1.57
+          "votos": 43,
+          "porcentaje": 1.59
         }
       }
     },
-    "2265": {
-      "nombre": "PARROQUIA_2265",
+    "143": {
+      "nombre": "PARROQUIA_143",
       "votos_validos": 1417,
       "votos_blancos": 110,
       "votos_nulos": 143,
@@ -1366,8 +1366,8 @@
         }
       }
     },
-    "2275": {
-      "nombre": "PARROQUIA_2275",
+    "102": {
+      "nombre": "PARROQUIA_102",
       "votos_validos": 553,
       "votos_blancos": 73,
       "votos_nulos": 102,
@@ -1420,8 +1420,8 @@
         }
       }
     },
-    "2525": {
-      "nombre": "PARROQUIA_2525",
+    "122": {
+      "nombre": "PARROQUIA_122",
       "votos_validos": 583,
       "votos_blancos": 186,
       "votos_nulos": 122,
@@ -1474,8 +1474,8 @@
         }
       }
     },
-    "2530": {
-      "nombre": "PARROQUIA_2530",
+    "153": {
+      "nombre": "PARROQUIA_153",
       "votos_validos": 817,
       "votos_blancos": 51,
       "votos_nulos": 153,
@@ -1528,62 +1528,62 @@
         }
       }
     },
-    "2540": {
-      "nombre": "PARROQUIA_2540",
-      "votos_validos": 2385,
-      "votos_blancos": 113,
-      "votos_nulos": 186,
-      "total_votos": 2684,
+    "186": {
+      "nombre": "PARROQUIA_186",
+      "votos_validos": 3213,
+      "votos_blancos": 382,
+      "votos_nulos": 372,
+      "total_votos": 3967,
       "candidatos": {
         "NOBOA RICARDO": {
           "partido": "PLRE-FRA",
-          "votos": 92,
-          "porcentaje": 3.86
+          "votos": 108,
+          "porcentaje": 3.36
         },
         "PAZ RODRIGO": {
           "partido": "DP",
-          "votos": 421,
-          "porcentaje": 17.65
+          "votos": 487,
+          "porcentaje": 15.16
         },
         "NEBOT JAIME": {
           "partido": "PSC",
-          "votos": 224,
-          "porcentaje": 9.39
+          "votos": 310,
+          "porcentaje": 9.65
         },
         "BUCARAM ABDALÁ": {
           "partido": "PRE",
-          "votos": 164,
-          "porcentaje": 6.88
+          "votos": 268,
+          "porcentaje": 8.34
         },
         "VARGAS FRANK": {
           "partido": "APRE",
-          "votos": 229,
-          "porcentaje": 9.6
+          "votos": 270,
+          "porcentaje": 8.4
         },
         "CASTELLÓ JUAN": {
           "partido": "MPD",
-          "votos": 71,
-          "porcentaje": 2.98
+          "votos": 106,
+          "porcentaje": 3.3
         },
         "EHLEARS FREDDY": {
           "partido": "MUPP-NP",
-          "votos": 1127,
-          "porcentaje": 47.25
+          "votos": 1589,
+          "porcentaje": 49.46
         },
         "GALLARDO JOSÉ": {
           "partido": "UCI",
-          "votos": 38,
-          "porcentaje": 1.59
+          "votos": 46,
+          "porcentaje": 1.43
         },
         "VELÁZQUEZ JACINTO": {
           "partido": "MITI",
-          "votos": 19,
-          "porcentaje": 0.8
+          "votos": 29,
+          "porcentaje": 0.9
         }
       }
     },
-    "2560": {
-      "nombre": "PARROQUIA_2560",
+    "111": {
+      "nombre": "PARROQUIA_111",
       "votos_validos": 510,
       "votos_blancos": 86,
       "votos_nulos": 111,
@@ -1636,8 +1636,8 @@
         }
       }
     },
-    "2690": {
-      "nombre": "PARROQUIA_2690",
+    "219": {
+      "nombre": "PARROQUIA_219",
       "votos_validos": 1015,
       "votos_blancos": 173,
       "votos_nulos": 219,
@@ -1690,8 +1690,8 @@
         }
       }
     },
-    "2825": {
-      "nombre": "PARROQUIA_2825",
+    "57": {
+      "nombre": "PARROQUIA_57",
       "votos_validos": 249,
       "votos_blancos": 35,
       "votos_nulos": 57,
@@ -1744,8 +1744,8 @@
         }
       }
     },
-    "2855": {
-      "nombre": "PARROQUIA_2855",
+    "612": {
+      "nombre": "PARROQUIA_612",
       "votos_validos": 3000,
       "votos_blancos": 269,
       "votos_nulos": 612,
@@ -1798,8 +1798,8 @@
         }
       }
     },
-    "2895": {
-      "nombre": "PARROQUIA_2895",
+    "632": {
+      "nombre": "PARROQUIA_632",
       "votos_validos": 4236,
       "votos_blancos": 635,
       "votos_nulos": 632,
@@ -1852,8 +1852,8 @@
         }
       }
     },
-    "2925": {
-      "nombre": "PARROQUIA_2925",
+    "509": {
+      "nombre": "PARROQUIA_509",
       "votos_validos": 5738,
       "votos_blancos": 249,
       "votos_nulos": 509,
@@ -1906,8 +1906,8 @@
         }
       }
     },
-    "2980": {
-      "nombre": "PARROQUIA_2980",
+    "327": {
+      "nombre": "PARROQUIA_327",
       "votos_validos": 1698,
       "votos_blancos": 315,
       "votos_nulos": 327,
@@ -1960,8 +1960,8 @@
         }
       }
     },
-    "2985": {
-      "nombre": "PARROQUIA_2985",
+    "250": {
+      "nombre": "PARROQUIA_250",
       "votos_validos": 2326,
       "votos_blancos": 157,
       "votos_nulos": 250,
@@ -2014,8 +2014,8 @@
         }
       }
     },
-    "3100": {
-      "nombre": "PARROQUIA_3100",
+    "459": {
+      "nombre": "PARROQUIA_459",
       "votos_validos": 2955,
       "votos_blancos": 288,
       "votos_nulos": 459,
@@ -2068,8 +2068,8 @@
         }
       }
     },
-    "3325": {
-      "nombre": "PARROQUIA_3325",
+    "717": {
+      "nombre": "PARROQUIA_717",
       "votos_validos": 5199,
       "votos_blancos": 476,
       "votos_nulos": 717,
@@ -2122,8 +2122,8 @@
         }
       }
     },
-    "3475": {
-      "nombre": "PARROQUIA_3475",
+    "429": {
+      "nombre": "PARROQUIA_429",
       "votos_validos": 1624,
       "votos_blancos": 259,
       "votos_nulos": 429,
@@ -2176,8 +2176,8 @@
         }
       }
     },
-    "3925": {
-      "nombre": "PARROQUIA_3925",
+    "72": {
+      "nombre": "PARROQUIA_72",
       "votos_validos": 535,
       "votos_blancos": 36,
       "votos_nulos": 72,
@@ -2225,8 +2225,8 @@
         }
       }
     },
-    "4085": {
-      "nombre": "PARROQUIA_4085",
+    "1234": {
+      "nombre": "PARROQUIA_1234",
       "votos_validos": 9974,
       "votos_blancos": 605,
       "votos_nulos": 1234,
@@ -2279,8 +2279,8 @@
         }
       }
     },
-    "4290": {
-      "nombre": "PARROQUIA_4290",
+    "592": {
+      "nombre": "PARROQUIA_592",
       "votos_validos": 3602,
       "votos_blancos": 343,
       "votos_nulos": 592,
@@ -2333,62 +2333,8 @@
         }
       }
     },
-    "4325": {
-      "nombre": "PARROQUIA_4325",
-      "votos_validos": 1519,
-      "votos_blancos": 89,
-      "votos_nulos": 188,
-      "total_votos": 1796,
-      "candidatos": {
-        "NOBOA RICARDO": {
-          "partido": "PLRE-FRA",
-          "votos": 17,
-          "porcentaje": 1.12
-        },
-        "PAZ RODRIGO": {
-          "partido": "DP",
-          "votos": 351,
-          "porcentaje": 23.11
-        },
-        "NEBOT JAIME": {
-          "partido": "PSC",
-          "votos": 150,
-          "porcentaje": 9.87
-        },
-        "BUCARAM ABDALÁ": {
-          "partido": "PRE",
-          "votos": 105,
-          "porcentaje": 6.91
-        },
-        "VARGAS FRANK": {
-          "partido": "APRE",
-          "votos": 192,
-          "porcentaje": 12.64
-        },
-        "CASTELLÓ JUAN": {
-          "partido": "MPD",
-          "votos": 53,
-          "porcentaje": 3.49
-        },
-        "EHLEARS FREDDY": {
-          "partido": "MUPP-NP",
-          "votos": 626,
-          "porcentaje": 41.21
-        },
-        "GALLARDO JOSÉ": {
-          "partido": "UCI",
-          "votos": 20,
-          "porcentaje": 1.32
-        },
-        "VELÁZQUEZ JACINTO": {
-          "partido": "MITI",
-          "votos": 5,
-          "porcentaje": 0.33
-        }
-      }
-    },
-    "5015": {
-      "nombre": "PARROQUIA_5015",
+    "5845": {
+      "nombre": "PARROQUIA_5845",
       "votos_validos": 79007,
       "votos_blancos": 2353,
       "votos_nulos": 5845,
@@ -2441,8 +2387,8 @@
         }
       }
     },
-    "5110": {
-      "nombre": "PARROQUIA_5110",
+    "1789": {
+      "nombre": "PARROQUIA_1789",
       "votos_validos": 44253,
       "votos_blancos": 580,
       "votos_nulos": 1789,
@@ -2495,8 +2441,8 @@
         }
       }
     },
-    "5220": {
-      "nombre": "PARROQUIA_5220",
+    "5102": {
+      "nombre": "PARROQUIA_5102",
       "votos_validos": 83034,
       "votos_blancos": 2032,
       "votos_nulos": 5102,
@@ -2549,8 +2495,8 @@
         }
       }
     },
-    "5235": {
-      "nombre": "PARROQUIA_5235",
+    "3574": {
+      "nombre": "PARROQUIA_3574",
       "votos_validos": 80224,
       "votos_blancos": 1317,
       "votos_nulos": 3574,
@@ -2603,8 +2549,8 @@
         }
       }
     },
-    "5260": {
-      "nombre": "PARROQUIA_5260",
+    "4603": {
+      "nombre": "PARROQUIA_4603",
       "votos_validos": 55988,
       "votos_blancos": 1858,
       "votos_nulos": 4603,
@@ -2657,8 +2603,8 @@
         }
       }
     },
-    "5325": {
-      "nombre": "PARROQUIA_5325",
+    "1345": {
+      "nombre": "PARROQUIA_1345",
       "votos_validos": 15677,
       "votos_blancos": 501,
       "votos_nulos": 1345,
@@ -2711,8 +2657,8 @@
         }
       }
     },
-    "5410": {
-      "nombre": "PARROQUIA_5410",
+    "255": {
+      "nombre": "PARROQUIA_255",
       "votos_validos": 4125,
       "votos_blancos": 90,
       "votos_nulos": 255,
@@ -2765,8 +2711,8 @@
         }
       }
     },
-    "5435": {
-      "nombre": "PARROQUIA_5435",
+    "181": {
+      "nombre": "PARROQUIA_181",
       "votos_validos": 2009,
       "votos_blancos": 50,
       "votos_nulos": 181,
@@ -2819,8 +2765,8 @@
         }
       }
     },
-    "5530": {
-      "nombre": "PARROQUIA_5530",
+    "454": {
+      "nombre": "PARROQUIA_454",
       "votos_validos": 10370,
       "votos_blancos": 164,
       "votos_nulos": 454,
@@ -2873,8 +2819,8 @@
         }
       }
     },
-    "5535": {
-      "nombre": "PARROQUIA_5535",
+    "1049": {
+      "nombre": "PARROQUIA_1049",
       "votos_validos": 12857,
       "votos_blancos": 393,
       "votos_nulos": 1049,
@@ -2927,8 +2873,8 @@
         }
       }
     },
-    "5540": {
-      "nombre": "PARROQUIA_5540",
+    "3255": {
+      "nombre": "PARROQUIA_3255",
       "votos_validos": 49243,
       "votos_blancos": 1106,
       "votos_nulos": 3255,
@@ -2981,8 +2927,8 @@
         }
       }
     },
-    "5575": {
-      "nombre": "PARROQUIA_5575",
+    "615": {
+      "nombre": "PARROQUIA_615",
       "votos_validos": 9807,
       "votos_blancos": 173,
       "votos_nulos": 615,
@@ -3035,8 +2981,8 @@
         }
       }
     },
-    "5935": {
-      "nombre": "PARROQUIA_5935",
+    "1367": {
+      "nombre": "PARROQUIA_1367",
       "votos_validos": 24610,
       "votos_blancos": 415,
       "votos_nulos": 1367,
@@ -3089,8 +3035,8 @@
         }
       }
     },
-    "5985": {
-      "nombre": "PARROQUIA_5985",
+    "462": {
+      "nombre": "PARROQUIA_462",
       "votos_validos": 8154,
       "votos_blancos": 216,
       "votos_nulos": 462,

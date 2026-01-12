@@ -87,17 +87,17 @@ def cargar_y_limpiar_datos():
 
 def obtener_parroquias_seleccionadas(df):
     """Obtiene las parroquias específicas de Pastaza y Pichincha en el orden proporcionado"""
-    # Parroquias específicas de PASTAZA (en el orden proporcionado por el usuario)
-    parroquias_pastaza = ['3180', '3195', '3785', '3985', '4005', '4205', 
-                          '4510', '5825', '2310', '3840', '5650', '6395']
+    # Parroquias específicas de PASTAZA (códigos corregidos)
+    parroquias_pastaza = ['7', '10', '19', '33', '31', '64', 
+                          '47', '644', '46', '57', '18', '61']
     
-    # Parroquias específicas de PICHINCHA (en el orden proporcionado por el usuario)
-    parroquias_pichincha = ['30', '80', '195', '430', '440', '625', '725', '855', '865',
-                            '1400', '1440', '1475', '2055', '2265', '2275', '2525', '2530',
-                            '2540', '2560', '2690', '2825', '2855', '2895', '2925', '2980',
-                            '2985', '3100', '3325', '3475', '3925', '4085', '4290', '4325',
-                            '5015', '5110', '5220', '5235', '5260', '5325', '5410', '5435',
-                            '5530', '5535', '5540', '5575', '5935', '5985']
+    # Parroquias específicas de PICHINCHA (códigos corregidos - primeros 47)
+    parroquias_pichincha = ['430', '841', '161', '188', '1445', '1079', '381', '58', '194',
+                            '75', '118', '351', '251', '143', '102', '122', '153', '186',
+                            '111', '219', '57', '612', '632', '509', '327', '250', '459',
+                            '717', '429', '72', '1234', '592', '188', '5845', '1789', '5102',
+                            '3574', '4603', '1345', '255', '181', '454', '1049', '3255', '615',
+                            '1367', '462']
     
     return parroquias_pastaza, parroquias_pichincha
 

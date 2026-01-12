@@ -1,0 +1,3602 @@
+[
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "10",
+    "CANTON": "MONTUFAR",
+    "votos_validos": 12432,
+    "votos_blancos": 149,
+    "votos_nulos": 2398,
+    "votos_total": 14979,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8963,
+        "porcentaje": 72.1
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "100",
+    "CANTON": "LATACUNGA",
+    "votos_validos": 56376,
+    "votos_blancos": 922,
+    "votos_nulos": 11196,
+    "votos_total": 68494,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 36725,
+        "porcentaje": 65.14
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "105",
+    "CANTON": "PUJILI",
+    "votos_validos": 17105,
+    "votos_blancos": 664,
+    "votos_nulos": 5313,
+    "votos_total": 23082,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 11516,
+        "porcentaje": 67.33
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "110",
+    "CANTON": "SALCEDO",
+    "votos_validos": 19815,
+    "votos_blancos": 358,
+    "votos_nulos": 4560,
+    "votos_total": 24733,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 14818,
+        "porcentaje": 74.78
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "115",
+    "CANTON": "SAQUISILI",
+    "votos_validos": 6115,
+    "votos_blancos": 143,
+    "votos_nulos": 1652,
+    "votos_total": 7910,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4560,
+        "porcentaje": 74.57
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "120",
+    "CANTON": "PANGUA",
+    "votos_validos": 4867,
+    "votos_blancos": 117,
+    "votos_nulos": 798,
+    "votos_total": 5782,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2790,
+        "porcentaje": 57.32
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "125",
+    "CANTON": "COLIMES",
+    "votos_validos": 5347,
+    "votos_blancos": 77,
+    "votos_nulos": 538,
+    "votos_total": 5962,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2797,
+        "porcentaje": 52.31
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "130",
+    "CANTON": "NANGARITZA",
+    "votos_validos": 889,
+    "votos_blancos": 4,
+    "votos_nulos": 60,
+    "votos_total": 953,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 706,
+        "porcentaje": 79.42
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "135",
+    "CANTON": "AMBATO",
+    "votos_validos": 110506,
+    "votos_blancos": 1209,
+    "votos_nulos": 20085,
+    "votos_total": 131800,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 56511,
+        "porcentaje": 51.14
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "140",
+    "CANTON": "BAÑOS",
+    "votos_validos": 18214,
+    "votos_blancos": 233,
+    "votos_nulos": 3762,
+    "votos_total": 22209,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 12435,
+        "porcentaje": 68.27
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "145",
+    "CANTON": "PATATE",
+    "votos_validos": 15348,
+    "votos_blancos": 296,
+    "votos_nulos": 3301,
+    "votos_total": 18945,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 10213,
+        "porcentaje": 66.54
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "15",
+    "CANTON": "ESPEJO",
+    "votos_validos": 6170,
+    "votos_blancos": 67,
+    "votos_nulos": 1030,
+    "votos_total": 7267,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4604,
+        "porcentaje": 74.62
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "150",
+    "CANTON": "AMBATO",
+    "votos_validos": 8026,
+    "votos_blancos": 57,
+    "votos_nulos": 1121,
+    "votos_total": 9204,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 5315,
+        "porcentaje": 66.22
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "155",
+    "CANTON": "AMBATO",
+    "votos_validos": 4310,
+    "votos_blancos": 63,
+    "votos_nulos": 854,
+    "votos_total": 5227,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2748,
+        "porcentaje": 63.76
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "160",
+    "CANTON": "QUERO",
+    "votos_validos": 6848,
+    "votos_blancos": 102,
+    "votos_nulos": 1320,
+    "votos_total": 8270,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4615,
+        "porcentaje": 67.39
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "165",
+    "CANTON": "GUARANDA",
+    "votos_validos": 24728,
+    "votos_blancos": 741,
+    "votos_nulos": 7075,
+    "votos_total": 32544,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 16464,
+        "porcentaje": 66.58
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "170",
+    "CANTON": "CHIMBO",
+    "votos_validos": 6060,
+    "votos_blancos": 55,
+    "votos_nulos": 761,
+    "votos_total": 6876,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 3034,
+        "porcentaje": 50.07
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "175",
+    "CANTON": "SAN MIGUEL",
+    "votos_validos": 10699,
+    "votos_blancos": 130,
+    "votos_nulos": 1736,
+    "votos_total": 12565,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6237,
+        "porcentaje": 58.3
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "180",
+    "CANTON": "CHILLANES",
+    "votos_validos": 5771,
+    "votos_blancos": 133,
+    "votos_nulos": 872,
+    "votos_total": 6776,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3313,
+        "porcentaje": 57.41
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "185",
+    "CANTON": "ECHEANDIA",
+    "votos_validos": 4928,
+    "votos_blancos": 56,
+    "votos_nulos": 568,
+    "votos_total": 5552,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2998,
+        "porcentaje": 60.84
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "190",
+    "CANTON": "CHAMBO",
+    "votos_validos": 3693,
+    "votos_blancos": 57,
+    "votos_nulos": 857,
+    "votos_total": 4607,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2428,
+        "porcentaje": 65.75
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "195",
+    "CANTON": "RIOBAMBA",
+    "votos_validos": 73780,
+    "votos_blancos": 1111,
+    "votos_nulos": 15196,
+    "votos_total": 90087,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 46765,
+        "porcentaje": 63.38
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "20",
+    "CANTON": "MIRA",
+    "votos_validos": 5023,
+    "votos_blancos": 71,
+    "votos_nulos": 739,
+    "votos_total": 5833,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3932,
+        "porcentaje": 78.28
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "200",
+    "CANTON": "GUANO",
+    "votos_validos": 13696,
+    "votos_blancos": 283,
+    "votos_nulos": 3324,
+    "votos_total": 17303,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 10688,
+        "porcentaje": 78.04
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "205",
+    "CANTON": "COLTA",
+    "votos_validos": 16185,
+    "votos_blancos": 658,
+    "votos_nulos": 5678,
+    "votos_total": 22521,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 12609,
+        "porcentaje": 77.91
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "210",
+    "CANTON": "GUAMOTE",
+    "votos_validos": 8987,
+    "votos_blancos": 274,
+    "votos_nulos": 4045,
+    "votos_total": 13306,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6931,
+        "porcentaje": 77.12
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "215",
+    "CANTON": "ALAUSI",
+    "votos_validos": 12873,
+    "votos_blancos": 549,
+    "votos_nulos": 4102,
+    "votos_total": 17524,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 9056,
+        "porcentaje": 70.35
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "220",
+    "CANTON": "CHUNCHI",
+    "votos_validos": 4319,
+    "votos_blancos": 137,
+    "votos_nulos": 877,
+    "votos_total": 5333,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2611,
+        "porcentaje": 60.45
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "225",
+    "CANTON": "PENIPE",
+    "votos_validos": 2999,
+    "votos_blancos": 38,
+    "votos_nulos": 599,
+    "votos_total": 3636,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2102,
+        "porcentaje": 70.09
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "230",
+    "CANTON": "FLAVIO ALFARO",
+    "votos_validos": 7964,
+    "votos_blancos": 178,
+    "votos_nulos": 757,
+    "votos_total": 8899,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 4011,
+        "porcentaje": 50.36
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "235",
+    "CANTON": "AZOGUES",
+    "votos_validos": 23329,
+    "votos_blancos": 209,
+    "votos_nulos": 3380,
+    "votos_total": 26918,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 13253,
+        "porcentaje": 56.81
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "240",
+    "CANTON": "CAÑAR",
+    "votos_validos": 18774,
+    "votos_blancos": 381,
+    "votos_nulos": 3552,
+    "votos_total": 22707,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 12816,
+        "porcentaje": 68.26
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "245",
+    "CANTON": "BIBLIAN",
+    "votos_validos": 6350,
+    "votos_blancos": 89,
+    "votos_nulos": 1159,
+    "votos_total": 7598,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3448,
+        "porcentaje": 54.3
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "25",
+    "CANTON": "BOLIVAR",
+    "votos_validos": 5515,
+    "votos_blancos": 81,
+    "votos_nulos": 1025,
+    "votos_total": 6621,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3559,
+        "porcentaje": 64.53
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "250",
+    "CANTON": "LA TRONCAL",
+    "votos_validos": 11288,
+    "votos_blancos": 102,
+    "votos_nulos": 1348,
+    "votos_total": 12738,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8147,
+        "porcentaje": 72.17
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "255",
+    "CANTON": "EL CHACO",
+    "votos_validos": 327,
+    "votos_blancos": 162,
+    "votos_nulos": 179,
+    "votos_total": 668,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 185,
+        "porcentaje": 56.57
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "260",
+    "CANTON": "CUENCA",
+    "votos_validos": 138901,
+    "votos_blancos": 1462,
+    "votos_nulos": 22063,
+    "votos_total": 162426,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 78191,
+        "porcentaje": 56.29
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "265",
+    "CANTON": "GUALACEO",
+    "votos_validos": 10237,
+    "votos_blancos": 329,
+    "votos_nulos": 2576,
+    "votos_total": 13142,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6907,
+        "porcentaje": 67.47
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "270",
+    "CANTON": "GIRON",
+    "votos_validos": 4158,
+    "votos_blancos": 45,
+    "votos_nulos": 647,
+    "votos_total": 4850,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2278,
+        "porcentaje": 54.79
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "275",
+    "CANTON": "PAUTE",
+    "votos_validos": 7345,
+    "votos_blancos": 190,
+    "votos_nulos": 1601,
+    "votos_total": 9136,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4823,
+        "porcentaje": 65.66
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "280",
+    "CANTON": "SIGSIG",
+    "votos_validos": 7999,
+    "votos_blancos": 188,
+    "votos_nulos": 1623,
+    "votos_total": 9810,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6034,
+        "porcentaje": 75.43
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "285",
+    "CANTON": "SANTA ISABEL",
+    "votos_validos": 6418,
+    "votos_blancos": 75,
+    "votos_nulos": 776,
+    "votos_total": 7269,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4770,
+        "porcentaje": 74.32
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "290",
+    "CANTON": "CATAMAYO",
+    "votos_validos": 8637,
+    "votos_blancos": 65,
+    "votos_nulos": 701,
+    "votos_total": 9403,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 5964,
+        "porcentaje": 69.05
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "295",
+    "CANTON": "ZAPOTILLO",
+    "votos_validos": 3127,
+    "votos_blancos": 27,
+    "votos_nulos": 158,
+    "votos_total": 3312,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1656,
+        "porcentaje": 52.96
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "30",
+    "CANTON": "IBARRA",
+    "votos_validos": 54222,
+    "votos_blancos": 552,
+    "votos_nulos": 10544,
+    "votos_total": 65318,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 32331,
+        "porcentaje": 59.63
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "300",
+    "CANTON": "LOJA",
+    "votos_validos": 65253,
+    "votos_blancos": 536,
+    "votos_nulos": 7248,
+    "votos_total": 73037,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 42009,
+        "porcentaje": 64.38
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "305",
+    "CANTON": "SARAGURO",
+    "votos_validos": 7957,
+    "votos_blancos": 181,
+    "votos_nulos": 1367,
+    "votos_total": 9505,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 5203,
+        "porcentaje": 65.39
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "310",
+    "CANTON": "PALTAS",
+    "votos_validos": 10602,
+    "votos_blancos": 132,
+    "votos_nulos": 1232,
+    "votos_total": 11966,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6807,
+        "porcentaje": 64.2
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "315",
+    "CANTON": "CELICA",
+    "votos_validos": 3931,
+    "votos_blancos": 66,
+    "votos_nulos": 326,
+    "votos_total": 4323,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2189,
+        "porcentaje": 55.69
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "320",
+    "CANTON": "CALVAS",
+    "votos_validos": 9286,
+    "votos_blancos": 79,
+    "votos_nulos": 826,
+    "votos_total": 10191,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 5768,
+        "porcentaje": 62.12
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "325",
+    "CANTON": "MACARA",
+    "votos_validos": 6335,
+    "votos_blancos": 53,
+    "votos_nulos": 319,
+    "votos_total": 6707,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4903,
+        "porcentaje": 77.4
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "330",
+    "CANTON": "PUYANGO",
+    "votos_validos": 5313,
+    "votos_blancos": 77,
+    "votos_nulos": 595,
+    "votos_total": 5985,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2796,
+        "porcentaje": 52.63
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "335",
+    "CANTON": "GONZANAMA",
+    "votos_validos": 5763,
+    "votos_blancos": 50,
+    "votos_nulos": 514,
+    "votos_total": 6327,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3236,
+        "porcentaje": 56.15
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "340",
+    "CANTON": "ESPINDOLA",
+    "votos_validos": 4600,
+    "votos_blancos": 67,
+    "votos_nulos": 461,
+    "votos_total": 5128,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2943,
+        "porcentaje": 63.98
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "345",
+    "CANTON": "SOZORANGA",
+    "votos_validos": 2199,
+    "votos_blancos": 16,
+    "votos_nulos": 189,
+    "votos_total": 2404,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 1183,
+        "porcentaje": 53.8
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "35",
+    "CANTON": "OTAVALO",
+    "votos_validos": 26807,
+    "votos_blancos": 605,
+    "votos_nulos": 6205,
+    "votos_total": 33617,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 17051,
+        "porcentaje": 63.61
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "350",
+    "CANTON": "MACHALA",
+    "votos_validos": 79543,
+    "votos_blancos": 339,
+    "votos_nulos": 7117,
+    "votos_total": 86999,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 46636,
+        "porcentaje": 58.63
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "355",
+    "CANTON": "SANTA ROSA",
+    "votos_validos": 23259,
+    "votos_blancos": 109,
+    "votos_nulos": 1464,
+    "votos_total": 24832,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 15463,
+        "porcentaje": 66.48
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "360",
+    "CANTON": "ZARUMA",
+    "votos_validos": 9524,
+    "votos_blancos": 86,
+    "votos_nulos": 881,
+    "votos_total": 10491,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6115,
+        "porcentaje": 64.21
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "365",
+    "CANTON": "PASAJE",
+    "votos_validos": 26625,
+    "votos_blancos": 121,
+    "votos_nulos": 2538,
+    "votos_total": 29284,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 17351,
+        "porcentaje": 65.17
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "370",
+    "CANTON": "PIÑAS",
+    "votos_validos": 10246,
+    "votos_blancos": 53,
+    "votos_nulos": 827,
+    "votos_total": 11126,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 7061,
+        "porcentaje": 68.91
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "375",
+    "CANTON": "ARENILLAS",
+    "votos_validos": 7419,
+    "votos_blancos": 47,
+    "votos_nulos": 586,
+    "votos_total": 8052,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4867,
+        "porcentaje": 65.6
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "380",
+    "CANTON": "EL GUABO",
+    "votos_validos": 12778,
+    "votos_blancos": 97,
+    "votos_nulos": 867,
+    "votos_total": 13742,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8273,
+        "porcentaje": 64.74
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "385",
+    "CANTON": "EL EMPALME",
+    "votos_validos": 23024,
+    "votos_blancos": 255,
+    "votos_nulos": 2364,
+    "votos_total": 25643,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 12122,
+        "porcentaje": 52.65
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "390",
+    "CANTON": "GUAYAQUIL",
+    "votos_validos": 772999,
+    "votos_blancos": 4665,
+    "votos_nulos": 59158,
+    "votos_total": 836822,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 488242,
+        "porcentaje": 63.16
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "395",
+    "CANTON": "YAGUACHI",
+    "votos_validos": 13031,
+    "votos_blancos": 115,
+    "votos_nulos": 1158,
+    "votos_total": 14304,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8058,
+        "porcentaje": 61.84
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "40",
+    "CANTON": "COTACACHI",
+    "votos_validos": 10255,
+    "votos_blancos": 261,
+    "votos_nulos": 2753,
+    "votos_total": 13269,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6822,
+        "porcentaje": 66.52
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "400",
+    "CANTON": "DAULE",
+    "votos_validos": 35642,
+    "votos_blancos": 570,
+    "votos_nulos": 4534,
+    "votos_total": 40746,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 19589,
+        "porcentaje": 54.96
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "405",
+    "CANTON": "SALINAS",
+    "votos_validos": 13766,
+    "votos_blancos": 169,
+    "votos_nulos": 900,
+    "votos_total": 14835,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 7577,
+        "porcentaje": 55.04
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "410",
+    "CANTON": "SANTA ELENA",
+    "votos_validos": 36379,
+    "votos_blancos": 560,
+    "votos_nulos": 3361,
+    "votos_total": 40300,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 21259,
+        "porcentaje": 58.44
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "415",
+    "CANTON": "BALZAR",
+    "votos_validos": 18239,
+    "votos_blancos": 312,
+    "votos_nulos": 2011,
+    "votos_total": 20562,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 9813,
+        "porcentaje": 53.8
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "420",
+    "CANTON": "MILAGRO",
+    "votos_validos": 60513,
+    "votos_blancos": 327,
+    "votos_nulos": 6132,
+    "votos_total": 66972,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 39103,
+        "porcentaje": 64.62
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "425",
+    "CANTON": "SAMBORONDON",
+    "votos_validos": 13851,
+    "votos_blancos": 198,
+    "votos_nulos": 1135,
+    "votos_total": 15184,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 7507,
+        "porcentaje": 54.2
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "430",
+    "CANTON": "SALITRE",
+    "votos_validos": 15752,
+    "votos_blancos": 352,
+    "votos_nulos": 1699,
+    "votos_total": 17803,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 9327,
+        "porcentaje": 59.21
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "435",
+    "CANTON": "NARANJAL",
+    "votos_validos": 14886,
+    "votos_blancos": 135,
+    "votos_nulos": 1423,
+    "votos_total": 16444,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 9939,
+        "porcentaje": 66.77
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "440",
+    "CANTON": "PORTOVIEJO",
+    "votos_validos": 93930,
+    "votos_blancos": 777,
+    "votos_nulos": 8578,
+    "votos_total": 103285,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 52980,
+        "porcentaje": 56.4
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "445",
+    "CANTON": "MONTECRISTI",
+    "votos_validos": 18150,
+    "votos_blancos": 170,
+    "votos_nulos": 1595,
+    "votos_total": 19915,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 11652,
+        "porcentaje": 64.2
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "45",
+    "CANTON": "ANTONIO ANTE",
+    "votos_validos": 12832,
+    "votos_blancos": 162,
+    "votos_nulos": 2808,
+    "votos_total": 15802,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8114,
+        "porcentaje": 63.23
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "450",
+    "CANTON": "MANTA",
+    "votos_validos": 63958,
+    "votos_blancos": 409,
+    "votos_nulos": 6420,
+    "votos_total": 70787,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 37818,
+        "porcentaje": 59.13
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "455",
+    "CANTON": "JIPIJAPA",
+    "votos_validos": 32097,
+    "votos_blancos": 276,
+    "votos_nulos": 3650,
+    "votos_total": 36023,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 17163,
+        "porcentaje": 53.47
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "460",
+    "CANTON": "24 DE MAYO",
+    "votos_validos": 13109,
+    "votos_blancos": 190,
+    "votos_nulos": 1519,
+    "votos_total": 14818,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8522,
+        "porcentaje": 65.01
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "465",
+    "CANTON": "ROCAFUERTE",
+    "votos_validos": 12790,
+    "votos_blancos": 100,
+    "votos_nulos": 1049,
+    "votos_total": 13939,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 7630,
+        "porcentaje": 59.66
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "470",
+    "CANTON": "SANTA ANA",
+    "votos_validos": 18382,
+    "votos_blancos": 272,
+    "votos_nulos": 1963,
+    "votos_total": 20617,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 12045,
+        "porcentaje": 65.53
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "475",
+    "CANTON": "SUCRE",
+    "votos_validos": 30947,
+    "votos_blancos": 417,
+    "votos_nulos": 2433,
+    "votos_total": 33797,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 18910,
+        "porcentaje": 61.1
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "480",
+    "CANTON": "CHONE",
+    "votos_validos": 44264,
+    "votos_blancos": 474,
+    "votos_nulos": 3725,
+    "votos_total": 48463,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 22871,
+        "porcentaje": 51.67
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "485",
+    "CANTON": "BOLIVAR",
+    "votos_validos": 14884,
+    "votos_blancos": 171,
+    "votos_nulos": 1091,
+    "votos_total": 16146,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 7490,
+        "porcentaje": 50.32
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "490",
+    "CANTON": "JUNIN",
+    "votos_validos": 8825,
+    "votos_blancos": 111,
+    "votos_nulos": 603,
+    "votos_total": 9539,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4696,
+        "porcentaje": 53.21
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "495",
+    "CANTON": "PAJAN",
+    "votos_validos": 18715,
+    "votos_blancos": 285,
+    "votos_nulos": 1998,
+    "votos_total": 20998,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 11254,
+        "porcentaje": 60.13
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "5",
+    "CANTON": "TULCAN",
+    "votos_validos": 28928,
+    "votos_blancos": 224,
+    "votos_nulos": 4577,
+    "votos_total": 33729,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 17426,
+        "porcentaje": 60.24
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "50",
+    "CANTON": "PIMAMPIRO",
+    "votos_validos": 5858,
+    "votos_blancos": 95,
+    "votos_nulos": 1401,
+    "votos_total": 7354,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4022,
+        "porcentaje": 68.66
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "500",
+    "CANTON": "EL CARMEN",
+    "votos_validos": 24913,
+    "votos_blancos": 345,
+    "votos_nulos": 2671,
+    "votos_total": 27929,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 14932,
+        "porcentaje": 59.94
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "505",
+    "CANTON": "EL TRIUNFO",
+    "votos_validos": 12334,
+    "votos_blancos": 106,
+    "votos_nulos": 1069,
+    "votos_total": 13509,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8173,
+        "porcentaje": 66.26
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "510",
+    "CANTON": "NARANJITO",
+    "votos_validos": 12283,
+    "votos_blancos": 97,
+    "votos_nulos": 1174,
+    "votos_total": 13554,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8408,
+        "porcentaje": 68.45
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "515",
+    "CANTON": "BABAHOYO",
+    "votos_validos": 33293,
+    "votos_blancos": 4816,
+    "votos_nulos": 3420,
+    "votos_total": 41529,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 20626,
+        "porcentaje": 61.95
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "516",
+    "CANTON": "VALENCIA",
+    "votos_validos": 3318,
+    "votos_blancos": 583,
+    "votos_nulos": 495,
+    "votos_total": 4396,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1890,
+        "porcentaje": 56.96
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "520",
+    "CANTON": "BABA",
+    "votos_validos": 7505,
+    "votos_blancos": 1772,
+    "votos_nulos": 1322,
+    "votos_total": 10599,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4665,
+        "porcentaje": 62.16
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "525",
+    "CANTON": "VINCES",
+    "votos_validos": 15658,
+    "votos_blancos": 3264,
+    "votos_nulos": 2565,
+    "votos_total": 21487,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 7888,
+        "porcentaje": 50.38
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "530",
+    "CANTON": "PUEBLO VIEJO",
+    "votos_validos": 6008,
+    "votos_blancos": 1791,
+    "votos_nulos": 1018,
+    "votos_total": 8817,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3662,
+        "porcentaje": 60.95
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "535",
+    "CANTON": "URDANETA",
+    "votos_validos": 6786,
+    "votos_blancos": 1032,
+    "votos_nulos": 505,
+    "votos_total": 8323,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3550,
+        "porcentaje": 52.31
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "540",
+    "CANTON": "QUEVEDO",
+    "votos_validos": 47285,
+    "votos_blancos": 6442,
+    "votos_nulos": 6649,
+    "votos_total": 60376,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 25435,
+        "porcentaje": 53.79
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "545",
+    "CANTON": "VENTANAS",
+    "votos_validos": 12915,
+    "votos_blancos": 2824,
+    "votos_nulos": 2660,
+    "votos_total": 18399,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 7565,
+        "porcentaje": 58.58
+      }
+    }
+  },
+  {
+    "CODPRO": "10",
+    "PROVINCIA": "IMBABURA",
+    "CODCAN": "55",
+    "CANTON": "URCUQUI",
+    "votos_validos": 5414,
+    "votos_blancos": 108,
+    "votos_nulos": 1140,
+    "votos_total": 6662,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3535,
+        "porcentaje": 65.29
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "550",
+    "CANTON": "TOSAGUA",
+    "votos_validos": 14436,
+    "votos_blancos": 133,
+    "votos_nulos": 1060,
+    "votos_total": 15629,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 7813,
+        "porcentaje": 54.12
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "555",
+    "CANTON": "PUCARA",
+    "votos_validos": 3932,
+    "votos_blancos": 106,
+    "votos_nulos": 614,
+    "votos_total": 4652,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3021,
+        "porcentaje": 76.83
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "560",
+    "CANTON": "ESMERALDAS",
+    "votos_validos": 64105,
+    "votos_blancos": 396,
+    "votos_nulos": 5205,
+    "votos_total": 69706,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 48665,
+        "porcentaje": 75.91
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "565",
+    "CANTON": "ELOY ALFARO",
+    "votos_validos": 7024,
+    "votos_blancos": 85,
+    "votos_nulos": 795,
+    "votos_total": 7904,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 5713,
+        "porcentaje": 81.34
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "570",
+    "CANTON": "MUISNE",
+    "votos_validos": 5625,
+    "votos_blancos": 55,
+    "votos_nulos": 505,
+    "votos_total": 6185,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3729,
+        "porcentaje": 66.29
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "575",
+    "CANTON": "QUININDE",
+    "votos_validos": 27191,
+    "votos_blancos": 287,
+    "votos_nulos": 3038,
+    "votos_total": 30516,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 19589,
+        "porcentaje": 72.04
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "580",
+    "CANTON": "SAN LORENZO",
+    "votos_validos": 4842,
+    "votos_blancos": 62,
+    "votos_nulos": 433,
+    "votos_total": 5337,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4215,
+        "porcentaje": 87.05
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "585",
+    "CANTON": "CHILLA",
+    "votos_validos": 1097,
+    "votos_blancos": 8,
+    "votos_nulos": 71,
+    "votos_total": 1176,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 577,
+        "porcentaje": 52.6
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "590",
+    "CANTON": "MORONA",
+    "votos_validos": 8278,
+    "votos_blancos": 100,
+    "votos_nulos": 1060,
+    "votos_total": 9438,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6437,
+        "porcentaje": 77.76
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "595",
+    "CANTON": "GUALAQUIZA",
+    "votos_validos": 3532,
+    "votos_blancos": 76,
+    "votos_nulos": 511,
+    "votos_total": 4119,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2570,
+        "porcentaje": 72.76
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "60",
+    "CANTON": "QUITO",
+    "votos_validos": 661720,
+    "votos_blancos": 3695,
+    "votos_nulos": 111835,
+    "votos_total": 777250,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 351894,
+        "porcentaje": 53.18
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "600",
+    "CANTON": "LIMON INDANZA",
+    "votos_validos": 2780,
+    "votos_blancos": 56,
+    "votos_nulos": 386,
+    "votos_total": 3222,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2043,
+        "porcentaje": 73.49
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "605",
+    "CANTON": "SANTIAGO",
+    "votos_validos": 2303,
+    "votos_blancos": 52,
+    "votos_nulos": 511,
+    "votos_total": 2866,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1461,
+        "porcentaje": 63.44
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "610",
+    "CANTON": "SUCUA",
+    "votos_validos": 4883,
+    "votos_blancos": 89,
+    "votos_nulos": 732,
+    "votos_total": 5704,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3366,
+        "porcentaje": 68.93
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "615",
+    "CANTON": "PALORA",
+    "votos_validos": 1932,
+    "votos_blancos": 26,
+    "votos_nulos": 171,
+    "votos_total": 2129,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1602,
+        "porcentaje": 82.92
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "620",
+    "CANTON": "TENA",
+    "votos_validos": 4635,
+    "votos_blancos": 1048,
+    "votos_nulos": 1344,
+    "votos_total": 7027,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 2356,
+        "porcentaje": 50.83
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "625",
+    "CANTON": "LAGO AGRIO",
+    "votos_validos": 15123,
+    "votos_blancos": 146,
+    "votos_nulos": 2169,
+    "votos_total": 17438,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 12093,
+        "porcentaje": 79.96
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "630",
+    "CANTON": "AGUARICO",
+    "votos_validos": 293,
+    "votos_blancos": 237,
+    "votos_nulos": 48,
+    "votos_total": 578,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 185,
+        "porcentaje": 63.14
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "635",
+    "CANTON": "QUIJOS",
+    "votos_validos": 392,
+    "votos_blancos": 123,
+    "votos_nulos": 100,
+    "votos_total": 615,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 295,
+        "porcentaje": 75.26
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "640",
+    "CANTON": "SUCUMBIOS",
+    "votos_validos": 989,
+    "votos_blancos": 5,
+    "votos_nulos": 76,
+    "votos_total": 1070,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 503,
+        "porcentaje": 50.86
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "645",
+    "CANTON": "FCO.DE ORELLANA",
+    "votos_validos": 1765,
+    "votos_blancos": 783,
+    "votos_nulos": 902,
+    "votos_total": 3450,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 1005,
+        "porcentaje": 56.94
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "65",
+    "CANTON": "CAYAMBE",
+    "votos_validos": 18836,
+    "votos_blancos": 462,
+    "votos_nulos": 5031,
+    "votos_total": 24329,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 11426,
+        "porcentaje": 60.66
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "650",
+    "CANTON": "PUTUMAYO",
+    "votos_validos": 632,
+    "votos_blancos": 7,
+    "votos_nulos": 97,
+    "votos_total": 736,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 378,
+        "porcentaje": 59.81
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "655",
+    "CANTON": "ZAMORA",
+    "votos_validos": 6965,
+    "votos_blancos": 60,
+    "votos_nulos": 605,
+    "votos_total": 7630,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 5141,
+        "porcentaje": 73.81
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "660",
+    "CANTON": "CHINCHIPE",
+    "votos_validos": 3398,
+    "votos_blancos": 31,
+    "votos_nulos": 278,
+    "votos_total": 3707,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2252,
+        "porcentaje": 66.27
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "665",
+    "CANTON": "YACUAMBI",
+    "votos_validos": 942,
+    "votos_blancos": 14,
+    "votos_nulos": 109,
+    "votos_total": 1065,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 685,
+        "porcentaje": 72.72
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "670",
+    "CANTON": "YANZATZA",
+    "votos_validos": 4753,
+    "votos_blancos": 31,
+    "votos_nulos": 380,
+    "votos_total": 5164,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3895,
+        "porcentaje": 81.95
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "675",
+    "CANTON": "PALESTINA",
+    "votos_validos": 4566,
+    "votos_blancos": 62,
+    "votos_nulos": 465,
+    "votos_total": 5093,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2394,
+        "porcentaje": 52.43
+      }
+    }
+  },
+  {
+    "CODPRO": "16",
+    "PROVINCIA": "PASTAZA",
+    "CODCAN": "680",
+    "CANTON": "PASTAZA",
+    "votos_validos": 12894,
+    "votos_blancos": 94,
+    "votos_nulos": 1552,
+    "votos_total": 14540,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 9675,
+        "porcentaje": 75.03
+      }
+    }
+  },
+  {
+    "CODPRO": "16",
+    "PROVINCIA": "PASTAZA",
+    "CODCAN": "685",
+    "CANTON": "MERA",
+    "votos_validos": 2027,
+    "votos_blancos": 17,
+    "votos_nulos": 154,
+    "votos_total": 2198,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1543,
+        "porcentaje": 76.12
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "690",
+    "CANTON": "PORTOVELO",
+    "votos_validos": 4739,
+    "votos_blancos": 25,
+    "votos_nulos": 314,
+    "votos_total": 5078,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2897,
+        "porcentaje": 61.13
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "695",
+    "CANTON": "HUAQUILLAS",
+    "votos_validos": 11997,
+    "votos_blancos": 65,
+    "votos_nulos": 800,
+    "votos_total": 12862,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8411,
+        "porcentaje": 70.11
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "70",
+    "CANTON": "MEJIA",
+    "votos_validos": 21727,
+    "votos_blancos": 252,
+    "votos_nulos": 3481,
+    "votos_total": 25460,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 14444,
+        "porcentaje": 66.48
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "700",
+    "CANTON": "ARCHIDONA",
+    "votos_validos": 1337,
+    "votos_blancos": 709,
+    "votos_nulos": 619,
+    "votos_total": 2665,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 679,
+        "porcentaje": 50.79
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "705",
+    "CANTON": "ATAHUALPA",
+    "votos_validos": 2857,
+    "votos_blancos": 36,
+    "votos_nulos": 214,
+    "votos_total": 3107,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1479,
+        "porcentaje": 51.77
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "710",
+    "CANTON": "MONTALVO",
+    "votos_validos": 4049,
+    "votos_blancos": 797,
+    "votos_nulos": 783,
+    "votos_total": 5629,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2212,
+        "porcentaje": 54.63
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "715",
+    "CANTON": "PEDRO CARBO",
+    "votos_validos": 13523,
+    "votos_blancos": 343,
+    "votos_nulos": 1681,
+    "votos_total": 15547,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 8280,
+        "porcentaje": 61.23
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "720",
+    "CANTON": "SHUSHUFINDI",
+    "votos_validos": 6201,
+    "votos_blancos": 81,
+    "votos_nulos": 1044,
+    "votos_total": 7326,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4762,
+        "porcentaje": 76.79
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "725",
+    "CANTON": "JOYA DE LOS SACHAS",
+    "votos_validos": 954,
+    "votos_blancos": 572,
+    "votos_nulos": 521,
+    "votos_total": 2047,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 737,
+        "porcentaje": 77.25
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "730",
+    "CANTON": "PINDAL",
+    "votos_validos": 2066,
+    "votos_blancos": 20,
+    "votos_nulos": 87,
+    "votos_total": 2173,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 1126,
+        "porcentaje": 54.5
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "735",
+    "CANTON": "PLAYAS",
+    "votos_validos": 9038,
+    "votos_blancos": 84,
+    "votos_nulos": 620,
+    "votos_total": 9742,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4768,
+        "porcentaje": 52.76
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "740",
+    "CANTON": "QUILANGA",
+    "votos_validos": 1756,
+    "votos_blancos": 14,
+    "votos_nulos": 119,
+    "votos_total": 1889,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1206,
+        "porcentaje": 68.68
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "745",
+    "CANTON": "CASCALES",
+    "votos_validos": 1727,
+    "votos_blancos": 6,
+    "votos_nulos": 217,
+    "votos_total": 1950,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1161,
+        "porcentaje": 67.23
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "75",
+    "CANTON": "PEDRO MONCAYO",
+    "votos_validos": 6406,
+    "votos_blancos": 119,
+    "votos_nulos": 1503,
+    "votos_total": 8028,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4097,
+        "porcentaje": 63.96
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "750",
+    "CANTON": "PALENQUE",
+    "votos_validos": 3237,
+    "votos_blancos": 999,
+    "votos_nulos": 683,
+    "votos_total": 4919,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1777,
+        "porcentaje": 54.9
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "755",
+    "CANTON": "LAS LAJAS",
+    "votos_validos": 2281,
+    "votos_blancos": 9,
+    "votos_nulos": 102,
+    "votos_total": 2392,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1345,
+        "porcentaje": 58.97
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "760",
+    "CANTON": "CALUMA",
+    "votos_validos": 4328,
+    "votos_blancos": 28,
+    "votos_nulos": 416,
+    "votos_total": 4772,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 2415,
+        "porcentaje": 55.8
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "765",
+    "CANTON": "EL TAMBO",
+    "votos_validos": 2917,
+    "votos_blancos": 45,
+    "votos_nulos": 473,
+    "votos_total": 3435,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2016,
+        "porcentaje": 69.11
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "770",
+    "CANTON": "SAN MIGUEL DE LOS BANCOS",
+    "votos_validos": 4598,
+    "votos_blancos": 43,
+    "votos_nulos": 483,
+    "votos_total": 5124,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3105,
+        "porcentaje": 67.53
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "775",
+    "CANTON": "EL PANGUI",
+    "votos_validos": 1720,
+    "votos_blancos": 16,
+    "votos_nulos": 155,
+    "votos_total": 1891,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1335,
+        "porcentaje": 77.62
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "780",
+    "CANTON": "OÑA",
+    "votos_validos": 947,
+    "votos_blancos": 26,
+    "votos_nulos": 187,
+    "votos_total": 1160,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 693,
+        "porcentaje": 73.18
+      }
+    }
+  },
+  {
+    "CODPRO": "8",
+    "PROVINCIA": "ESMERALDAS",
+    "CODCAN": "785",
+    "CANTON": "ATACAMES",
+    "votos_validos": 6351,
+    "votos_blancos": 57,
+    "votos_nulos": 633,
+    "votos_total": 7041,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4515,
+        "porcentaje": 71.09
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "790",
+    "CANTON": "SIMON BOLIVAR",
+    "votos_validos": 5963,
+    "votos_blancos": 63,
+    "votos_nulos": 539,
+    "votos_total": 6565,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3224,
+        "porcentaje": 54.07
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "795",
+    "CANTON": "HUAMBOYA",
+    "votos_validos": 1184,
+    "votos_blancos": 12,
+    "votos_nulos": 142,
+    "votos_total": 1338,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 984,
+        "porcentaje": 83.11
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "80",
+    "CANTON": "RUMINAHUI",
+    "votos_validos": 23265,
+    "votos_blancos": 117,
+    "votos_nulos": 3476,
+    "votos_total": 26858,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 12815,
+        "porcentaje": 55.08
+      }
+    }
+  },
+  {
+    "CODPRO": "20",
+    "PROVINCIA": "GALAPAGOS",
+    "CODCAN": "800",
+    "CANTON": "SAN CRISTOBAL",
+    "votos_validos": 1512,
+    "votos_blancos": 17,
+    "votos_nulos": 102,
+    "votos_total": 1631,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 806,
+        "porcentaje": 53.31
+      }
+    }
+  },
+  {
+    "CODPRO": "20",
+    "PROVINCIA": "GALAPAGOS",
+    "CODCAN": "805",
+    "CANTON": "SANTA CRUZ",
+    "votos_validos": 2037,
+    "votos_blancos": 19,
+    "votos_nulos": 245,
+    "votos_total": 2301,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1160,
+        "porcentaje": 56.95
+      }
+    }
+  },
+  {
+    "CODPRO": "20",
+    "PROVINCIA": "GALAPAGOS",
+    "CODCAN": "810",
+    "CANTON": "ISABELA",
+    "votos_validos": 387,
+    "votos_blancos": 2,
+    "votos_nulos": 27,
+    "votos_total": 416,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 230,
+        "porcentaje": 59.43
+      }
+    }
+  },
+  {
+    "CODPRO": "11",
+    "PROVINCIA": "LOJA",
+    "CODCAN": "815",
+    "CANTON": "CHAGUARPAMBA",
+    "votos_validos": 3218,
+    "votos_blancos": 47,
+    "votos_nulos": 283,
+    "votos_total": 3548,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2161,
+        "porcentaje": 67.15
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "820",
+    "CANTON": "DURAN",
+    "votos_validos": 35592,
+    "votos_blancos": 141,
+    "votos_nulos": 3013,
+    "votos_total": 38746,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 20142,
+        "porcentaje": 56.59
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "825",
+    "CANTON": "LA MANA",
+    "votos_validos": 9014,
+    "votos_blancos": 134,
+    "votos_nulos": 1164,
+    "votos_total": 10312,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6123,
+        "porcentaje": 67.93
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "830",
+    "CANTON": "PALLATANGA",
+    "votos_validos": 3745,
+    "votos_blancos": 91,
+    "votos_nulos": 644,
+    "votos_total": 4480,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2425,
+        "porcentaje": 64.75
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "835",
+    "CANTON": "A.BAQUERIZO MORENO",
+    "votos_validos": 6971,
+    "votos_blancos": 62,
+    "votos_nulos": 562,
+    "votos_total": 7595,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4918,
+        "porcentaje": 70.55
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "840",
+    "CANTON": "PICHINCHA",
+    "votos_validos": 12454,
+    "votos_blancos": 219,
+    "votos_nulos": 1342,
+    "votos_total": 14015,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 6232,
+        "porcentaje": 50.04
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "845",
+    "CANTON": "AMBATO",
+    "votos_validos": 3382,
+    "votos_blancos": 14,
+    "votos_nulos": 475,
+    "votos_total": 3871,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1802,
+        "porcentaje": 53.28
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "85",
+    "CANTON": "SANTO DOMINGO",
+    "votos_validos": 91340,
+    "votos_blancos": 791,
+    "votos_nulos": 10715,
+    "votos_total": 102846,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 60163,
+        "porcentaje": 65.87
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "850",
+    "CANTON": "CEVALLOS",
+    "votos_validos": 3129,
+    "votos_blancos": 39,
+    "votos_nulos": 503,
+    "votos_total": 3671,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1979,
+        "porcentaje": 63.25
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "855",
+    "CANTON": "SAN FERNANDO",
+    "votos_validos": 1650,
+    "votos_blancos": 20,
+    "votos_nulos": 140,
+    "votos_total": 1810,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1001,
+        "porcentaje": 60.67
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "860",
+    "CANTON": "MARCABELI",
+    "votos_validos": 2148,
+    "votos_blancos": 9,
+    "votos_nulos": 168,
+    "votos_total": 2325,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1398,
+        "porcentaje": 65.08
+      }
+    }
+  },
+  {
+    "CODPRO": "21",
+    "PROVINCIA": "SUCUMBIOS",
+    "CODCAN": "865",
+    "CANTON": "GONZALO PIZARRO",
+    "votos_validos": 1494,
+    "votos_blancos": 7,
+    "votos_nulos": 132,
+    "votos_total": 1633,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1022,
+        "porcentaje": 68.41
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "870",
+    "CANTON": "SANTA LUCIA",
+    "votos_validos": 12493,
+    "votos_blancos": 305,
+    "votos_nulos": 1429,
+    "votos_total": 14227,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 7709,
+        "porcentaje": 61.71
+      }
+    }
+  },
+  {
+    "CODPRO": "7",
+    "PROVINCIA": "EL ORO",
+    "CODCAN": "875",
+    "CANTON": "BALSAS",
+    "votos_validos": 2322,
+    "votos_blancos": 20,
+    "votos_nulos": 170,
+    "votos_total": 2512,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1530,
+        "porcentaje": 65.89
+      }
+    }
+  },
+  {
+    "CODPRO": "16",
+    "PROVINCIA": "PASTAZA",
+    "CODCAN": "880",
+    "CANTON": "SANTA CLARA",
+    "votos_validos": 1155,
+    "votos_blancos": 12,
+    "votos_nulos": 75,
+    "votos_total": 1242,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 839,
+        "porcentaje": 72.64
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "885",
+    "CANTON": "NABON",
+    "votos_validos": 4153,
+    "votos_blancos": 101,
+    "votos_nulos": 901,
+    "votos_total": 5155,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2916,
+        "porcentaje": 70.21
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "890",
+    "CANTON": "CRNL MARCELINO MARIDUENAS",
+    "votos_validos": 5567,
+    "votos_blancos": 34,
+    "votos_nulos": 354,
+    "votos_total": 5955,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3896,
+        "porcentaje": 69.98
+      }
+    }
+  },
+  {
+    "CODPRO": "17",
+    "PROVINCIA": "PICHINCHA",
+    "CODCAN": "895",
+    "CANTON": "PEDRO VICENTE MALDONADO",
+    "votos_validos": 2284,
+    "votos_blancos": 23,
+    "votos_nulos": 249,
+    "votos_total": 2556,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1753,
+        "porcentaje": 76.75
+      }
+    }
+  },
+  {
+    "CODPRO": "18",
+    "PROVINCIA": "TUNGURAHUA",
+    "CODCAN": "90",
+    "CANTON": "AMBATO",
+    "votos_validos": 4056,
+    "votos_blancos": 32,
+    "votos_nulos": 721,
+    "votos_total": 4809,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2339,
+        "porcentaje": 57.67
+      }
+    }
+  },
+  {
+    "CODPRO": "6",
+    "PROVINCIA": "CHIMBORAZO",
+    "CODCAN": "900",
+    "CANTON": "CUMANDA",
+    "votos_validos": 3035,
+    "votos_blancos": 66,
+    "votos_nulos": 478,
+    "votos_total": 3579,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2094,
+        "porcentaje": 69.0
+      }
+    }
+  },
+  {
+    "CODPRO": "3",
+    "PROVINCIA": "CAÑAR",
+    "CODCAN": "905",
+    "CANTON": "DELEG",
+    "votos_validos": 1903,
+    "votos_blancos": 35,
+    "votos_nulos": 401,
+    "votos_total": 2339,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 983,
+        "porcentaje": 51.66
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "910",
+    "CANTON": "PEDERNALES",
+    "votos_validos": 8458,
+    "votos_blancos": 149,
+    "votos_nulos": 983,
+    "votos_total": 9590,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 4657,
+        "porcentaje": 55.06
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "915",
+    "CANTON": "CHORDELEG",
+    "votos_validos": 3037,
+    "votos_blancos": 63,
+    "votos_nulos": 674,
+    "votos_total": 3774,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2124,
+        "porcentaje": 69.94
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "920",
+    "CANTON": "LOMAS DE SARGENTILLO",
+    "votos_validos": 6757,
+    "votos_blancos": 107,
+    "votos_nulos": 572,
+    "votos_total": 7436,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3998,
+        "porcentaje": 59.17
+      }
+    }
+  },
+  {
+    "CODPRO": "14",
+    "PROVINCIA": "MORONA SANTIAGO",
+    "CODCAN": "925",
+    "CANTON": "SAN JUAN BOSCO",
+    "votos_validos": 643,
+    "votos_blancos": 8,
+    "votos_nulos": 93,
+    "votos_total": 744,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 399,
+        "porcentaje": 62.05
+      }
+    }
+  },
+  {
+    "CODPRO": "5",
+    "PROVINCIA": "COTOPAXI",
+    "CODCAN": "930",
+    "CANTON": "SIGCHOS",
+    "votos_validos": 5180,
+    "votos_blancos": 236,
+    "votos_nulos": 1483,
+    "votos_total": 6899,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3632,
+        "porcentaje": 70.12
+      }
+    }
+  },
+  {
+    "CODPRO": "15",
+    "PROVINCIA": "NAPO",
+    "CODCAN": "935",
+    "CANTON": "LORETO",
+    "votos_validos": 397,
+    "votos_blancos": 502,
+    "votos_nulos": 319,
+    "votos_total": 1218,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 209,
+        "porcentaje": 52.64
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "940",
+    "CANTON": "NOBOL / PIEDRAHITA",
+    "votos_validos": 4439,
+    "votos_blancos": 43,
+    "votos_nulos": 381,
+    "votos_total": 4863,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2222,
+        "porcentaje": 50.06
+      }
+    }
+  },
+  {
+    "CODPRO": "12",
+    "PROVINCIA": "LOS RIOS",
+    "CODCAN": "945",
+    "CANTON": "BUENA FE",
+    "votos_validos": 5880,
+    "votos_blancos": 1219,
+    "votos_nulos": 1068,
+    "votos_total": 8167,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3516,
+        "porcentaje": 59.8
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "95",
+    "CANTON": "BALAO",
+    "votos_validos": 3856,
+    "votos_blancos": 36,
+    "votos_nulos": 305,
+    "votos_total": 4197,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2564,
+        "porcentaje": 66.49
+      }
+    }
+  },
+  {
+    "CODPRO": "2",
+    "PROVINCIA": "BOLIVAR",
+    "CODCAN": "950",
+    "CANTON": "LAS NAVES",
+    "votos_validos": 1751,
+    "votos_blancos": 21,
+    "votos_nulos": 236,
+    "votos_total": 2008,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 996,
+        "porcentaje": 56.88
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "955",
+    "CANTON": "SEVILLA DE ORO",
+    "votos_validos": 2051,
+    "votos_blancos": 53,
+    "votos_nulos": 300,
+    "votos_total": 2404,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1435,
+        "porcentaje": 69.97
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "960",
+    "CANTON": "EL PAN",
+    "votos_validos": 953,
+    "votos_blancos": 12,
+    "votos_nulos": 205,
+    "votos_total": 1170,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 490,
+        "porcentaje": 51.42
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "965",
+    "CANTON": "LA LIBERTAD",
+    "votos_validos": 24917,
+    "votos_blancos": 163,
+    "votos_nulos": 2007,
+    "votos_total": 27087,
+    "ganador": "PSC6",
+    "resultados": {
+      "PSC6": {
+        "candidato": "JAIME NEBOT SAADI",
+        "votos": 13632,
+        "porcentaje": 54.71
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "970",
+    "CANTON": "OLMEDO",
+    "votos_validos": 4247,
+    "votos_blancos": 95,
+    "votos_nulos": 586,
+    "votos_total": 4928,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2862,
+        "porcentaje": 67.39
+      }
+    }
+  },
+  {
+    "CODPRO": "13",
+    "PROVINCIA": "MANABI",
+    "CODCAN": "975",
+    "CANTON": "PUERTO LOPEZ",
+    "votos_validos": 5485,
+    "votos_blancos": 57,
+    "votos_nulos": 390,
+    "votos_total": 5932,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 3189,
+        "porcentaje": 58.14
+      }
+    }
+  },
+  {
+    "CODPRO": "19",
+    "PROVINCIA": "ZAMORA CHINCHIPE",
+    "CODCAN": "980",
+    "CANTON": "CENTINELA DEL CONDOR",
+    "votos_validos": 2173,
+    "votos_blancos": 18,
+    "votos_nulos": 161,
+    "votos_total": 2352,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1803,
+        "porcentaje": 82.97
+      }
+    }
+  },
+  {
+    "CODPRO": "9",
+    "PROVINCIA": "GUAYAS",
+    "CODCAN": "985",
+    "CANTON": "GRAL. A. ELIZALDE",
+    "votos_validos": 2595,
+    "votos_blancos": 25,
+    "votos_nulos": 292,
+    "votos_total": 2912,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 1552,
+        "porcentaje": 59.81
+      }
+    }
+  },
+  {
+    "CODPRO": "1",
+    "PROVINCIA": "AZUAY",
+    "CODCAN": "990",
+    "CANTON": "GUACHAPALA",
+    "votos_validos": 1017,
+    "votos_blancos": 10,
+    "votos_nulos": 205,
+    "votos_total": 1232,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 552,
+        "porcentaje": 54.28
+      }
+    }
+  },
+  {
+    "CODPRO": "4",
+    "PROVINCIA": "CARCHI",
+    "CODCAN": "995",
+    "CANTON": "SAN PEDRO DE HUACA",
+    "votos_validos": 3154,
+    "votos_blancos": 33,
+    "votos_nulos": 458,
+    "votos_total": 3645,
+    "ganador": "PRE10",
+    "resultados": {
+      "PRE10": {
+        "candidato": "ABDALÁ BUCARAM ORTIZ",
+        "votos": 2350,
+        "porcentaje": 74.51
+      }
+    }
+  }
+]
