@@ -1,6 +1,6 @@
 [
   {
-    "CODPAR": "545",
+    "CODPAR": "0285",
     "CODCAN": "260",
     "PARROQUIA": "BAÑOS",
     "ganador": "MUPP-NP-18",
@@ -13,7 +13,7 @@
     }
   },
   {
-    "CODPAR": "283",
+    "CODPAR": "0730",
     "CODCAN": "260",
     "PARROQUIA": "CUMBE",
     "ganador": "MUPP-NP-18",
@@ -26,7 +26,7 @@
     }
   },
   {
-    "CODPAR": "59",
+    "CODPAR": "0845",
     "CODCAN": "260",
     "PARROQUIA": "CHAUCHA / ANGAS",
     "ganador": "PSC6",
@@ -39,7 +39,7 @@
     }
   },
   {
-    "CODPAR": "181",
+    "CODPAR": "0860",
     "CODCAN": "260",
     "PARROQUIA": "CHECA JIDCAY",
     "ganador": "MUPP-NP-18",
@@ -52,7 +52,7 @@
     }
   },
   {
-    "CODPAR": "217",
+    "CODPAR": "0905",
     "CODCAN": "260",
     "PARROQUIA": "CHIQUINTAD",
     "ganador": "MUPP-NP-18",
@@ -65,7 +65,7 @@
     }
   },
   {
-    "CODPAR": "104",
+    "CODPAR": "2255",
     "CODCAN": "260",
     "PARROQUIA": "LLACAO",
     "ganador": "MUPP-NP-18",
@@ -78,7 +78,7 @@
     }
   },
   {
-    "CODPAR": "134",
+    "CODPAR": "2430",
     "CODCAN": "260",
     "PARROQUIA": "MOLLETURO",
     "ganador": "PRE10",
@@ -91,7 +91,7 @@
     }
   },
   {
-    "CODPAR": "152",
+    "CODPAR": "2570",
     "CODCAN": "260",
     "PARROQUIA": "MULTI / NULTI",
     "ganador": "MUPP-NP-18",
@@ -104,7 +104,7 @@
     }
   },
   {
-    "CODPAR": "156",
+    "CODPAR": "2595",
     "CODCAN": "260",
     "PARROQUIA": "OCTAVIO CORDERO PALACIOS",
     "ganador": "MUPP-NP-18",
@@ -117,7 +117,7 @@
     }
   },
   {
-    "CODPAR": "141",
+    "CODPAR": "2680",
     "CODCAN": "260",
     "PARROQUIA": "PACCHA",
     "ganador": "MUPP-NP-18",
@@ -130,7 +130,7 @@
     }
   },
   {
-    "CODPAR": "155",
+    "CODPAR": "3105",
     "CODCAN": "260",
     "PARROQUIA": "QUINGEO",
     "ganador": "MUPP-NP-18",
@@ -143,7 +143,7 @@
     }
   },
   {
-    "CODPAR": "350",
+    "CODPAR": "3165",
     "CODCAN": "260",
     "PARROQUIA": "RICAURTE",
     "ganador": "MUPP-NP-18",
@@ -156,7 +156,7 @@
     }
   },
   {
-    "CODPAR": "196",
+    "CODPAR": "3460",
     "CODCAN": "260",
     "PARROQUIA": "SAN JOAQUIN",
     "ganador": "MUPP-NP-18",
@@ -169,7 +169,7 @@
     }
   },
   {
-    "CODPAR": "211",
+    "CODPAR": "3685",
     "CODCAN": "260",
     "PARROQUIA": "SANTA ANA",
     "ganador": "MUPP-NP-18",
@@ -182,7 +182,7 @@
     }
   },
   {
-    "CODPAR": "303",
+    "CODPAR": "3795",
     "CODCAN": "260",
     "PARROQUIA": "SAYAUSI",
     "ganador": "MUPP-NP-18",
@@ -195,9 +195,9 @@
     }
   },
   {
-    "CODPAR": "152",
+    "CODPAR": "3850",
     "CODCAN": "260",
-    "PARROQUIA": "MULTI / NULTI",
+    "PARROQUIA": "SIDCAY",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -208,7 +208,7 @@
     }
   },
   {
-    "CODPAR": "332",
+    "CODPAR": "3870",
     "CODCAN": "260",
     "PARROQUIA": "SININCAY",
     "ganador": "MUPP-NP-18",
@@ -221,7 +221,7 @@
     }
   },
   {
-    "CODPAR": "385",
+    "CODPAR": "3980",
     "CODCAN": "260",
     "PARROQUIA": "TARQUI",
     "ganador": "MUPP-NP-18",
@@ -234,7 +234,7 @@
     }
   },
   {
-    "CODPAR": "214",
+    "CODPAR": "4095",
     "CODCAN": "260",
     "PARROQUIA": "TURI",
     "ganador": "MUPP-NP-18",
@@ -247,7 +247,7 @@
     }
   },
   {
-    "CODPAR": "411",
+    "CODPAR": "4200",
     "CODCAN": "260",
     "PARROQUIA": "VALLE",
     "ganador": "MUPP-NP-18",
@@ -260,7 +260,7 @@
     }
   },
   {
-    "CODPAR": "213",
+    "CODPAR": "4225",
     "CODCAN": "260",
     "PARROQUIA": "VICTORIA DEL PORTETE",
     "ganador": "MUPP-NP-18",
@@ -273,7 +273,7 @@
     }
   },
   {
-    "CODPAR": "199",
+    "CODPAR": "5075",
     "CODCAN": "260",
     "PARROQUIA": "BELLAVISTA",
     "ganador": "MUPP-NP-18",
@@ -286,7 +286,7 @@
     }
   },
   {
-    "CODPAR": "148",
+    "CODPAR": "5080",
     "CODCAN": "260",
     "PARROQUIA": "CAÑARIBAMBA",
     "ganador": "MUPP-NP-18",
@@ -299,7 +299,7 @@
     }
   },
   {
-    "CODPAR": "76",
+    "CODPAR": "5135",
     "CODCAN": "260",
     "PARROQUIA": "EL BATAN",
     "ganador": "MUPP-NP-18",
@@ -312,7 +312,7 @@
     }
   },
   {
-    "CODPAR": "87",
+    "CODPAR": "5140",
     "CODCAN": "260",
     "PARROQUIA": "MACHANGARA",
     "ganador": "MUPP-NP-18",
@@ -325,7 +325,7 @@
     }
   },
   {
-    "CODPAR": "136",
+    "CODPAR": "5290",
     "CODCAN": "260",
     "PARROQUIA": "MONAY",
     "ganador": "MUPP-NP-18",
@@ -338,7 +338,7 @@
     }
   },
   {
-    "CODPAR": "952",
+    "CODPAR": "5330",
     "CODCAN": "260",
     "PARROQUIA": "EL VECINO",
     "ganador": "MUPP-NP-18",
@@ -351,9 +351,9 @@
     }
   },
   {
-    "CODPAR": "283",
+    "CODPAR": "5360",
     "CODCAN": "260",
-    "PARROQUIA": "CUMBE",
+    "PARROQUIA": "TOTORACOCHA",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -364,7 +364,7 @@
     }
   },
   {
-    "CODPAR": "147",
+    "CODPAR": "5370",
     "CODCAN": "260",
     "PARROQUIA": "YANUNCAY",
     "ganador": "MUPP-NP-18",
@@ -377,7 +377,7 @@
     }
   },
   {
-    "CODPAR": "377",
+    "CODPAR": "5450",
     "CODCAN": "260",
     "PARROQUIA": "HUAYNACAPAC",
     "ganador": "MUPP-NP-18",
@@ -390,7 +390,7 @@
     }
   },
   {
-    "CODPAR": "384",
+    "CODPAR": "5875",
     "CODCAN": "260",
     "PARROQUIA": "RAMIREZ DAVALOS",
     "ganador": "MUPP-NP-18",
@@ -403,7 +403,7 @@
     }
   },
   {
-    "CODPAR": "485",
+    "CODPAR": "5905",
     "CODCAN": "260",
     "PARROQUIA": "SAGRARIO",
     "ganador": "MUPP-NP-18",
@@ -416,7 +416,7 @@
     }
   },
   {
-    "CODPAR": "737",
+    "CODPAR": "5930",
     "CODCAN": "260",
     "PARROQUIA": "SAN BLAS",
     "ganador": "MUPP-NP-18",
@@ -429,7 +429,7 @@
     }
   },
   {
-    "CODPAR": "812",
+    "CODPAR": "6010",
     "CODCAN": "260",
     "PARROQUIA": "SAN SEBASTIAN",
     "ganador": "MUPP-NP-18",
@@ -442,7 +442,7 @@
     }
   },
   {
-    "CODPAR": "599",
+    "CODPAR": "6090",
     "CODCAN": "260",
     "PARROQUIA": "SUCRE",
     "ganador": "MUPP-NP-18",
@@ -455,7 +455,7 @@
     }
   },
   {
-    "CODPAR": "95",
+    "CODPAR": "1005",
     "CODCAN": "265",
     "PARROQUIA": "DANIEL CORDOVA TORAL",
     "ganador": "MUPP-NP-18",
@@ -468,7 +468,7 @@
     }
   },
   {
-    "CODPAR": "10",
+    "CODPAR": "1760",
     "CODCAN": "265",
     "PARROQUIA": "LUIS CORDERO VEGA",
     "ganador": "PSC6",
@@ -481,7 +481,7 @@
     }
   },
   {
-    "CODPAR": "109",
+    "CODPAR": "1805",
     "CODCAN": "265",
     "PARROQUIA": "JADAN",
     "ganador": "MUPP-NP-18",
@@ -494,7 +494,7 @@
     }
   },
   {
-    "CODPAR": "90",
+    "CODPAR": "2385",
     "CODCAN": "265",
     "PARROQUIA": "MARIANO MORENO/CALLASAY",
     "ganador": "MUPP-NP-18",
@@ -507,7 +507,7 @@
     }
   },
   {
-    "CODPAR": "34",
+    "CODPAR": "3160",
     "CODCAN": "265",
     "PARROQUIA": "REMIGIO CRESPO TORAL",
     "ganador": "MUPP-NP-18",
@@ -520,7 +520,7 @@
     }
   },
   {
-    "CODPAR": "238",
+    "CODPAR": "3505",
     "CODCAN": "265",
     "PARROQUIA": "SAN JUAN",
     "ganador": "MUPP-NP-18",
@@ -533,7 +533,7 @@
     }
   },
   {
-    "CODPAR": "93",
+    "CODPAR": "4340",
     "CODCAN": "265",
     "PARROQUIA": "ZHIDMAD",
     "ganador": "MUPP-NP-18",
@@ -546,7 +546,7 @@
     }
   },
   {
-    "CODPAR": "673",
+    "CODPAR": "5420",
     "CODCAN": "265",
     "PARROQUIA": "GUALACEO",
     "ganador": "MUPP-NP-18",
@@ -559,9 +559,9 @@
     }
   },
   {
-    "CODPAR": "76",
+    "CODPAR": "0175",
     "CODCAN": "270",
-    "PARROQUIA": "EL BATAN",
+    "PARROQUIA": "ASUNCION",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -572,7 +572,7 @@
     }
   },
   {
-    "CODPAR": "8",
+    "CODPAR": "0885",
     "CODCAN": "270",
     "PARROQUIA": "SAN GERARDO",
     "ganador": "DP5",
@@ -585,7 +585,7 @@
     }
   },
   {
-    "CODPAR": "454",
+    "CODPAR": "5395",
     "CODCAN": "270",
     "PARROQUIA": "GIRON",
     "ganador": "DP5",
@@ -598,7 +598,7 @@
     }
   },
   {
-    "CODPAR": "45",
+    "CODPAR": "0395",
     "CODCAN": "275",
     "PARROQUIA": "BULAN / J. VICTOR IZQUIERDO",
     "ganador": "MUPP-NP-18",
@@ -611,7 +611,7 @@
     }
   },
   {
-    "CODPAR": "54",
+    "CODPAR": "0870",
     "CODCAN": "275",
     "PARROQUIA": "CHICAN / GUILLERMO ORTEGA",
     "ganador": "MUPP-NP-18",
@@ -624,7 +624,7 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "0890",
     "CODCAN": "275",
     "PARROQUIA": "DUG-DUG",
     "ganador": "PSC6",
@@ -637,7 +637,7 @@
     }
   },
   {
-    "CODPAR": "60",
+    "CODPAR": "1455",
     "CODCAN": "275",
     "PARROQUIA": "GUARAINAC",
     "ganador": "MUPP-NP-18",
@@ -650,9 +650,9 @@
     }
   },
   {
-    "CODPAR": "76",
+    "CODPAR": "3375",
     "CODCAN": "275",
-    "PARROQUIA": "EL BATAN",
+    "PARROQUIA": "SAN CRISTOBAL",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -663,9 +663,9 @@
     }
   },
   {
-    "CODPAR": "59",
+    "CODPAR": "4050",
     "CODCAN": "275",
-    "PARROQUIA": "CHAUCHA / ANGAS",
+    "PARROQUIA": "TOMEBAMBA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -676,7 +676,7 @@
     }
   },
   {
-    "CODPAR": "50",
+    "CODPAR": "4565",
     "CODCAN": "275",
     "PARROQUIA": "EL CABO",
     "ganador": "MUPP-NP-18",
@@ -689,7 +689,7 @@
     }
   },
   {
-    "CODPAR": "493",
+    "CODPAR": "5775",
     "CODCAN": "275",
     "PARROQUIA": "PAUTE",
     "ganador": "MUPP-NP-18",
@@ -702,9 +702,9 @@
     }
   },
   {
-    "CODPAR": "34",
+    "CODPAR": "0750",
     "CODCAN": "280",
-    "PARROQUIA": "REMIGIO CRESPO TORAL",
+    "PARROQUIA": "CUTCHIL",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -715,7 +715,7 @@
     }
   },
   {
-    "CODPAR": "170",
+    "CODPAR": "1355",
     "CODCAN": "280",
     "PARROQUIA": "GIMA",
     "ganador": "MUPP-NP-18",
@@ -728,7 +728,7 @@
     }
   },
   {
-    "CODPAR": "35",
+    "CODPAR": "1490",
     "CODCAN": "280",
     "PARROQUIA": "GUEL",
     "ganador": "MUPP-NP-18",
@@ -741,7 +741,7 @@
     }
   },
   {
-    "CODPAR": "82",
+    "CODPAR": "2215",
     "CODCAN": "280",
     "PARROQUIA": "LUDO",
     "ganador": "MUPP-NP-18",
@@ -754,7 +754,7 @@
     }
   },
   {
-    "CODPAR": "110",
+    "CODPAR": "3360",
     "CODCAN": "280",
     "PARROQUIA": "SAN BARTOLOME",
     "ganador": "MUPP-NP-18",
@@ -767,7 +767,7 @@
     }
   },
   {
-    "CODPAR": "68",
+    "CODPAR": "3495",
     "CODCAN": "280",
     "PARROQUIA": "SAN JOSE DE RARANGA",
     "ganador": "MUPP-NP-18",
@@ -780,7 +780,7 @@
     }
   },
   {
-    "CODPAR": "425",
+    "CODPAR": "6085",
     "CODCAN": "280",
     "PARROQUIA": "SIGSIG",
     "ganador": "MUPP-NP-18",
@@ -793,7 +793,7 @@
     }
   },
   {
-    "CODPAR": "80",
+    "CODPAR": "0015",
     "CODCAN": "285",
     "PARROQUIA": "ABDON CALDERON / LA UNION",
     "ganador": "PSC6",
@@ -806,9 +806,9 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "1130",
     "CODCAN": "285",
-    "PARROQUIA": "DUG-DUG",
+    "PARROQUIA": "SANTA ISABEL",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -819,7 +819,7 @@
     }
   },
   {
-    "CODPAR": "44",
+    "CODPAR": "3835",
     "CODCAN": "285",
     "PARROQUIA": "SHAGLLI",
     "ganador": "MUPP-NP-18",
@@ -832,7 +832,7 @@
     }
   },
   {
-    "CODPAR": "390",
+    "CODPAR": "6045",
     "CODCAN": "285",
     "PARROQUIA": "EL CARMEN DE PIJILI",
     "ganador": "MUPP-NP-18",
@@ -845,7 +845,7 @@
     }
   },
   {
-    "CODPAR": "129",
+    "CODPAR": "0455",
     "CODCAN": "555",
     "PARROQUIA": "BELLAVISTA",
     "ganador": "PRE10",
@@ -858,9 +858,9 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "1690",
     "CODCAN": "555",
-    "PARROQUIA": "DUG-DUG",
+    "PARROQUIA": "SAN RAFAEL DE SHARUG",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -871,7 +871,7 @@
     }
   },
   {
-    "CODPAR": "233",
+    "CODPAR": "5690",
     "CODCAN": "555",
     "PARROQUIA": "PUCARA",
     "ganador": "PRE10",
@@ -884,7 +884,7 @@
     }
   },
   {
-    "CODPAR": "130",
+    "CODPAR": "6360",
     "CODCAN": "780",
     "PARROQUIA": "OÑA",
     "ganador": "ID12",
@@ -897,7 +897,7 @@
     }
   },
   {
-    "CODPAR": "9",
+    "CODPAR": "4560",
     "CODCAN": "855",
     "PARROQUIA": "CHUMBLIN",
     "ganador": "PSC6",
@@ -910,7 +910,7 @@
     }
   },
   {
-    "CODPAR": "118",
+    "CODPAR": "6565",
     "CODCAN": "855",
     "PARROQUIA": "SAN FERNANDO",
     "ganador": "MUPP-NP-18",
@@ -923,7 +923,7 @@
     }
   },
   {
-    "CODPAR": "99",
+    "CODPAR": "0575",
     "CODCAN": "885",
     "PARROQUIA": "COCHAPATA",
     "ganador": "MUPP-NP-18",
@@ -936,7 +936,7 @@
     }
   },
   {
-    "CODPAR": "52",
+    "CODPAR": "1175",
     "CODCAN": "885",
     "PARROQUIA": "EL PROGRESO",
     "ganador": "MUPP-NP-18",
@@ -949,7 +949,7 @@
     }
   },
   {
-    "CODPAR": "40",
+    "CODPAR": "2550",
     "CODCAN": "885",
     "PARROQUIA": "NIEVES",
     "ganador": "MUPP-NP-18",
@@ -962,7 +962,7 @@
     }
   },
   {
-    "CODPAR": "353",
+    "CODPAR": "6595",
     "CODCAN": "885",
     "PARROQUIA": "NABON",
     "ganador": "MUPP-NP-18",
@@ -975,7 +975,7 @@
     }
   },
   {
-    "CODPAR": "56",
+    "CODPAR": "1535",
     "CODCAN": "915",
     "PARROQUIA": "LA UNION",
     "ganador": "MUPP-NP-18",
@@ -988,7 +988,7 @@
     }
   },
   {
-    "CODPAR": "16",
+    "CODPAR": "1575",
     "CODCAN": "915",
     "PARROQUIA": "SAN MARTIN DE PUZHIO",
     "ganador": "MUPP-NP-18",
@@ -1001,7 +1001,7 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "1585",
     "CODCAN": "915",
     "PARROQUIA": "LUIS GALARZA O. (DELEGSOL)",
     "ganador": "MUPP-NP-18",
@@ -1014,7 +1014,7 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "2950",
     "CODCAN": "915",
     "PARROQUIA": "PRINCIPAL",
     "ganador": "MUPP-NP-18",
@@ -1027,7 +1027,7 @@
     }
   },
   {
-    "CODPAR": "186",
+    "CODPAR": "6435",
     "CODCAN": "915",
     "PARROQUIA": "CHORDELEG",
     "ganador": "MUPP-NP-18",
@@ -1040,7 +1040,7 @@
     }
   },
   {
-    "CODPAR": "32",
+    "CODPAR": "0085",
     "CODCAN": "955",
     "PARROQUIA": "AMALUZA",
     "ganador": "MUPP-NP-18",
@@ -1053,7 +1053,7 @@
     }
   },
   {
-    "CODPAR": "94",
+    "CODPAR": "2725",
     "CODCAN": "955",
     "PARROQUIA": "PALMAS",
     "ganador": "MUPP-NP-18",
@@ -1066,9 +1066,9 @@
     }
   },
   {
-    "CODPAR": "54",
+    "CODPAR": "6480",
     "CODCAN": "955",
-    "PARROQUIA": "CHICAN / GUILLERMO ORTEGA",
+    "PARROQUIA": "SEVILLA DE ORO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -1079,7 +1079,7 @@
     }
   },
   {
-    "CODPAR": "19",
+    "CODPAR": "1650",
     "CODCAN": "960",
     "PARROQUIA": "SAN VICENTE",
     "ganador": "PSC6",
@@ -1092,9 +1092,9 @@
     }
   },
   {
-    "CODPAR": "80",
+    "CODPAR": "6485",
     "CODCAN": "960",
-    "PARROQUIA": "ABDON CALDERON / LA UNION",
+    "PARROQUIA": "EL PAN",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -1105,7 +1105,7 @@
     }
   },
   {
-    "CODPAR": "113",
+    "CODPAR": "6615",
     "CODCAN": "990",
     "PARROQUIA": "GUACHAPALA",
     "ganador": "PSC6",
@@ -1118,7 +1118,7 @@
     }
   },
   {
-    "CODPAR": "140",
+    "CODPAR": "0795",
     "CODCAN": "165",
     "PARROQUIA": "SAN LUIS DE PAMBIL",
     "ganador": "DP5",
@@ -1131,7 +1131,7 @@
     }
   },
   {
-    "CODPAR": "106",
+    "CODPAR": "1255",
     "CODCAN": "165",
     "PARROQUIA": "FACUNDO VELA",
     "ganador": "MUPP-NP-18",
@@ -1144,7 +1144,7 @@
     }
   },
   {
-    "CODPAR": "1268",
+    "CODPAR": "1435",
     "CODCAN": "165",
     "PARROQUIA": "SAN JACINTO",
     "ganador": "MUPP-NP-18",
@@ -1157,7 +1157,7 @@
     }
   },
   {
-    "CODPAR": "88",
+    "CODPAR": "1890",
     "CODCAN": "165",
     "PARROQUIA": "JULIO E MORENO",
     "ganador": "DP5",
@@ -1170,7 +1170,7 @@
     }
   },
   {
-    "CODPAR": "159",
+    "CODPAR": "3285",
     "CODCAN": "165",
     "PARROQUIA": "SALINAS",
     "ganador": "MUPP-NP-18",
@@ -1183,7 +1183,7 @@
     }
   },
   {
-    "CODPAR": "126",
+    "CODPAR": "3545",
     "CODCAN": "165",
     "PARROQUIA": "SAN LORENZO",
     "ganador": "PSC6",
@@ -1196,7 +1196,7 @@
     }
   },
   {
-    "CODPAR": "164",
+    "CODPAR": "3670",
     "CODCAN": "165",
     "PARROQUIA": "SAN SIMON",
     "ganador": "PRE10",
@@ -1209,9 +1209,9 @@
     }
   },
   {
-    "CODPAR": "88",
+    "CODPAR": "3710",
     "CODCAN": "165",
-    "PARROQUIA": "JULIO E MORENO",
+    "PARROQUIA": "SANTA FE",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -1222,7 +1222,7 @@
     }
   },
   {
-    "CODPAR": "462",
+    "CODPAR": "3860",
     "CODCAN": "165",
     "PARROQUIA": "SIMIATUG",
     "ganador": "MUPP-NP-18",
@@ -1235,7 +1235,7 @@
     }
   },
   {
-    "CODPAR": "305",
+    "CODPAR": "5035",
     "CODCAN": "165",
     "PARROQUIA": "ANGEL POLIVIO CHAVEZ",
     "ganador": "PSC6",
@@ -1248,7 +1248,7 @@
     }
   },
   {
-    "CODPAR": "998",
+    "CODPAR": "5375",
     "CODCAN": "165",
     "PARROQUIA": "GABRIEL I VEINTIMILLA",
     "ganador": "PSC6",
@@ -1261,9 +1261,9 @@
     }
   },
   {
-    "CODPAR": "141",
+    "CODPAR": "0170",
     "CODCAN": "170",
-    "PARROQUIA": "PACCHA",
+    "PARROQUIA": "ASUNCION",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -1274,7 +1274,7 @@
     }
   },
   {
-    "CODPAR": "146",
+    "CODPAR": "2315",
     "CODCAN": "170",
     "PARROQUIA": "MAGDALENA/CHAPACOTO",
     "ganador": "PSC6",
@@ -1287,7 +1287,7 @@
     }
   },
   {
-    "CODPAR": "51",
+    "CODPAR": "3655",
     "CODCAN": "170",
     "PARROQUIA": "SAN SEBASTIAN",
     "ganador": "PSC6",
@@ -1300,7 +1300,7 @@
     }
   },
   {
-    "CODPAR": "74",
+    "CODPAR": "3995",
     "CODCAN": "170",
     "PARROQUIA": "TELIMBELA",
     "ganador": "PSC6",
@@ -1313,7 +1313,7 @@
     }
   },
   {
-    "CODPAR": "218",
+    "CODPAR": "5975",
     "CODCAN": "170",
     "PARROQUIA": "SAN JOSE DE CHIMBO",
     "ganador": "PSC6",
@@ -1326,7 +1326,7 @@
     }
   },
   {
-    "CODPAR": "207",
+    "CODPAR": "0275",
     "CODCAN": "175",
     "PARROQUIA": "BALZAPAMBA",
     "ganador": "PSC6",
@@ -1339,9 +1339,9 @@
     }
   },
   {
-    "CODPAR": "136",
+    "CODPAR": "0345",
     "CODCAN": "175",
-    "PARROQUIA": "MONAY",
+    "PARROQUIA": "BILOVAN",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -1352,7 +1352,7 @@
     }
   },
   {
-    "CODPAR": "244",
+    "CODPAR": "3595",
     "CODCAN": "175",
     "PARROQUIA": "SAN PABLO DE ATENAS",
     "ganador": "PSC6",
@@ -1365,7 +1365,7 @@
     }
   },
   {
-    "CODPAR": "98",
+    "CODPAR": "3775",
     "CODCAN": "175",
     "PARROQUIA": "SANTIAGO",
     "ganador": "PSC6",
@@ -1378,7 +1378,7 @@
     }
   },
   {
-    "CODPAR": "43",
+    "CODPAR": "3900",
     "CODCAN": "175",
     "PARROQUIA": "SAN VICENTE",
     "ganador": "DP5",
@@ -1391,9 +1391,9 @@
     }
   },
   {
-    "CODPAR": "34",
+    "CODPAR": "4515",
     "CODCAN": "175",
-    "PARROQUIA": "REMIGIO CRESPO TORAL",
+    "PARROQUIA": "REGULO DE MORA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -1404,7 +1404,7 @@
     }
   },
   {
-    "CODPAR": "517",
+    "CODPAR": "5995",
     "CODCAN": "175",
     "PARROQUIA": "SAN MIGUEL",
     "ganador": "PSC6",
@@ -1417,7 +1417,7 @@
     }
   },
   {
-    "CODPAR": "145",
+    "CODPAR": "3500",
     "CODCAN": "180",
     "PARROQUIA": "SAN JOSE DE TAMBO",
     "ganador": "DP5",
@@ -1430,7 +1430,7 @@
     }
   },
   {
-    "CODPAR": "414",
+    "CODPAR": "5245",
     "CODCAN": "180",
     "PARROQUIA": "CHILLANES",
     "ganador": "PSC6",
@@ -1443,7 +1443,7 @@
     }
   },
   {
-    "CODPAR": "499",
+    "CODPAR": "5350",
     "CODCAN": "185",
     "PARROQUIA": "ECHEANDIA",
     "ganador": "PSC6",
@@ -1456,7 +1456,7 @@
     }
   },
   {
-    "CODPAR": "370",
+    "CODPAR": "6340",
     "CODCAN": "760",
     "PARROQUIA": "CALUMA / SAN ANTONIO/",
     "ganador": "PSC6",
@@ -1469,7 +1469,7 @@
     }
   },
   {
-    "CODPAR": "162",
+    "CODPAR": "6470",
     "CODCAN": "950",
     "PARROQUIA": "LAS NAVES",
     "ganador": "DP5",
@@ -1482,9 +1482,9 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "6475",
     "CODCAN": "950",
-    "PARROQUIA": "LUIS GALARZA O. (DELEGSOL)",
+    "PARROQUIA": "LAS MERCEDES",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -1495,7 +1495,7 @@
     }
   },
   {
-    "CODPAR": "237",
+    "CODPAR": "0310",
     "CODCAN": "235",
     "PARROQUIA": "SUMAYPAMBA",
     "ganador": "PSC6",
@@ -1508,7 +1508,7 @@
     }
   },
   {
-    "CODPAR": "169",
+    "CODPAR": "0375",
     "CODCAN": "235",
     "PARROQUIA": "SAN JUAN DE CERRO AZUL",
     "ganador": "PSC6",
@@ -1521,7 +1521,7 @@
     }
   },
   {
-    "CODPAR": "204",
+    "CODPAR": "0585",
     "CODCAN": "235",
     "PARROQUIA": "COJITAMBO",
     "ganador": "PSC6",
@@ -1534,7 +1534,7 @@
     }
   },
   {
-    "CODPAR": "384",
+    "CODPAR": "1445",
     "CODCAN": "235",
     "PARROQUIA": "GUAPAN",
     "ganador": "PSC6",
@@ -1547,7 +1547,7 @@
     }
   },
   {
-    "CODPAR": "290",
+    "CODPAR": "1825",
     "CODCAN": "235",
     "PARROQUIA": "JAVIER LOYOLA / CHUQUIPATA",
     "ganador": "PSC6",
@@ -1560,7 +1560,7 @@
     }
   },
   {
-    "CODPAR": "309",
+    "CODPAR": "2220",
     "CODCAN": "235",
     "PARROQUIA": "LUIS CORDERO",
     "ganador": "MUPP-NP-18",
@@ -1573,7 +1573,7 @@
     }
   },
   {
-    "CODPAR": "250",
+    "CODPAR": "2885",
     "CODCAN": "235",
     "PARROQUIA": "PINDILIG",
     "ganador": "MUPP-NP-18",
@@ -1586,7 +1586,7 @@
     }
   },
   {
-    "CODPAR": "166",
+    "CODPAR": "3210",
     "CODCAN": "235",
     "PARROQUIA": "RIVERA",
     "ganador": "PSC6",
@@ -1599,7 +1599,7 @@
     }
   },
   {
-    "CODPAR": "256",
+    "CODPAR": "3575",
     "CODCAN": "235",
     "PARROQUIA": "SAN MIGUEL",
     "ganador": "PSC6",
@@ -1612,7 +1612,7 @@
     }
   },
   {
-    "CODPAR": "168",
+    "CODPAR": "3945",
     "CODCAN": "235",
     "PARROQUIA": "TADAY",
     "ganador": "MUPP-NP-18",
@@ -1625,7 +1625,7 @@
     }
   },
   {
-    "CODPAR": "598",
+    "CODPAR": "5065",
     "CODCAN": "235",
     "PARROQUIA": "AZOGUES",
     "ganador": "PSC6",
@@ -1638,7 +1638,7 @@
     }
   },
   {
-    "CODPAR": "28",
+    "CODPAR": "5950",
     "CODCAN": "235",
     "PARROQUIA": "SAN FRANCISCO",
     "ganador": "PSC6",
@@ -1651,7 +1651,7 @@
     }
   },
   {
-    "CODPAR": "128",
+    "CODPAR": "0935",
     "CODCAN": "240",
     "PARROQUIA": "CHONTAMARCA",
     "ganador": "PSC6",
@@ -1664,7 +1664,7 @@
     }
   },
   {
-    "CODPAR": "118",
+    "CODPAR": "0950",
     "CODCAN": "240",
     "PARROQUIA": "CHOROCOPTE",
     "ganador": "PSC6",
@@ -1677,7 +1677,7 @@
     }
   },
   {
-    "CODPAR": "92",
+    "CODPAR": "1335",
     "CODCAN": "240",
     "PARROQUIA": "GRAL.MORALES / SOCARTE",
     "ganador": "MUPP-NP-18",
@@ -1690,7 +1690,7 @@
     }
   },
   {
-    "CODPAR": "180",
+    "CODPAR": "1410",
     "CODCAN": "240",
     "PARROQUIA": "GUALLETURO",
     "ganador": "PSC6",
@@ -1703,7 +1703,7 @@
     }
   },
   {
-    "CODPAR": "401",
+    "CODPAR": "1605",
     "CODCAN": "240",
     "PARROQUIA": "HONORATO VASQUEZ",
     "ganador": "MUPP-NP-18",
@@ -1716,7 +1716,7 @@
     }
   },
   {
-    "CODPAR": "743",
+    "CODPAR": "1725",
     "CODCAN": "240",
     "PARROQUIA": "INGAPIRCA",
     "ganador": "MUPP-NP-18",
@@ -1729,7 +1729,7 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "1775",
     "CODCAN": "240",
     "PARROQUIA": "VENTURA",
     "ganador": "MUPP-NP-18",
@@ -1742,7 +1742,7 @@
     }
   },
   {
-    "CODPAR": "105",
+    "CODPAR": "1900",
     "CODCAN": "240",
     "PARROQUIA": "JUNCAL",
     "ganador": "MUPP-NP-18",
@@ -1755,7 +1755,7 @@
     }
   },
   {
-    "CODPAR": "65",
+    "CODPAR": "3305",
     "CODCAN": "240",
     "PARROQUIA": "SAN ANTONIO",
     "ganador": "PLRE - FRA",
@@ -1768,7 +1768,7 @@
     }
   },
   {
-    "CODPAR": "283",
+    "CODPAR": "3895",
     "CODCAN": "240",
     "PARROQUIA": "DUCUR",
     "ganador": "MUPP-NP-18",
@@ -1781,7 +1781,7 @@
     }
   },
   {
-    "CODPAR": "114",
+    "CODPAR": "4345",
     "CODCAN": "240",
     "PARROQUIA": "ZHUD",
     "ganador": "MUPP-NP-18",
@@ -1794,7 +1794,7 @@
     }
   },
   {
-    "CODPAR": "895",
+    "CODPAR": "5160",
     "CODCAN": "240",
     "PARROQUIA": "CAÑAR",
     "ganador": "MUPP-NP-18",
@@ -1807,7 +1807,7 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "1085",
     "CODCAN": "245",
     "PARROQUIA": "JERUSALEN",
     "ganador": "PSC6",
@@ -1820,7 +1820,7 @@
     }
   },
   {
-    "CODPAR": "198",
+    "CODPAR": "2545",
     "CODCAN": "245",
     "PARROQUIA": "NAZON",
     "ganador": "PSC6",
@@ -1833,7 +1833,7 @@
     }
   },
   {
-    "CODPAR": "76",
+    "CODPAR": "3410",
     "CODCAN": "245",
     "PARROQUIA": "SAN FCO. DE SAGEO",
     "ganador": "MUPP-NP-18",
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "CODPAR": "85",
+    "CODPAR": "4100",
     "CODCAN": "245",
     "PARROQUIA": "TURUPAMBA",
     "ganador": "MUPP-NP-18",
@@ -1859,7 +1859,7 @@
     }
   },
   {
-    "CODPAR": "669",
+    "CODPAR": "5115",
     "CODCAN": "245",
     "PARROQUIA": "BIBLIAN",
     "ganador": "PSC6",
@@ -1872,7 +1872,7 @@
     }
   },
   {
-    "CODPAR": "115",
+    "CODPAR": "2365",
     "CODCAN": "250",
     "PARROQUIA": "MANUEL J. CALLE",
     "ganador": "PRE10",
@@ -1885,7 +1885,7 @@
     }
   },
   {
-    "CODPAR": "51",
+    "CODPAR": "2745",
     "CODCAN": "250",
     "PARROQUIA": "PANCHO NEGRO",
     "ganador": "PRE10",
@@ -1898,7 +1898,7 @@
     }
   },
   {
-    "CODPAR": "1152",
+    "CODPAR": "5610",
     "CODCAN": "250",
     "PARROQUIA": "LA TRONCAL",
     "ganador": "PRE10",
@@ -1911,7 +1911,7 @@
     }
   },
   {
-    "CODPAR": "389",
+    "CODPAR": "6345",
     "CODCAN": "765",
     "PARROQUIA": "EL TAMBO",
     "ganador": "MUPP-NP-18",
@@ -1924,7 +1924,7 @@
     }
   },
   {
-    "CODPAR": "95",
+    "CODPAR": "3875",
     "CODCAN": "905",
     "PARROQUIA": "SOLANO",
     "ganador": "PSC6",
@@ -1937,7 +1937,7 @@
     }
   },
   {
-    "CODPAR": "243",
+    "CODPAR": "6425",
     "CODCAN": "905",
     "PARROQUIA": "DELEG",
     "ganador": "MUPP-NP-18",
@@ -1950,7 +1950,7 @@
     }
   },
   {
-    "CODPAR": "73",
+    "CODPAR": "1125",
     "CODCAN": "5",
     "PARROQUIA": "EL CARMELO/EL PUN/",
     "ganador": "ID12",
@@ -1963,7 +1963,7 @@
     }
   },
   {
-    "CODPAR": "75",
+    "CODPAR": "1195",
     "CODCAN": "5",
     "PARROQUIA": "EL CHICAL",
     "ganador": "PCE1",
@@ -1976,7 +1976,7 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1765",
     "CODCAN": "5",
     "PARROQUIA": "SANTA MARTHA DE CUBA",
     "ganador": "PCE1",
@@ -1989,7 +1989,7 @@
     }
   },
   {
-    "CODPAR": "275",
+    "CODPAR": "1885",
     "CODCAN": "5",
     "PARROQUIA": "JULIO ANDRADE",
     "ganador": "PCE1",
@@ -2002,7 +2002,7 @@
     }
   },
   {
-    "CODPAR": "50",
+    "CODPAR": "2340",
     "CODCAN": "5",
     "PARROQUIA": "MALDONADO",
     "ganador": "PCE1",
@@ -2015,7 +2015,7 @@
     }
   },
   {
-    "CODPAR": "76",
+    "CODPAR": "2900",
     "CODCAN": "5",
     "PARROQUIA": "PIOTER",
     "ganador": "PRE10",
@@ -2028,7 +2028,7 @@
     }
   },
   {
-    "CODPAR": "4",
+    "CODPAR": "4040",
     "CODCAN": "5",
     "PARROQUIA": "TOBAR DONOSO",
     "ganador": "ID12",
@@ -2041,7 +2041,7 @@
     }
   },
   {
-    "CODPAR": "100",
+    "CODPAR": "4070",
     "CODCAN": "5",
     "PARROQUIA": "TUFIÑO",
     "ganador": "PCE1",
@@ -2054,7 +2054,7 @@
     }
   },
   {
-    "CODPAR": "45",
+    "CODPAR": "4130",
     "CODCAN": "5",
     "PARROQUIA": "URBINA",
     "ganador": "PCE1",
@@ -2067,7 +2067,7 @@
     }
   },
   {
-    "CODPAR": "434",
+    "CODPAR": "5415",
     "CODCAN": "5",
     "PARROQUIA": "GONZALEZ SUAREZ",
     "ganador": "ID12",
@@ -2080,7 +2080,7 @@
     }
   },
   {
-    "CODPAR": "610",
+    "CODPAR": "6165",
     "CODCAN": "5",
     "PARROQUIA": "TULCAN",
     "ganador": "PCE1",
@@ -2093,7 +2093,7 @@
     }
   },
   {
-    "CODPAR": "30",
+    "CODPAR": "0250",
     "CODCAN": "10",
     "PARROQUIA": "PIARTAL",
     "ganador": "PRE10",
@@ -2106,7 +2106,7 @@
     }
   },
   {
-    "CODPAR": "201",
+    "CODPAR": "0690",
     "CODCAN": "10",
     "PARROQUIA": "CRISTOBAL COLON",
     "ganador": "PRE10",
@@ -2119,7 +2119,7 @@
     }
   },
   {
-    "CODPAR": "31",
+    "CODPAR": "0910",
     "CODCAN": "10",
     "PARROQUIA": "CHITAN DE NAVARRETES",
     "ganador": "ID12",
@@ -2132,7 +2132,7 @@
     }
   },
   {
-    "CODPAR": "43",
+    "CODPAR": "1270",
     "CODCAN": "10",
     "PARROQUIA": "FERNANDEZ SALVADOR",
     "ganador": "PRE10",
@@ -2145,7 +2145,7 @@
     }
   },
   {
-    "CODPAR": "145",
+    "CODPAR": "2065",
     "CODCAN": "10",
     "PARROQUIA": "LA PAZ",
     "ganador": "PCE1",
@@ -2158,7 +2158,7 @@
     }
   },
   {
-    "CODPAR": "487",
+    "CODPAR": "5405",
     "CODCAN": "10",
     "PARROQUIA": "GONZALEZ SUAREZ",
     "ganador": "PRE10",
@@ -2171,7 +2171,7 @@
     }
   },
   {
-    "CODPAR": "427",
+    "CODPAR": "5970",
     "CODCAN": "10",
     "PARROQUIA": "SAN JOSE",
     "ganador": "PRE10",
@@ -2184,7 +2184,7 @@
     }
   },
   {
-    "CODPAR": "53",
+    "CODPAR": "1150",
     "CODCAN": "15",
     "PARROQUIA": "EL GOALTAL / LAS JUNTAS",
     "ganador": "PRE10",
@@ -2197,7 +2197,7 @@
     }
   },
   {
-    "CODPAR": "169",
+    "CODPAR": "2040",
     "CODCAN": "15",
     "PARROQUIA": "LA LIBERTAD",
     "ganador": "PRE10",
@@ -2210,7 +2210,7 @@
     }
   },
   {
-    "CODPAR": "154",
+    "CODPAR": "3435",
     "CODCAN": "15",
     "PARROQUIA": "SAN ISIDRO",
     "ganador": "PRE10",
@@ -2223,7 +2223,7 @@
     }
   },
   {
-    "CODPAR": "175",
+    "CODPAR": "5295",
     "CODCAN": "15",
     "PARROQUIA": "EL ANGEL",
     "ganador": "PRE10",
@@ -2236,7 +2236,7 @@
     }
   },
   {
-    "CODPAR": "84",
+    "CODPAR": "6250",
     "CODCAN": "15",
     "PARROQUIA": "27 DE SEPTIEMBRE",
     "ganador": "PRE10",
@@ -2249,7 +2249,7 @@
     }
   },
   {
-    "CODPAR": "144",
+    "CODPAR": "1835",
     "CODCAN": "20",
     "PARROQUIA": "JIJON Y CAAMAÑO",
     "ganador": "PCE1",
@@ -2262,7 +2262,7 @@
     }
   },
   {
-    "CODPAR": "109",
+    "CODPAR": "1875",
     "CODCAN": "20",
     "PARROQUIA": "JUAN MONTALVO",
     "ganador": "PRE10",
@@ -2275,7 +2275,7 @@
     }
   },
   {
-    "CODPAR": "228",
+    "CODPAR": "2010",
     "CODCAN": "20",
     "PARROQUIA": "LA CONCEPCION",
     "ganador": "PRE10",
@@ -2288,7 +2288,7 @@
     }
   },
   {
-    "CODPAR": "325",
+    "CODPAR": "5685",
     "CODCAN": "20",
     "PARROQUIA": "MIRA",
     "ganador": "PRE10",
@@ -2301,7 +2301,7 @@
     }
   },
   {
-    "CODPAR": "57",
+    "CODPAR": "1055",
     "CODCAN": "25",
     "PARROQUIA": "SAN RAFAEL",
     "ganador": "MUPP-NP-18",
@@ -2314,7 +2314,7 @@
     }
   },
   {
-    "CODPAR": "99",
+    "CODPAR": "1315",
     "CODCAN": "25",
     "PARROQUIA": "GARCIA MORENO",
     "ganador": "PRE10",
@@ -2327,7 +2327,7 @@
     }
   },
   {
-    "CODPAR": "110",
+    "CODPAR": "2205",
     "CODCAN": "25",
     "PARROQUIA": "LOS ANDES",
     "ganador": "MUPP-NP-18",
@@ -2340,7 +2340,7 @@
     }
   },
   {
-    "CODPAR": "118",
+    "CODPAR": "2455",
     "CODCAN": "25",
     "PARROQUIA": "MONTEOLIVO",
     "ganador": "MUPP-NP-18",
@@ -2353,7 +2353,7 @@
     }
   },
   {
-    "CODPAR": "104",
+    "CODPAR": "3680",
     "CODCAN": "25",
     "PARROQUIA": "SAN VICENTE DE PUSIR",
     "ganador": "PRE10",
@@ -2366,7 +2366,7 @@
     }
   },
   {
-    "CODPAR": "171",
+    "CODPAR": "6520",
     "CODCAN": "25",
     "PARROQUIA": "BOLIVAR",
     "ganador": "PRE10",
@@ -2379,7 +2379,7 @@
     }
   },
   {
-    "CODPAR": "40",
+    "CODPAR": "1520",
     "CODCAN": "995",
     "PARROQUIA": "MARISCAL SUCRE",
     "ganador": "PRE10",
@@ -2392,7 +2392,7 @@
     }
   },
   {
-    "CODPAR": "163",
+    "CODPAR": "6665",
     "CODCAN": "995",
     "PARROQUIA": "HUACA",
     "ganador": "PRE10",
@@ -2405,7 +2405,7 @@
     }
   },
   {
-    "CODPAR": "443",
+    "CODPAR": "0035",
     "CODCAN": "100",
     "PARROQUIA": "ALAQUEZ",
     "ganador": "PSC6",
@@ -2418,7 +2418,7 @@
     }
   },
   {
-    "CODPAR": "322",
+    "CODPAR": "0315",
     "CODCAN": "100",
     "PARROQUIA": "BELISARIO QUEVEDO",
     "ganador": "MUPP-NP-18",
@@ -2431,7 +2431,7 @@
     }
   },
   {
-    "CODPAR": "449",
+    "CODPAR": "1485",
     "CODCAN": "100",
     "PARROQUIA": "GUAYTACAMA",
     "ganador": "MUPP-NP-18",
@@ -2444,7 +2444,7 @@
     }
   },
   {
-    "CODPAR": "67",
+    "CODPAR": "1905",
     "CODCAN": "100",
     "PARROQUIA": "JOSEGUANGO BAJO",
     "ganador": "DP5",
@@ -2457,7 +2457,7 @@
     }
   },
   {
-    "CODPAR": "638",
+    "CODPAR": "2480",
     "CODCAN": "100",
     "PARROQUIA": "MULALO",
     "ganador": "APRE13",
@@ -2470,7 +2470,7 @@
     }
   },
   {
-    "CODPAR": "132",
+    "CODPAR": "2620",
     "CODCAN": "100",
     "PARROQUIA": "11 DE NOVIEMBRE",
     "ganador": "PSC6",
@@ -2483,7 +2483,7 @@
     }
   },
   {
-    "CODPAR": "419",
+    "CODPAR": "2920",
     "CODCAN": "100",
     "PARROQUIA": "POALO",
     "ganador": "MUPP-NP-18",
@@ -2496,7 +2496,7 @@
     }
   },
   {
-    "CODPAR": "485",
+    "CODPAR": "3530",
     "CODCAN": "100",
     "PARROQUIA": "SAN JUAN DE PASTOCALLE",
     "ganador": "MUPP-NP-18",
@@ -2509,7 +2509,7 @@
     }
   },
   {
-    "CODPAR": "597",
+    "CODPAR": "3965",
     "CODCAN": "100",
     "PARROQUIA": "TANICUCHI",
     "ganador": "APRE13",
@@ -2522,7 +2522,7 @@
     }
   },
   {
-    "CODPAR": "675",
+    "CODPAR": "4035",
     "CODCAN": "100",
     "PARROQUIA": "TOACAZO",
     "ganador": "MUPP-NP-18",
@@ -2535,7 +2535,7 @@
     }
   },
   {
-    "CODPAR": "991",
+    "CODPAR": "5310",
     "CODCAN": "100",
     "PARROQUIA": "ELOY ALFARO / SAN FELIPE",
     "ganador": "PSC6",
@@ -2548,7 +2548,7 @@
     }
   },
   {
-    "CODPAR": "642",
+    "CODPAR": "5465",
     "CODCAN": "100",
     "PARROQUIA": "IGNACIO FLORES",
     "ganador": "PSC6",
@@ -2561,7 +2561,7 @@
     }
   },
   {
-    "CODPAR": "999",
+    "CODPAR": "5500",
     "CODCAN": "100",
     "PARROQUIA": "JUAN MONTALVO",
     "ganador": "PSC6",
@@ -2574,7 +2574,7 @@
     }
   },
   {
-    "CODPAR": "766",
+    "CODPAR": "5555",
     "CODCAN": "100",
     "PARROQUIA": "LA MATRIZ",
     "ganador": "PSC6",
@@ -2587,7 +2587,7 @@
     }
   },
   {
-    "CODPAR": "251",
+    "CODPAR": "5940",
     "CODCAN": "100",
     "PARROQUIA": "SAN BUENAVENTURA",
     "ganador": "PSC6",
@@ -2600,7 +2600,7 @@
     }
   },
   {
-    "CODPAR": "194",
+    "CODPAR": "0125",
     "CODCAN": "105",
     "PARROQUIA": "ANGAMARCA",
     "ganador": "MUPP-NP-18",
@@ -2613,7 +2613,7 @@
     }
   },
   {
-    "CODPAR": "371",
+    "CODPAR": "1430",
     "CODCAN": "105",
     "PARROQUIA": "GUANGAJE",
     "ganador": "MUPP-NP-18",
@@ -2626,7 +2626,7 @@
     }
   },
   {
-    "CODPAR": "150",
+    "CODPAR": "2150",
     "CODCAN": "105",
     "PARROQUIA": "LA VICTORIA",
     "ganador": "PSC6",
@@ -2639,7 +2639,7 @@
     }
   },
   {
-    "CODPAR": "120",
+    "CODPAR": "2865",
     "CODCAN": "105",
     "PARROQUIA": "PILALO",
     "ganador": "MPD15",
@@ -2652,7 +2652,7 @@
     }
   },
   {
-    "CODPAR": "211",
+    "CODPAR": "4015",
     "CODCAN": "105",
     "PARROQUIA": "TINGO",
     "ganador": "APRE13",
@@ -2665,7 +2665,7 @@
     }
   },
   {
-    "CODPAR": "590",
+    "CODPAR": "4365",
     "CODCAN": "105",
     "PARROQUIA": "ZUMBAHUA",
     "ganador": "MUPP-NP-18",
@@ -2678,7 +2678,7 @@
     }
   },
   {
-    "CODPAR": "1893",
+    "CODPAR": "5820",
     "CODCAN": "105",
     "PARROQUIA": "PUJILI",
     "ganador": "MUPP-NP-18",
@@ -2691,7 +2691,7 @@
     }
   },
   {
-    "CODPAR": "155",
+    "CODPAR": "0135",
     "CODCAN": "110",
     "PARROQUIA": "ANTONIO J. HOLGUIN",
     "ganador": "DP5",
@@ -2704,7 +2704,7 @@
     }
   },
   {
-    "CODPAR": "742",
+    "CODPAR": "0745",
     "CODCAN": "110",
     "PARROQUIA": "CUSUBAMBA",
     "ganador": "APRE13",
@@ -2717,7 +2717,7 @@
     }
   },
   {
-    "CODPAR": "465",
+    "CODPAR": "2475",
     "CODCAN": "110",
     "PARROQUIA": "MULALILLO",
     "ganador": "MUPP-NP-18",
@@ -2730,7 +2730,7 @@
     }
   },
   {
-    "CODPAR": "420",
+    "CODPAR": "2490",
     "CODCAN": "110",
     "PARROQUIA": "MULLIQUINDIL",
     "ganador": "DP5",
@@ -2743,7 +2743,7 @@
     }
   },
   {
-    "CODPAR": "166",
+    "CODPAR": "2760",
     "CODCAN": "110",
     "PARROQUIA": "PANZALEO",
     "ganador": "DP5",
@@ -2756,7 +2756,7 @@
     }
   },
   {
-    "CODPAR": "1770",
+    "CODPAR": "6000",
     "CODCAN": "110",
     "PARROQUIA": "SAN MIGUEL DE SALCEDO",
     "ganador": "MUPP-NP-18",
@@ -2769,7 +2769,7 @@
     }
   },
   {
-    "CODPAR": "99",
+    "CODPAR": "0465",
     "CODCAN": "115",
     "PARROQUIA": "CANCHAGUA",
     "ganador": "MUPP-NP-18",
@@ -2782,7 +2782,7 @@
     }
   },
   {
-    "CODPAR": "35",
+    "CODPAR": "0830",
     "CODCAN": "115",
     "PARROQUIA": "CHANTILIN",
     "ganador": "PSC6",
@@ -2795,7 +2795,7 @@
     }
   },
   {
-    "CODPAR": "64",
+    "CODPAR": "0990",
     "CODCAN": "115",
     "PARROQUIA": "COCHAPAMBA",
     "ganador": "MUPP-NP-18",
@@ -2808,7 +2808,7 @@
     }
   },
   {
-    "CODPAR": "760",
+    "CODPAR": "6070",
     "CODCAN": "115",
     "PARROQUIA": "SAQUISILI",
     "ganador": "MUPP-NP-18",
@@ -2821,7 +2821,7 @@
     }
   },
   {
-    "CODPAR": "321",
+    "CODPAR": "2460",
     "CODCAN": "120",
     "PARROQUIA": "MORASPUNGO",
     "ganador": "PRE10",
@@ -2834,7 +2834,7 @@
     }
   },
   {
-    "CODPAR": "48",
+    "CODPAR": "2890",
     "CODCAN": "120",
     "PARROQUIA": "PINLLOPATA",
     "ganador": "DP5",
@@ -2847,7 +2847,7 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "3155",
     "CODCAN": "120",
     "PARROQUIA": "RAMON CAMPAÑA",
     "ganador": "DP5",
@@ -2860,7 +2860,7 @@
     }
   },
   {
-    "CODPAR": "432",
+    "CODPAR": "5305",
     "CODCAN": "120",
     "PARROQUIA": "EL CORAZON",
     "ganador": "PSC6",
@@ -2873,7 +2873,7 @@
     }
   },
   {
-    "CODPAR": "104",
+    "CODPAR": "1500",
     "CODCAN": "825",
     "PARROQUIA": "GUASAGANDA",
     "ganador": "DP5",
@@ -2886,7 +2886,7 @@
     }
   },
   {
-    "CODPAR": "163",
+    "CODPAR": "2965",
     "CODCAN": "825",
     "PARROQUIA": "PUCAYACO",
     "ganador": "PSC6",
@@ -2899,7 +2899,7 @@
     }
   },
   {
-    "CODPAR": "848",
+    "CODPAR": "6535",
     "CODCAN": "825",
     "PARROQUIA": "LA MANA",
     "ganador": "PRE10",
@@ -2912,7 +2912,7 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "0815",
     "CODCAN": "930",
     "PARROQUIA": "PALO QUEMADO",
     "ganador": "MUPP-NP-18",
@@ -2925,7 +2925,7 @@
     }
   },
   {
-    "CODPAR": "290",
+    "CODPAR": "0960",
     "CODCAN": "930",
     "PARROQUIA": "CHUGCHILAN",
     "ganador": "MUPP-NP-18",
@@ -2938,7 +2938,7 @@
     }
   },
   {
-    "CODPAR": "145",
+    "CODPAR": "1735",
     "CODCAN": "930",
     "PARROQUIA": "ISINLIVI",
     "ganador": "PSC6",
@@ -2951,9 +2951,9 @@
     }
   },
   {
-    "CODPAR": "104",
+    "CODPAR": "2115",
     "CODCAN": "930",
-    "PARROQUIA": "GUASAGANDA",
+    "PARROQUIA": "LAS PAMPAS",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -2964,7 +2964,7 @@
     }
   },
   {
-    "CODPAR": "521",
+    "CODPAR": "6450",
     "CODCAN": "930",
     "PARROQUIA": "SIGCHOS",
     "ganador": "PSC6",
@@ -2977,7 +2977,7 @@
     }
   },
   {
-    "CODPAR": "599",
+    "CODPAR": "5475",
     "CODCAN": "190",
     "PARROQUIA": "CHAMBO",
     "ganador": "PRE10",
@@ -2990,7 +2990,7 @@
     }
   },
   {
-    "CODPAR": "223",
+    "CODPAR": "0420",
     "CODCAN": "195",
     "PARROQUIA": "CACHA",
     "ganador": "MUPP-NP-18",
@@ -3003,7 +3003,7 @@
     }
   },
   {
-    "CODPAR": "604",
+    "CODPAR": "0445",
     "CODCAN": "195",
     "PARROQUIA": "CALPI",
     "ganador": "MUPP-NP-18",
@@ -3016,7 +3016,7 @@
     }
   },
   {
-    "CODPAR": "185",
+    "CODPAR": "0705",
     "CODCAN": "195",
     "PARROQUIA": "CUBIJIES",
     "ganador": "PRE10",
@@ -3029,7 +3029,7 @@
     }
   },
   {
-    "CODPAR": "419",
+    "CODPAR": "1280",
     "CODCAN": "195",
     "PARROQUIA": "FLORES",
     "ganador": "MUPP-NP-18",
@@ -3042,7 +3042,7 @@
     }
   },
   {
-    "CODPAR": "256",
+    "CODPAR": "2160",
     "CODCAN": "195",
     "PARROQUIA": "LICAN",
     "ganador": "MPD15",
@@ -3055,7 +3055,7 @@
     }
   },
   {
-    "CODPAR": "842",
+    "CODPAR": "2165",
     "CODCAN": "195",
     "PARROQUIA": "LICTO",
     "ganador": "MUPP-NP-18",
@@ -3068,7 +3068,7 @@
     }
   },
   {
-    "CODPAR": "431",
+    "CODPAR": "3035",
     "CODCAN": "195",
     "PARROQUIA": "PUNGALA",
     "ganador": "MUPP-NP-18",
@@ -3081,7 +3081,7 @@
     }
   },
   {
-    "CODPAR": "464",
+    "CODPAR": "3040",
     "CODCAN": "195",
     "PARROQUIA": "PUNIN",
     "ganador": "MUPP-NP-18",
@@ -3094,7 +3094,7 @@
     }
   },
   {
-    "CODPAR": "409",
+    "CODPAR": "3095",
     "CODCAN": "195",
     "PARROQUIA": "QUIMIAG",
     "ganador": "PRE10",
@@ -3107,7 +3107,7 @@
     }
   },
   {
-    "CODPAR": "731",
+    "CODPAR": "3515",
     "CODCAN": "195",
     "PARROQUIA": "SAN JUAN",
     "ganador": "MUPP-NP-18",
@@ -3120,7 +3120,7 @@
     }
   },
   {
-    "CODPAR": "442",
+    "CODPAR": "3560",
     "CODCAN": "195",
     "PARROQUIA": "SAN LUIS",
     "ganador": "MUPP-NP-18",
@@ -3133,7 +3133,7 @@
     }
   },
   {
-    "CODPAR": "1374",
+    "CODPAR": "5590",
     "CODCAN": "195",
     "PARROQUIA": "LIZARZABURU",
     "ganador": "PSC6",
@@ -3146,7 +3146,7 @@
     }
   },
   {
-    "CODPAR": "1025",
+    "CODPAR": "5630",
     "CODCAN": "195",
     "PARROQUIA": "MALDONADO",
     "ganador": "MUPP-NP-18",
@@ -3159,7 +3159,7 @@
     }
   },
   {
-    "CODPAR": "1112",
+    "CODPAR": "6220",
     "CODCAN": "195",
     "PARROQUIA": "VELASCO",
     "ganador": "PSC6",
@@ -3172,7 +3172,7 @@
     }
   },
   {
-    "CODPAR": "474",
+    "CODPAR": "6230",
     "CODCAN": "195",
     "PARROQUIA": "VELOZ",
     "ganador": "DP5",
@@ -3185,7 +3185,7 @@
     }
   },
   {
-    "CODPAR": "397",
+    "CODPAR": "6290",
     "CODCAN": "195",
     "PARROQUIA": "YARUQUIES",
     "ganador": "MUPP-NP-18",
@@ -3198,7 +3198,7 @@
     }
   },
   {
-    "CODPAR": "81",
+    "CODPAR": "0040",
     "CODCAN": "200",
     "PARROQUIA": "SANTA FE DE GALAN",
     "ganador": "MUPP-NP-18",
@@ -3211,7 +3211,7 @@
     }
   },
   {
-    "CODPAR": "78",
+    "CODPAR": "0045",
     "CODCAN": "200",
     "PARROQUIA": "SAN JOSE DEL CHAZO",
     "ganador": "MUPP-NP-18",
@@ -3224,7 +3224,7 @@
     }
   },
   {
-    "CODPAR": "17",
+    "CODPAR": "0410",
     "CODCAN": "200",
     "PARROQUIA": "VALPARAISO",
     "ganador": "MUPP-NP-18",
@@ -3237,7 +3237,7 @@
     }
   },
   {
-    "CODPAR": "74",
+    "CODPAR": "1415",
     "CODCAN": "200",
     "PARROQUIA": "GUANANDO",
     "ganador": "MUPP-NP-18",
@@ -3250,7 +3250,7 @@
     }
   },
   {
-    "CODPAR": "241",
+    "CODPAR": "1705",
     "CODCAN": "200",
     "PARROQUIA": "ILAPO",
     "ganador": "MPD15",
@@ -3263,7 +3263,7 @@
     }
   },
   {
-    "CODPAR": "31",
+    "CODPAR": "2080",
     "CODCAN": "200",
     "PARROQUIA": "LA PROVIDENCIA",
     "ganador": "PSC6",
@@ -3276,7 +3276,7 @@
     }
   },
   {
-    "CODPAR": "986",
+    "CODPAR": "3295",
     "CODCAN": "200",
     "PARROQUIA": "SAN ANDRES",
     "ganador": "MUPP-NP-18",
@@ -3289,7 +3289,7 @@
     }
   },
   {
-    "CODPAR": "133",
+    "CODPAR": "3425",
     "CODCAN": "200",
     "PARROQUIA": "SAN GERARDO / PAQUICAHUAN",
     "ganador": "PRE10",
@@ -3302,7 +3302,7 @@
     }
   },
   {
-    "CODPAR": "380",
+    "CODPAR": "3450",
     "CODCAN": "200",
     "PARROQUIA": "SAN ISIDRO DE PATULU",
     "ganador": "MUPP-NP-18",
@@ -3315,7 +3315,7 @@
     }
   },
   {
-    "CODPAR": "144",
+    "CODPAR": "5315",
     "CODCAN": "200",
     "PARROQUIA": "EL ROSARIO",
     "ganador": "MUPP-NP-18",
@@ -3328,7 +3328,7 @@
     }
   },
   {
-    "CODPAR": "644",
+    "CODPAR": "5550",
     "CODCAN": "200",
     "PARROQUIA": "LA MATRIZ",
     "ganador": "MUPP-NP-18",
@@ -3341,7 +3341,7 @@
     }
   },
   {
-    "CODPAR": "53",
+    "CODPAR": "0500",
     "CODCAN": "205",
     "PARROQUIA": "CANI",
     "ganador": "DP5",
@@ -3354,7 +3354,7 @@
     }
   },
   {
-    "CODPAR": "1521",
+    "CODPAR": "0610",
     "CODCAN": "205",
     "PARROQUIA": "COLUMBE",
     "ganador": "MUPP-NP-18",
@@ -3367,7 +3367,7 @@
     }
   },
   {
-    "CODPAR": "218",
+    "CODPAR": "1865",
     "CODCAN": "205",
     "PARROQUIA": "JUAN DE VELASCO / PONGOR",
     "ganador": "MUPP-NP-18",
@@ -3380,9 +3380,9 @@
     }
   },
   {
-    "CODPAR": "218",
+    "CODPAR": "4430",
     "CODCAN": "205",
-    "PARROQUIA": "JUAN DE VELASCO / PONGOR",
+    "PARROQUIA": "SANTIAGO DE QUITO",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -3393,7 +3393,7 @@
     }
   },
   {
-    "CODPAR": "1153",
+    "CODPAR": "5145",
     "CODCAN": "205",
     "PARROQUIA": "CAJABAMBA",
     "ganador": "MUPP-NP-18",
@@ -3406,7 +3406,7 @@
     }
   },
   {
-    "CODPAR": "1125",
+    "CODPAR": "6080",
     "CODCAN": "205",
     "PARROQUIA": "SICALPA",
     "ganador": "MUPP-NP-18",
@@ -3419,7 +3419,7 @@
     }
   },
   {
-    "CODPAR": "381",
+    "CODPAR": "0555",
     "CODCAN": "210",
     "PARROQUIA": "CEBADAS",
     "ganador": "MUPP-NP-18",
@@ -3432,7 +3432,7 @@
     }
   },
   {
-    "CODPAR": "417",
+    "CODPAR": "2730",
     "CODCAN": "210",
     "PARROQUIA": "PALMIRA",
     "ganador": "MPD15",
@@ -3445,7 +3445,7 @@
     }
   },
   {
-    "CODPAR": "802",
+    "CODPAR": "5430",
     "CODCAN": "210",
     "PARROQUIA": "GUAMOTE",
     "ganador": "MUPP-NP-18",
@@ -3458,7 +3458,7 @@
     }
   },
   {
-    "CODPAR": "630",
+    "CODPAR": "0020",
     "CODCAN": "215",
     "PARROQUIA": "ACHUPALLAS",
     "ganador": "PRE10",
@@ -3471,7 +3471,7 @@
     }
   },
   {
-    "CODPAR": "173",
+    "CODPAR": "1465",
     "CODCAN": "215",
     "PARROQUIA": "GUASUNTOS",
     "ganador": "CFP4",
@@ -3484,7 +3484,7 @@
     }
   },
   {
-    "CODPAR": "132",
+    "CODPAR": "1660",
     "CODCAN": "215",
     "PARROQUIA": "HUIGRA",
     "ganador": "PRE10",
@@ -3497,7 +3497,7 @@
     }
   },
   {
-    "CODPAR": "93",
+    "CODPAR": "2485",
     "CODCAN": "215",
     "PARROQUIA": "MULTITUD",
     "ganador": "PSC6",
@@ -3510,7 +3510,7 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "2905",
     "CODCAN": "215",
     "PARROQUIA": "PISTISHI",
     "ganador": "PRE10",
@@ -3523,7 +3523,7 @@
     }
   },
   {
-    "CODPAR": "48",
+    "CODPAR": "3025",
     "CODCAN": "215",
     "PARROQUIA": "PUMALLACTA",
     "ganador": "CFP4",
@@ -3536,7 +3536,7 @@
     }
   },
   {
-    "CODPAR": "73",
+    "CODPAR": "3820",
     "CODCAN": "215",
     "PARROQUIA": "SEVILLA",
     "ganador": "MUPP-NP-18",
@@ -3549,7 +3549,7 @@
     }
   },
   {
-    "CODPAR": "178",
+    "CODPAR": "3845",
     "CODCAN": "215",
     "PARROQUIA": "SIBAMBE",
     "ganador": "CFP4",
@@ -3562,7 +3562,7 @@
     }
   },
   {
-    "CODPAR": "671",
+    "CODPAR": "4030",
     "CODCAN": "215",
     "PARROQUIA": "TIXAN",
     "ganador": "DP5",
@@ -3575,7 +3575,7 @@
     }
   },
   {
-    "CODPAR": "494",
+    "CODPAR": "5010",
     "CODCAN": "215",
     "PARROQUIA": "ALAUSI",
     "ganador": "PSC6",
@@ -3588,7 +3588,7 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "0515",
     "CODCAN": "220",
     "PARROQUIA": "CAPZOL",
     "ganador": "PRE10",
@@ -3601,7 +3601,7 @@
     }
   },
   {
-    "CODPAR": "62",
+    "CODPAR": "0615",
     "CODCAN": "220",
     "PARROQUIA": "COMPUD",
     "ganador": "PRE10",
@@ -3614,7 +3614,7 @@
     }
   },
   {
-    "CODPAR": "56",
+    "CODPAR": "1370",
     "CODCAN": "220",
     "PARROQUIA": "GONZOL",
     "ganador": "PSC6",
@@ -3627,7 +3627,7 @@
     }
   },
   {
-    "CODPAR": "39",
+    "CODPAR": "2260",
     "CODCAN": "220",
     "PARROQUIA": "LLAGOS",
     "ganador": "PSC6",
@@ -3640,7 +3640,7 @@
     }
   },
   {
-    "CODPAR": "468",
+    "CODPAR": "5255",
     "CODCAN": "220",
     "PARROQUIA": "CHUNCHI",
     "ganador": "PRE10",
@@ -3653,7 +3653,7 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "0925",
     "CODCAN": "225",
     "PARROQUIA": "LA CANDELARIA",
     "ganador": "JUNTAS ",
@@ -3666,7 +3666,7 @@
     }
   },
   {
-    "CODPAR": "95",
+    "CODPAR": "1110",
     "CODCAN": "225",
     "PARROQUIA": "EL ALTAR",
     "ganador": "PRE10",
@@ -3679,16 +3679,16 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1325",
     "CODCAN": "225",
-    "PARROQUIA": "LA CANDELARIA",
+    "PARROQUIA": "BILBAO",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "39",
+    "CODPAR": "2400",
     "CODCAN": "225",
-    "PARROQUIA": "LLAGOS",
+    "PARROQUIA": "MATUS",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -3699,7 +3699,7 @@
     }
   },
   {
-    "CODPAR": "97",
+    "CODPAR": "2975",
     "CODCAN": "225",
     "PARROQUIA": "PUELA",
     "ganador": "PSC6",
@@ -3712,7 +3712,7 @@
     }
   },
   {
-    "CODPAR": "76",
+    "CODPAR": "3335",
     "CODCAN": "225",
     "PARROQUIA": "SAN ANTONIO DE BAYUSHIG",
     "ganador": "PRE10",
@@ -3725,7 +3725,7 @@
     }
   },
   {
-    "CODPAR": "142",
+    "CODPAR": "5740",
     "CODCAN": "225",
     "PARROQUIA": "PENIPE",
     "ganador": "PSC6",
@@ -3738,7 +3738,7 @@
     }
   },
   {
-    "CODPAR": "507",
+    "CODPAR": "6540",
     "CODCAN": "830",
     "PARROQUIA": "PALLATANGA",
     "ganador": "PSC6",
@@ -3751,7 +3751,7 @@
     }
   },
   {
-    "CODPAR": "433",
+    "CODPAR": "6420",
     "CODCAN": "900",
     "PARROQUIA": "CUMANDA",
     "ganador": "PRE10",
@@ -3764,7 +3764,7 @@
     }
   },
   {
-    "CODPAR": "16",
+    "CODPAR": "0255",
     "CODCAN": "350",
     "PARROQUIA": "EL RETIRO",
     "ganador": "PRE10",
@@ -3777,7 +3777,7 @@
     }
   },
   {
-    "CODPAR": "160",
+    "CODPAR": "1120",
     "CODCAN": "350",
     "PARROQUIA": "EL CAMBIO",
     "ganador": "PRE10",
@@ -3790,7 +3790,7 @@
     }
   },
   {
-    "CODPAR": "34",
+    "CODPAR": "5565",
     "CODCAN": "350",
     "PARROQUIA": "LA PROVIDENCIA",
     "ganador": "PSC6",
@@ -3803,7 +3803,7 @@
     }
   },
   {
-    "CODPAR": "3898",
+    "CODPAR": "5625",
     "CODCAN": "350",
     "PARROQUIA": "MACHALA",
     "ganador": "PSC6",
@@ -3816,7 +3816,7 @@
     }
   },
   {
-    "CODPAR": "505",
+    "CODPAR": "5805",
     "CODCAN": "350",
     "PARROQUIA": "PUERTO BOLIVAR",
     "ganador": "PRE10",
@@ -3829,7 +3829,7 @@
     }
   },
   {
-    "CODPAR": "118",
+    "CODPAR": "6490",
     "CODCAN": "350",
     "PARROQUIA": "9 DE mayo",
     "ganador": "PRE10",
@@ -3842,7 +3842,7 @@
     }
   },
   {
-    "CODPAR": "53",
+    "CODPAR": "0325",
     "CODCAN": "355",
     "PARROQUIA": "BELLAVISTA",
     "ganador": "PSC6",
@@ -3855,7 +3855,7 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "1665",
     "CODCAN": "355",
     "PARROQUIA": "BELLAMARIA",
     "ganador": "JUNTAS ",
@@ -3868,7 +3868,7 @@
     }
   },
   {
-    "CODPAR": "2",
+    "CODPAR": "1815",
     "CODCAN": "355",
     "PARROQUIA": "JAMBELI",
     "ganador": "PSC6",
@@ -3881,7 +3881,7 @@
     }
   },
   {
-    "CODPAR": "61",
+    "CODPAR": "2005",
     "CODCAN": "355",
     "PARROQUIA": "LA AVANZADA",
     "ganador": "PSC6",
@@ -3894,7 +3894,7 @@
     }
   },
   {
-    "CODPAR": "19",
+    "CODPAR": "3330",
     "CODCAN": "355",
     "PARROQUIA": "SAN ANTONIO",
     "ganador": "PRE10",
@@ -3907,7 +3907,7 @@
     }
   },
   {
-    "CODPAR": "42",
+    "CODPAR": "4215",
     "CODCAN": "355",
     "PARROQUIA": "VICTORIA",
     "ganador": "PRE10",
@@ -3920,7 +3920,7 @@
     }
   },
   {
-    "CODPAR": "12",
+    "CODPAR": "4525",
     "CODCAN": "355",
     "PARROQUIA": "TORATA",
     "ganador": "ID12",
@@ -3933,7 +3933,7 @@
     }
   },
   {
-    "CODPAR": "1201",
+    "CODPAR": "6060",
     "CODCAN": "355",
     "PARROQUIA": "SANTA ROSA",
     "ganador": "PSC6",
@@ -3946,16 +3946,16 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6670",
     "CODCAN": "355",
     "PARROQUIA": "PUERTO JELI",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "19",
+    "CODPAR": "0005",
     "CODCAN": "360",
-    "PARROQUIA": "SAN ANTONIO",
+    "PARROQUIA": "ABANIN",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -3966,7 +3966,7 @@
     }
   },
   {
-    "CODPAR": "152",
+    "CODPAR": "1420",
     "CODCAN": "360",
     "PARROQUIA": "GUANAZAN",
     "ganador": "PSC6",
@@ -3979,7 +3979,7 @@
     }
   },
   {
-    "CODPAR": "39",
+    "CODPAR": "1425",
     "CODCAN": "360",
     "PARROQUIA": "GUIZHAGUIÑA",
     "ganador": "PRE10",
@@ -3992,9 +3992,9 @@
     }
   },
   {
-    "CODPAR": "42",
+    "CODPAR": "1655",
     "CODCAN": "360",
-    "PARROQUIA": "VICTORIA",
+    "PARROQUIA": "HUERTAS",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -4005,9 +4005,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1700",
     "CODCAN": "360",
-    "PARROQUIA": "PUERTO JELI",
+    "PARROQUIA": "SINSAO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4018,9 +4018,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1750",
     "CODCAN": "360",
-    "PARROQUIA": "PUERTO JELI",
+    "PARROQUIA": "SALVIAS",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4031,7 +4031,7 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "2350",
     "CODCAN": "360",
     "PARROQUIA": "MALVAS",
     "ganador": "ID12",
@@ -4044,7 +4044,7 @@
     }
   },
   {
-    "CODPAR": "18",
+    "CODPAR": "4445",
     "CODCAN": "360",
     "PARROQUIA": "ARCAPAMBA",
     "ganador": "PRE10",
@@ -4057,9 +4057,9 @@
     }
   },
   {
-    "CODPAR": "12",
+    "CODPAR": "4450",
     "CODCAN": "360",
-    "PARROQUIA": "TORATA",
+    "PARROQUIA": "MULUNCAY GRANDE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4070,7 +4070,7 @@
     }
   },
   {
-    "CODPAR": "221",
+    "CODPAR": "6310",
     "CODCAN": "360",
     "PARROQUIA": "ZARUMA",
     "ganador": "PSC6",
@@ -4083,7 +4083,7 @@
     }
   },
   {
-    "CODPAR": "182",
+    "CODPAR": "0390",
     "CODCAN": "365",
     "PARROQUIA": "BUENAVISTA",
     "ganador": "PRE10",
@@ -4096,7 +4096,7 @@
     }
   },
   {
-    "CODPAR": "7",
+    "CODPAR": "0775",
     "CODCAN": "365",
     "PARROQUIA": "CAÑAQUEMADA",
     "ganador": "PRE10",
@@ -4109,7 +4109,7 @@
     }
   },
   {
-    "CODPAR": "59",
+    "CODPAR": "1225",
     "CODCAN": "365",
     "PARROQUIA": "PROGRESO",
     "ganador": "PRE10",
@@ -4122,7 +4122,7 @@
     }
   },
   {
-    "CODPAR": "74",
+    "CODPAR": "2075",
     "CODCAN": "365",
     "PARROQUIA": "LA PEAÑA",
     "ganador": "PRE10",
@@ -4135,7 +4135,7 @@
     }
   },
   {
-    "CODPAR": "97",
+    "CODPAR": "4160",
     "CODCAN": "365",
     "PARROQUIA": "UZHCURRUMI",
     "ganador": "PRE10",
@@ -4148,7 +4148,7 @@
     }
   },
   {
-    "CODPAR": "33",
+    "CODPAR": "4495",
     "CODCAN": "365",
     "PARROQUIA": "CASACAY",
     "ganador": "PSC6",
@@ -4161,7 +4161,7 @@
     }
   },
   {
-    "CODPAR": "1718",
+    "CODPAR": "5770",
     "CODCAN": "365",
     "PARROQUIA": "OCHOA LEON/MATRIZ",
     "ganador": "PRE10",
@@ -4174,7 +4174,7 @@
     }
   },
   {
-    "CODPAR": "8",
+    "CODPAR": "6365",
     "CODCAN": "365",
     "PARROQUIA": "LOMA DE FRANCO",
     "ganador": "PRE10",
@@ -4187,9 +4187,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6370",
     "CODCAN": "365",
-    "PARROQUIA": "PUERTO JELI",
+    "PARROQUIA": "BOLIVAR",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4200,9 +4200,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "6375",
     "CODCAN": "365",
-    "PARROQUIA": "BELLAMARIA",
+    "PARROQUIA": "TRES CERRITOS",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -4213,9 +4213,9 @@
     }
   },
   {
-    "CODPAR": "42",
+    "CODPAR": "0505",
     "CODCAN": "370",
-    "PARROQUIA": "VICTORIA",
+    "PARROQUIA": "CAPIRO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -4226,9 +4226,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "1385",
     "CODCAN": "370",
-    "PARROQUIA": "BELLAMARIA",
+    "PARROQUIA": "SARACAY",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -4239,7 +4239,7 @@
     }
   },
   {
-    "CODPAR": "28",
+    "CODPAR": "2230",
     "CODCAN": "370",
     "PARROQUIA": "LA BOCANA",
     "ganador": "PSC6",
@@ -4252,7 +4252,7 @@
     }
   },
   {
-    "CODPAR": "35",
+    "CODPAR": "2465",
     "CODCAN": "370",
     "PARROQUIA": "MOROMORO",
     "ganador": "PSC6",
@@ -4265,7 +4265,7 @@
     }
   },
   {
-    "CODPAR": "25",
+    "CODPAR": "2850",
     "CODCAN": "370",
     "PARROQUIA": "PIEDRAS",
     "ganador": "PSC6",
@@ -4278,7 +4278,7 @@
     }
   },
   {
-    "CODPAR": "29",
+    "CODPAR": "3650",
     "CODCAN": "370",
     "PARROQUIA": "SAN ROQUE",
     "ganador": "PRE10",
@@ -4291,7 +4291,7 @@
     }
   },
   {
-    "CODPAR": "375",
+    "CODPAR": "5790",
     "CODCAN": "370",
     "PARROQUIA": "PIÑAS",
     "ganador": "ID12",
@@ -4304,23 +4304,23 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6675",
     "CODCAN": "370",
-    "PARROQUIA": "PUERTO JELI",
+    "PARROQUIA": "PIÑAS GRANDE",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6680",
     "CODCAN": "370",
-    "PARROQUIA": "PUERTO JELI",
+    "PARROQUIA": "LA SUSAYA",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "0805",
     "CODCAN": "375",
-    "PARROQUIA": "MALVAS",
+    "PARROQUIA": "CHACRAS",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4331,14 +4331,14 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1695",
     "CODCAN": "375",
-    "PARROQUIA": "PUERTO JELI",
+    "PARROQUIA": "CARCABON",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "41",
+    "CODPAR": "2715",
     "CODCAN": "375",
     "PARROQUIA": "PALMALES",
     "ganador": "PRE10",
@@ -4351,9 +4351,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "4545",
     "CODCAN": "375",
-    "PARROQUIA": "BELLAMARIA",
+    "PARROQUIA": "MILAGROS",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -4364,7 +4364,7 @@
     }
   },
   {
-    "CODPAR": "286",
+    "CODPAR": "5040",
     "CODCAN": "375",
     "PARROQUIA": "ARENILLAS",
     "ganador": "PSC6",
@@ -4377,9 +4377,9 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "0245",
     "CODCAN": "380",
-    "PARROQUIA": "MALVAS",
+    "PARROQUIA": "LA IBERIA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4390,7 +4390,7 @@
     }
   },
   {
-    "CODPAR": "81",
+    "CODPAR": "0300",
     "CODCAN": "380",
     "PARROQUIA": "BARBONES",
     "ganador": "PRE10",
@@ -4403,7 +4403,7 @@
     }
   },
   {
-    "CODPAR": "65",
+    "CODPAR": "4000",
     "CODCAN": "380",
     "PARROQUIA": "TENDALES",
     "ganador": "PRE10",
@@ -4416,7 +4416,7 @@
     }
   },
   {
-    "CODPAR": "479",
+    "CODPAR": "5340",
     "CODCAN": "380",
     "PARROQUIA": "EL GUABO",
     "ganador": "PRE10",
@@ -4429,7 +4429,7 @@
     }
   },
   {
-    "CODPAR": "62",
+    "CODPAR": "5715",
     "CODCAN": "585",
     "PARROQUIA": "CHILLA",
     "ganador": "PSC6",
@@ -4442,7 +4442,7 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "0740",
     "CODCAN": "690",
     "PARROQUIA": "CURTINCAPAC",
     "ganador": "PRE10",
@@ -4455,7 +4455,7 @@
     }
   },
   {
-    "CODPAR": "32",
+    "CODPAR": "3275",
     "CODCAN": "690",
     "PARROQUIA": "SALATI",
     "ganador": "PSC6",
@@ -4468,7 +4468,7 @@
     }
   },
   {
-    "CODPAR": "9",
+    "CODPAR": "4520",
     "CODCAN": "690",
     "PARROQUIA": "MORALES",
     "ganador": "PSC6",
@@ -4481,9 +4481,9 @@
     }
   },
   {
-    "CODPAR": "221",
+    "CODPAR": "5850",
     "CODCAN": "690",
-    "PARROQUIA": "ZARUMA",
+    "PARROQUIA": "PORTOVELO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4494,7 +4494,7 @@
     }
   },
   {
-    "CODPAR": "788",
+    "CODPAR": "5460",
     "CODCAN": "695",
     "PARROQUIA": "HUAQUILLAS",
     "ganador": "PRE10",
@@ -4507,9 +4507,9 @@
     }
   },
   {
-    "CODPAR": "32",
+    "CODPAR": "0225",
     "CODCAN": "705",
-    "PARROQUIA": "SALATI",
+    "PARROQUIA": "AYAPAMBA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4520,7 +4520,7 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "4480",
     "CODCAN": "705",
     "PARROQUIA": "CORDONCILLO",
     "ganador": "ID12",
@@ -4533,9 +4533,9 @@
     }
   },
   {
-    "CODPAR": "2",
+    "CODPAR": "4530",
     "CODCAN": "705",
-    "PARROQUIA": "JAMBELI",
+    "PARROQUIA": "SAN JOSE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4546,7 +4546,7 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "4535",
     "CODCAN": "705",
     "PARROQUIA": "MILAGRO",
     "ganador": "ID12",
@@ -4559,9 +4559,9 @@
     }
   },
   {
-    "CODPAR": "59",
+    "CODPAR": "5745",
     "CODCAN": "705",
-    "PARROQUIA": "PROGRESO",
+    "PARROQUIA": "PACCHA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4572,9 +4572,9 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "1075",
     "CODCAN": "755",
-    "PARROQUIA": "MILAGRO",
+    "PARROQUIA": "SAN ISIDRO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4585,9 +4585,9 @@
     }
   },
   {
-    "CODPAR": "2",
+    "CODPAR": "1080",
     "CODCAN": "755",
-    "PARROQUIA": "JAMBELI",
+    "PARROQUIA": "EL PARAISO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -4598,9 +4598,9 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "1100",
     "CODCAN": "755",
-    "PARROQUIA": "MILAGRO",
+    "PARROQUIA": "LA LIBERTAD",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -4611,9 +4611,9 @@
     }
   },
   {
-    "CODPAR": "59",
+    "CODPAR": "6335",
     "CODCAN": "755",
-    "PARROQUIA": "PROGRESO",
+    "PARROQUIA": "LA VICTORIA/LAS LAJAS",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -4624,9 +4624,9 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "0160",
     "CODCAN": "860",
-    "PARROQUIA": "MILAGRO",
+    "PARROQUIA": "EL INGENIO",
     "ganador": "PLRE - FRA",
     "resultados": {
       "PLRE - FRA": {
@@ -4637,7 +4637,7 @@
     }
   },
   {
-    "CODPAR": "119",
+    "CODPAR": "6570",
     "CODCAN": "860",
     "PARROQUIA": "MARCABELI",
     "ganador": "PRE10",
@@ -4650,7 +4650,7 @@
     }
   },
   {
-    "CODPAR": "109",
+    "CODPAR": "6590",
     "CODCAN": "875",
     "PARROQUIA": "BALSAS",
     "ganador": "PRE10",
@@ -4663,7 +4663,7 @@
     }
   },
   {
-    "CODPAR": "170",
+    "CODPAR": "0450",
     "CODCAN": "560",
     "PARROQUIA": "CAMARONES",
     "ganador": "PRE10",
@@ -4676,7 +4676,7 @@
     }
   },
   {
-    "CODPAR": "70",
+    "CODPAR": "0655",
     "CODCAN": "560",
     "PARROQUIA": "CRNL.CARLOS CONCHA TORRES",
     "ganador": "PRE10",
@@ -4689,7 +4689,7 @@
     }
   },
   {
-    "CODPAR": "196",
+    "CODPAR": "0895",
     "CODCAN": "560",
     "PARROQUIA": "CHINCA",
     "ganador": "PRE10",
@@ -4702,7 +4702,7 @@
     }
   },
   {
-    "CODPAR": "106",
+    "CODPAR": "0930",
     "CODCAN": "560",
     "PARROQUIA": "CHONTADURO",
     "ganador": "PRE10",
@@ -4715,7 +4715,7 @@
     }
   },
   {
-    "CODPAR": "54",
+    "CODPAR": "0965",
     "CODCAN": "560",
     "PARROQUIA": "CHUMUNDE",
     "ganador": "PRE10",
@@ -4728,7 +4728,7 @@
     }
   },
   {
-    "CODPAR": "126",
+    "CODPAR": "2035",
     "CODCAN": "560",
     "PARROQUIA": "LAGARTO",
     "ganador": "PRE10",
@@ -4741,7 +4741,7 @@
     }
   },
   {
-    "CODPAR": "107",
+    "CODPAR": "2320",
     "CODCAN": "560",
     "PARROQUIA": "MAJUA",
     "ganador": "PRE10",
@@ -4754,7 +4754,7 @@
     }
   },
   {
-    "CODPAR": "227",
+    "CODPAR": "2445",
     "CODCAN": "560",
     "PARROQUIA": "MONTALVO / HORQUETA",
     "ganador": "PRE10",
@@ -4767,7 +4767,7 @@
     }
   },
   {
-    "CODPAR": "217",
+    "CODPAR": "3205",
     "CODCAN": "560",
     "PARROQUIA": "SIMON PLATA TORRES",
     "ganador": "PRE10",
@@ -4780,7 +4780,7 @@
     }
   },
   {
-    "CODPAR": "327",
+    "CODPAR": "3215",
     "CODCAN": "560",
     "PARROQUIA": "ROCAFUERTE",
     "ganador": "PRE10",
@@ -4793,7 +4793,7 @@
     }
   },
   {
-    "CODPAR": "205",
+    "CODPAR": "3570",
     "CODCAN": "560",
     "PARROQUIA": "SAN MATEO",
     "ganador": "PRE10",
@@ -4806,7 +4806,7 @@
     }
   },
   {
-    "CODPAR": "228",
+    "CODPAR": "3930",
     "CODCAN": "560",
     "PARROQUIA": "TABIAZO",
     "ganador": "PRE10",
@@ -4819,7 +4819,7 @@
     }
   },
   {
-    "CODPAR": "169",
+    "CODPAR": "3940",
     "CODCAN": "560",
     "PARROQUIA": "TACHINA",
     "ganador": "PRE10",
@@ -4832,7 +4832,7 @@
     }
   },
   {
-    "CODPAR": "291",
+    "CODPAR": "4240",
     "CODCAN": "560",
     "PARROQUIA": "VUELTA LARGA",
     "ganador": "PRE10",
@@ -4845,7 +4845,7 @@
     }
   },
   {
-    "CODPAR": "1048",
+    "CODPAR": "5205",
     "CODCAN": "560",
     "PARROQUIA": "BARTOLOME RUIZ",
     "ganador": "PRE10",
@@ -4858,7 +4858,7 @@
     }
   },
   {
-    "CODPAR": "1965",
+    "CODPAR": "5210",
     "CODCAN": "560",
     "PARROQUIA": "5 DE AGOSTO",
     "ganador": "PRE10",
@@ -4871,7 +4871,7 @@
     }
   },
   {
-    "CODPAR": "1590",
+    "CODPAR": "5335",
     "CODCAN": "560",
     "PARROQUIA": "ESMERALDAS",
     "ganador": "PRE10",
@@ -4884,7 +4884,7 @@
     }
   },
   {
-    "CODPAR": "419",
+    "CODPAR": "5600",
     "CODCAN": "560",
     "PARROQUIA": "LUIS TELLO / LAS PALMAS /",
     "ganador": "PRE10",
@@ -4897,7 +4897,7 @@
     }
   },
   {
-    "CODPAR": "21",
+    "CODPAR": "0120",
     "CODCAN": "565",
     "PARROQUIA": "ANCHAYACU",
     "ganador": "PRE10",
@@ -4910,7 +4910,7 @@
     }
   },
   {
-    "CODPAR": "98",
+    "CODPAR": "0200",
     "CODCAN": "565",
     "PARROQUIA": "ATAHUALPA/CAMARONES",
     "ganador": "PRE10",
@@ -4923,7 +4923,7 @@
     }
   },
   {
-    "CODPAR": "229",
+    "CODPAR": "0370",
     "CODCAN": "565",
     "PARROQUIA": "BORBON",
     "ganador": "PRE10",
@@ -4936,7 +4936,7 @@
     }
   },
   {
-    "CODPAR": "35",
+    "CODPAR": "1505",
     "CODCAN": "565",
     "PARROQUIA": "SAN JOSE DE CAYAPAS",
     "ganador": "PRE10",
@@ -4949,9 +4949,9 @@
     }
   },
   {
-    "CODPAR": "35",
+    "CODPAR": "1510",
     "CODCAN": "565",
-    "PARROQUIA": "SAN JOSE DE CAYAPAS",
+    "PARROQUIA": "COLON ELOY DE MARIA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -4962,7 +4962,7 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "1515",
     "CODCAN": "565",
     "PARROQUIA": "TIMBIRE",
     "ganador": "PRE10",
@@ -4975,7 +4975,7 @@
     }
   },
   {
-    "CODPAR": "69",
+    "CODPAR": "2125",
     "CODCAN": "565",
     "PARROQUIA": "LA TOLA",
     "ganador": "PRE10",
@@ -4988,7 +4988,7 @@
     }
   },
   {
-    "CODPAR": "8",
+    "CODPAR": "2225",
     "CODCAN": "565",
     "PARROQUIA": "LUIS VARGAS TORRES",
     "ganador": "PRE10",
@@ -5001,7 +5001,7 @@
     }
   },
   {
-    "CODPAR": "45",
+    "CODPAR": "2335",
     "CODCAN": "565",
     "PARROQUIA": "MALDONADO",
     "ganador": "PRE10",
@@ -5014,7 +5014,7 @@
     }
   },
   {
-    "CODPAR": "6",
+    "CODPAR": "2670",
     "CODCAN": "565",
     "PARROQUIA": "PAMPANAL DE BOLIVAR",
     "ganador": "PSC6",
@@ -5027,7 +5027,7 @@
     }
   },
   {
-    "CODPAR": "43",
+    "CODPAR": "3405",
     "CODCAN": "565",
     "PARROQUIA": "SAN FRANCISCO DE ONZOLE",
     "ganador": "PRE10",
@@ -5040,7 +5040,7 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "3805",
     "CODCAN": "565",
     "PARROQUIA": "SELVA ALEGRE",
     "ganador": "PRE10",
@@ -5053,7 +5053,7 @@
     }
   },
   {
-    "CODPAR": "94",
+    "CODPAR": "4170",
     "CODCAN": "565",
     "PARROQUIA": "TELEMBI",
     "ganador": "PRE10",
@@ -5066,7 +5066,7 @@
     }
   },
   {
-    "CODPAR": "44",
+    "CODPAR": "4465",
     "CODCAN": "565",
     "PARROQUIA": "SANTO DOMINGO DE ONZOLE",
     "ganador": "PRE10",
@@ -5079,7 +5079,7 @@
     }
   },
   {
-    "CODPAR": "141",
+    "CODPAR": "6205",
     "CODCAN": "565",
     "PARROQUIA": "VALDEZ/LIMONES/",
     "ganador": "PRE10",
@@ -5092,7 +5092,7 @@
     }
   },
   {
-    "CODPAR": "22",
+    "CODPAR": "0355",
     "CODCAN": "570",
     "PARROQUIA": "BOLIVAR",
     "ganador": "PSC6",
@@ -5105,9 +5105,9 @@
     }
   },
   {
-    "CODPAR": "22",
+    "CODPAR": "1010",
     "CODCAN": "570",
-    "PARROQUIA": "BOLIVAR",
+    "PARROQUIA": "DAULE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -5118,9 +5118,9 @@
     }
   },
   {
-    "CODPAR": "69",
+    "CODPAR": "1305",
     "CODCAN": "570",
-    "PARROQUIA": "LA TOLA",
+    "PARROQUIA": "GALERA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -5131,7 +5131,7 @@
     }
   },
   {
-    "CODPAR": "13",
+    "CODPAR": "3125",
     "CODCAN": "570",
     "PARROQUIA": "QUINGUE",
     "ganador": "PRE10",
@@ -5144,9 +5144,9 @@
     }
   },
   {
-    "CODPAR": "6",
+    "CODPAR": "3280",
     "CODCAN": "570",
-    "PARROQUIA": "PAMPANAL DE BOLIVAR",
+    "PARROQUIA": "SALIMA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -5157,7 +5157,7 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "3390",
     "CODCAN": "570",
     "PARROQUIA": "SAN FRANCISCO",
     "ganador": "PRE10",
@@ -5170,7 +5170,7 @@
     }
   },
   {
-    "CODPAR": "108",
+    "CODPAR": "3430",
     "CODCAN": "570",
     "PARROQUIA": "SAN GREGORIO",
     "ganador": "PRE10",
@@ -5183,9 +5183,9 @@
     }
   },
   {
-    "CODPAR": "43",
+    "CODPAR": "3470",
     "CODCAN": "570",
-    "PARROQUIA": "SAN FRANCISCO DE ONZOLE",
+    "PARROQUIA": "SAN JOSE DE CHAMANGA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -5196,7 +5196,7 @@
     }
   },
   {
-    "CODPAR": "410",
+    "CODPAR": "5670",
     "CODCAN": "570",
     "PARROQUIA": "MUISNE",
     "ganador": "PRE10",
@@ -5209,7 +5209,7 @@
     }
   },
   {
-    "CODPAR": "175",
+    "CODPAR": "0700",
     "CODCAN": "575",
     "PARROQUIA": "CUBE / CHANCAMA",
     "ganador": "PSC6",
@@ -5222,7 +5222,7 @@
     }
   },
   {
-    "CODPAR": "33",
+    "CODPAR": "0980",
     "CODCAN": "575",
     "PARROQUIA": "CHURA",
     "ganador": "PRE10",
@@ -5235,7 +5235,7 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1530",
     "CODCAN": "575",
     "PARROQUIA": "LA UNION",
     "ganador": "PRE10",
@@ -5248,7 +5248,7 @@
     }
   },
   {
-    "CODPAR": "136",
+    "CODPAR": "2345",
     "CODCAN": "575",
     "PARROQUIA": "MALIMPIA / GUAYLLABAMBA",
     "ganador": "PRE10",
@@ -5261,7 +5261,7 @@
     }
   },
   {
-    "CODPAR": "266",
+    "CODPAR": "4230",
     "CODCAN": "575",
     "PARROQUIA": "VICHE",
     "ganador": "PRE10",
@@ -5274,7 +5274,7 @@
     }
   },
   {
-    "CODPAR": "2703",
+    "CODPAR": "5895",
     "CODCAN": "575",
     "PARROQUIA": "ROSA ZARATE",
     "ganador": "PRE10",
@@ -5287,7 +5287,7 @@
     }
   },
   {
-    "CODPAR": "9",
+    "CODPAR": "0070",
     "CODCAN": "580",
     "PARROQUIA": "ALTO TAMBO/GUADAL",
     "ganador": "PSC6",
@@ -5300,7 +5300,7 @@
     }
   },
   {
-    "CODPAR": "20",
+    "CODPAR": "0110",
     "CODCAN": "580",
     "PARROQUIA": "ANCON/PALMA REAL",
     "ganador": "PRE10",
@@ -5313,9 +5313,9 @@
     }
   },
   {
-    "CODPAR": "9",
+    "CODPAR": "0435",
     "CODCAN": "580",
-    "PARROQUIA": "ALTO TAMBO/GUADAL",
+    "PARROQUIA": "CALDERON",
     "ganador": "MPD15",
     "resultados": {
       "MPD15": {
@@ -5326,7 +5326,7 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "0535",
     "CODCAN": "580",
     "PARROQUIA": "CARONDELET",
     "ganador": "PRE10",
@@ -5339,9 +5339,9 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "0570",
     "CODCAN": "580",
-    "PARROQUIA": "CARONDELET",
+    "PARROQUIA": "5 DE JUNIO/HUIMBI",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -5352,7 +5352,7 @@
     }
   },
   {
-    "CODPAR": "30",
+    "CODPAR": "0620",
     "CODCAN": "580",
     "PARROQUIA": "CONCEPCION",
     "ganador": "PRE10",
@@ -5365,9 +5365,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "2395",
     "CODCAN": "580",
-    "PARROQUIA": "LA UNION",
+    "PARROQUIA": "MATAJE",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -5378,7 +5378,7 @@
     }
   },
   {
-    "CODPAR": "16",
+    "CODPAR": "3455",
     "CODCAN": "580",
     "PARROQUIA": "SAN JAVIER DE CACHABI",
     "ganador": "PRE10",
@@ -5391,7 +5391,7 @@
     }
   },
   {
-    "CODPAR": "10",
+    "CODPAR": "3725",
     "CODCAN": "580",
     "PARROQUIA": "SANTA RITA",
     "ganador": "PRE10",
@@ -5404,9 +5404,9 @@
     }
   },
   {
-    "CODPAR": "10",
+    "CODPAR": "3955",
     "CODCAN": "580",
-    "PARROQUIA": "SANTA RITA",
+    "PARROQUIA": "TAMBILLO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -5417,7 +5417,7 @@
     }
   },
   {
-    "CODPAR": "34",
+    "CODPAR": "4075",
     "CODCAN": "580",
     "PARROQUIA": "TULULBI /RICAURTE",
     "ganador": "PRE10",
@@ -5430,9 +5430,9 @@
     }
   },
   {
-    "CODPAR": "35",
+    "CODPAR": "4125",
     "CODCAN": "580",
-    "PARROQUIA": "SAN JOSE DE CAYAPAS",
+    "PARROQUIA": "URBINA",
     "ganador": "AN11",
     "resultados": {
       "AN11": {
@@ -5443,7 +5443,7 @@
     }
   },
   {
-    "CODPAR": "339",
+    "CODPAR": "6130",
     "CODCAN": "580",
     "PARROQUIA": "SAN LORENZO",
     "ganador": "PRE10",
@@ -5456,9 +5456,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1615",
     "CODCAN": "785",
-    "PARROQUIA": "LA UNION",
+    "PARROQUIA": "TONSUPA",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -5469,7 +5469,7 @@
     }
   },
   {
-    "CODPAR": "95",
+    "CODPAR": "2130",
     "CODCAN": "785",
     "PARROQUIA": "LA UNION",
     "ganador": "PSC6",
@@ -5482,7 +5482,7 @@
     }
   },
   {
-    "CODPAR": "123",
+    "CODPAR": "3880",
     "CODCAN": "785",
     "PARROQUIA": "SUA/BOCANA",
     "ganador": "PRE10",
@@ -5495,7 +5495,7 @@
     }
   },
   {
-    "CODPAR": "284",
+    "CODPAR": "4055",
     "CODCAN": "785",
     "PARROQUIA": "TONCHIGUE",
     "ganador": "PRE10",
@@ -5508,7 +5508,7 @@
     }
   },
   {
-    "CODPAR": "517",
+    "CODPAR": "6380",
     "CODCAN": "785",
     "PARROQUIA": "ATACAMES",
     "ganador": "PRE10",
@@ -5521,7 +5521,7 @@
     }
   },
   {
-    "CODPAR": "312",
+    "CODPAR": "5470",
     "CODCAN": "95",
     "PARROQUIA": "BALAO",
     "ganador": "PSC6",
@@ -5534,7 +5534,7 @@
     }
   },
   {
-    "CODPAR": "486",
+    "CODPAR": "5365",
     "CODCAN": "125",
     "PARROQUIA": "COLIMES",
     "ganador": "PRE10",
@@ -5547,7 +5547,7 @@
     }
   },
   {
-    "CODPAR": "213",
+    "CODPAR": "1470",
     "CODCAN": "385",
     "PARROQUIA": "GUAYAS / PUERTO NUEVO",
     "ganador": "PSC6",
@@ -5560,7 +5560,7 @@
     }
   },
   {
-    "CODPAR": "9",
+    "CODPAR": "1640",
     "CODCAN": "385",
     "PARROQUIA": "EL ROSARIO",
     "ganador": "PSC6",
@@ -5573,7 +5573,7 @@
     }
   },
   {
-    "CODPAR": "3205",
+    "CODPAR": "6225",
     "CODCAN": "385",
     "PARROQUIA": "VELASCO IBARRA",
     "ganador": "PSC6",
@@ -5586,7 +5586,7 @@
     }
   },
   {
-    "CODPAR": "191",
+    "CODPAR": "1870",
     "CODCAN": "390",
     "PARROQUIA": "JUAN GOMEZ RENDON",
     "ganador": "PRE10",
@@ -5599,7 +5599,7 @@
     }
   },
   {
-    "CODPAR": "66",
+    "CODPAR": "2470",
     "CODCAN": "390",
     "PARROQUIA": "MORRO",
     "ganador": "PRE10",
@@ -5612,7 +5612,7 @@
     }
   },
   {
-    "CODPAR": "344",
+    "CODPAR": "2940",
     "CODCAN": "390",
     "PARROQUIA": "POSORJA",
     "ganador": "PSC6",
@@ -5625,7 +5625,7 @@
     }
   },
   {
-    "CODPAR": "115",
+    "CODPAR": "3030",
     "CODCAN": "390",
     "PARROQUIA": "PUNA",
     "ganador": "PSC6",
@@ -5638,7 +5638,7 @@
     }
   },
   {
-    "CODPAR": "264",
+    "CODPAR": "4120",
     "CODCAN": "390",
     "PARROQUIA": "TENGUEL",
     "ganador": "PRE10",
@@ -5651,7 +5651,7 @@
     }
   },
   {
-    "CODPAR": "628",
+    "CODPAR": "5055",
     "CODCAN": "390",
     "PARROQUIA": "AYACUCHO",
     "ganador": "PSC6",
@@ -5664,7 +5664,7 @@
     }
   },
   {
-    "CODPAR": "518",
+    "CODPAR": "5125",
     "CODCAN": "390",
     "PARROQUIA": "BOLIVAR/SAGRARIO",
     "ganador": "PSC6",
@@ -5677,7 +5677,7 @@
     }
   },
   {
-    "CODPAR": "1153",
+    "CODPAR": "5170",
     "CODCAN": "390",
     "PARROQUIA": "CARBO/CONCEPCION",
     "ganador": "PSC6",
@@ -5690,7 +5690,7 @@
     }
   },
   {
-    "CODPAR": "12718",
+    "CODPAR": "5355",
     "CODCAN": "390",
     "PARROQUIA": "FEBRES CORDERO",
     "ganador": "PSC6",
@@ -5703,7 +5703,7 @@
     }
   },
   {
-    "CODPAR": "2381",
+    "CODPAR": "5380",
     "CODCAN": "390",
     "PARROQUIA": "GARCIA MORENO",
     "ganador": "PSC6",
@@ -5716,7 +5716,7 @@
     }
   },
   {
-    "CODPAR": "3807",
+    "CODPAR": "5585",
     "CODCAN": "390",
     "PARROQUIA": "LETAMENDI",
     "ganador": "PSC6",
@@ -5729,7 +5729,7 @@
     }
   },
   {
-    "CODPAR": "577",
+    "CODPAR": "5695",
     "CODCAN": "390",
     "PARROQUIA": "9 DE OCTUBRE",
     "ganador": "PSC6",
@@ -5742,7 +5742,7 @@
     }
   },
   {
-    "CODPAR": "640",
+    "CODPAR": "5720",
     "CODCAN": "390",
     "PARROQUIA": "OLMEDO/SAN ALEJO",
     "ganador": "PSC6",
@@ -5755,7 +5755,7 @@
     }
   },
   {
-    "CODPAR": "566",
+    "CODPAR": "5880",
     "CODCAN": "390",
     "PARROQUIA": "ROCA",
     "ganador": "PSC6",
@@ -5768,7 +5768,7 @@
     }
   },
   {
-    "CODPAR": "584",
+    "CODPAR": "5890",
     "CODCAN": "390",
     "PARROQUIA": "ROCAFUERTE",
     "ganador": "PSC6",
@@ -5781,7 +5781,7 @@
     }
   },
   {
-    "CODPAR": "804",
+    "CODPAR": "6095",
     "CODCAN": "390",
     "PARROQUIA": "SUCRE",
     "ganador": "PSC6",
@@ -5794,7 +5794,7 @@
     }
   },
   {
-    "CODPAR": "7930",
+    "CODPAR": "6150",
     "CODCAN": "390",
     "PARROQUIA": "TARQUI",
     "ganador": "PSC6",
@@ -5807,7 +5807,7 @@
     }
   },
   {
-    "CODPAR": "1133",
+    "CODPAR": "6185",
     "CODCAN": "390",
     "PARROQUIA": "URDANETA",
     "ganador": "PSC6",
@@ -5820,7 +5820,7 @@
     }
   },
   {
-    "CODPAR": "9416",
+    "CODPAR": "6265",
     "CODCAN": "390",
     "PARROQUIA": "XIMENA",
     "ganador": "PSC6",
@@ -5833,7 +5833,7 @@
     }
   },
   {
-    "CODPAR": "182",
+    "CODPAR": "6400",
     "CODCAN": "390",
     "PARROQUIA": "CHONGON",
     "ganador": "PRE10",
@@ -5846,7 +5846,7 @@
     }
   },
   {
-    "CODPAR": "783",
+    "CODPAR": "6405",
     "CODCAN": "390",
     "PARROQUIA": "PASCUALES",
     "ganador": "PSC6",
@@ -5859,7 +5859,7 @@
     }
   },
   {
-    "CODPAR": "338",
+    "CODPAR": "1340",
     "CODCAN": "395",
     "PARROQUIA": "GRAL.PEDRO MONTERO",
     "ganador": "PRE10",
@@ -5872,7 +5872,7 @@
     }
   },
   {
-    "CODPAR": "139",
+    "CODPAR": "4275",
     "CODCAN": "395",
     "PARROQUIA": "YAGUACHI VIEJO/CONE",
     "ganador": "PRE10",
@@ -5885,7 +5885,7 @@
     }
   },
   {
-    "CODPAR": "812",
+    "CODPAR": "6285",
     "CODCAN": "395",
     "PARROQUIA": "YAGUACHI NUEVO",
     "ganador": "PSC6",
@@ -5898,7 +5898,7 @@
     }
   },
   {
-    "CODPAR": "75",
+    "CODPAR": "0260",
     "CODCAN": "400",
     "PARROQUIA": "LIMONAL",
     "ganador": "PSC6",
@@ -5911,7 +5911,7 @@
     }
   },
   {
-    "CODPAR": "174",
+    "CODPAR": "1855",
     "CODCAN": "400",
     "PARROQUIA": "JUAN BAUTISTA AGUIRRE",
     "ganador": "PRE10",
@@ -5924,7 +5924,7 @@
     }
   },
   {
-    "CODPAR": "98",
+    "CODPAR": "2105",
     "CODCAN": "400",
     "PARROQUIA": "LAS LOJAS",
     "ganador": "PSC6",
@@ -5937,7 +5937,7 @@
     }
   },
   {
-    "CODPAR": "214",
+    "CODPAR": "4500",
     "CODCAN": "400",
     "PARROQUIA": "EL LAUREL",
     "ganador": "PSC6",
@@ -5950,7 +5950,7 @@
     }
   },
   {
-    "CODPAR": "3902",
+    "CODPAR": "5275",
     "CODCAN": "400",
     "PARROQUIA": "DAULE",
     "ganador": "PSC6",
@@ -5963,7 +5963,7 @@
     }
   },
   {
-    "CODPAR": "95",
+    "CODPAR": "0115",
     "CODCAN": "405",
     "PARROQUIA": "ANCONCITO",
     "ganador": "PRE10",
@@ -5976,7 +5976,7 @@
     }
   },
   {
-    "CODPAR": "124",
+    "CODPAR": "1850",
     "CODCAN": "405",
     "PARROQUIA": "JOSE LUIS TAMAYO / MUEY",
     "ganador": "PSC6",
@@ -5989,7 +5989,7 @@
     }
   },
   {
-    "CODPAR": "511",
+    "CODPAR": "5920",
     "CODCAN": "405",
     "PARROQUIA": "SALINAS",
     "ganador": "PSC6",
@@ -6002,7 +6002,7 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6270",
     "CODCAN": "405",
     "PARROQUIA": "GRAL. A. E. GALLO",
     "ganador": "JUNTAS ",
@@ -6015,9 +6015,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6275",
     "CODCAN": "405",
-    "PARROQUIA": "GRAL. A. E. GALLO",
+    "PARROQUIA": "VICENTE ROCAFUERTE",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -6028,9 +6028,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6280",
     "CODCAN": "405",
-    "PARROQUIA": "GRAL. A. E. GALLO",
+    "PARROQUIA": "CARLOS ESPINOZA LARREA",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -6041,7 +6041,7 @@
     }
   },
   {
-    "CODPAR": "69",
+    "CODPAR": "0205",
     "CODCAN": "410",
     "PARROQUIA": "ATAHUALPA",
     "ganador": "PSC6",
@@ -6054,7 +6054,7 @@
     }
   },
   {
-    "CODPAR": "799",
+    "CODPAR": "0605",
     "CODCAN": "410",
     "PARROQUIA": "COLONCHE",
     "ganador": "PRE10",
@@ -6067,7 +6067,7 @@
     }
   },
   {
-    "CODPAR": "290",
+    "CODPAR": "0820",
     "CODCAN": "410",
     "PARROQUIA": "CHANDUY",
     "ganador": "PSC6",
@@ -6080,7 +6080,7 @@
     }
   },
   {
-    "CODPAR": "688",
+    "CODPAR": "2355",
     "CODCAN": "410",
     "PARROQUIA": "MANGLARALTO",
     "ganador": "PSC6",
@@ -6093,7 +6093,7 @@
     }
   },
   {
-    "CODPAR": "44",
+    "CODPAR": "3915",
     "CODCAN": "410",
     "PARROQUIA": "SIMON BOLIVAR",
     "ganador": "PRE10",
@@ -6106,7 +6106,7 @@
     }
   },
   {
-    "CODPAR": "31",
+    "CODPAR": "5130",
     "CODCAN": "410",
     "PARROQUIA": "BALLENITA",
     "ganador": "PSC6",
@@ -6119,7 +6119,7 @@
     }
   },
   {
-    "CODPAR": "1195",
+    "CODPAR": "6040",
     "CODCAN": "410",
     "PARROQUIA": "SANTA ELENA",
     "ganador": "PSC6",
@@ -6132,7 +6132,7 @@
     }
   },
   {
-    "CODPAR": "1965",
+    "CODPAR": "5100",
     "CODCAN": "415",
     "PARROQUIA": "BALZAR",
     "ganador": "PSC6",
@@ -6145,7 +6145,7 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "0920",
     "CODCAN": "420",
     "PARROQUIA": "CHOBO",
     "ganador": "PRE10",
@@ -6158,7 +6158,7 @@
     }
   },
   {
-    "CODPAR": "144",
+    "CODPAR": "2390",
     "CODCAN": "420",
     "PARROQUIA": "MARISCAL SUCRE/HUAQUES",
     "ganador": "PSC6",
@@ -6171,7 +6171,7 @@
     }
   },
   {
-    "CODPAR": "133",
+    "CODPAR": "3235",
     "CODCAN": "420",
     "PARROQUIA": "ROBERTO ASTUDILLO",
     "ganador": "PRE10",
@@ -6184,7 +6184,7 @@
     }
   },
   {
-    "CODPAR": "5918",
+    "CODPAR": "5660",
     "CODCAN": "420",
     "PARROQUIA": "MILAGRO",
     "ganador": "PRE10",
@@ -6197,7 +6197,7 @@
     }
   },
   {
-    "CODPAR": "164",
+    "CODPAR": "3975",
     "CODCAN": "425",
     "PARROQUIA": "TARIFA",
     "ganador": "PSC6",
@@ -6210,7 +6210,7 @@
     }
   },
   {
-    "CODPAR": "781",
+    "CODPAR": "5925",
     "CODCAN": "425",
     "PARROQUIA": "SAMBORONDON",
     "ganador": "PSC6",
@@ -6223,7 +6223,7 @@
     }
   },
   {
-    "CODPAR": "267",
+    "CODPAR": "1350",
     "CODCAN": "430",
     "PARROQUIA": "GRAL. VERNAZA",
     "ganador": "PSC6",
@@ -6236,7 +6236,7 @@
     }
   },
   {
-    "CODPAR": "53",
+    "CODPAR": "1595",
     "CODCAN": "430",
     "PARROQUIA": "JUNQUILLAL",
     "ganador": "PSC6",
@@ -6249,7 +6249,7 @@
     }
   },
   {
-    "CODPAR": "126",
+    "CODPAR": "4220",
     "CODCAN": "430",
     "PARROQUIA": "VICTORIA",
     "ganador": "PSC6",
@@ -6262,7 +6262,7 @@
     }
   },
   {
-    "CODPAR": "19",
+    "CODPAR": "5120",
     "CODCAN": "430",
     "PARROQUIA": "BOCANA",
     "ganador": "PSC6",
@@ -6275,7 +6275,7 @@
     }
   },
   {
-    "CODPAR": "136",
+    "CODPAR": "5155",
     "CODCAN": "430",
     "PARROQUIA": "CANDILEJOS",
     "ganador": "PSC6",
@@ -6288,7 +6288,7 @@
     }
   },
   {
-    "CODPAR": "1221",
+    "CODPAR": "5200",
     "CODCAN": "430",
     "PARROQUIA": "SALITRE",
     "ganador": "PRE10",
@@ -6301,7 +6301,7 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "5765",
     "CODCAN": "430",
     "PARROQUIA": "PARAISO",
     "ganador": "PSC6",
@@ -6314,7 +6314,7 @@
     }
   },
   {
-    "CODPAR": "17",
+    "CODPAR": "5990",
     "CODCAN": "430",
     "PARROQUIA": "SAN MATEO",
     "ganador": "PRE10",
@@ -6327,7 +6327,7 @@
     }
   },
   {
-    "CODPAR": "60",
+    "CODPAR": "1830",
     "CODCAN": "435",
     "PARROQUIA": "JESUS MARIA",
     "ganador": "PRE10",
@@ -6340,7 +6340,7 @@
     }
   },
   {
-    "CODPAR": "62",
+    "CODPAR": "3370",
     "CODCAN": "435",
     "PARROQUIA": "SAN CARLOS",
     "ganador": "PRE10",
@@ -6353,9 +6353,9 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "3740",
     "CODCAN": "435",
-    "PARROQUIA": "CHOBO",
+    "PARROQUIA": "SANTA ROSA DE FLANDES",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -6366,7 +6366,7 @@
     }
   },
   {
-    "CODPAR": "163",
+    "CODPAR": "3990",
     "CODCAN": "435",
     "PARROQUIA": "TAURA",
     "ganador": "PRE10",
@@ -6379,7 +6379,7 @@
     }
   },
   {
-    "CODPAR": "997",
+    "CODPAR": "5675",
     "CODCAN": "435",
     "PARROQUIA": "NARANJAL",
     "ganador": "PRE10",
@@ -6392,7 +6392,7 @@
     }
   },
   {
-    "CODPAR": "1091",
+    "CODPAR": "5345",
     "CODCAN": "505",
     "PARROQUIA": "EL TRIUNFO",
     "ganador": "PRE10",
@@ -6405,7 +6405,7 @@
     }
   },
   {
-    "CODPAR": "787",
+    "CODPAR": "5705",
     "CODCAN": "510",
     "PARROQUIA": "NARANJITO",
     "ganador": "PRE10",
@@ -6418,7 +6418,7 @@
     }
   },
   {
-    "CODPAR": "493",
+    "CODPAR": "5725",
     "CODCAN": "675",
     "PARROQUIA": "PALESTINA",
     "ganador": "PRE10",
@@ -6431,7 +6431,7 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "0185",
     "CODCAN": "715",
     "PARROQUIA": "VALLE DE LA VIRGEN",
     "ganador": "PSC6",
@@ -6444,9 +6444,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1670",
     "CODCAN": "715",
-    "PARROQUIA": "GRAL. A. E. GALLO",
+    "PARROQUIA": "SABANILLA",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -6457,7 +6457,7 @@
     }
   },
   {
-    "CODPAR": "1947",
+    "CODPAR": "5735",
     "CODCAN": "715",
     "PARROQUIA": "PEDRO CARBO",
     "ganador": "PSC6",
@@ -6470,7 +6470,7 @@
     }
   },
   {
-    "CODPAR": "551",
+    "CODPAR": "6255",
     "CODCAN": "735",
     "PARROQUIA": "GRAL.VILLAMIL / PLAYAS",
     "ganador": "PSC6",
@@ -6483,7 +6483,7 @@
     }
   },
   {
-    "CODPAR": "278",
+    "CODPAR": "0660",
     "CODCAN": "790",
     "PARROQUIA": "CRNEL. LORENZO GARAICOA",
     "ganador": "PRE10",
@@ -6496,7 +6496,7 @@
     }
   },
   {
-    "CODPAR": "502",
+    "CODPAR": "6385",
     "CODCAN": "790",
     "PARROQUIA": "SIMON BOLIVAR",
     "ganador": "PRE10",
@@ -6509,9 +6509,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "4435",
     "CODCAN": "820",
-    "PARROQUIA": "GRAL. A. E. GALLO",
+    "PARROQUIA": "EL RECREO",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -6522,7 +6522,7 @@
     }
   },
   {
-    "CODPAR": "2689",
+    "CODPAR": "6525",
     "CODCAN": "820",
     "PARROQUIA": "ELOY ALFARO /DURAN",
     "ganador": "PSC6",
@@ -6535,7 +6535,7 @@
     }
   },
   {
-    "CODPAR": "690",
+    "CODPAR": "6545",
     "CODCAN": "835",
     "PARROQUIA": "A.BAQUERIZO M /JUJAN",
     "ganador": "PRE10",
@@ -6548,7 +6548,7 @@
     }
   },
   {
-    "CODPAR": "1216",
+    "CODPAR": "6580",
     "CODCAN": "870",
     "PARROQUIA": "SANTA LUCIA",
     "ganador": "PSC6",
@@ -6561,7 +6561,7 @@
     }
   },
   {
-    "CODPAR": "365",
+    "CODPAR": "6410",
     "CODCAN": "890",
     "PARROQUIA": "CRNL MARCELINO MARIDUENAS",
     "ganador": "PRE10",
@@ -6574,9 +6574,9 @@
     }
   },
   {
-    "CODPAR": "139",
+    "CODPAR": "1730",
     "CODCAN": "920",
-    "PARROQUIA": "YAGUACHI VIEJO/CONE",
+    "PARROQUIA": "RIO BLANCO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -6587,7 +6587,7 @@
     }
   },
   {
-    "CODPAR": "260",
+    "CODPAR": "6440",
     "CODCAN": "920",
     "PARROQUIA": "LOMAS DE SARGENTILLO",
     "ganador": "PRE10",
@@ -6600,7 +6600,7 @@
     }
   },
   {
-    "CODPAR": "402",
+    "CODPAR": "6460",
     "CODCAN": "940",
     "PARROQUIA": "NARCISA DE JESUS",
     "ganador": "PSC6",
@@ -6613,7 +6613,7 @@
     }
   },
   {
-    "CODPAR": "1545",
+    "CODPAR": "6610",
     "CODCAN": "965",
     "PARROQUIA": "LA LIBERTAD",
     "ganador": "PSC6",
@@ -6626,7 +6626,7 @@
     }
   },
   {
-    "CODPAR": "236",
+    "CODPAR": "6620",
     "CODCAN": "985",
     "PARROQUIA": "GRAL.ELIZALDE /BUCAY",
     "ganador": "PRE10",
@@ -6639,7 +6639,7 @@
     }
   },
   {
-    "CODPAR": "269",
+    "CODPAR": "0100",
     "CODCAN": "30",
     "PARROQUIA": "AMBUQUI/CHOTA",
     "ganador": "MUPP-NP-18",
@@ -6652,7 +6652,7 @@
     }
   },
   {
-    "CODPAR": "299",
+    "CODPAR": "0130",
     "CODCAN": "30",
     "PARROQUIA": "ANGOCHAGUA",
     "ganador": "MUPP-NP-18",
@@ -6665,7 +6665,7 @@
     }
   },
   {
-    "CODPAR": "124",
+    "CODPAR": "0530",
     "CODCAN": "30",
     "PARROQUIA": "CAROLINA /GUALLUPI",
     "ganador": "ID12",
@@ -6678,7 +6678,7 @@
     }
   },
   {
-    "CODPAR": "450",
+    "CODPAR": "2020",
     "CODCAN": "30",
     "PARROQUIA": "LA ESPERANZA",
     "ganador": "MUPP-NP-18",
@@ -6691,7 +6691,7 @@
     }
   },
   {
-    "CODPAR": "85",
+    "CODPAR": "2185",
     "CODCAN": "30",
     "PARROQUIA": "LITA",
     "ganador": "PSC6",
@@ -6704,7 +6704,7 @@
     }
   },
   {
-    "CODPAR": "65",
+    "CODPAR": "3290",
     "CODCAN": "30",
     "PARROQUIA": "SALINAS",
     "ganador": "PRE10",
@@ -6717,7 +6717,7 @@
     }
   },
   {
-    "CODPAR": "503",
+    "CODPAR": "3315",
     "CODCAN": "30",
     "PARROQUIA": "SAN ANTONIO",
     "ganador": "PRE10",
@@ -6730,7 +6730,7 @@
     }
   },
   {
-    "CODPAR": "561",
+    "CODPAR": "5165",
     "CODCAN": "30",
     "PARROQUIA": "CARANQUI",
     "ganador": "MUPP-NP-18",
@@ -6743,7 +6743,7 @@
     }
   },
   {
-    "CODPAR": "423",
+    "CODPAR": "5440",
     "CODCAN": "30",
     "PARROQUIA": "GUAYAQUIL DE ALPACHACA",
     "ganador": "PRE10",
@@ -6756,7 +6756,7 @@
     }
   },
   {
-    "CODPAR": "1392",
+    "CODPAR": "5915",
     "CODCAN": "30",
     "PARROQUIA": "SAGRARIO",
     "ganador": "PRE10",
@@ -6769,7 +6769,7 @@
     }
   },
   {
-    "CODPAR": "1073",
+    "CODPAR": "5960",
     "CODCAN": "30",
     "PARROQUIA": "SAN FRANCISCO",
     "ganador": "PRE10",
@@ -6782,7 +6782,7 @@
     }
   },
   {
-    "CODPAR": "247",
+    "CODPAR": "1040",
     "CODCAN": "35",
     "PARROQUIA": "DR MIGUEL EGAS/PEGUCHE",
     "ganador": "MUPP-NP-18",
@@ -6795,7 +6795,7 @@
     }
   },
   {
-    "CODPAR": "348",
+    "CODPAR": "1215",
     "CODCAN": "35",
     "PARROQUIA": "EUGENIO ESPEJO",
     "ganador": "MUPP-NP-18",
@@ -6808,7 +6808,7 @@
     }
   },
   {
-    "CODPAR": "320",
+    "CODPAR": "1360",
     "CODCAN": "35",
     "PARROQUIA": "GONZALEZ SUAREZ",
     "ganador": "MUPP-NP-18",
@@ -6821,7 +6821,7 @@
     }
   },
   {
-    "CODPAR": "34",
+    "CODPAR": "2785",
     "CODCAN": "35",
     "PARROQUIA": "PATAQUI",
     "ganador": "MUPP-NP-18",
@@ -6834,7 +6834,7 @@
     }
   },
   {
-    "CODPAR": "459",
+    "CODPAR": "3490",
     "CODCAN": "35",
     "PARROQUIA": "SAN JOSE DE QUICHINCHE",
     "ganador": "MUPP-NP-18",
@@ -6847,7 +6847,7 @@
     }
   },
   {
-    "CODPAR": "430",
+    "CODPAR": "3525",
     "CODCAN": "35",
     "PARROQUIA": "SAN JUAN DE ILUMAN",
     "ganador": "PRE10",
@@ -6860,7 +6860,7 @@
     }
   },
   {
-    "CODPAR": "637",
+    "CODPAR": "3590",
     "CODCAN": "35",
     "PARROQUIA": "SAN PABLO",
     "ganador": "PRE10",
@@ -6873,7 +6873,7 @@
     }
   },
   {
-    "CODPAR": "192",
+    "CODPAR": "3810",
     "CODCAN": "35",
     "PARROQUIA": "SAN RAFAEL",
     "ganador": "PRE10",
@@ -6886,7 +6886,7 @@
     }
   },
   {
-    "CODPAR": "76",
+    "CODPAR": "3630",
     "CODCAN": "35",
     "PARROQUIA": "SELVA ALEGRE",
     "ganador": "ID12",
@@ -6899,7 +6899,7 @@
     }
   },
   {
-    "CODPAR": "881",
+    "CODPAR": "5490",
     "CODCAN": "35",
     "PARROQUIA": "JORDAN",
     "ganador": "PRE10",
@@ -6912,7 +6912,7 @@
     }
   },
   {
-    "CODPAR": "785",
+    "CODPAR": "0145",
     "CODCAN": "35",
     "PARROQUIA": "SAN LUIS",
     "ganador": "PRE10",
@@ -6925,7 +6925,7 @@
     }
   },
   {
-    "CODPAR": "151",
+    "CODPAR": "5980",
     "CODCAN": "40",
     "PARROQUIA": "APUELA",
     "ganador": "MPD15",
@@ -6938,7 +6938,7 @@
     }
   },
   {
-    "CODPAR": "104",
+    "CODPAR": "1310",
     "CODCAN": "40",
     "PARROQUIA": "GARCIA MORENO / LLURIMAGUA",
     "ganador": "MPD15",
@@ -6951,7 +6951,7 @@
     }
   },
   {
-    "CODPAR": "298",
+    "CODPAR": "1710",
     "CODCAN": "40",
     "PARROQUIA": "IMANTAG",
     "ganador": "MUPP-NP-18",
@@ -6964,7 +6964,7 @@
     }
   },
   {
-    "CODPAR": "113",
+    "CODPAR": "2820",
     "CODCAN": "40",
     "PARROQUIA": "PEÑAHERRERA",
     "ganador": "PRE10",
@@ -6977,7 +6977,7 @@
     }
   },
   {
-    "CODPAR": "62",
+    "CODPAR": "2915",
     "CODCAN": "40",
     "PARROQUIA": "PLAZA GUTIERREZ/CALVARIO",
     "ganador": "MPD15",
@@ -6990,7 +6990,7 @@
     }
   },
   {
-    "CODPAR": "315",
+    "CODPAR": "3115",
     "CODCAN": "40",
     "PARROQUIA": "QUIROGA",
     "ganador": "PRE10",
@@ -7003,7 +7003,7 @@
     }
   },
   {
-    "CODPAR": "116",
+    "CODPAR": "3800",
     "CODCAN": "40",
     "PARROQUIA": "6 DE JULIO DE CUELLAJE",
     "ganador": "PRE10",
@@ -7016,7 +7016,7 @@
     }
   },
   {
-    "CODPAR": "41",
+    "CODPAR": "4185",
     "CODCAN": "40",
     "PARROQUIA": "VACAS GALINDO",
     "ganador": "PSC6",
@@ -7029,7 +7029,7 @@
     }
   },
   {
-    "CODPAR": "327",
+    "CODPAR": "5910",
     "CODCAN": "40",
     "PARROQUIA": "SAGRARIO",
     "ganador": "MUPP-NP-18",
@@ -7042,7 +7042,7 @@
     }
   },
   {
-    "CODPAR": "273",
+    "CODPAR": "5955",
     "CODCAN": "40",
     "PARROQUIA": "SAN FRANCISCO",
     "ganador": "PRE10",
@@ -7055,7 +7055,7 @@
     }
   },
   {
-    "CODPAR": "31",
+    "CODPAR": "1715",
     "CODCAN": "45",
     "PARROQUIA": "IMBAYA",
     "ganador": "PRE10",
@@ -7068,7 +7068,7 @@
     }
   },
   {
-    "CODPAR": "169",
+    "CODPAR": "3400",
     "CODCAN": "45",
     "PARROQUIA": "SAN FCO.DE NATABUELA",
     "ganador": "PRE10",
@@ -7081,7 +7081,7 @@
     }
   },
   {
-    "CODPAR": "122",
+    "CODPAR": "3465",
     "CODCAN": "45",
     "PARROQUIA": "SAN JOSE DE CHALTURA",
     "ganador": "PRE10",
@@ -7094,7 +7094,7 @@
     }
   },
   {
-    "CODPAR": "489",
+    "CODPAR": "3640",
     "CODCAN": "45",
     "PARROQUIA": "SAN ROQUE",
     "ganador": "PRE10",
@@ -7107,7 +7107,7 @@
     }
   },
   {
-    "CODPAR": "232",
+    "CODPAR": "5025",
     "CODCAN": "45",
     "PARROQUIA": "ANDRADE MARIN/LOURDES",
     "ganador": "MPD15",
@@ -7120,7 +7120,7 @@
     }
   },
   {
-    "CODPAR": "538",
+    "CODPAR": "5050",
     "CODCAN": "45",
     "PARROQUIA": "ATUNTAQUI",
     "ganador": "PRE10",
@@ -7133,7 +7133,7 @@
     }
   },
   {
-    "CODPAR": "70",
+    "CODPAR": "0955",
     "CODCAN": "50",
     "PARROQUIA": "CHUGA",
     "ganador": "PRE10",
@@ -7146,7 +7146,7 @@
     }
   },
   {
-    "CODPAR": "215",
+    "CODPAR": "2380",
     "CODCAN": "50",
     "PARROQUIA": "MARIANO ACOSTA",
     "ganador": "MUPP-NP-18",
@@ -7159,7 +7159,7 @@
     }
   },
   {
-    "CODPAR": "83",
+    "CODPAR": "3415",
     "CODCAN": "50",
     "PARROQUIA": "SAN FRANCISCO DE SIGSIPAMBA",
     "ganador": "MUPP-NP-18",
@@ -7172,7 +7172,7 @@
     }
   },
   {
-    "CODPAR": "543",
+    "CODPAR": "5750",
     "CODCAN": "50",
     "PARROQUIA": "PIMAMPIRO",
     "ganador": "PRE10",
@@ -7185,7 +7185,7 @@
     }
   },
   {
-    "CODPAR": "181",
+    "CODPAR": "0425",
     "CODCAN": "55",
     "PARROQUIA": "CAHUASQUI",
     "ganador": "PSC6",
@@ -7198,7 +7198,7 @@
     }
   },
   {
-    "CODPAR": "87",
+    "CODPAR": "2060",
     "CODCAN": "55",
     "PARROQUIA": "LA MERCED DE BUENOS AIRES",
     "ganador": "PSC6",
@@ -7211,7 +7211,7 @@
     }
   },
   {
-    "CODPAR": "94",
+    "CODPAR": "2675",
     "CODCAN": "55",
     "PARROQUIA": "PABLO ARENAS",
     "ganador": "PRE10",
@@ -7224,7 +7224,7 @@
     }
   },
   {
-    "CODPAR": "210",
+    "CODPAR": "3365",
     "CODCAN": "55",
     "PARROQUIA": "SAN BLAS",
     "ganador": "PRE10",
@@ -7237,7 +7237,7 @@
     }
   },
   {
-    "CODPAR": "82",
+    "CODPAR": "4080",
     "CODCAN": "55",
     "PARROQUIA": "TUMBABIRO",
     "ganador": "PRE10",
@@ -7250,9 +7250,9 @@
     }
   },
   {
-    "CODPAR": "273",
+    "CODPAR": "6190",
     "CODCAN": "55",
-    "PARROQUIA": "SAN FRANCISCO",
+    "PARROQUIA": "URCUQUI",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -7263,7 +7263,7 @@
     }
   },
   {
-    "CODPAR": "130",
+    "CODPAR": "1200",
     "CODCAN": "290",
     "PARROQUIA": "EL TAMBO",
     "ganador": "CFP4",
@@ -7276,7 +7276,7 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1480",
     "CODCAN": "290",
     "PARROQUIA": "GUAYQUICHUMA",
     "ganador": "CFP4",
@@ -7289,7 +7289,7 @@
     }
   },
   {
-    "CODPAR": "31",
+    "CODPAR": "3610",
     "CODCAN": "290",
     "PARROQUIA": "SAN PEDRO DE LA BENDITA",
     "ganador": "PSC6",
@@ -7302,7 +7302,7 @@
     }
   },
   {
-    "CODPAR": "66",
+    "CODPAR": "4455",
     "CODCAN": "290",
     "PARROQUIA": "ZAMBI",
     "ganador": "CFP4",
@@ -7315,7 +7315,7 @@
     }
   },
   {
-    "CODPAR": "445",
+    "CODPAR": "5270",
     "CODCAN": "290",
     "PARROQUIA": "CATAMAYO",
     "ganador": "PSC6",
@@ -7328,7 +7328,7 @@
     }
   },
   {
-    "CODPAR": "9",
+    "CODPAR": "0280",
     "CODCAN": "295",
     "PARROQUIA": "LIMONES",
     "ganador": "PSC6",
@@ -7341,7 +7341,7 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "0290",
     "CODCAN": "295",
     "PARROQUIA": "GARZAREAL",
     "ganador": "DP5",
@@ -7354,7 +7354,7 @@
     }
   },
   {
-    "CODPAR": "23",
+    "CODPAR": "0550",
     "CODCAN": "295",
     "PARROQUIA": "MANGAHURCO",
     "ganador": "PCE1",
@@ -7367,9 +7367,9 @@
     }
   },
   {
-    "CODPAR": "31",
+    "CODPAR": "2710",
     "CODCAN": "295",
-    "PARROQUIA": "SAN PEDRO DE LA BENDITA",
+    "PARROQUIA": "PALETILLAS",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -7380,7 +7380,7 @@
     }
   },
   {
-    "CODPAR": "54",
+    "CODPAR": "6320",
     "CODCAN": "295",
     "PARROQUIA": "ZAPOTILLO",
     "ganador": "DP5",
@@ -7393,7 +7393,7 @@
     }
   },
   {
-    "CODPAR": "193",
+    "CODPAR": "0975",
     "CODCAN": "300",
     "PARROQUIA": "CHUQUIRIBAMBA",
     "ganador": "CFP4",
@@ -7406,7 +7406,7 @@
     }
   },
   {
-    "CODPAR": "78",
+    "CODPAR": "1135",
     "CODCAN": "300",
     "PARROQUIA": "EL CISNE",
     "ganador": "CFP4",
@@ -7419,7 +7419,7 @@
     }
   },
   {
-    "CODPAR": "46",
+    "CODPAR": "1405",
     "CODCAN": "300",
     "PARROQUIA": "GUALEL",
     "ganador": "CFP4",
@@ -7432,7 +7432,7 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "1780",
     "CODCAN": "300",
     "PARROQUIA": "QUINARA",
     "ganador": "JUNTAS ",
@@ -7445,7 +7445,7 @@
     }
   },
   {
-    "CODPAR": "63",
+    "CODPAR": "1840",
     "CODCAN": "300",
     "PARROQUIA": "JIMBILLA",
     "ganador": "PSC6",
@@ -7458,7 +7458,7 @@
     }
   },
   {
-    "CODPAR": "309",
+    "CODPAR": "2325",
     "CODCAN": "300",
     "PARROQUIA": "MALACATOS/VALLADOLID",
     "ganador": "PSC6",
@@ -7471,7 +7471,7 @@
     }
   },
   {
-    "CODPAR": "265",
+    "CODPAR": "3555",
     "CODCAN": "300",
     "PARROQUIA": "SAN LUCAS",
     "ganador": "MUPP-NP-18",
@@ -7484,7 +7484,7 @@
     }
   },
   {
-    "CODPAR": "140",
+    "CODPAR": "3770",
     "CODCAN": "300",
     "PARROQUIA": "SANTIAGO",
     "ganador": "PSC6",
@@ -7497,7 +7497,7 @@
     }
   },
   {
-    "CODPAR": "139",
+    "CODPAR": "3970",
     "CODCAN": "300",
     "PARROQUIA": "TAQUIL /MIGUEL RIOFRIO",
     "ganador": "PSC6",
@@ -7510,7 +7510,7 @@
     }
   },
   {
-    "CODPAR": "152",
+    "CODPAR": "4235",
     "CODCAN": "300",
     "PARROQUIA": "VILCABAMBA/VICTORIA",
     "ganador": "PRE10",
@@ -7523,7 +7523,7 @@
     }
   },
   {
-    "CODPAR": "134",
+    "CODPAR": "4280",
     "CODCAN": "300",
     "PARROQUIA": "YANGANA / ARSENIO CASTILLO",
     "ganador": "PSC6",
@@ -7536,9 +7536,9 @@
     }
   },
   {
-    "CODPAR": "54",
+    "CODPAR": "4475",
     "CODCAN": "300",
-    "PARROQUIA": "ZAPOTILLO",
+    "PARROQUIA": "CHANTACO",
     "ganador": "CFP4",
     "resultados": {
       "CFP4": {
@@ -7549,7 +7549,7 @@
     }
   },
   {
-    "CODPAR": "35",
+    "CODPAR": "4540",
     "CODCAN": "300",
     "PARROQUIA": "SAN PEDRO DE VILCABAMBA",
     "ganador": "PSC6",
@@ -7562,7 +7562,7 @@
     }
   },
   {
-    "CODPAR": "576",
+    "CODPAR": "5320",
     "CODCAN": "300",
     "PARROQUIA": "EL SAGRARIO",
     "ganador": "PSC6",
@@ -7575,7 +7575,7 @@
     }
   },
   {
-    "CODPAR": "702",
+    "CODPAR": "6015",
     "CODCAN": "300",
     "PARROQUIA": "SAN SEBASTIAN",
     "ganador": "PSC6",
@@ -7588,7 +7588,7 @@
     }
   },
   {
-    "CODPAR": "1218",
+    "CODPAR": "6100",
     "CODCAN": "300",
     "PARROQUIA": "SUCRE",
     "ganador": "PRE10",
@@ -7601,7 +7601,7 @@
     }
   },
   {
-    "CODPAR": "781",
+    "CODPAR": "6210",
     "CODCAN": "300",
     "PARROQUIA": "VALLE",
     "ganador": "PSC6",
@@ -7614,7 +7614,7 @@
     }
   },
   {
-    "CODPAR": "79",
+    "CODPAR": "1165",
     "CODCAN": "305",
     "PARROQUIA": "EL PARAISO DE CELEN",
     "ganador": "PSC6",
@@ -7627,7 +7627,7 @@
     }
   },
   {
-    "CODPAR": "34",
+    "CODPAR": "1190",
     "CODCAN": "305",
     "PARROQUIA": "EL TABLON",
     "ganador": "PSC6",
@@ -7640,7 +7640,7 @@
     }
   },
   {
-    "CODPAR": "43",
+    "CODPAR": "2280",
     "CODCAN": "305",
     "PARROQUIA": "LLUZHAPA",
     "ganador": "PSC6",
@@ -7653,7 +7653,7 @@
     }
   },
   {
-    "CODPAR": "69",
+    "CODPAR": "2360",
     "CODCAN": "305",
     "PARROQUIA": "MANU",
     "ganador": "PSC6",
@@ -7666,7 +7666,7 @@
     }
   },
   {
-    "CODPAR": "39",
+    "CODPAR": "3340",
     "CODCAN": "305",
     "PARROQUIA": "SAN ANTONIO DE CUMBE",
     "ganador": "PSC6",
@@ -7679,7 +7679,7 @@
     }
   },
   {
-    "CODPAR": "113",
+    "CODPAR": "3600",
     "CODCAN": "305",
     "PARROQUIA": "SAN PABLO DE TENTA",
     "ganador": "PSC6",
@@ -7692,7 +7692,7 @@
     }
   },
   {
-    "CODPAR": "18",
+    "CODPAR": "3665",
     "CODCAN": "305",
     "PARROQUIA": "SAN SEBASTIAN DE YULOG",
     "ganador": "PSC6",
@@ -7705,7 +7705,7 @@
     }
   },
   {
-    "CODPAR": "36",
+    "CODPAR": "3815",
     "CODCAN": "305",
     "PARROQUIA": "SELVA ALEGRE",
     "ganador": "PSC6",
@@ -7718,7 +7718,7 @@
     }
   },
   {
-    "CODPAR": "100",
+    "CODPAR": "4145",
     "CODCAN": "305",
     "PARROQUIA": "URDANETA/PAQUISHAPA",
     "ganador": "PSC6",
@@ -7731,7 +7731,7 @@
     }
   },
   {
-    "CODPAR": "190",
+    "CODPAR": "6075",
     "CODCAN": "305",
     "PARROQUIA": "SARAGURO",
     "ganador": "MUPP-NP-18",
@@ -7744,7 +7744,7 @@
     }
   },
   {
-    "CODPAR": "44",
+    "CODPAR": "0485",
     "CODCAN": "310",
     "PARROQUIA": "CANGONAMA",
     "ganador": "CFP4",
@@ -7757,9 +7757,9 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "0545",
     "CODCAN": "310",
-    "PARROQUIA": "GARZAREAL",
+    "PARROQUIA": "SAN ANTONIO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -7770,9 +7770,9 @@
     }
   },
   {
-    "CODPAR": "43",
+    "CODPAR": "0995",
     "CODCAN": "310",
-    "PARROQUIA": "LLUZHAPA",
+    "PARROQUIA": "CASANGA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -7783,7 +7783,7 @@
     }
   },
   {
-    "CODPAR": "37",
+    "CODPAR": "1000",
     "CODCAN": "310",
     "PARROQUIA": "YAMANA",
     "ganador": "PSC6",
@@ -7796,7 +7796,7 @@
     }
   },
   {
-    "CODPAR": "28",
+    "CODPAR": "1380",
     "CODCAN": "310",
     "PARROQUIA": "GUACHANAMA",
     "ganador": "CFP4",
@@ -7809,9 +7809,9 @@
     }
   },
   {
-    "CODPAR": "37",
+    "CODPAR": "2120",
     "CODCAN": "310",
-    "PARROQUIA": "YAMANA",
+    "PARROQUIA": "LA TINGUE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -7822,7 +7822,7 @@
     }
   },
   {
-    "CODPAR": "65",
+    "CODPAR": "2140",
     "CODCAN": "310",
     "PARROQUIA": "LAURO GUERRERO",
     "ganador": "CFP4",
@@ -7835,7 +7835,7 @@
     }
   },
   {
-    "CODPAR": "137",
+    "CODPAR": "2605",
     "CODCAN": "310",
     "PARROQUIA": "OLMEDO",
     "ganador": "CFP4",
@@ -7848,9 +7848,9 @@
     }
   },
   {
-    "CODPAR": "28",
+    "CODPAR": "2630",
     "CODCAN": "310",
-    "PARROQUIA": "GUACHANAMA",
+    "PARROQUIA": "ORIANGA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -7861,7 +7861,7 @@
     }
   },
   {
-    "CODPAR": "352",
+    "CODPAR": "5180",
     "CODCAN": "310",
     "PARROQUIA": "CATACOCHA",
     "ganador": "DP5",
@@ -7874,7 +7874,7 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "5595",
     "CODCAN": "310",
     "PARROQUIA": "LOURDES",
     "ganador": "CFP4",
@@ -7887,7 +7887,7 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "0695",
     "CODCAN": "315",
     "PARROQUIA": "CRUZPAMBA/BUSTAMANTE",
     "ganador": "DP5",
@@ -7900,7 +7900,7 @@
     }
   },
   {
-    "CODPAR": "6",
+    "CODPAR": "1495",
     "CODCAN": "315",
     "PARROQUIA": "TNTE M.RODRIGUEZ LOAYZA",
     "ganador": "DP5",
@@ -7913,7 +7913,7 @@
     }
   },
   {
-    "CODPAR": "25",
+    "CODPAR": "3255",
     "CODCAN": "315",
     "PARROQUIA": "SABANILLA",
     "ganador": "DP5",
@@ -7926,7 +7926,7 @@
     }
   },
   {
-    "CODPAR": "60",
+    "CODPAR": "3535",
     "CODCAN": "315",
     "PARROQUIA": "SAN JUAN DE POZUL",
     "ganador": "DP5",
@@ -7939,7 +7939,7 @@
     }
   },
   {
-    "CODPAR": "150",
+    "CODPAR": "5195",
     "CODCAN": "315",
     "PARROQUIA": "CELICA",
     "ganador": "DP5",
@@ -7952,7 +7952,7 @@
     }
   },
   {
-    "CODPAR": "68",
+    "CODPAR": "0590",
     "CODCAN": "320",
     "PARROQUIA": "COLAIZACA",
     "ganador": "CFP4",
@@ -7965,9 +7965,9 @@
     }
   },
   {
-    "CODPAR": "44",
+    "CODPAR": "1230",
     "CODCAN": "320",
-    "PARROQUIA": "CANGONAMA",
+    "PARROQUIA": "EL LUCERO",
     "ganador": "CFP4",
     "resultados": {
       "CFP4": {
@@ -7978,7 +7978,7 @@
     }
   },
   {
-    "CODPAR": "17",
+    "CODPAR": "4150",
     "CODCAN": "320",
     "PARROQUIA": "UTUANA",
     "ganador": "CFP4",
@@ -7991,7 +7991,7 @@
     }
   },
   {
-    "CODPAR": "301",
+    "CODPAR": "5175",
     "CODCAN": "320",
     "PARROQUIA": "CARIAMANGA",
     "ganador": "CFP4",
@@ -8004,7 +8004,7 @@
     }
   },
   {
-    "CODPAR": "67",
+    "CODPAR": "5240",
     "CODCAN": "320",
     "PARROQUIA": "CHILE",
     "ganador": "CFP4",
@@ -8017,7 +8017,7 @@
     }
   },
   {
-    "CODPAR": "12",
+    "CODPAR": "6025",
     "CODCAN": "320",
     "PARROQUIA": "SAN VICENTE",
     "ganador": "CFP4",
@@ -8030,7 +8030,7 @@
     }
   },
   {
-    "CODPAR": "53",
+    "CODPAR": "2085",
     "CODCAN": "325",
     "PARROQUIA": "LA RAMA",
     "ganador": "DP5",
@@ -8043,7 +8043,7 @@
     }
   },
   {
-    "CODPAR": "33",
+    "CODPAR": "2145",
     "CODCAN": "325",
     "PARROQUIA": "LA VICTORIA",
     "ganador": "CFP4",
@@ -8056,7 +8056,7 @@
     }
   },
   {
-    "CODPAR": "48",
+    "CODPAR": "3265",
     "CODCAN": "325",
     "PARROQUIA": "SABIANGO",
     "ganador": "DP5",
@@ -8069,7 +8069,7 @@
     }
   },
   {
-    "CODPAR": "61",
+    "CODPAR": "5385",
     "CODCAN": "325",
     "PARROQUIA": "GRAL.ELOY ALFARO",
     "ganador": "PLRE - FRA",
@@ -8082,7 +8082,7 @@
     }
   },
   {
-    "CODPAR": "351",
+    "CODPAR": "5680",
     "CODCAN": "325",
     "PARROQUIA": "MACARA",
     "ganador": "PLRE - FRA",
@@ -8095,9 +8095,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "0270",
     "CODCAN": "330",
-    "PARROQUIA": "GUAYQUICHUMA",
+    "PARROQUIA": "EL ARENAL",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8108,9 +8108,9 @@
     }
   },
   {
-    "CODPAR": "33",
+    "CODPAR": "0565",
     "CODCAN": "330",
-    "PARROQUIA": "LA VICTORIA",
+    "PARROQUIA": "CIANO",
     "ganador": "PCE1",
     "resultados": {
       "PCE1": {
@@ -8121,9 +8121,9 @@
     }
   },
   {
-    "CODPAR": "34",
+    "CODPAR": "1155",
     "CODCAN": "330",
-    "PARROQUIA": "EL TABLON",
+    "PARROQUIA": "EL LIMO /MARIANA DE JESUS",
     "ganador": "PCE1",
     "resultados": {
       "PCE1": {
@@ -8134,7 +8134,7 @@
     }
   },
   {
-    "CODPAR": "32",
+    "CODPAR": "2405",
     "CODCAN": "330",
     "PARROQUIA": "MERCADILLO",
     "ganador": "PRE10",
@@ -8147,7 +8147,7 @@
     }
   },
   {
-    "CODPAR": "29",
+    "CODPAR": "4210",
     "CODCAN": "330",
     "PARROQUIA": "VICENTINO",
     "ganador": "PRE10",
@@ -8160,7 +8160,7 @@
     }
   },
   {
-    "CODPAR": "171",
+    "CODPAR": "5005",
     "CODCAN": "330",
     "PARROQUIA": "ALAMOR",
     "ganador": "PRE10",
@@ -8173,7 +8173,7 @@
     }
   },
   {
-    "CODPAR": "86",
+    "CODPAR": "0825",
     "CODCAN": "335",
     "PARROQUIA": "CHANGAIMINA /LA LIBERTAD",
     "ganador": "CFP4",
@@ -8186,7 +8186,7 @@
     }
   },
   {
-    "CODPAR": "206",
+    "CODPAR": "2520",
     "CODCAN": "335",
     "PARROQUIA": "NAMBACOLA",
     "ganador": "PSC6",
@@ -8199,9 +8199,9 @@
     }
   },
   {
-    "CODPAR": "63",
+    "CODPAR": "3045",
     "CODCAN": "335",
-    "PARROQUIA": "JIMBILLA",
+    "PARROQUIA": "PURUNUMA /EGUIGUREN",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8212,7 +8212,7 @@
     }
   },
   {
-    "CODPAR": "76",
+    "CODPAR": "3270",
     "CODCAN": "335",
     "PARROQUIA": "SACAPALCA",
     "ganador": "CFP4",
@@ -8225,9 +8225,9 @@
     }
   },
   {
-    "CODPAR": "150",
+    "CODPAR": "5400",
     "CODCAN": "335",
-    "PARROQUIA": "CELICA",
+    "PARROQUIA": "GONZANAMA",
     "ganador": "PCE1",
     "resultados": {
       "PCE1": {
@@ -8238,7 +8238,7 @@
     }
   },
   {
-    "CODPAR": "50",
+    "CODPAR": "0320",
     "CODCAN": "340",
     "PARROQUIA": "BELLAVISTA",
     "ganador": "CFP4",
@@ -8251,9 +8251,9 @@
     }
   },
   {
-    "CODPAR": "39",
+    "CODPAR": "0790",
     "CODCAN": "340",
-    "PARROQUIA": "SAN ANTONIO DE CUMBE",
+    "PARROQUIA": "EL INGENIO",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -8264,9 +8264,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1645",
     "CODCAN": "340",
-    "PARROQUIA": "GUAYQUICHUMA",
+    "PARROQUIA": "EL AIRO",
     "ganador": "CFP4",
     "resultados": {
       "CFP4": {
@@ -8277,9 +8277,9 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "1845",
     "CODCAN": "340",
-    "PARROQUIA": "LOURDES",
+    "PARROQUIA": "JIMBURA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8290,7 +8290,7 @@
     }
   },
   {
-    "CODPAR": "49",
+    "CODPAR": "3765",
     "CODCAN": "340",
     "PARROQUIA": "SANTA TERESITA",
     "ganador": "CFP4",
@@ -8303,9 +8303,9 @@
     }
   },
   {
-    "CODPAR": "37",
+    "CODPAR": "4460",
     "CODCAN": "340",
-    "PARROQUIA": "YAMANA",
+    "PARROQUIA": "27 DE ABRIL /LA NARANJA",
     "ganador": "CFP4",
     "resultados": {
       "CFP4": {
@@ -8316,9 +8316,9 @@
     }
   },
   {
-    "CODPAR": "190",
+    "CODPAR": "5020",
     "CODCAN": "340",
-    "PARROQUIA": "SARAGURO",
+    "PARROQUIA": "AMALUZA",
     "ganador": "PCE1",
     "resultados": {
       "PCE1": {
@@ -8329,7 +8329,7 @@
     }
   },
   {
-    "CODPAR": "10",
+    "CODPAR": "2575",
     "CODCAN": "345",
     "PARROQUIA": "NUEVA FATIMA",
     "ganador": "PSC6",
@@ -8342,9 +8342,9 @@
     }
   },
   {
-    "CODPAR": "37",
+    "CODPAR": "3935",
     "CODCAN": "345",
-    "PARROQUIA": "YAMANA",
+    "PARROQUIA": "TACAMOROS",
     "ganador": "CFP4",
     "resultados": {
       "CFP4": {
@@ -8355,7 +8355,7 @@
     }
   },
   {
-    "CODPAR": "55",
+    "CODPAR": "6120",
     "CODCAN": "345",
     "PARROQUIA": "SOZORANGA",
     "ganador": "PSC6",
@@ -8368,9 +8368,9 @@
     }
   },
   {
-    "CODPAR": "12",
+    "CODPAR": "0835",
     "CODCAN": "730",
-    "PARROQUIA": "SAN VICENTE",
+    "PARROQUIA": "CHAQUINAL",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8381,9 +8381,9 @@
     }
   },
   {
-    "CODPAR": "23",
+    "CODPAR": "1035",
     "CODCAN": "730",
-    "PARROQUIA": "MANGAHURCO",
+    "PARROQUIA": "12 DE DICIEMBRE",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -8394,7 +8394,7 @@
     }
   },
   {
-    "CODPAR": "41",
+    "CODPAR": "5810",
     "CODCAN": "730",
     "PARROQUIA": "PINDAL /FEDERICO PAEZ",
     "ganador": "PSC6",
@@ -8407,9 +8407,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "0360",
     "CODCAN": "740",
-    "PARROQUIA": "QUINARA",
+    "PARROQUIA": "FUNDOCHAMBA",
     "ganador": "CFP4",
     "resultados": {
       "CFP4": {
@@ -8420,9 +8420,9 @@
     }
   },
   {
-    "CODPAR": "28",
+    "CODPAR": "3345",
     "CODCAN": "740",
-    "PARROQUIA": "GUACHANAMA",
+    "PARROQUIA": "SAN ANTONIO DE LAS ARADAS",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -8433,7 +8433,7 @@
     }
   },
   {
-    "CODPAR": "75",
+    "CODPAR": "6260",
     "CODCAN": "740",
     "PARROQUIA": "QUILANGA /LA PAZ",
     "ganador": "CFP4",
@@ -8446,7 +8446,7 @@
     }
   },
   {
-    "CODPAR": "64",
+    "CODPAR": "0385",
     "CODCAN": "815",
     "PARROQUIA": "BUENAVISTA",
     "ganador": "DP5",
@@ -8459,7 +8459,7 @@
     }
   },
   {
-    "CODPAR": "22",
+    "CODPAR": "1180",
     "CODCAN": "815",
     "PARROQUIA": "EL ROSARIO",
     "ganador": "PSC6",
@@ -8472,9 +8472,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "1450",
     "CODCAN": "815",
-    "PARROQUIA": "QUINARA",
+    "PARROQUIA": "AMARILLOS",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -8485,9 +8485,9 @@
     }
   },
   {
-    "CODPAR": "48",
+    "CODPAR": "3755",
     "CODCAN": "815",
-    "PARROQUIA": "SABIANGO",
+    "PARROQUIA": "SANTA RUFINA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8498,7 +8498,7 @@
     }
   },
   {
-    "CODPAR": "127",
+    "CODPAR": "6530",
     "CODCAN": "815",
     "PARROQUIA": "CHAGUARPAMBA",
     "ganador": "DP5",
@@ -8511,9 +8511,9 @@
     }
   },
   {
-    "CODPAR": "206",
+    "CODPAR": "0305",
     "CODCAN": "515",
-    "PARROQUIA": "NAMBACOLA",
+    "PARROQUIA": "VALLE HERMOSO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -8524,7 +8524,7 @@
     }
   },
   {
-    "CODPAR": "112",
+    "CODPAR": "0520",
     "CODCAN": "515",
     "PARROQUIA": "CARACOL",
     "ganador": "PRE10",
@@ -8537,9 +8537,9 @@
     }
   },
   {
-    "CODPAR": "312",
+    "CODPAR": "1265",
     "CODCAN": "515",
-    "PARROQUIA": "BALAO",
+    "PARROQUIA": "FEBRES CORDERO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -8550,9 +8550,9 @@
     }
   },
   {
-    "CODPAR": "192",
+    "CODPAR": "1525",
     "CODCAN": "515",
-    "PARROQUIA": "SAN RAFAEL",
+    "PARROQUIA": "LA UNION",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -8563,9 +8563,9 @@
     }
   },
   {
-    "CODPAR": "351",
+    "CODPAR": "2875",
     "CODCAN": "515",
-    "PARROQUIA": "MACARA",
+    "PARROQUIA": "PIMOCHA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -8576,7 +8576,7 @@
     }
   },
   {
-    "CODPAR": "1263",
+    "CODPAR": "5215",
     "CODCAN": "515",
     "PARROQUIA": "CLEMENTE BAQUERIZO",
     "ganador": "PRE10",
@@ -8589,7 +8589,7 @@
     }
   },
   {
-    "CODPAR": "984",
+    "CODPAR": "5285",
     "CODCAN": "515",
     "PARROQUIA": "DR. CAMILO PONCE E.",
     "ganador": "PRE10",
@@ -8602,7 +8602,7 @@
     }
   },
   {
-    "CODPAR": "495",
+    "CODPAR": "6685",
     "CODCAN": "516",
     "PARROQUIA": "VALENCIA",
     "ganador": "PRE10",
@@ -8615,7 +8615,7 @@
     }
   },
   {
-    "CODPAR": "345",
+    "CODPAR": "1460",
     "CODCAN": "520",
     "PARROQUIA": "GUARE",
     "ganador": "PRE10",
@@ -8628,7 +8628,7 @@
     }
   },
   {
-    "CODPAR": "324",
+    "CODPAR": "1740",
     "CODCAN": "520",
     "PARROQUIA": "ISLA DE BEJUCAL",
     "ganador": "PRE10",
@@ -8641,7 +8641,7 @@
     }
   },
   {
-    "CODPAR": "653",
+    "CODPAR": "5085",
     "CODCAN": "520",
     "PARROQUIA": "BABA",
     "ganador": "PRE10",
@@ -8654,7 +8654,7 @@
     }
   },
   {
-    "CODPAR": "340",
+    "CODPAR": "0140",
     "CODCAN": "525",
     "PARROQUIA": "ANTONIO SOTOMAYOR",
     "ganador": "PRE10",
@@ -8667,7 +8667,7 @@
     }
   },
   {
-    "CODPAR": "2225",
+    "CODPAR": "6245",
     "CODCAN": "525",
     "PARROQUIA": "VINCES",
     "ganador": "PSC6",
@@ -8680,9 +8680,9 @@
     }
   },
   {
-    "CODPAR": "170",
+    "CODPAR": "3015",
     "CODCAN": "530",
-    "PARROQUIA": "GIMA",
+    "PARROQUIA": "PUERTO PECHICHE",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -8693,9 +8693,9 @@
     }
   },
   {
-    "CODPAR": "401",
+    "CODPAR": "3510",
     "CODCAN": "530",
-    "PARROQUIA": "HONORATO VASQUEZ",
+    "PARROQUIA": "SAN JUAN",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -8706,7 +8706,7 @@
     }
   },
   {
-    "CODPAR": "447",
+    "CODPAR": "5800",
     "CODCAN": "530",
     "PARROQUIA": "PUEBLO VIEJO",
     "ganador": "PRE10",
@@ -8719,9 +8719,9 @@
     }
   },
   {
-    "CODPAR": "315",
+    "CODPAR": "3175",
     "CODCAN": "535",
-    "PARROQUIA": "QUIROGA",
+    "PARROQUIA": "RICAURTE",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -8732,9 +8732,9 @@
     }
   },
   {
-    "CODPAR": "190",
+    "CODPAR": "5185",
     "CODCAN": "535",
-    "PARROQUIA": "SARAGURO",
+    "PARROQUIA": "CATARAMA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8745,7 +8745,7 @@
     }
   },
   {
-    "CODPAR": "1093",
+    "CODPAR": "2420",
     "CODCAN": "540",
     "PARROQUIA": "LA ESPERANZA",
     "ganador": "PSC6",
@@ -8758,7 +8758,7 @@
     }
   },
   {
-    "CODPAR": "255",
+    "CODPAR": "4425",
     "CODCAN": "540",
     "PARROQUIA": "SAN CARLOS",
     "ganador": "PRE10",
@@ -8771,7 +8771,7 @@
     }
   },
   {
-    "CODPAR": "4715",
+    "CODPAR": "5855",
     "CODCAN": "540",
     "PARROQUIA": "QUEVEDO",
     "ganador": "PSC6",
@@ -8784,7 +8784,7 @@
     }
   },
   {
-    "CODPAR": "583",
+    "CODPAR": "6115",
     "CODCAN": "540",
     "PARROQUIA": "SAN CAMILO",
     "ganador": "PSC6",
@@ -8797,16 +8797,16 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6635",
     "CODCAN": "540",
-    "PARROQUIA": "SANTA MARTHA DE CUBA",
+    "PARROQUIA": "SAN CRISTOBAL",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6640",
     "CODCAN": "540",
-    "PARROQUIA": "SANTA MARTHA DE CUBA",
+    "PARROQUIA": "VENUS DEL RIO QUEVEDO",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -8817,9 +8817,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "6645",
     "CODCAN": "540",
-    "PARROQUIA": "BELLAMARIA",
+    "PARROQUIA": "NICOLAS INFANTE DIAZ",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -8830,9 +8830,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6650",
     "CODCAN": "540",
-    "PARROQUIA": "SANTA MARTHA DE CUBA",
+    "PARROQUIA": "GUAYACAN",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8843,9 +8843,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "6655",
     "CODCAN": "540",
-    "PARROQUIA": "BELLAMARIA",
+    "PARROQUIA": "SIETE DE OCTUBRE",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -8856,9 +8856,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "6660",
     "CODCAN": "540",
-    "PARROQUIA": "BELLAMARIA",
+    "PARROQUIA": "VIVA ALFARO",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -8869,16 +8869,16 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "6690",
     "CODCAN": "540",
-    "PARROQUIA": "SANTA MARTHA DE CUBA",
+    "PARROQUIA": "24 DE MAYO",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "213",
+    "CODPAR": "3130",
     "CODCAN": "545",
-    "PARROQUIA": "VICTORIA DEL PORTETE",
+    "PARROQUIA": "2026-11-10 00:00:00",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8889,9 +8889,9 @@
     }
   },
   {
-    "CODPAR": "339",
+    "CODPAR": "4330",
     "CODCAN": "545",
-    "PARROQUIA": "SAN LORENZO",
+    "PARROQUIA": "ZAPOTAL",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8902,7 +8902,7 @@
     }
   },
   {
-    "CODPAR": "2108",
+    "CODPAR": "6235",
     "CODCAN": "545",
     "PARROQUIA": "VENTANAS",
     "ganador": "PRE10",
@@ -8915,9 +8915,9 @@
     }
   },
   {
-    "CODPAR": "783",
+    "CODPAR": "5640",
     "CODCAN": "710",
-    "PARROQUIA": "PASCUALES",
+    "PARROQUIA": "MONTALVO /SABANETA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8928,7 +8928,7 @@
     }
   },
   {
-    "CODPAR": "683",
+    "CODPAR": "6330",
     "CODCAN": "750",
     "PARROQUIA": "PALENQUE",
     "ganador": "PRE10",
@@ -8941,7 +8941,7 @@
     }
   },
   {
-    "CODPAR": "1068",
+    "CODPAR": "6465",
     "CODCAN": "945",
     "PARROQUIA": "SN JACINTO DE BUENA FE",
     "ganador": "PRE10",
@@ -8954,9 +8954,9 @@
     }
   },
   {
-    "CODPAR": "8",
+    "CODPAR": "1600",
     "CODCAN": "230",
-    "PARROQUIA": "SAN GERARDO",
+    "PARROQUIA": "NOVILLO",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -8967,9 +8967,9 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "1620",
     "CODCAN": "230",
-    "PARROQUIA": "LUIS GALARZA O. (DELEGSOL)",
+    "PARROQUIA": "ZAPALLO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -8980,7 +8980,7 @@
     }
   },
   {
-    "CODPAR": "477",
+    "CODPAR": "5480",
     "CODCAN": "230",
     "PARROQUIA": "FLAVIO ALFARO",
     "ganador": "PSC6",
@@ -8993,7 +8993,7 @@
     }
   },
   {
-    "CODPAR": "457",
+    "CODPAR": "0010",
     "CODCAN": "440",
     "PARROQUIA": "ABDON CALDERON",
     "ganador": "PRE10",
@@ -9006,7 +9006,7 @@
     }
   },
   {
-    "CODPAR": "326",
+    "CODPAR": "0050",
     "CODCAN": "440",
     "PARROQUIA": "ALHAJUELA /BAJO GRANDE",
     "ganador": "PRE10",
@@ -9019,9 +9019,9 @@
     }
   },
   {
-    "CODPAR": "194",
+    "CODPAR": "0770",
     "CODCAN": "440",
-    "PARROQUIA": "ANGAMARCA",
+    "PARROQUIA": "CRUCITA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9032,9 +9032,9 @@
     }
   },
   {
-    "CODPAR": "132",
+    "CODPAR": "2970",
     "CODCAN": "440",
-    "PARROQUIA": "11 DE NOVIEMBRE",
+    "PARROQUIA": "PUEBLO NUEVO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9045,7 +9045,7 @@
     }
   },
   {
-    "CODPAR": "455",
+    "CODPAR": "3185",
     "CODCAN": "440",
     "PARROQUIA": "RIO CHICO",
     "ganador": "PSC6",
@@ -9058,7 +9058,7 @@
     }
   },
   {
-    "CODPAR": "364",
+    "CODPAR": "3625",
     "CODCAN": "440",
     "PARROQUIA": "SAN PLACIDO",
     "ganador": "PSC6",
@@ -9071,7 +9071,7 @@
     }
   },
   {
-    "CODPAR": "1608",
+    "CODPAR": "5030",
     "CODCAN": "440",
     "PARROQUIA": "ANDRES DE VERA",
     "ganador": "PSC6",
@@ -9084,7 +9084,7 @@
     }
   },
   {
-    "CODPAR": "649",
+    "CODPAR": "5265",
     "CODCAN": "440",
     "PARROQUIA": "COLON",
     "ganador": "PRE10",
@@ -9097,7 +9097,7 @@
     }
   },
   {
-    "CODPAR": "1294",
+    "CODPAR": "5280",
     "CODCAN": "440",
     "PARROQUIA": "12 DE MARZO",
     "ganador": "PSC6",
@@ -9110,7 +9110,7 @@
     }
   },
   {
-    "CODPAR": "876",
+    "CODPAR": "5795",
     "CODCAN": "440",
     "PARROQUIA": "PORTOVIEJO",
     "ganador": "PSC6",
@@ -9123,7 +9123,7 @@
     }
   },
   {
-    "CODPAR": "732",
+    "CODPAR": "5845",
     "CODCAN": "440",
     "PARROQUIA": "PICOAZA",
     "ganador": "PRE10",
@@ -9136,9 +9136,9 @@
     }
   },
   {
-    "CODPAR": "206",
+    "CODPAR": "6585",
     "CODCAN": "440",
-    "PARROQUIA": "NAMBACOLA",
+    "PARROQUIA": "SAN PABLO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9149,7 +9149,7 @@
     }
   },
   {
-    "CODPAR": "372",
+    "CODPAR": "1820",
     "CODCAN": "445",
     "PARROQUIA": "LA BELLEZA",
     "ganador": "PRE10",
@@ -9162,7 +9162,7 @@
     }
   },
   {
-    "CODPAR": "1656",
+    "CODPAR": "5665",
     "CODCAN": "445",
     "PARROQUIA": "MONTECRISTI",
     "ganador": "PRE10",
@@ -9175,9 +9175,9 @@
     }
   },
   {
-    "CODPAR": "182",
+    "CODPAR": "3550",
     "CODCAN": "450",
-    "PARROQUIA": "BUENAVISTA",
+    "PARROQUIA": "SAN LORENZO",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -9188,9 +9188,9 @@
     }
   },
   {
-    "CODPAR": "232",
+    "CODPAR": "5570",
     "CODCAN": "450",
-    "PARROQUIA": "ANDRADE MARIN/LOURDES",
+    "PARROQUIA": "LOS ESTEROS",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9201,7 +9201,7 @@
     }
   },
   {
-    "CODPAR": "2782",
+    "CODPAR": "5635",
     "CODCAN": "450",
     "PARROQUIA": "MANTA",
     "ganador": "PSC6",
@@ -9214,9 +9214,9 @@
     }
   },
   {
-    "CODPAR": "74",
+    "CODPAR": "6135",
     "CODCAN": "450",
-    "PARROQUIA": "TELIMBELA",
+    "PARROQUIA": "SAN MATEO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9227,7 +9227,7 @@
     }
   },
   {
-    "CODPAR": "2164",
+    "CODPAR": "6155",
     "CODCAN": "450",
     "PARROQUIA": "TARQUI",
     "ganador": "PRE10",
@@ -9240,7 +9240,7 @@
     }
   },
   {
-    "CODPAR": "342",
+    "CODPAR": "0105",
     "CODCAN": "455",
     "PARROQUIA": "AMERICA /LA CERA",
     "ganador": "PSC6",
@@ -9253,9 +9253,9 @@
     }
   },
   {
-    "CODPAR": "50",
+    "CODPAR": "0560",
     "CODCAN": "455",
-    "PARROQUIA": "EL CABO",
+    "PARROQUIA": "LA UNION",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9266,7 +9266,7 @@
     }
   },
   {
-    "CODPAR": "460",
+    "CODPAR": "1115",
     "CODCAN": "455",
     "PARROQUIA": "EL ANEGADO",
     "ganador": "PRE10",
@@ -9279,7 +9279,7 @@
     }
   },
   {
-    "CODPAR": "91",
+    "CODPAR": "1880",
     "CODCAN": "455",
     "PARROQUIA": "JULCUY",
     "ganador": "PSC6",
@@ -9292,7 +9292,7 @@
     }
   },
   {
-    "CODPAR": "337",
+    "CODPAR": "2810",
     "CODCAN": "455",
     "PARROQUIA": "PEDRO PABLO GOMEZ",
     "ganador": "PSC6",
@@ -9305,9 +9305,9 @@
     }
   },
   {
-    "CODPAR": "126",
+    "CODPAR": "2990",
     "CODCAN": "455",
-    "PARROQUIA": "SAN LORENZO",
+    "PARROQUIA": "PUERTO CAYO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9318,9 +9318,9 @@
     }
   },
   {
-    "CODPAR": "86",
+    "CODPAR": "4490",
     "CODCAN": "455",
-    "PARROQUIA": "CHANGAIMINA /LA LIBERTAD",
+    "PARROQUIA": "MEMBRILLAL",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9331,7 +9331,7 @@
     }
   },
   {
-    "CODPAR": "3197",
+    "CODPAR": "5485",
     "CODCAN": "455",
     "PARROQUIA": "JIPIJAPA",
     "ganador": "PSC6",
@@ -9344,7 +9344,7 @@
     }
   },
   {
-    "CODPAR": "235",
+    "CODPAR": "0330",
     "CODCAN": "460",
     "PARROQUIA": "BELLAVISTA",
     "ganador": "PSC6",
@@ -9357,7 +9357,7 @@
     }
   },
   {
-    "CODPAR": "346",
+    "CODPAR": "2555",
     "CODCAN": "460",
     "PARROQUIA": "NOBOA",
     "ganador": "PRE10",
@@ -9370,7 +9370,7 @@
     }
   },
   {
-    "CODPAR": "839",
+    "CODPAR": "6105",
     "CODCAN": "460",
     "PARROQUIA": "SUCRE",
     "ganador": "PRE10",
@@ -9383,9 +9383,9 @@
     }
   },
   {
-    "CODPAR": "1125",
+    "CODPAR": "5885",
     "CODCAN": "465",
-    "PARROQUIA": "SICALPA",
+    "PARROQUIA": "ROCAFUERTE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9396,9 +9396,9 @@
     }
   },
   {
-    "CODPAR": "325",
+    "CODPAR": "0220",
     "CODCAN": "470",
-    "PARROQUIA": "MIRA",
+    "PARROQUIA": "AYACUCHO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9409,9 +9409,9 @@
     }
   },
   {
-    "CODPAR": "53",
+    "CODPAR": "1105",
     "CODCAN": "470",
-    "PARROQUIA": "EL GOALTAL / LAS JUNTAS",
+    "PARROQUIA": "SAN PABLO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9422,9 +9422,9 @@
     }
   },
   {
-    "CODPAR": "139",
+    "CODPAR": "1610",
     "CODCAN": "470",
-    "PARROQUIA": "YAGUACHI VIEJO/CONE",
+    "PARROQUIA": "HONORATO VASQUEZ",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9435,9 +9435,9 @@
     }
   },
   {
-    "CODPAR": "178",
+    "CODPAR": "2135",
     "CODCAN": "470",
-    "PARROQUIA": "SIBAMBE",
+    "PARROQUIA": "LA UNION",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9448,7 +9448,7 @@
     }
   },
   {
-    "CODPAR": "931",
+    "CODPAR": "6030",
     "CODCAN": "470",
     "PARROQUIA": "SANTA ANA",
     "ganador": "PRE10",
@@ -9461,9 +9461,9 @@
     }
   },
   {
-    "CODPAR": "168",
+    "CODPAR": "0470",
     "CODCAN": "475",
-    "PARROQUIA": "TADAY",
+    "PARROQUIA": "CANOA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9474,7 +9474,7 @@
     }
   },
   {
-    "CODPAR": "849",
+    "CODPAR": "0840",
     "CODCAN": "475",
     "PARROQUIA": "CHARAPOTO",
     "ganador": "PRE10",
@@ -9487,9 +9487,9 @@
     }
   },
   {
-    "CODPAR": "442",
+    "CODPAR": "1810",
     "CODCAN": "475",
-    "PARROQUIA": "SAN LUIS",
+    "PARROQUIA": "GARCIA MORENO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9500,9 +9500,9 @@
     }
   },
   {
-    "CODPAR": "433",
+    "CODPAR": "3445",
     "CODCAN": "475",
-    "PARROQUIA": "CUMANDA",
+    "PARROQUIA": "SAN ISIDRO",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -9513,7 +9513,7 @@
     }
   },
   {
-    "CODPAR": "525",
+    "CODPAR": "3675",
     "CODCAN": "475",
     "PARROQUIA": "SAN VICENTE",
     "ganador": "PRE10",
@@ -9526,7 +9526,7 @@
     }
   },
   {
-    "CODPAR": "720",
+    "CODPAR": "5095",
     "CODCAN": "475",
     "PARROQUIA": "BAHIA DE CARAQUEZ",
     "ganador": "PRE10",
@@ -9539,9 +9539,9 @@
     }
   },
   {
-    "CODPAR": "124",
+    "CODPAR": "5580",
     "CODCAN": "475",
-    "PARROQUIA": "JOSE LUIS TAMAYO / MUEY",
+    "PARROQUIA": "LEONIDAS PLAZA G.",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9552,9 +9552,9 @@
     }
   },
   {
-    "CODPAR": "132",
+    "CODPAR": "0380",
     "CODCAN": "480",
-    "PARROQUIA": "11 DE NOVIEMBRE",
+    "PARROQUIA": "BOYACA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9565,9 +9565,9 @@
     }
   },
   {
-    "CODPAR": "68",
+    "CODPAR": "0405",
     "CODCAN": "480",
-    "PARROQUIA": "SAN JOSE DE RARANGA",
+    "PARROQUIA": "CHIBUNGA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9578,9 +9578,9 @@
     }
   },
   {
-    "CODPAR": "414",
+    "CODPAR": "0495",
     "CODCAN": "480",
-    "PARROQUIA": "CHILLANES",
+    "PARROQUIA": "CANUTO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9591,9 +9591,9 @@
     }
   },
   {
-    "CODPAR": "198",
+    "CODPAR": "0640",
     "CODCAN": "480",
-    "PARROQUIA": "NAZON",
+    "PARROQUIA": "CONVENTO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9604,9 +9604,9 @@
     }
   },
   {
-    "CODPAR": "141",
+    "CODPAR": "1160",
     "CODCAN": "480",
-    "PARROQUIA": "PACCHA",
+    "PARROQUIA": "ELOY ALFARO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9617,9 +9617,9 @@
     }
   },
   {
-    "CODPAR": "171",
+    "CODPAR": "3170",
     "CODCAN": "480",
-    "PARROQUIA": "BOLIVAR",
+    "PARROQUIA": "RICAURTE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9630,9 +9630,9 @@
     }
   },
   {
-    "CODPAR": "255",
+    "CODPAR": "3350",
     "CODCAN": "480",
-    "PARROQUIA": "SAN CARLOS",
+    "PARROQUIA": "SAN ANTONIO / DEL PELUDO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9643,7 +9643,7 @@
     }
   },
   {
-    "CODPAR": "2515",
+    "CODPAR": "5250",
     "CODCAN": "480",
     "PARROQUIA": "CHONE",
     "ganador": "PSC6",
@@ -9656,7 +9656,7 @@
     }
   },
   {
-    "CODPAR": "461",
+    "CODPAR": "6055",
     "CODCAN": "480",
     "PARROQUIA": "SANTA RITA",
     "ganador": "PSC6",
@@ -9669,9 +9669,9 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "0240",
     "CODCAN": "485",
-    "PARROQUIA": "JERUSALEN",
+    "PARROQUIA": "MEMBRILLO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9682,9 +9682,9 @@
     }
   },
   {
-    "CODPAR": "86",
+    "CODPAR": "3110",
     "CODCAN": "485",
-    "PARROQUIA": "CHANGAIMINA /LA LIBERTAD",
+    "PARROQUIA": "QUIROGA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9695,7 +9695,7 @@
     }
   },
   {
-    "CODPAR": "868",
+    "CODPAR": "5150",
     "CODCAN": "485",
     "PARROQUIA": "CALCETA",
     "ganador": "PRE10",
@@ -9708,7 +9708,7 @@
     }
   },
   {
-    "CODPAR": "614",
+    "CODPAR": "5505",
     "CODCAN": "490",
     "PARROQUIA": "JUNIN",
     "ganador": "PSC6",
@@ -9721,9 +9721,9 @@
     }
   },
   {
-    "CODPAR": "221",
+    "CODPAR": "0460",
     "CODCAN": "495",
-    "PARROQUIA": "ZARUMA",
+    "PARROQUIA": "CAMPOZANO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9734,9 +9734,9 @@
     }
   },
   {
-    "CODPAR": "321",
+    "CODPAR": "0540",
     "CODCAN": "495",
-    "PARROQUIA": "MORASPUNGO",
+    "PARROQUIA": "CASCOL",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9747,7 +9747,7 @@
     }
   },
   {
-    "CODPAR": "161",
+    "CODPAR": "1395",
     "CODCAN": "495",
     "PARROQUIA": "GUALE/STO.DOMINGO",
     "ganador": "PRE10",
@@ -9760,9 +9760,9 @@
     }
   },
   {
-    "CODPAR": "118",
+    "CODPAR": "2090",
     "CODCAN": "495",
-    "PARROQUIA": "SAN FERNANDO",
+    "PARROQUIA": "LASCANO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9773,7 +9773,7 @@
     }
   },
   {
-    "CODPAR": "778",
+    "CODPAR": "5755",
     "CODCAN": "495",
     "PARROQUIA": "PAJAN",
     "ganador": "PRE10",
@@ -9786,9 +9786,9 @@
     }
   },
   {
-    "CODPAR": "19",
+    "CODPAR": "1070",
     "CODCAN": "500",
-    "PARROQUIA": "SAN VICENTE",
+    "PARROQUIA": "WILFRIDO LOOR MOREIRA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9799,7 +9799,7 @@
     }
   },
   {
-    "CODPAR": "2552",
+    "CODPAR": "5300",
     "CODCAN": "500",
     "PARROQUIA": "EL CARMEN",
     "ganador": "PRE10",
@@ -9812,9 +9812,9 @@
     }
   },
   {
-    "CODPAR": "56",
+    "CODPAR": "6195",
     "CODCAN": "500",
-    "PARROQUIA": "LA UNION",
+    "PARROQUIA": "4 DE DICIEMBRE",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9825,9 +9825,9 @@
     }
   },
   {
-    "CODPAR": "55",
+    "CODPAR": "0265",
     "CODCAN": "550",
-    "PARROQUIA": "SOZORANGA",
+    "PARROQUIA": "BACHILLERO",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9838,9 +9838,9 @@
     }
   },
   {
-    "CODPAR": "94",
+    "CODPAR": "2030",
     "CODCAN": "550",
-    "PARROQUIA": "PALMAS",
+    "PARROQUIA": "ANGEL PEDRO GILER",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9851,7 +9851,7 @@
     }
   },
   {
-    "CODPAR": "956",
+    "CODPAR": "6170",
     "CODCAN": "550",
     "PARROQUIA": "TOSAGUA",
     "ganador": "PSC6",
@@ -9864,9 +9864,9 @@
     }
   },
   {
-    "CODPAR": "119",
+    "CODPAR": "1060",
     "CODCAN": "840",
-    "PARROQUIA": "MARCABELI",
+    "PARROQUIA": "SAN SEBASTIAN",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9877,9 +9877,9 @@
     }
   },
   {
-    "CODPAR": "17",
+    "CODPAR": "1065",
     "CODCAN": "840",
-    "PARROQUIA": "VALPARAISO",
+    "PARROQUIA": "BARRAGANETE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9890,7 +9890,7 @@
     }
   },
   {
-    "CODPAR": "989",
+    "CODPAR": "6550",
     "CODCAN": "840",
     "PARROQUIA": "PICHINCHA /GERMUD",
     "ganador": "PRE10",
@@ -9903,7 +9903,7 @@
     }
   },
   {
-    "CODPAR": "179",
+    "CODPAR": "0580",
     "CODCAN": "910",
     "PARROQUIA": "COJIMIES",
     "ganador": "PSC6",
@@ -9916,9 +9916,9 @@
     }
   },
   {
-    "CODPAR": "110",
+    "CODPAR": "1030",
     "CODCAN": "910",
-    "PARROQUIA": "SAN BARTOLOME",
+    "PARROQUIA": "10 DE AGOSTO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9929,7 +9929,7 @@
     }
   },
   {
-    "CODPAR": "608",
+    "CODPAR": "6430",
     "CODCAN": "910",
     "PARROQUIA": "PEDERNALES",
     "ganador": "PSC6",
@@ -9942,9 +9942,9 @@
     }
   },
   {
-    "CODPAR": "389",
+    "CODPAR": "6495",
     "CODCAN": "970",
-    "PARROQUIA": "EL TAMBO",
+    "PARROQUIA": "OLMEDO /PUCA",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9955,9 +9955,9 @@
     }
   },
   {
-    "CODPAR": "92",
+    "CODPAR": "2305",
     "CODCAN": "975",
-    "PARROQUIA": "GRAL.MORALES / SOCARTE",
+    "PARROQUIA": "MACHALILLA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -9968,9 +9968,9 @@
     }
   },
   {
-    "CODPAR": "364",
+    "CODPAR": "6575",
     "CODCAN": "975",
-    "PARROQUIA": "SAN PLACIDO",
+    "PARROQUIA": "PUERTO LOPEZ",
     "ganador": "PRE10",
     "resultados": {
       "PRE10": {
@@ -9981,7 +9981,7 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "0065",
     "CODCAN": "590",
     "PARROQUIA": "ALSHI /9 DE OCTUBRE",
     "ganador": "PLRE - FRA",
@@ -9994,7 +9994,7 @@
     }
   },
   {
-    "CODPAR": "5",
+    "CODPAR": "0595",
     "CODCAN": "590",
     "PARROQUIA": "HUASAGA /WAMPUIK",
     "ganador": "MUPP-NP-18",
@@ -10007,7 +10007,7 @@
     }
   },
   {
-    "CODPAR": "13",
+    "CODPAR": "1205",
     "CODCAN": "590",
     "PARROQUIA": "TUTINENTZA",
     "ganador": "MUPP-NP-18",
@@ -10020,7 +10020,7 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "1250",
     "CODCAN": "590",
     "PARROQUIA": "CUCHAENTZA",
     "ganador": "MUPP-NP-18",
@@ -10033,7 +10033,7 @@
     }
   },
   {
-    "CODPAR": "32",
+    "CODPAR": "1295",
     "CODCAN": "590",
     "PARROQUIA": "SAN JOSE DE MORONA",
     "ganador": "MUPP-NP-18",
@@ -10046,7 +10046,7 @@
     }
   },
   {
-    "CODPAR": "30",
+    "CODPAR": "1345",
     "CODCAN": "590",
     "PARROQUIA": "GRAL. PROAÑO",
     "ganador": "PSC6",
@@ -10059,7 +10059,7 @@
     }
   },
   {
-    "CODPAR": "78",
+    "CODPAR": "2285",
     "CODCAN": "590",
     "PARROQUIA": "MACUMA",
     "ganador": "MUPP-NP-18",
@@ -10072,7 +10072,7 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "3440",
     "CODCAN": "590",
     "PARROQUIA": "SAN ISIDRO",
     "ganador": "PRE10",
@@ -10085,7 +10085,7 @@
     }
   },
   {
-    "CODPAR": "214",
+    "CODPAR": "3830",
     "CODCAN": "590",
     "PARROQUIA": "SEVILLA DON BOSCO",
     "ganador": "MUPP-NP-18",
@@ -10098,7 +10098,7 @@
     }
   },
   {
-    "CODPAR": "69",
+    "CODPAR": "3950",
     "CODCAN": "590",
     "PARROQUIA": "RIO BLANCO",
     "ganador": "MUPP-NP-18",
@@ -10111,7 +10111,7 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "4360",
     "CODCAN": "590",
     "PARROQUIA": "ZUNAC",
     "ganador": "PLRE - FRA",
@@ -10124,7 +10124,7 @@
     }
   },
   {
-    "CODPAR": "39",
+    "CODPAR": "4485",
     "CODCAN": "590",
     "PARROQUIA": "SINAI",
     "ganador": "PSC6",
@@ -10137,7 +10137,7 @@
     }
   },
   {
-    "CODPAR": "338",
+    "CODPAR": "5615",
     "CODCAN": "590",
     "PARROQUIA": "MACAS",
     "ganador": "PSC6",
@@ -10150,9 +10150,9 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "0090",
     "CODCAN": "595",
-    "PARROQUIA": "ZUNAC",
+    "PARROQUIA": "AMAZONAS",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -10163,7 +10163,7 @@
     }
   },
   {
-    "CODPAR": "11",
+    "CODPAR": "0340",
     "CODCAN": "595",
     "PARROQUIA": "BERMEJOS",
     "ganador": "MUPP-NP-18",
@@ -10176,7 +10176,7 @@
     }
   },
   {
-    "CODPAR": "37",
+    "CODPAR": "0350",
     "CODCAN": "595",
     "PARROQUIA": "BOMBOIZA",
     "ganador": "MUPP-NP-18",
@@ -10189,7 +10189,7 @@
     }
   },
   {
-    "CODPAR": "8",
+    "CODPAR": "0880",
     "CODCAN": "595",
     "PARROQUIA": "CHIGUINDA",
     "ganador": "ID12",
@@ -10202,16 +10202,16 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1910",
     "CODCAN": "595",
     "PARROQUIA": "EL IDEAL",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "39",
+    "CODPAR": "2565",
     "CODCAN": "595",
-    "PARROQUIA": "SINAI",
+    "PARROQUIA": "NUEVA TARQUI",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -10222,9 +10222,9 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "3225",
     "CODCAN": "595",
-    "PARROQUIA": "ALSHI /9 DE OCTUBRE",
+    "PARROQUIA": "ROSARIO",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -10235,9 +10235,9 @@
     }
   },
   {
-    "CODPAR": "5",
+    "CODPAR": "3580",
     "CODCAN": "595",
-    "PARROQUIA": "HUASAGA /WAMPUIK",
+    "PARROQUIA": "SAN MIGUEL DE CUYES",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -10248,7 +10248,7 @@
     }
   },
   {
-    "CODPAR": "168",
+    "CODPAR": "5425",
     "CODCAN": "595",
     "PARROQUIA": "GUALAQUIZA",
     "ganador": "ID12",
@@ -10261,9 +10261,9 @@
     }
   },
   {
-    "CODPAR": "13",
+    "CODPAR": "5655",
     "CODCAN": "595",
-    "PARROQUIA": "TUTINENTZA",
+    "PARROQUIA": "MERCEDES MOLINA",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -10274,7 +10274,7 @@
     }
   },
   {
-    "CODPAR": "68",
+    "CODPAR": "1720",
     "CODCAN": "600",
     "PARROQUIA": "INDANZA",
     "ganador": "DP5",
@@ -10287,9 +10287,9 @@
     }
   },
   {
-    "CODPAR": "11",
+    "CODPAR": "3250",
     "CODCAN": "600",
-    "PARROQUIA": "BERMEJOS",
+    "PARROQUIA": "SAN MIGUEL DE CONCHAY",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -10300,9 +10300,9 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "3320",
     "CODCAN": "600",
-    "PARROQUIA": "ZUNAC",
+    "PARROQUIA": "SAN ANTONIO",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -10313,7 +10313,7 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "3760",
     "CODCAN": "600",
     "PARROQUIA": "SANTA SUSANA DE CHIVIAZA",
     "ganador": "MUPP-NP-18",
@@ -10326,9 +10326,9 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "4305",
     "CODCAN": "600",
-    "PARROQUIA": "ALSHI /9 DE OCTUBRE",
+    "PARROQUIA": "YUNGANZA /EL ROSARIO",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -10339,7 +10339,7 @@
     }
   },
   {
-    "CODPAR": "149",
+    "CODPAR": "5390",
     "CODCAN": "600",
     "PARROQUIA": "GRAL. LEONIDAS PLAZA",
     "ganador": "MUPP-NP-18",
@@ -10352,7 +10352,7 @@
     }
   },
   {
-    "CODPAR": "12",
+    "CODPAR": "0645",
     "CODCAN": "605",
     "PARROQUIA": "COPAL",
     "ganador": "ID12",
@@ -10365,9 +10365,9 @@
     }
   },
   {
-    "CODPAR": "5",
+    "CODPAR": "0970",
     "CODCAN": "605",
-    "PARROQUIA": "HUASAGA /WAMPUIK",
+    "PARROQUIA": "CHUPIANZA",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -10378,7 +10378,7 @@
     }
   },
   {
-    "CODPAR": "6",
+    "CODPAR": "1365",
     "CODCAN": "605",
     "PARROQUIA": "SAN FCO. DE CHINIMBIMI",
     "ganador": "ID12",
@@ -10391,7 +10391,7 @@
     }
   },
   {
-    "CODPAR": "25",
+    "CODPAR": "2795",
     "CODCAN": "605",
     "PARROQUIA": "PATUCA",
     "ganador": "MUPP-NP-18",
@@ -10404,9 +10404,9 @@
     }
   },
   {
-    "CODPAR": "8",
+    "CODPAR": "3565",
     "CODCAN": "605",
-    "PARROQUIA": "CHIGUINDA",
+    "PARROQUIA": "SAN LUIS DEL ACHO",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -10417,9 +10417,9 @@
     }
   },
   {
-    "CODPAR": "30",
+    "CODPAR": "3780",
     "CODCAN": "605",
-    "PARROQUIA": "GRAL. PROAÑO",
+    "PARROQUIA": "SANTIAGO",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -10430,9 +10430,9 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "4115",
     "CODCAN": "605",
-    "PARROQUIA": "SAN ISIDRO",
+    "PARROQUIA": "TAYUZA",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -10443,7 +10443,7 @@
     }
   },
   {
-    "CODPAR": "104",
+    "CODPAR": "5645",
     "CODCAN": "605",
     "PARROQUIA": "MENDEZ",
     "ganador": "ID12",
@@ -10456,7 +10456,7 @@
     }
   },
   {
-    "CODPAR": "17",
+    "CODPAR": "0180",
     "CODCAN": "610",
     "PARROQUIA": "ASUNCION",
     "ganador": "MUPP-NP-18",
@@ -10469,9 +10469,9 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "1140",
     "CODCAN": "610",
-    "PARROQUIA": "ZUNAC",
+    "PARROQUIA": "SANTA MARIANITA DE JESUS",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -10482,9 +10482,9 @@
     }
   },
   {
-    "CODPAR": "104",
+    "CODPAR": "1635",
     "CODCAN": "610",
-    "PARROQUIA": "MENDEZ",
+    "PARROQUIA": "HUAMBI",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -10495,7 +10495,7 @@
     }
   },
   {
-    "CODPAR": "80",
+    "CODPAR": "2190",
     "CODCAN": "610",
     "PARROQUIA": "LOGROÑO",
     "ganador": "ID12",
@@ -10508,7 +10508,7 @@
     }
   },
   {
-    "CODPAR": "40",
+    "CODPAR": "4300",
     "CODCAN": "610",
     "PARROQUIA": "YAUPI",
     "ganador": "MUPP-NP-18",
@@ -10521,7 +10521,7 @@
     }
   },
   {
-    "CODPAR": "297",
+    "CODPAR": "6110",
     "CODCAN": "610",
     "PARROQUIA": "SUCUA",
     "ganador": "PRE10",
@@ -10534,9 +10534,9 @@
     }
   },
   {
-    "CODPAR": "25",
+    "CODPAR": "0155",
     "CODCAN": "615",
-    "PARROQUIA": "PATUCA",
+    "PARROQUIA": "ARAPICOS",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -10547,7 +10547,7 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "0715",
     "CODCAN": "615",
     "PARROQUIA": "CUMANDA",
     "ganador": "PSC6",
@@ -10560,9 +10560,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "1685",
     "CODCAN": "615",
-    "PARROQUIA": "CUMANDA",
+    "PARROQUIA": "16 DE AGOSTO",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -10573,7 +10573,7 @@
     }
   },
   {
-    "CODPAR": "21",
+    "CODPAR": "3420",
     "CODCAN": "615",
     "PARROQUIA": "SANGAY",
     "ganador": "ID12",
@@ -10586,7 +10586,7 @@
     }
   },
   {
-    "CODPAR": "196",
+    "CODPAR": "5760",
     "CODCAN": "615",
     "PARROQUIA": "PALORA",
     "ganador": "ID12",
@@ -10599,7 +10599,7 @@
     }
   },
   {
-    "CODPAR": "86",
+    "CODPAR": "0875",
     "CODCAN": "795",
     "PARROQUIA": "CHIGUAZA",
     "ganador": "MUPP-NP-18",
@@ -10612,9 +10612,9 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "1300",
     "CODCAN": "795",
-    "PARROQUIA": "CUCHAENTZA",
+    "PARROQUIA": "ZURMI",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -10625,9 +10625,9 @@
     }
   },
   {
-    "CODPAR": "39",
+    "CODPAR": "6390",
     "CODCAN": "795",
-    "PARROQUIA": "SINAI",
+    "PARROQUIA": "HUAMBOYA",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -10638,23 +10638,23 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "0710",
     "CODCAN": "925",
-    "PARROQUIA": "EL IDEAL",
+    "PARROQUIA": "SAN JACINTO DE WAKAMBEIS",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1785",
     "CODCAN": "925",
-    "PARROQUIA": "EL IDEAL",
+    "PARROQUIA": "SANTIAGO DE PANANZA",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "13",
+    "CODPAR": "2750",
     "CODCAN": "925",
-    "PARROQUIA": "TUTINENTZA",
+    "PARROQUIA": "PAN DE AZUCAR",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -10665,7 +10665,7 @@
     }
   },
   {
-    "CODPAR": "16",
+    "CODPAR": "3920",
     "CODCAN": "925",
     "PARROQUIA": "SAN CARLOS DE LIMON",
     "ganador": "DP5",
@@ -10678,7 +10678,7 @@
     }
   },
   {
-    "CODPAR": "55",
+    "CODPAR": "6445",
     "CODCAN": "925",
     "PARROQUIA": "SAN JUAN BOSCO",
     "ganador": "DP5",
@@ -10691,7 +10691,7 @@
     }
   },
   {
-    "CODPAR": "11",
+    "CODPAR": "1020",
     "CODCAN": "255",
     "PARROQUIA": "GONZALO DIAZ DE PINEDA",
     "ganador": "DP5",
@@ -10704,7 +10704,7 @@
     }
   },
   {
-    "CODPAR": "4",
+    "CODPAR": "2180",
     "CODCAN": "255",
     "PARROQUIA": "LINARES",
     "ganador": "PLRE - FRA",
@@ -10717,7 +10717,7 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "2640",
     "CODCAN": "255",
     "PARROQUIA": "OYACACHI",
     "ganador": "PLRE - FRA",
@@ -10730,7 +10730,7 @@
     }
   },
   {
-    "CODPAR": "25",
+    "CODPAR": "3745",
     "CODCAN": "255",
     "PARROQUIA": "SANTA ROSA DE QUIJOS",
     "ganador": "MUPP-NP-18",
@@ -10743,7 +10743,7 @@
     }
   },
   {
-    "CODPAR": "13",
+    "CODPAR": "3790",
     "CODCAN": "255",
     "PARROQUIA": "SARDINAS",
     "ganador": "ID12",
@@ -10756,7 +10756,7 @@
     }
   },
   {
-    "CODPAR": "100",
+    "CODPAR": "5510",
     "CODCAN": "255",
     "PARROQUIA": "EL CHACO",
     "ganador": "MUPP-NP-18",
@@ -10769,7 +10769,7 @@
     }
   },
   {
-    "CODPAR": "216",
+    "CODPAR": "0025",
     "CODCAN": "620",
     "PARROQUIA": "AHUANO",
     "ganador": "DP5",
@@ -10782,7 +10782,7 @@
     }
   },
   {
-    "CODPAR": "113",
+    "CODPAR": "0525",
     "CODCAN": "620",
     "PARROQUIA": "SHIMPIS",
     "ganador": "DP5",
@@ -10795,7 +10795,7 @@
     }
   },
   {
-    "CODPAR": "85",
+    "CODPAR": "0940",
     "CODCAN": "620",
     "PARROQUIA": "CHONTAPUNTA",
     "ganador": "MUPP-NP-18",
@@ -10808,7 +10808,7 @@
     }
   },
   {
-    "CODPAR": "72",
+    "CODPAR": "2755",
     "CODCAN": "620",
     "PARROQUIA": "PANO",
     "ganador": "MUPP-NP-18",
@@ -10821,7 +10821,7 @@
     }
   },
   {
-    "CODPAR": "139",
+    "CODPAR": "3000",
     "CODCAN": "620",
     "PARROQUIA": "PUERTO MISAHUALLI",
     "ganador": "DP5",
@@ -10834,7 +10834,7 @@
     }
   },
   {
-    "CODPAR": "170",
+    "CODPAR": "3050",
     "CODCAN": "620",
     "PARROQUIA": "PUERTO NAPO",
     "ganador": "MUPP-NP-18",
@@ -10847,7 +10847,7 @@
     }
   },
   {
-    "CODPAR": "549",
+    "CODPAR": "6160",
     "CODCAN": "620",
     "PARROQUIA": "TENA",
     "ganador": "MUPP-NP-18",
@@ -10860,7 +10860,7 @@
     }
   },
   {
-    "CODPAR": "7",
+    "CODPAR": "0510",
     "CODCAN": "630",
     "PARROQUIA": "CAP. AUGUSTO RIVADENEIRA",
     "ganador": "DP5",
@@ -10873,7 +10873,7 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "0630",
     "CODCAN": "630",
     "PARROQUIA": "CONONACO",
     "ganador": "PSC6",
@@ -10886,9 +10886,9 @@
     }
   },
   {
-    "CODPAR": "7",
+    "CODPAR": "3720",
     "CODCAN": "630",
-    "PARROQUIA": "CAP. AUGUSTO RIVADENEIRA",
+    "PARROQUIA": "STA. MARIA DE HUIRIRIMA",
     "ganador": "CFP4",
     "resultados": {
       "CFP4": {
@@ -10899,7 +10899,7 @@
     }
   },
   {
-    "CODPAR": "8",
+    "CODPAR": "4020",
     "CODCAN": "630",
     "PARROQUIA": "TIPUTINI",
     "ganador": "ID12",
@@ -10912,9 +10912,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "4295",
     "CODCAN": "630",
-    "PARROQUIA": "CONONACO",
+    "PARROQUIA": "YASUNI",
     "ganador": "JUNTAS ",
     "resultados": {
       "JUNTAS ": {
@@ -10925,9 +10925,9 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "5700",
     "CODCAN": "630",
-    "PARROQUIA": "OYACACHI",
+    "PARROQUIA": "NUEVO ROCAFUERTE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -10938,7 +10938,7 @@
     }
   },
   {
-    "CODPAR": "17",
+    "CODPAR": "0670",
     "CODCAN": "635",
     "PARROQUIA": "COSANGA",
     "ganador": "PSC6",
@@ -10951,9 +10951,9 @@
     }
   },
   {
-    "CODPAR": "11",
+    "CODPAR": "0765",
     "CODCAN": "635",
-    "PARROQUIA": "GONZALO DIAZ DE PINEDA",
+    "PARROQUIA": "CUYUJA",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -10964,7 +10964,7 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "2770",
     "CODCAN": "635",
     "PARROQUIA": "PAPALLACTA",
     "ganador": "MUPP-NP-18",
@@ -10977,7 +10977,7 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "3395",
     "CODCAN": "635",
     "PARROQUIA": "SAN FRANCISCO DE BORJA",
     "ganador": "PSC6",
@@ -10990,7 +10990,7 @@
     }
   },
   {
-    "CODPAR": "2",
+    "CODPAR": "3890",
     "CODCAN": "635",
     "PARROQUIA": "SUMACO",
     "ganador": "PLRE - FRA",
@@ -11003,7 +11003,7 @@
     }
   },
   {
-    "CODPAR": "32",
+    "CODPAR": "5090",
     "CODCAN": "635",
     "PARROQUIA": "BAEZA",
     "ganador": "PSC6",
@@ -11016,7 +11016,7 @@
     }
   },
   {
-    "CODPAR": "75",
+    "CODPAR": "1235",
     "CODCAN": "645",
     "PARROQUIA": "DAYUMA",
     "ganador": "DP5",
@@ -11029,7 +11029,7 @@
     }
   },
   {
-    "CODPAR": "20",
+    "CODPAR": "1245",
     "CODCAN": "645",
     "PARROQUIA": "TARACOA",
     "ganador": "CFP4",
@@ -11042,7 +11042,7 @@
     }
   },
   {
-    "CODPAR": "807",
+    "CODPAR": "5815",
     "CODCAN": "645",
     "PARROQUIA": "PTO. FCO. DE ORELLANA",
     "ganador": "MUPP-NP-18",
@@ -11055,7 +11055,7 @@
     }
   },
   {
-    "CODPAR": "159",
+    "CODPAR": "0685",
     "CODCAN": "700",
     "PARROQUIA": "COTUNDO",
     "ganador": "DP5",
@@ -11068,7 +11068,7 @@
     }
   },
   {
-    "CODPAR": "22",
+    "CODPAR": "3605",
     "CODCAN": "700",
     "PARROQUIA": "SAN PABLO DE USHPAYACU",
     "ganador": "MUPP-NP-18",
@@ -11081,7 +11081,7 @@
     }
   },
   {
-    "CODPAR": "438",
+    "CODPAR": "5070",
     "CODCAN": "700",
     "PARROQUIA": "ARCHIDONA",
     "ganador": "MUPP-NP-18",
@@ -11094,9 +11094,9 @@
     }
   },
   {
-    "CODPAR": "20",
+    "CODPAR": "0415",
     "CODCAN": "725",
-    "PARROQUIA": "TARACOA",
+    "PARROQUIA": "SAN CARLOS",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -11107,9 +11107,9 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "0490",
     "CODCAN": "725",
-    "PARROQUIA": "PAPALLACTA",
+    "PARROQUIA": "ENOKANQUI",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -11120,7 +11120,7 @@
     }
   },
   {
-    "CODPAR": "49",
+    "CODPAR": "2930",
     "CODCAN": "725",
     "PARROQUIA": "POMPEYA",
     "ganador": "MUPP-NP-18",
@@ -11133,9 +11133,9 @@
     }
   },
   {
-    "CODPAR": "49",
+    "CODPAR": "3660",
     "CODCAN": "725",
-    "PARROQUIA": "POMPEYA",
+    "PARROQUIA": "SAN SEBASTIAN DE COCA",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -11146,7 +11146,7 @@
     }
   },
   {
-    "CODPAR": "389",
+    "CODPAR": "6200",
     "CODCAN": "725",
     "PARROQUIA": "LA JOYA DE LOS SACHAS",
     "ganador": "DP5",
@@ -11159,7 +11159,7 @@
     }
   },
   {
-    "CODPAR": "48",
+    "CODPAR": "0215",
     "CODCAN": "935",
     "PARROQUIA": "AVILA",
     "ganador": "MUPP-NP-18",
@@ -11172,9 +11172,9 @@
     }
   },
   {
-    "CODPAR": "20",
+    "CODPAR": "0400",
     "CODCAN": "935",
-    "PARROQUIA": "TARACOA",
+    "PARROQUIA": "SAN VICENTE DE HUATICOCHA",
     "ganador": "CFP4",
     "resultados": {
       "CFP4": {
@@ -11185,7 +11185,7 @@
     }
   },
   {
-    "CODPAR": "76",
+    "CODPAR": "1050",
     "CODCAN": "935",
     "PARROQUIA": "PUERTO MURIALDO",
     "ganador": "CFP4",
@@ -11198,7 +11198,7 @@
     }
   },
   {
-    "CODPAR": "10",
+    "CODPAR": "1680",
     "CODCAN": "935",
     "PARROQUIA": "SAN JOSE DE DAHUANO",
     "ganador": "MUPP-NP-18",
@@ -11211,7 +11211,7 @@
     }
   },
   {
-    "CODPAR": "12",
+    "CODPAR": "3480",
     "CODCAN": "935",
     "PARROQUIA": "SAN JOSE DE PAYAMINO",
     "ganador": "ID12",
@@ -11224,7 +11224,7 @@
     }
   },
   {
-    "CODPAR": "153",
+    "CODPAR": "6455",
     "CODCAN": "935",
     "PARROQUIA": "LORETO",
     "ganador": "MUPP-NP-18",
@@ -11237,7 +11237,7 @@
     }
   },
   {
-    "CODPAR": "48",
+    "CODPAR": "0150",
     "CODCAN": "680",
     "PARROQUIA": "PATRICIA PILAR",
     "ganador": "MUPP-NP-18",
@@ -11250,7 +11250,7 @@
     }
   },
   {
-    "CODPAR": "27",
+    "CODPAR": "0475",
     "CODCAN": "680",
     "PARROQUIA": "CANELOS",
     "ganador": "MUPP-NP-18",
@@ -11263,7 +11263,7 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "0735",
     "CODCAN": "680",
     "PARROQUIA": "CURARAY",
     "ganador": "MUPP-NP-18",
@@ -11276,7 +11276,7 @@
     }
   },
   {
-    "CODPAR": "46",
+    "CODPAR": "1025",
     "CODCAN": "680",
     "PARROQUIA": "10 DE AGOSTO",
     "ganador": "MUPP-NP-18",
@@ -11289,7 +11289,7 @@
     }
   },
   {
-    "CODPAR": "39",
+    "CODPAR": "1260",
     "CODCAN": "680",
     "PARROQUIA": "FATIMA",
     "ganador": "PSC6",
@@ -11302,7 +11302,7 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "1275",
     "CODCAN": "680",
     "PARROQUIA": "EL TRIUNFO",
     "ganador": "MPD15",
@@ -11315,7 +11315,7 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "2450",
     "CODCAN": "680",
     "PARROQUIA": "MONTALVO/ANDOAS",
     "ganador": "MUPP-NP-18",
@@ -11328,7 +11328,7 @@
     }
   },
   {
-    "CODPAR": "2",
+    "CODPAR": "3055",
     "CODCAN": "680",
     "PARROQUIA": "POMONA",
     "ganador": "MPD15",
@@ -11341,7 +11341,7 @@
     }
   },
   {
-    "CODPAR": "7",
+    "CODPAR": "3180",
     "CODCAN": "680",
     "PARROQUIA": "RIO CORRIENTES",
     "ganador": "MUPP-NP-18",
@@ -11354,7 +11354,7 @@
     }
   },
   {
-    "CODPAR": "10",
+    "CODPAR": "3195",
     "CODCAN": "680",
     "PARROQUIA": "RIO TIGRE",
     "ganador": "DP5",
@@ -11367,7 +11367,7 @@
     }
   },
   {
-    "CODPAR": "19",
+    "CODPAR": "3785",
     "CODCAN": "680",
     "PARROQUIA": "ZARAYACU",
     "ganador": "MUPP-NP-18",
@@ -11380,7 +11380,7 @@
     }
   },
   {
-    "CODPAR": "33",
+    "CODPAR": "3985",
     "CODCAN": "680",
     "PARROQUIA": "TARQUI",
     "ganador": "MUPP-NP-18",
@@ -11393,7 +11393,7 @@
     }
   },
   {
-    "CODPAR": "31",
+    "CODPAR": "4005",
     "CODCAN": "680",
     "PARROQUIA": "TNTE. HUGO ORTIZ",
     "ganador": "MUPP-NP-18",
@@ -11406,7 +11406,7 @@
     }
   },
   {
-    "CODPAR": "64",
+    "CODPAR": "4205",
     "CODCAN": "680",
     "PARROQUIA": "VERACRUZ",
     "ganador": "PRE10",
@@ -11419,7 +11419,7 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "4510",
     "CODCAN": "680",
     "PARROQUIA": "SIMON BOLIVAR",
     "ganador": "MUPP-NP-18",
@@ -11432,7 +11432,7 @@
     }
   },
   {
-    "CODPAR": "644",
+    "CODPAR": "5825",
     "CODCAN": "680",
     "PARROQUIA": "PUYO",
     "ganador": "MPD15",
@@ -11445,9 +11445,9 @@
     }
   },
   {
-    "CODPAR": "46",
+    "CODPAR": "2310",
     "CODCAN": "685",
-    "PARROQUIA": "10 DE AGOSTO",
+    "PARROQUIA": "MADRE TIERRA",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -11458,7 +11458,7 @@
     }
   },
   {
-    "CODPAR": "57",
+    "CODPAR": "3840",
     "CODCAN": "685",
     "PARROQUIA": "SHELL",
     "ganador": "MPD15",
@@ -11471,7 +11471,7 @@
     }
   },
   {
-    "CODPAR": "18",
+    "CODPAR": "5650",
     "CODCAN": "685",
     "PARROQUIA": "MERA",
     "ganador": "ID12",
@@ -11484,7 +11484,7 @@
     }
   },
   {
-    "CODPAR": "61",
+    "CODPAR": "6395",
     "CODCAN": "880",
     "PARROQUIA": "SANTA CLARA",
     "ganador": "MUPP-NP-18",
@@ -11497,7 +11497,7 @@
     }
   },
   {
-    "CODPAR": "430",
+    "CODPAR": "0030",
     "CODCAN": "60",
     "PARROQUIA": "ALANGASI",
     "ganador": "MUPP-NP-18",
@@ -11510,7 +11510,7 @@
     }
   },
   {
-    "CODPAR": "841",
+    "CODPAR": "0080",
     "CODCAN": "60",
     "PARROQUIA": "AMAGUAÑA",
     "ganador": "MUPP-NP-18",
@@ -11523,7 +11523,7 @@
     }
   },
   {
-    "CODPAR": "161",
+    "CODPAR": "0195",
     "CODCAN": "60",
     "PARROQUIA": "ATAHUALPA /HABASPAMBA",
     "ganador": "PLRE - FRA",
@@ -11536,7 +11536,7 @@
     }
   },
   {
-    "CODPAR": "188",
+    "CODPAR": "0430",
     "CODCAN": "60",
     "PARROQUIA": "CALACALI",
     "ganador": "PLRE - FRA",
@@ -11549,7 +11549,7 @@
     }
   },
   {
-    "CODPAR": "1445",
+    "CODPAR": "0440",
     "CODCAN": "60",
     "PARROQUIA": "CALDERON",
     "ganador": "DP5",
@@ -11562,7 +11562,7 @@
     }
   },
   {
-    "CODPAR": "1079",
+    "CODPAR": "0625",
     "CODCAN": "60",
     "PARROQUIA": "CONOCOTO",
     "ganador": "DP5",
@@ -11575,7 +11575,7 @@
     }
   },
   {
-    "CODPAR": "381",
+    "CODPAR": "0725",
     "CODCAN": "60",
     "PARROQUIA": "CUMBAYA",
     "ganador": "DP5",
@@ -11588,7 +11588,7 @@
     }
   },
   {
-    "CODPAR": "58",
+    "CODPAR": "0855",
     "CODCAN": "60",
     "PARROQUIA": "CHAVEZPAMBA",
     "ganador": "DP5",
@@ -11601,7 +11601,7 @@
     }
   },
   {
-    "CODPAR": "194",
+    "CODPAR": "0865",
     "CODCAN": "60",
     "PARROQUIA": "CHECA",
     "ganador": "DP5",
@@ -11614,7 +11614,7 @@
     }
   },
   {
-    "CODPAR": "75",
+    "CODPAR": "1400",
     "CODCAN": "60",
     "PARROQUIA": "GUALEA",
     "ganador": "MUPP-NP-18",
@@ -11627,7 +11627,7 @@
     }
   },
   {
-    "CODPAR": "118",
+    "CODPAR": "1440",
     "CODCAN": "60",
     "PARROQUIA": "GUANGOPOLO",
     "ganador": "MUPP-NP-18",
@@ -11640,7 +11640,7 @@
     }
   },
   {
-    "CODPAR": "351",
+    "CODPAR": "1475",
     "CODCAN": "60",
     "PARROQUIA": "GUAYLLABAMBA",
     "ganador": "PLRE - FRA",
@@ -11653,7 +11653,7 @@
     }
   },
   {
-    "CODPAR": "251",
+    "CODPAR": "2055",
     "CODCAN": "60",
     "PARROQUIA": "LA MERCED",
     "ganador": "MUPP-NP-18",
@@ -11666,7 +11666,7 @@
     }
   },
   {
-    "CODPAR": "143",
+    "CODPAR": "2265",
     "CODCAN": "60",
     "PARROQUIA": "LLANO CHICO",
     "ganador": "MUPP-NP-18",
@@ -11679,7 +11679,7 @@
     }
   },
   {
-    "CODPAR": "102",
+    "CODPAR": "2275",
     "CODCAN": "60",
     "PARROQUIA": "LLOA",
     "ganador": "PSC6",
@@ -11692,7 +11692,7 @@
     }
   },
   {
-    "CODPAR": "122",
+    "CODPAR": "2525",
     "CODCAN": "60",
     "PARROQUIA": "NANEGAL",
     "ganador": "PSC6",
@@ -11705,7 +11705,7 @@
     }
   },
   {
-    "CODPAR": "153",
+    "CODPAR": "2530",
     "CODCAN": "60",
     "PARROQUIA": "NANEGALITO",
     "ganador": "MUPP-NP-18",
@@ -11718,7 +11718,7 @@
     }
   },
   {
-    "CODPAR": "186",
+    "CODPAR": "2540",
     "CODCAN": "60",
     "PARROQUIA": "NAYON",
     "ganador": "PLRE - FRA",
@@ -11731,7 +11731,7 @@
     }
   },
   {
-    "CODPAR": "111",
+    "CODPAR": "2560",
     "CODCAN": "60",
     "PARROQUIA": "NONO",
     "ganador": "DP5",
@@ -11744,7 +11744,7 @@
     }
   },
   {
-    "CODPAR": "219",
+    "CODPAR": "2690",
     "CODCAN": "60",
     "PARROQUIA": "PACTO",
     "ganador": "PSC6",
@@ -11757,7 +11757,7 @@
     }
   },
   {
-    "CODPAR": "57",
+    "CODPAR": "2825",
     "CODCAN": "60",
     "PARROQUIA": "PERUCHO",
     "ganador": "MUPP-NP-18",
@@ -11770,7 +11770,7 @@
     }
   },
   {
-    "CODPAR": "612",
+    "CODPAR": "2855",
     "CODCAN": "60",
     "PARROQUIA": "PIFO",
     "ganador": "MUPP-NP-18",
@@ -11783,7 +11783,7 @@
     }
   },
   {
-    "CODPAR": "632",
+    "CODPAR": "2895",
     "CODCAN": "60",
     "PARROQUIA": "PINTAG",
     "ganador": "MUPP-NP-18",
@@ -11796,7 +11796,7 @@
     }
   },
   {
-    "CODPAR": "509",
+    "CODPAR": "2925",
     "CODCAN": "60",
     "PARROQUIA": "POMASQUI",
     "ganador": "PLRE - FRA",
@@ -11809,7 +11809,7 @@
     }
   },
   {
-    "CODPAR": "327",
+    "CODPAR": "2980",
     "CODCAN": "60",
     "PARROQUIA": "PUELLARO",
     "ganador": "PSC6",
@@ -11822,7 +11822,7 @@
     }
   },
   {
-    "CODPAR": "250",
+    "CODPAR": "2985",
     "CODCAN": "60",
     "PARROQUIA": "PUEMBO",
     "ganador": "MUPP-NP-18",
@@ -11835,7 +11835,7 @@
     }
   },
   {
-    "CODPAR": "459",
+    "CODPAR": "3100",
     "CODCAN": "60",
     "PARROQUIA": "QUINCHE",
     "ganador": "PLRE - FRA",
@@ -11848,7 +11848,7 @@
     }
   },
   {
-    "CODPAR": "717",
+    "CODPAR": "3325",
     "CODCAN": "60",
     "PARROQUIA": "SAN ANTONIO",
     "ganador": "PLRE - FRA",
@@ -11861,7 +11861,7 @@
     }
   },
   {
-    "CODPAR": "429",
+    "CODPAR": "3475",
     "CODCAN": "60",
     "PARROQUIA": "SAN JOSE DE MINAS",
     "ganador": "PSC6",
@@ -11874,7 +11874,7 @@
     }
   },
   {
-    "CODPAR": "72",
+    "CODPAR": "3925",
     "CODCAN": "60",
     "PARROQUIA": "TABABELA",
     "ganador": "PLRE - FRA",
@@ -11887,7 +11887,7 @@
     }
   },
   {
-    "CODPAR": "1234",
+    "CODPAR": "4085",
     "CODCAN": "60",
     "PARROQUIA": "TUMBACO",
     "ganador": "DP5",
@@ -11900,7 +11900,7 @@
     }
   },
   {
-    "CODPAR": "592",
+    "CODPAR": "4290",
     "CODCAN": "60",
     "PARROQUIA": "YARUQUI",
     "ganador": "PLRE - FRA",
@@ -11913,9 +11913,9 @@
     }
   },
   {
-    "CODPAR": "188",
+    "CODPAR": "4325",
     "CODCAN": "60",
-    "PARROQUIA": "CALACALI",
+    "PARROQUIA": "ZAMBIZA",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -11926,7 +11926,7 @@
     }
   },
   {
-    "CODPAR": "5845",
+    "CODPAR": "5015",
     "CODCAN": "60",
     "PARROQUIA": "CHIMBACALLE",
     "ganador": "DP5",
@@ -11939,7 +11939,7 @@
     }
   },
   {
-    "CODPAR": "1789",
+    "CODPAR": "5110",
     "CODCAN": "60",
     "PARROQUIA": "BENALCAZAR",
     "ganador": "DP5",
@@ -11952,7 +11952,7 @@
     }
   },
   {
-    "CODPAR": "5102",
+    "CODPAR": "5220",
     "CODCAN": "60",
     "PARROQUIA": "COTOCOLLAO",
     "ganador": "DP5",
@@ -11965,7 +11965,7 @@
     }
   },
   {
-    "CODPAR": "3574",
+    "CODPAR": "5235",
     "CODCAN": "60",
     "PARROQUIA": "CHAUPICRUZ",
     "ganador": "DP5",
@@ -11978,7 +11978,7 @@
     }
   },
   {
-    "CODPAR": "4603",
+    "CODPAR": "5260",
     "CODCAN": "60",
     "PARROQUIA": "CHILLOGALLO",
     "ganador": "DP5",
@@ -11991,7 +11991,7 @@
     }
   },
   {
-    "CODPAR": "1345",
+    "CODPAR": "5325",
     "CODCAN": "60",
     "PARROQUIA": "EL SALVADOR",
     "ganador": "DP5",
@@ -12004,7 +12004,7 @@
     }
   },
   {
-    "CODPAR": "255",
+    "CODPAR": "5410",
     "CODCAN": "60",
     "PARROQUIA": "GONZALEZ SUAREZ",
     "ganador": "DP5",
@@ -12017,7 +12017,7 @@
     }
   },
   {
-    "CODPAR": "181",
+    "CODPAR": "5435",
     "CODCAN": "60",
     "PARROQUIA": "GUAPULO",
     "ganador": "DP5",
@@ -12030,7 +12030,7 @@
     }
   },
   {
-    "CODPAR": "454",
+    "CODPAR": "5530",
     "CODCAN": "60",
     "PARROQUIA": "LA FLORESTA",
     "ganador": "DP5",
@@ -12043,7 +12043,7 @@
     }
   },
   {
-    "CODPAR": "1049",
+    "CODPAR": "5535",
     "CODCAN": "60",
     "PARROQUIA": "LA LIBERTAD",
     "ganador": "DP5",
@@ -12056,7 +12056,7 @@
     }
   },
   {
-    "CODPAR": "3255",
+    "CODPAR": "5540",
     "CODCAN": "60",
     "PARROQUIA": "LA MAGDALENA",
     "ganador": "DP5",
@@ -12069,7 +12069,7 @@
     }
   },
   {
-    "CODPAR": "615",
+    "CODPAR": "5575",
     "CODCAN": "60",
     "PARROQUIA": "LA VICENTINA",
     "ganador": "DP5",
@@ -12082,7 +12082,7 @@
     }
   },
   {
-    "CODPAR": "1367",
+    "CODPAR": "5935",
     "CODCAN": "60",
     "PARROQUIA": "SAN BLAS",
     "ganador": "DP5",
@@ -12095,7 +12095,7 @@
     }
   },
   {
-    "CODPAR": "462",
+    "CODPAR": "5985",
     "CODCAN": "60",
     "PARROQUIA": "SAN MARCOS",
     "ganador": "DP5",
@@ -12108,7 +12108,7 @@
     }
   },
   {
-    "CODPAR": "1400",
+    "CODPAR": "6005",
     "CODCAN": "60",
     "PARROQUIA": "SAN ROQUE",
     "ganador": "DP5",
@@ -12121,7 +12121,7 @@
     }
   },
   {
-    "CODPAR": "695",
+    "CODPAR": "6020",
     "CODCAN": "60",
     "PARROQUIA": "SAN SEBASTIAN",
     "ganador": "DP5",
@@ -12134,7 +12134,7 @@
     }
   },
   {
-    "CODPAR": "382",
+    "CODPAR": "6035",
     "CODCAN": "60",
     "PARROQUIA": "SANTA BARBARA",
     "ganador": "DP5",
@@ -12147,7 +12147,7 @@
     }
   },
   {
-    "CODPAR": "2018",
+    "CODPAR": "6050",
     "CODCAN": "60",
     "PARROQUIA": "SANTA PRISCA",
     "ganador": "DP5",
@@ -12160,7 +12160,7 @@
     }
   },
   {
-    "CODPAR": "1734",
+    "CODPAR": "6240",
     "CODCAN": "60",
     "PARROQUIA": "VILLA FLORA",
     "ganador": "DP5",
@@ -12173,7 +12173,7 @@
     }
   },
   {
-    "CODPAR": "167",
+    "CODPAR": "0165",
     "CODCAN": "65",
     "PARROQUIA": "ASCAZUBI",
     "ganador": "PLRE - FRA",
@@ -12186,7 +12186,7 @@
     }
   },
   {
-    "CODPAR": "718",
+    "CODPAR": "0480",
     "CODCAN": "65",
     "PARROQUIA": "CANGAHUA",
     "ganador": "MUPP-NP-18",
@@ -12199,7 +12199,7 @@
     }
   },
   {
-    "CODPAR": "394",
+    "CODPAR": "2600",
     "CODCAN": "65",
     "PARROQUIA": "OLMEDO/PESILLO",
     "ganador": "MUPP-NP-18",
@@ -12212,7 +12212,7 @@
     }
   },
   {
-    "CODPAR": "196",
+    "CODPAR": "2635",
     "CODCAN": "65",
     "PARROQUIA": "OTON",
     "ganador": "MUPP-NP-18",
@@ -12225,7 +12225,7 @@
     }
   },
   {
-    "CODPAR": "164",
+    "CODPAR": "3735",
     "CODCAN": "65",
     "PARROQUIA": "STA.ROSA DE CUSUBAMBA",
     "ganador": "PLRE - FRA",
@@ -12238,7 +12238,7 @@
     }
   },
   {
-    "CODPAR": "292",
+    "CODPAR": "5060",
     "CODCAN": "65",
     "PARROQUIA": "AYORA",
     "ganador": "MUPP-NP-18",
@@ -12251,7 +12251,7 @@
     }
   },
   {
-    "CODPAR": "721",
+    "CODPAR": "5190",
     "CODCAN": "65",
     "PARROQUIA": "CAYAMBE",
     "ganador": "MUPP-NP-18",
@@ -12264,9 +12264,9 @@
     }
   },
   {
-    "CODPAR": "186",
+    "CODPAR": "5495",
     "CODCAN": "65",
-    "PARROQUIA": "NAYON",
+    "PARROQUIA": "JUAN MONTALVO",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -12277,7 +12277,7 @@
     }
   },
   {
-    "CODPAR": "387",
+    "CODPAR": "0055",
     "CODCAN": "70",
     "PARROQUIA": "ALOAG",
     "ganador": "MUPP-NP-18",
@@ -12290,7 +12290,7 @@
     }
   },
   {
-    "CODPAR": "159",
+    "CODPAR": "0060",
     "CODCAN": "70",
     "PARROQUIA": "ALOASI",
     "ganador": "PSC6",
@@ -12303,7 +12303,7 @@
     }
   },
   {
-    "CODPAR": "138",
+    "CODPAR": "0650",
     "CODCAN": "70",
     "PARROQUIA": "CORNEJO ASTORGA /TANDAPI",
     "ganador": "PLRE - FRA",
@@ -12316,9 +12316,9 @@
     }
   },
   {
-    "CODPAR": "161",
+    "CODPAR": "0755",
     "CODCAN": "70",
-    "PARROQUIA": "ATAHUALPA /HABASPAMBA",
+    "PARROQUIA": "CUTUGLAGUA",
     "ganador": "PLRE - FRA",
     "resultados": {
       "PLRE - FRA": {
@@ -12329,7 +12329,7 @@
     }
   },
   {
-    "CODPAR": "64",
+    "CODPAR": "0850",
     "CODCAN": "70",
     "PARROQUIA": "CHAUPI",
     "ganador": "DP5",
@@ -12342,7 +12342,7 @@
     }
   },
   {
-    "CODPAR": "309",
+    "CODPAR": "3960",
     "CODCAN": "70",
     "PARROQUIA": "TAMBILLO",
     "ganador": "MUPP-NP-18",
@@ -12355,7 +12355,7 @@
     }
   },
   {
-    "CODPAR": "172",
+    "CODPAR": "4155",
     "CODCAN": "70",
     "PARROQUIA": "UYUMBICHO",
     "ganador": "MUPP-NP-18",
@@ -12368,7 +12368,7 @@
     }
   },
   {
-    "CODPAR": "919",
+    "CODPAR": "5620",
     "CODCAN": "70",
     "PARROQUIA": "MACHACHI",
     "ganador": "PSC6",
@@ -12381,7 +12381,7 @@
     }
   },
   {
-    "CODPAR": "134",
+    "CODPAR": "2025",
     "CODCAN": "75",
     "PARROQUIA": "LA ESPERANZA",
     "ganador": "PSE17",
@@ -12394,7 +12394,7 @@
     }
   },
   {
-    "CODPAR": "169",
+    "CODPAR": "2330",
     "CODCAN": "75",
     "PARROQUIA": "MALCHINGUI",
     "ganador": "DP5",
@@ -12407,7 +12407,7 @@
     }
   },
   {
-    "CODPAR": "70",
+    "CODPAR": "4045",
     "CODCAN": "75",
     "PARROQUIA": "TOCACHI",
     "ganador": "PSE17",
@@ -12420,7 +12420,7 @@
     }
   },
   {
-    "CODPAR": "142",
+    "CODPAR": "4090",
     "CODCAN": "75",
     "PARROQUIA": "TUPIGACHI",
     "ganador": "MUPP-NP-18",
@@ -12433,7 +12433,7 @@
     }
   },
   {
-    "CODPAR": "336",
+    "CODPAR": "6145",
     "CODCAN": "75",
     "PARROQUIA": "TABACUNDO",
     "ganador": "PSE17",
@@ -12446,7 +12446,7 @@
     }
   },
   {
-    "CODPAR": "79",
+    "CODPAR": "0680",
     "CODCAN": "80",
     "PARROQUIA": "COTOGCHOA",
     "ganador": "PSC6",
@@ -12459,7 +12459,7 @@
     }
   },
   {
-    "CODPAR": "12",
+    "CODPAR": "3230",
     "CODCAN": "80",
     "PARROQUIA": "RUMIPAMBA",
     "ganador": "ID12",
@@ -12472,7 +12472,7 @@
     }
   },
   {
-    "CODPAR": "1182",
+    "CODPAR": "5965",
     "CODCAN": "80",
     "PARROQUIA": "SANGOLQUI",
     "ganador": "ID12",
@@ -12485,7 +12485,7 @@
     }
   },
   {
-    "CODPAR": "136",
+    "CODPAR": "6600",
     "CODCAN": "80",
     "PARROQUIA": "SAN RAFAEL",
     "ganador": "DP5",
@@ -12498,7 +12498,7 @@
     }
   },
   {
-    "CODPAR": "133",
+    "CODPAR": "6605",
     "CODCAN": "80",
     "PARROQUIA": "SAN PEDRO DE TABOADA",
     "ganador": "MUPP-NP-18",
@@ -12511,9 +12511,9 @@
     }
   },
   {
-    "CODPAR": "251",
+    "CODPAR": "0075",
     "CODCAN": "85",
-    "PARROQUIA": "LA MERCED",
+    "PARROQUIA": "ALLURIQUIN",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -12524,7 +12524,7 @@
     }
   },
   {
-    "CODPAR": "29",
+    "CODPAR": "1755",
     "CODCAN": "85",
     "PARROQUIA": "LUZ DE AMERICA",
     "ganador": "MUPP-NP-18",
@@ -12537,7 +12537,7 @@
     }
   },
   {
-    "CODPAR": "190",
+    "CODPAR": "4440",
     "CODCAN": "85",
     "PARROQUIA": "PUERTO LIMON",
     "ganador": "PSC6",
@@ -12550,7 +12550,7 @@
     }
   },
   {
-    "CODPAR": "170",
+    "CODPAR": "5730",
     "CODCAN": "85",
     "PARROQUIA": "ABRAHAM CALAZACON",
     "ganador": "PSC6",
@@ -12563,7 +12563,7 @@
     }
   },
   {
-    "CODPAR": "237",
+    "CODPAR": "5860",
     "CODCAN": "85",
     "PARROQUIA": "BOMBOLI",
     "ganador": "PSC6",
@@ -12576,7 +12576,7 @@
     }
   },
   {
-    "CODPAR": "443",
+    "CODPAR": "5865",
     "CODCAN": "85",
     "PARROQUIA": "RIO VERDE",
     "ganador": "PSC6",
@@ -12589,7 +12589,7 @@
     }
   },
   {
-    "CODPAR": "27",
+    "CODPAR": "5870",
     "CODCAN": "85",
     "PARROQUIA": "RIO TOACHI",
     "ganador": "PSC6",
@@ -12602,7 +12602,7 @@
     }
   },
   {
-    "CODPAR": "6554",
+    "CODPAR": "6065",
     "CODCAN": "85",
     "PARROQUIA": "SANTO DOMINGO",
     "ganador": "PSC6",
@@ -12615,9 +12615,9 @@
     }
   },
   {
-    "CODPAR": "138",
+    "CODPAR": "6175",
     "CODCAN": "85",
-    "PARROQUIA": "CORNEJO ASTORGA /TANDAPI",
+    "PARROQUIA": "CHIGUILPE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -12628,9 +12628,9 @@
     }
   },
   {
-    "CODPAR": "12",
+    "CODPAR": "6180",
     "CODCAN": "85",
-    "PARROQUIA": "RUMIPAMBA",
+    "PARROQUIA": "ZARACAY",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -12641,7 +12641,7 @@
     }
   },
   {
-    "CODPAR": "275",
+    "CODPAR": "0785",
     "CODCAN": "770",
     "PARROQUIA": "ATAHUALPA",
     "ganador": "PRE10",
@@ -12654,7 +12654,7 @@
     }
   },
   {
-    "CODPAR": "45",
+    "CODPAR": "2410",
     "CODCAN": "770",
     "PARROQUIA": "MINDO",
     "ganador": "PSC6",
@@ -12667,7 +12667,7 @@
     }
   },
   {
-    "CODPAR": "202",
+    "CODPAR": "6350",
     "CODCAN": "770",
     "PARROQUIA": "S. MIGUEL DE LOS BANCOS",
     "ganador": "PSC6",
@@ -12680,7 +12680,7 @@
     }
   },
   {
-    "CODPAR": "192",
+    "CODPAR": "6415",
     "CODCAN": "895",
     "PARROQUIA": "PEDRO VICENTE MALDONADO",
     "ganador": "DP5",
@@ -12693,7 +12693,7 @@
     }
   },
   {
-    "CODPAR": "42",
+    "CODPAR": "1375",
     "CODCAN": "90",
     "PARROQUIA": "AMBATILLO",
     "ganador": "MUPP-NP-18",
@@ -12706,7 +12706,7 @@
     }
   },
   {
-    "CODPAR": "530",
+    "CODPAR": "5515",
     "CODCAN": "90",
     "PARROQUIA": "ATAHUALPA /CHIPZALATA",
     "ganador": "PSC6",
@@ -12719,7 +12719,7 @@
     }
   },
   {
-    "CODPAR": "266",
+    "CODPAR": "0095",
     "CODCAN": "135",
     "PARROQUIA": "AUGUSTO N MARTINEZ",
     "ganador": "MUPP-NP-18",
@@ -12732,7 +12732,7 @@
     }
   },
   {
-    "CODPAR": "332",
+    "CODPAR": "0190",
     "CODCAN": "135",
     "PARROQUIA": "BAQUERIZO MORENO",
     "ganador": "PSC6",
@@ -12745,7 +12745,7 @@
     }
   },
   {
-    "CODPAR": "542",
+    "CODPAR": "0210",
     "CODCAN": "135",
     "PARROQUIA": "BENITEZ /PACHANLICA",
     "ganador": "PSC6",
@@ -12758,7 +12758,7 @@
     }
   },
   {
-    "CODPAR": "213",
+    "CODPAR": "0635",
     "CODCAN": "135",
     "PARROQUIA": "BOLIVAR",
     "ganador": "PSC6",
@@ -12771,7 +12771,7 @@
     }
   },
   {
-    "CODPAR": "74",
+    "CODPAR": "0800",
     "CODCAN": "135",
     "PARROQUIA": "CONSTANTINO FERNANDEZ",
     "ganador": "PSC6",
@@ -12784,7 +12784,7 @@
     }
   },
   {
-    "CODPAR": "48",
+    "CODPAR": "0810",
     "CODCAN": "135",
     "PARROQUIA": "COTALO",
     "ganador": "PSC6",
@@ -12797,7 +12797,7 @@
     }
   },
   {
-    "CODPAR": "207",
+    "CODPAR": "1625",
     "CODCAN": "135",
     "PARROQUIA": "CUNCHIBAMBA",
     "ganador": "PSC6",
@@ -12810,7 +12810,7 @@
     }
   },
   {
-    "CODPAR": "757",
+    "CODPAR": "1745",
     "CODCAN": "135",
     "PARROQUIA": "UNAMUNCHO",
     "ganador": "PSC6",
@@ -12823,7 +12823,7 @@
     }
   },
   {
-    "CODPAR": "419",
+    "CODPAR": "1860",
     "CODCAN": "135",
     "PARROQUIA": "CHIQUICHA",
     "ganador": "MUPP-NP-18",
@@ -12836,7 +12836,7 @@
     }
   },
   {
-    "CODPAR": "157",
+    "CODPAR": "2435",
     "CODCAN": "135",
     "PARROQUIA": "EL ROSARIO /RUMICHACA",
     "ganador": "PSC6",
@@ -12849,7 +12849,7 @@
     }
   },
   {
-    "CODPAR": "484",
+    "CODPAR": "2775",
     "CODCAN": "135",
     "PARROQUIA": "EMILIO MARIA TERAN",
     "ganador": "MUPP-NP-18",
@@ -12862,7 +12862,7 @@
     }
   },
   {
-    "CODPAR": "775",
+    "CODPAR": "2830",
     "CODCAN": "135",
     "PARROQUIA": "GARCIA MORENO",
     "ganador": "PSC6",
@@ -12875,7 +12875,7 @@
     }
   },
   {
-    "CODPAR": "625",
+    "CODPAR": "2860",
     "CODCAN": "135",
     "PARROQUIA": "QUINCHICOTO",
     "ganador": "MUPP-NP-18",
@@ -12888,7 +12888,7 @@
     }
   },
   {
-    "CODPAR": "800",
+    "CODPAR": "3120",
     "CODCAN": "135",
     "PARROQUIA": "HUACHI GRANDE",
     "ganador": "MUPP-NP-18",
@@ -12901,7 +12901,7 @@
     }
   },
   {
-    "CODPAR": "353",
+    "CODPAR": "3355",
     "CODCAN": "135",
     "PARROQUIA": "HUAMBALO",
     "ganador": "MUPP-NP-18",
@@ -12914,7 +12914,7 @@
     }
   },
   {
-    "CODPAR": "229",
+    "CODPAR": "3380",
     "CODCAN": "135",
     "PARROQUIA": "IZAMBA",
     "ganador": "MUPP-NP-18",
@@ -12927,7 +12927,7 @@
     }
   },
   {
-    "CODPAR": "844",
+    "CODPAR": "3730",
     "CODCAN": "135",
     "PARROQUIA": "JUAN BENIGNO VELA",
     "ganador": "PSC6",
@@ -12940,7 +12940,7 @@
     }
   },
   {
-    "CODPAR": "228",
+    "CODPAR": "4065",
     "CODCAN": "135",
     "PARROQUIA": "LOS ANDES",
     "ganador": "PSC6",
@@ -12953,7 +12953,7 @@
     }
   },
   {
-    "CODPAR": "319",
+    "CODPAR": "5045",
     "CODCAN": "135",
     "PARROQUIA": "LLIGUA",
     "ganador": "PSC6",
@@ -12966,7 +12966,7 @@
     }
   },
   {
-    "CODPAR": "84",
+    "CODPAR": "5230",
     "CODCAN": "135",
     "PARROQUIA": "MARCOS ESPINEL",
     "ganador": "PSC6",
@@ -12979,7 +12979,7 @@
     }
   },
   {
-    "CODPAR": "1892",
+    "CODPAR": "5445",
     "CODCAN": "135",
     "PARROQUIA": "MONTALVO",
     "ganador": "PSC6",
@@ -12992,7 +12992,7 @@
     }
   },
   {
-    "CODPAR": "794",
+    "CODPAR": "5455",
     "CODCAN": "135",
     "PARROQUIA": "PASA",
     "ganador": "PSC6",
@@ -13005,7 +13005,7 @@
     }
   },
   {
-    "CODPAR": "778",
+    "CODPAR": "5545",
     "CODCAN": "135",
     "PARROQUIA": "PICAYHUA",
     "ganador": "PSC6",
@@ -13018,7 +13018,7 @@
     }
   },
   {
-    "CODPAR": "671",
+    "CODPAR": "5560",
     "CODCAN": "135",
     "PARROQUIA": "PILAHUIN",
     "ganador": "PSC6",
@@ -13031,7 +13031,7 @@
     }
   },
   {
-    "CODPAR": "41",
+    "CODPAR": "5605",
     "CODCAN": "135",
     "PARROQUIA": "PRESIDENTE URBINA",
     "ganador": "PSC6",
@@ -13044,7 +13044,7 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "5840",
     "CODCAN": "135",
     "PARROQUIA": "QUISAPINCHA",
     "ganador": "PSC6",
@@ -13057,7 +13057,7 @@
     }
   },
   {
-    "CODPAR": "291",
+    "CODPAR": "5945",
     "CODCAN": "135",
     "PARROQUIA": "RIO NEGRO",
     "ganador": "PSC6",
@@ -13070,7 +13070,7 @@
     }
   },
   {
-    "CODPAR": "161",
+    "CODPAR": "0335",
     "CODCAN": "140",
     "PARROQUIA": "RIO VERDE",
     "ganador": "PRE10",
@@ -13083,7 +13083,7 @@
     }
   },
   {
-    "CODPAR": "153",
+    "CODPAR": "0365",
     "CODCAN": "140",
     "PARROQUIA": "SAN ANDRES",
     "ganador": "MUPP-NP-18",
@@ -13096,7 +13096,7 @@
     }
   },
   {
-    "CODPAR": "156",
+    "CODPAR": "0675",
     "CODCAN": "140",
     "PARROQUIA": "SAN BARTOLOME",
     "ganador": "PRE10",
@@ -13109,7 +13109,7 @@
     }
   },
   {
-    "CODPAR": "129",
+    "CODPAR": "0900",
     "CODCAN": "140",
     "PARROQUIA": "SAN FERNANDO",
     "ganador": "MUPP-NP-18",
@@ -13122,7 +13122,7 @@
     }
   },
   {
-    "CODPAR": "201",
+    "CODPAR": "1185",
     "CODCAN": "140",
     "PARROQUIA": "SAN JOSE DE POALO",
     "ganador": "MUPP-NP-18",
@@ -13135,7 +13135,7 @@
     }
   },
   {
-    "CODPAR": "214",
+    "CODPAR": "1320",
     "CODCAN": "140",
     "PARROQUIA": "SAN MIGUELITO",
     "ganador": "PRE10",
@@ -13148,7 +13148,7 @@
     }
   },
   {
-    "CODPAR": "554",
+    "CODPAR": "1630",
     "CODCAN": "140",
     "PARROQUIA": "SANTA ROSA",
     "ganador": "PSC6",
@@ -13161,7 +13161,7 @@
     }
   },
   {
-    "CODPAR": "478",
+    "CODPAR": "3905",
     "CODCAN": "140",
     "PARROQUIA": "SUCRE",
     "ganador": "MUPP-NP-18",
@@ -13174,7 +13174,7 @@
     }
   },
   {
-    "CODPAR": "1083",
+    "CODPAR": "5780",
     "CODCAN": "140",
     "PARROQUIA": "SALASACA",
     "ganador": "MUPP-NP-18",
@@ -13187,7 +13187,7 @@
     }
   },
   {
-    "CODPAR": "31",
+    "CODPAR": "5900",
     "CODCAN": "140",
     "PARROQUIA": "TOTORAS",
     "ganador": "ID12",
@@ -13200,7 +13200,7 @@
     }
   },
   {
-    "CODPAR": "16",
+    "CODPAR": "0295",
     "CODCAN": "145",
     "PARROQUIA": "EL TRIUNFO",
     "ganador": "MUPP-NP-18",
@@ -13213,7 +13213,7 @@
     }
   },
   {
-    "CODPAR": "120",
+    "CODPAR": "1210",
     "CODCAN": "145",
     "PARROQUIA": "ULBA",
     "ganador": "MUPP-NP-18",
@@ -13226,7 +13226,7 @@
     }
   },
   {
-    "CODPAR": "194",
+    "CODPAR": "2375",
     "CODCAN": "145",
     "PARROQUIA": "YANAYACU MOCHAPATA",
     "ganador": "ID12",
@@ -13239,7 +13239,7 @@
     }
   },
   {
-    "CODPAR": "113",
+    "CODPAR": "2945",
     "CODCAN": "145",
     "PARROQUIA": "RUMIPAMBA",
     "ganador": "ID12",
@@ -13252,7 +13252,7 @@
     }
   },
   {
-    "CODPAR": "839",
+    "CODPAR": "3300",
     "CODCAN": "145",
     "PARROQUIA": "PINGUILI",
     "ganador": "MUPP-NP-18",
@@ -13265,7 +13265,7 @@
     }
   },
   {
-    "CODPAR": "215",
+    "CODPAR": "3485",
     "CODCAN": "145",
     "PARROQUIA": "ATOCHA FICOA",
     "ganador": "ID12",
@@ -13278,7 +13278,7 @@
     }
   },
   {
-    "CODPAR": "338",
+    "CODPAR": "3585",
     "CODCAN": "145",
     "PARROQUIA": "BAÑOS",
     "ganador": "MUPP-NP-18",
@@ -13291,7 +13291,7 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "5225",
     "CODCAN": "145",
     "PARROQUIA": "CIUDAD NUEVA",
     "ganador": "ID12",
@@ -13304,7 +13304,7 @@
     }
   },
   {
-    "CODPAR": "724",
+    "CODPAR": "5785",
     "CODCAN": "145",
     "PARROQUIA": "CELIANO MONGE",
     "ganador": "ID12",
@@ -13317,7 +13317,7 @@
     }
   },
   {
-    "CODPAR": "33",
+    "CODPAR": "2270",
     "CODCAN": "150",
     "PARROQUIA": "HUACHI LORETO",
     "ganador": "DP5",
@@ -13330,7 +13330,7 @@
     }
   },
   {
-    "CODPAR": "43",
+    "CODPAR": "3190",
     "CODCAN": "150",
     "PARROQUIA": "HUACHI CHICO",
     "ganador": "DP5",
@@ -13343,7 +13343,7 @@
     }
   },
   {
-    "CODPAR": "59",
+    "CODPAR": "3200",
     "CODCAN": "150",
     "PARROQUIA": "TISALEO",
     "ganador": "PRE10",
@@ -13356,7 +13356,7 @@
     }
   },
   {
-    "CODPAR": "97",
+    "CODPAR": "4135",
     "CODCAN": "150",
     "PARROQUIA": "LA MATRIZ",
     "ganador": "PSC6",
@@ -13369,7 +13369,7 @@
     }
   },
   {
-    "CODPAR": "583",
+    "CODPAR": "5105",
     "CODCAN": "150",
     "PARROQUIA": "LA MERCED",
     "ganador": "PSC6",
@@ -13382,7 +13382,7 @@
     }
   },
   {
-    "CODPAR": "67",
+    "CODPAR": "2210",
     "CODCAN": "155",
     "PARROQUIA": "LA PENINSULA",
     "ganador": "PSC6",
@@ -13395,7 +13395,7 @@
     }
   },
   {
-    "CODPAR": "104",
+    "CODPAR": "3885",
     "CODCAN": "155",
     "PARROQUIA": "PELILEO",
     "ganador": "PSC6",
@@ -13408,7 +13408,7 @@
     }
   },
   {
-    "CODPAR": "51",
+    "CODPAR": "4110",
     "CODCAN": "155",
     "PARROQUIA": "PILLARO",
     "ganador": "MUPP-NP-18",
@@ -13421,7 +13421,7 @@
     }
   },
   {
-    "CODPAR": "295",
+    "CODPAR": "5830",
     "CODCAN": "155",
     "PARROQUIA": "PATATE",
     "ganador": "MUPP-NP-18",
@@ -13434,7 +13434,7 @@
     }
   },
   {
-    "CODPAR": "95",
+    "CODPAR": "4310",
     "CODCAN": "160",
     "PARROQUIA": "QUERO",
     "ganador": "DP5",
@@ -13447,7 +13447,7 @@
     }
   },
   {
-    "CODPAR": "139",
+    "CODPAR": "4550",
     "CODCAN": "160",
     "PARROQUIA": "PISHILATA",
     "ganador": "PSC6",
@@ -13460,7 +13460,7 @@
     }
   },
   {
-    "CODPAR": "891",
+    "CODPAR": "5835",
     "CODCAN": "160",
     "PARROQUIA": "PELILEO GRANDE /R. MINO",
     "ganador": "MUPP-NP-18",
@@ -13473,7 +13473,7 @@
     }
   },
   {
-    "CODPAR": "277",
+    "CODPAR": "6555",
     "CODCAN": "845",
     "PARROQUIA": "SAN FRANCISCO",
     "ganador": "PRE10",
@@ -13486,7 +13486,7 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "4555",
     "CODCAN": "850",
     "PARROQUIA": "CEVALLOS",
     "ganador": "PSC6",
@@ -13499,7 +13499,7 @@
     }
   },
   {
-    "CODPAR": "342",
+    "CODPAR": "6560",
     "CODCAN": "850",
     "PARROQUIA": "MOCHA",
     "ganador": "DP5",
@@ -13512,7 +13512,7 @@
     }
   },
   {
-    "CODPAR": "5",
+    "CODPAR": "1675",
     "CODCAN": "130",
     "PARROQUIA": "ZURMI",
     "ganador": "PSE17",
@@ -13525,7 +13525,7 @@
     }
   },
   {
-    "CODPAR": "119",
+    "CODPAR": "5520",
     "CODCAN": "130",
     "PARROQUIA": "GUAYZIMI",
     "ganador": "PSC6",
@@ -13538,7 +13538,7 @@
     }
   },
   {
-    "CODPAR": "132",
+    "CODPAR": "0720",
     "CODCAN": "655",
     "PARROQUIA": "CUMBARATZA",
     "ganador": "PSC6",
@@ -13551,7 +13551,7 @@
     }
   },
   {
-    "CODPAR": "128",
+    "CODPAR": "1390",
     "CODCAN": "655",
     "PARROQUIA": "GUADALUPE",
     "ganador": "PSE17",
@@ -13564,7 +13564,7 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "1770",
     "CODCAN": "655",
     "PARROQUIA": "SAN CARLOS DE LAS MINAS",
     "ganador": "MPD15",
@@ -13577,7 +13577,7 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "2155",
     "CODCAN": "655",
     "PARROQUIA": "LA VICTORIA DE IMBANA",
     "ganador": "PSE17",
@@ -13590,7 +13590,7 @@
     }
   },
   {
-    "CODPAR": "12",
+    "CODPAR": "2170",
     "CODCAN": "655",
     "PARROQUIA": "LA CANELA",
     "ganador": "PSC6",
@@ -13603,7 +13603,7 @@
     }
   },
   {
-    "CODPAR": "17",
+    "CODPAR": "3260",
     "CODCAN": "655",
     "PARROQUIA": "SABANILLA",
     "ganador": "PSC6",
@@ -13616,7 +13616,7 @@
     }
   },
   {
-    "CODPAR": "13",
+    "CODPAR": "4010",
     "CODCAN": "655",
     "PARROQUIA": "TIMBARA",
     "ganador": "PSC6",
@@ -13629,7 +13629,7 @@
     }
   },
   {
-    "CODPAR": "212",
+    "CODPAR": "6305",
     "CODCAN": "655",
     "PARROQUIA": "ZAMORA",
     "ganador": "PSC6",
@@ -13642,9 +13642,9 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "0915",
     "CODCAN": "660",
-    "PARROQUIA": "LA VICTORIA DE IMBANA",
+    "PARROQUIA": "CHITO",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -13655,7 +13655,7 @@
     }
   },
   {
-    "CODPAR": "3",
+    "CODPAR": "1145",
     "CODCAN": "660",
     "PARROQUIA": "EL CHORRO",
     "ganador": "DP5",
@@ -13668,9 +13668,9 @@
     }
   },
   {
-    "CODPAR": "14",
+    "CODPAR": "1240",
     "CODCAN": "660",
-    "PARROQUIA": "LA VICTORIA DE IMBANA",
+    "PARROQUIA": "EL PORVENIR DEL CARMEN",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -13681,9 +13681,9 @@
     }
   },
   {
-    "CODPAR": "5",
+    "CODPAR": "2015",
     "CODCAN": "660",
-    "PARROQUIA": "ZURMI",
+    "PARROQUIA": "LA CHONTA",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -13694,7 +13694,7 @@
     }
   },
   {
-    "CODPAR": "67",
+    "CODPAR": "2695",
     "CODCAN": "660",
     "PARROQUIA": "SAN ANDRES",
     "ganador": "PSC6",
@@ -13707,7 +13707,7 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "2955",
     "CODCAN": "660",
     "PARROQUIA": "PUCAPAMBA",
     "ganador": "DP5",
@@ -13720,7 +13720,7 @@
     }
   },
   {
-    "CODPAR": "64",
+    "CODPAR": "4195",
     "CODCAN": "660",
     "PARROQUIA": "VALLADOLID",
     "ganador": "PLRE - FRA",
@@ -13733,7 +13733,7 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "4505",
     "CODCAN": "660",
     "PARROQUIA": "SAN FRANCISCO DEL VERGEL",
     "ganador": "PSC6",
@@ -13746,7 +13746,7 @@
     }
   },
   {
-    "CODPAR": "110",
+    "CODPAR": "6315",
     "CODCAN": "660",
     "PARROQUIA": "ZUMBA",
     "ganador": "DP5",
@@ -13759,9 +13759,9 @@
     }
   },
   {
-    "CODPAR": "17",
+    "CODPAR": "2070",
     "CODCAN": "665",
-    "PARROQUIA": "SABANILLA",
+    "PARROQUIA": "LA PAZ",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -13772,7 +13772,7 @@
     }
   },
   {
-    "CODPAR": "16",
+    "CODPAR": "4105",
     "CODCAN": "665",
     "PARROQUIA": "TUTUPALI",
     "ganador": "PSC6",
@@ -13785,7 +13785,7 @@
     }
   },
   {
-    "CODPAR": "47",
+    "CODPAR": "6215",
     "CODCAN": "665",
     "PARROQUIA": "28 DE MAYO",
     "ganador": "PRE10",
@@ -13798,7 +13798,7 @@
     }
   },
   {
-    "CODPAR": "75",
+    "CODPAR": "0985",
     "CODCAN": "670",
     "PARROQUIA": "CHICANA",
     "ganador": "PRE10",
@@ -13811,7 +13811,7 @@
     }
   },
   {
-    "CODPAR": "87",
+    "CODPAR": "2240",
     "CODCAN": "670",
     "PARROQUIA": "LOS ENCUENTROS",
     "ganador": "PRE10",
@@ -13824,7 +13824,7 @@
     }
   },
   {
-    "CODPAR": "282",
+    "CODPAR": "6295",
     "CODCAN": "670",
     "PARROQUIA": "YANZATZA",
     "ganador": "PRE10",
@@ -13837,7 +13837,7 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "0665",
     "CODCAN": "775",
     "PARROQUIA": "EL GUISMI",
     "ganador": "JUNTAS ",
@@ -13850,16 +13850,16 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "0945",
     "CODCAN": "775",
-    "PARROQUIA": "EL GUISMI",
+    "PARROQUIA": "TUNDAYME",
     "ganador": "N/A",
     "resultados": {}
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "1015",
     "CODCAN": "775",
-    "PARROQUIA": "EL GUISMI",
+    "PARROQUIA": "PACHICUTZA",
     "ganador": "PSE17",
     "resultados": {
       "PSE17": {
@@ -13870,7 +13870,7 @@
     }
   },
   {
-    "CODPAR": "186",
+    "CODPAR": "6355",
     "CODCAN": "775",
     "PARROQUIA": "EL PANGUI",
     "ganador": "DP5",
@@ -13883,7 +13883,7 @@
     }
   },
   {
-    "CODPAR": "131",
+    "CODPAR": "6625",
     "CODCAN": "980",
     "PARROQUIA": "ZUMBI",
     "ganador": "MPD15",
@@ -13896,7 +13896,7 @@
     }
   },
   {
-    "CODPAR": "60",
+    "CODPAR": "6630",
     "CODCAN": "980",
     "PARROQUIA": "GUANUJO",
     "ganador": "MPD15",
@@ -13909,9 +13909,9 @@
     }
   },
   {
-    "CODPAR": "7",
+    "CODPAR": "1220",
     "CODCAN": "800",
-    "PARROQUIA": "CAÑAQUEMADA",
+    "PARROQUIA": "EL PROGRESO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -13922,9 +13922,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "4415",
     "CODCAN": "800",
-    "PARROQUIA": "BELLAMARIA",
+    "PARROQUIA": "ISLA SANTA MARIA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -13935,9 +13935,9 @@
     }
   },
   {
-    "CODPAR": "58",
+    "CODPAR": "6510",
     "CODCAN": "800",
-    "PARROQUIA": "CHAVEZPAMBA",
+    "PARROQUIA": "PTO. BAQUERIZO MORENO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -13948,9 +13948,9 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "0235",
     "CODCAN": "805",
-    "PARROQUIA": "PRINCIPAL",
+    "PARROQUIA": "BELLA VISTA",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -13961,9 +13961,9 @@
     }
   },
   {
-    "CODPAR": "193",
+    "CODPAR": "6505",
     "CODCAN": "805",
-    "PARROQUIA": "CHUQUIRIBAMBA",
+    "PARROQUIA": "PUERTO AYORA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -13974,9 +13974,9 @@
     }
   },
   {
-    "CODPAR": "8",
+    "CODPAR": "4165",
     "CODCAN": "810",
-    "PARROQUIA": "SAN GERARDO",
+    "PARROQUIA": "TOMAS DE BERLANGA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -13987,9 +13987,9 @@
     }
   },
   {
-    "CODPAR": "24",
+    "CODPAR": "6515",
     "CODCAN": "810",
-    "PARROQUIA": "LUIS GALARZA O. (DELEGSOL)",
+    "PARROQUIA": "PUERTO VILLAMIL",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14000,9 +14000,9 @@
     }
   },
   {
-    "CODPAR": "15",
+    "CODPAR": "0760",
     "CODCAN": "625",
-    "PARROQUIA": "JERUSALEN",
+    "PARROQUIA": "CUYABENO",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -14013,9 +14013,9 @@
     }
   },
   {
-    "CODPAR": "98",
+    "CODPAR": "1045",
     "CODCAN": "625",
-    "PARROQUIA": "SANTIAGO",
+    "PARROQUIA": "DURENO",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -14026,9 +14026,9 @@
     }
   },
   {
-    "CODPAR": "112",
+    "CODPAR": "1285",
     "CODCAN": "625",
-    "PARROQUIA": "CARACOL",
+    "PARROQUIA": "EL ENO",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -14039,9 +14039,9 @@
     }
   },
   {
-    "CODPAR": "116",
+    "CODPAR": "1290",
     "CODCAN": "625",
-    "PARROQUIA": "6 DE JULIO DE CUELLAJE",
+    "PARROQUIA": "PACAYACU",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -14052,9 +14052,9 @@
     }
   },
   {
-    "CODPAR": "44",
+    "CODPAR": "1330",
     "CODCAN": "625",
-    "PARROQUIA": "SHAGLLI",
+    "PARROQUIA": "GENERAL FARFAN",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14065,9 +14065,9 @@
     }
   },
   {
-    "CODPAR": "8",
+    "CODPAR": "1790",
     "CODCAN": "625",
-    "PARROQUIA": "SAN GERARDO",
+    "PARROQUIA": "SANTA CECILIA",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -14078,9 +14078,9 @@
     }
   },
   {
-    "CODPAR": "6",
+    "CODPAR": "1795",
     "CODCAN": "625",
-    "PARROQUIA": "PAMPANAL DE BOLIVAR",
+    "PARROQUIA": "JAMBELI",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14091,7 +14091,7 @@
     }
   },
   {
-    "CODPAR": "135",
+    "CODPAR": "4470",
     "CODCAN": "625",
     "PARROQUIA": "10 DE AGOSTO",
     "ganador": "DP5",
@@ -14104,7 +14104,7 @@
     }
   },
   {
-    "CODPAR": "1761",
+    "CODPAR": "5710",
     "CODCAN": "625",
     "PARROQUIA": "NUEVA LOJA",
     "ganador": "MUPP-NP-18",
@@ -14117,9 +14117,9 @@
     }
   },
   {
-    "CODPAR": "32",
+    "CODPAR": "1170",
     "CODCAN": "640",
-    "PARROQUIA": "AMALUZA",
+    "PARROQUIA": "EL PLAYON DE SN. FRANCISCO",
     "ganador": "ID12",
     "resultados": {
       "ID12": {
@@ -14130,9 +14130,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "2095",
     "CODCAN": "640",
-    "PARROQUIA": "SANTA MARTHA DE CUBA",
+    "PARROQUIA": "LA SOFIA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14143,9 +14143,9 @@
     }
   },
   {
-    "CODPAR": "0",
+    "CODPAR": "3220",
     "CODCAN": "640",
-    "PARROQUIA": "SANTA MARTHA DE CUBA",
+    "PARROQUIA": "ROSA FLORIDA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14156,9 +14156,9 @@
     }
   },
   {
-    "CODPAR": "6",
+    "CODPAR": "3690",
     "CODCAN": "640",
-    "PARROQUIA": "PAMPANAL DE BOLIVAR",
+    "PARROQUIA": "SANTA BARBARA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14169,9 +14169,9 @@
     }
   },
   {
-    "CODPAR": "5",
+    "CODPAR": "5525",
     "CODCAN": "640",
-    "PARROQUIA": "HUASAGA /WAMPUIK",
+    "PARROQUIA": "LA BONITA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14182,9 +14182,9 @@
     }
   },
   {
-    "CODPAR": "66",
+    "CODPAR": "2720",
     "CODCAN": "650",
-    "PARROQUIA": "MORRO",
+    "PARROQUIA": "PALMA ROJA",
     "ganador": "APRE13",
     "resultados": {
       "APRE13": {
@@ -14195,9 +14195,9 @@
     }
   },
   {
-    "CODPAR": "25",
+    "CODPAR": "3005",
     "CODCAN": "650",
-    "PARROQUIA": "PIEDRAS",
+    "PARROQUIA": "PUERTO BOLIVAR",
     "ganador": "APRE13",
     "resultados": {
       "APRE13": {
@@ -14208,9 +14208,9 @@
     }
   },
   {
-    "CODPAR": "7",
+    "CODPAR": "3020",
     "CODCAN": "650",
-    "PARROQUIA": "CAÑAQUEMADA",
+    "PARROQUIA": "PUERTO RODRIGUEZ",
     "ganador": "APRE13",
     "resultados": {
       "APRE13": {
@@ -14221,9 +14221,9 @@
     }
   },
   {
-    "CODPAR": "1",
+    "CODPAR": "3705",
     "CODCAN": "650",
-    "PARROQUIA": "BELLAMARIA",
+    "PARROQUIA": "SANTA ELENA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14234,9 +14234,9 @@
     }
   },
   {
-    "CODPAR": "53",
+    "CODPAR": "6500",
     "CODCAN": "650",
-    "PARROQUIA": "EL GOALTAL / LAS JUNTAS",
+    "PARROQUIA": "EL CARMEN DE PUTUMAYO",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14247,9 +14247,9 @@
     }
   },
   {
-    "CODPAR": "93",
+    "CODPAR": "0600",
     "CODCAN": "720",
-    "PARROQUIA": "ZHIDMAD",
+    "PARROQUIA": "SAN PEDRO DE LOS COFANES",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -14260,9 +14260,9 @@
     }
   },
   {
-    "CODPAR": "80",
+    "CODPAR": "0780",
     "CODCAN": "720",
-    "PARROQUIA": "ABDON CALDERON / LA UNION",
+    "PARROQUIA": "SIETE DE JULIO",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -14273,9 +14273,9 @@
     }
   },
   {
-    "CODPAR": "18",
+    "CODPAR": "2175",
     "CODCAN": "720",
-    "PARROQUIA": "ARCAPAMBA",
+    "PARROQUIA": "LIMONCOCHA",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -14286,9 +14286,9 @@
     }
   },
   {
-    "CODPAR": "34",
+    "CODPAR": "2765",
     "CODCAN": "720",
-    "PARROQUIA": "REMIGIO CRESPO TORAL",
+    "PARROQUIA": "PANACOCHA",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -14299,9 +14299,9 @@
     }
   },
   {
-    "CODPAR": "40",
+    "CODPAR": "3645",
     "CODCAN": "720",
-    "PARROQUIA": "NIEVES",
+    "PARROQUIA": "SAN ROQUE",
     "ganador": "APRE13",
     "resultados": {
       "APRE13": {
@@ -14312,7 +14312,7 @@
     }
   },
   {
-    "CODPAR": "892",
+    "CODPAR": "6140",
     "CODCAN": "720",
     "PARROQUIA": "SHUSHUFINDI CENTRAL",
     "ganador": "DP5",
@@ -14325,9 +14325,9 @@
     }
   },
   {
-    "CODPAR": "23",
+    "CODPAR": "1095",
     "CODCAN": "745",
-    "PARROQUIA": "MANGAHURCO",
+    "PARROQUIA": "SEVILLA",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14338,9 +14338,9 @@
     }
   },
   {
-    "CODPAR": "5",
+    "CODPAR": "3750",
     "CODCAN": "745",
-    "PARROQUIA": "HUASAGA /WAMPUIK",
+    "PARROQUIA": "SANTA ROSA DE SUCUMBIOS",
     "ganador": "DP5",
     "resultados": {
       "DP5": {
@@ -14351,9 +14351,9 @@
     }
   },
   {
-    "CODPAR": "140",
+    "CODPAR": "6325",
     "CODCAN": "745",
-    "PARROQUIA": "SAN LUIS DE PAMBIL",
+    "PARROQUIA": "EL DORADO DE CASCALES",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -14364,9 +14364,9 @@
     }
   },
   {
-    "CODPAR": "26",
+    "CODPAR": "0230",
     "CODCAN": "865",
-    "PARROQUIA": "PRINCIPAL",
+    "PARROQUIA": "EL REVENTADOR",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14377,9 +14377,9 @@
     }
   },
   {
-    "CODPAR": "78",
+    "CODPAR": "1090",
     "CODCAN": "865",
-    "PARROQUIA": "SAN JOSE DEL CHAZO",
+    "PARROQUIA": "GONZALO PIZARRO",
     "ganador": "MUPP-NP-18",
     "resultados": {
       "MUPP-NP-18": {
@@ -14390,9 +14390,9 @@
     }
   },
   {
-    "CODPAR": "10",
+    "CODPAR": "3615",
     "CODCAN": "865",
-    "PARROQUIA": "LUIS CORDERO VEGA",
+    "PARROQUIA": "PUERTO LIBRE",
     "ganador": "PSC6",
     "resultados": {
       "PSC6": {
@@ -14403,7 +14403,7 @@
     }
   },
   {
-    "CODPAR": "77",
+    "CODPAR": "6300",
     "CODCAN": "865",
     "PARROQUIA": "LUMBAQUI",
     "ganador": "MUPP-NP-18",

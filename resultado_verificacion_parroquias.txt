@@ -1,0 +1,51 @@
+================================================================================
+VERIFICACIÓN DE CÓDIGOS DE PARROQUIAS
+================================================================================
+
+Total de códigos en parroquias.txt: 1114
+Primeros 10 códigos: ['0285', '0730', '0845', '0860', '0905', '2255', '2430', '2570', '2595', '2680']
+Últimos 10 códigos: ['2765', '3645', '6140', '1095', '3750', '6325', '0230', '1090', '3615', '6300']
+
+--------------------------------------------------------------------------------
+Archivo: presidentes_primera_vuelta
+--------------------------------------------------------------------------------
+  Total de códigos únicos en JSON: 1114
+  Códigos del txt encontrados: 1114 / 1114
+  Códigos del txt NO encontrados: 0
+
+--------------------------------------------------------------------------------
+Archivo: presidentes_segunda_vuelta
+--------------------------------------------------------------------------------
+  Total de códigos únicos en JSON: 1114
+  Códigos del txt encontrados: 1114 / 1114
+  Códigos del txt NO encontrados: 0
+
+--------------------------------------------------------------------------------
+Archivo: diputados_nacionales
+--------------------------------------------------------------------------------
+  Total de códigos únicos en JSON: 1114
+  Códigos del txt encontrados: 1114 / 1114
+  Códigos del txt NO encontrados: 0
+
+================================================================================
+RESUMEN GENERAL
+================================================================================
+
+Códigos del txt que faltan en TODOS los JSONs: 0
+
+================================================================================
+CÓDIGOS EN JSON QUE NO ESTÁN EN parroquias.txt
+================================================================================
+
+presidentes_primera_vuelta:
+  Códigos en JSON pero NO en txt: 0
+
+presidentes_segunda_vuelta:
+  Códigos en JSON pero NO en txt: 0
+
+diputados_nacionales:
+  Códigos en JSON pero NO en txt: 0
+
+================================================================================
+✓ VERIFICACIÓN COMPLETADA
+================================================================================

@@ -34,12 +34,14 @@ CANDIDATOS_PRES_2V = {
 
 def cargar_nombres_parroquias():
     """Carga el mapeo de códigos a nombres de parroquias"""
-    df = pd.read_excel(ARCHIVO_NOMBRES_PARROQUIAS)
+    # Leer CODIGO como string para preservar ceros iniciales/finales
+    df = pd.read_excel(ARCHIVO_NOMBRES_PARROQUIAS, dtype={'CODIGO': str})
     df.columns = ['PROVINCIA', 'COD_PROV', 'CANTON', 'COD_CANTON', 'PARROQUIA', 'COD_PARROQUIA']
 
     mapeo = {}
     for _, row in df.iterrows():
-        codigo_parroquia = str(int(row['COD_PARROQUIA'])) if pd.notna(row['COD_PARROQUIA']) else None
+        # Mantener el código exactamente como está en el Excel (string)
+        codigo_parroquia = str(row['COD_PARROQUIA']).strip() if pd.notna(row['COD_PARROQUIA']) else None
         nombre_parroquia = str(row['PARROQUIA']).strip() if pd.notna(row['PARROQUIA']) else None
         provincia = str(row['PROVINCIA']).strip() if pd.notna(row['PROVINCIA']) else None
         
@@ -64,14 +66,15 @@ def procesar_presidentes_primera_vuelta():
     # Cargar nombres de parroquias
     nombres_parroquias = cargar_nombres_parroquias()
     
-    df = pd.read_excel(ARCHIVO_PRESIDENTES_1V)
+    # Leer PARROQUIA y CANTON como strings para preservar ceros
+    df = pd.read_excel(ARCHIVO_PRESIDENTES_1V, dtype={'PARROQUIA': str, 'CANTON': str})
     
     # Limpiar datos y filtrar registros inválidos
     df = df[df['PARROQUIA'].notna()]  # Eliminar nulos
-    df['PARROQUIA'] = df['PARROQUIA'].astype(str).str.strip().str.replace('.0$', '', regex=True)
+    df['PARROQUIA'] = df['PARROQUIA'].str.strip()
     df = df[df['PARROQUIA'] != 'nan']  # Eliminar "nan" texto
     
-    df['CANTON'] = df['CANTON'].astype(str).str.strip().str.replace('.0$', '', regex=True)
+    df['CANTON'] = df['CANTON'].str.strip()
     
     resultados = []
     
@@ -144,14 +147,15 @@ def procesar_presidentes_segunda_vuelta():
     # Cargar nombres de parroquias
     nombres_parroquias = cargar_nombres_parroquias()
     
-    df = pd.read_excel(ARCHIVO_PRESIDENTES_2V)
+    # Leer PARROQUIA y CANTON como strings para preservar ceros
+    df = pd.read_excel(ARCHIVO_PRESIDENTES_2V, dtype={'PARROQUIA': str, 'CANTON': str})
     
     # Limpiar datos y filtrar registros inválidos
     df = df[df['PARROQUIA'].notna()]  # Eliminar nulos
-    df['PARROQUIA'] = df['PARROQUIA'].astype(str).str.strip().str.replace('.0$', '', regex=True)
+    df['PARROQUIA'] = df['PARROQUIA'].str.strip()
     df = df[df['PARROQUIA'] != 'nan']  # Eliminar "nan" texto
     
-    df['CANTON'] = df['CANTON'].astype(str).str.strip().str.replace('.0$', '', regex=True)
+    df['CANTON'] = df['CANTON'].str.strip()
     
     resultados = []
     
@@ -224,14 +228,15 @@ def procesar_diputados_nacionales():
     # Cargar nombres de parroquias
     nombres_parroquias = cargar_nombres_parroquias()
     
-    df = pd.read_excel(ARCHIVO_DIPUTADOS)
+    # Leer PARROQUIA y CANTON como strings para preservar ceros
+    df = pd.read_excel(ARCHIVO_DIPUTADOS, dtype={'PARROQUIA': str, 'CANTON': str})
     
     # Limpiar datos y filtrar registros inválidos
     df = df[df['PARROQUIA'].notna()]  # Eliminar nulos
-    df['PARROQUIA'] = df['PARROQUIA'].astype(str).str.strip().str.replace('.0$', '', regex=True)
+    df['PARROQUIA'] = df['PARROQUIA'].str.strip()
     df = df[df['PARROQUIA'] != 'nan']  # Eliminar "nan" texto
     
-    df['CANTON'] = df['CANTON'].astype(str).str.strip().str.replace('.0$', '', regex=True)
+    df['CANTON'] = df['CANTON'].str.strip()
     
     # Identificar columnas de partidos (excluir columnas de metadatos)
     columnas_excluir = ['AÑO', 'DIGNIDAD', 'REGION', 'PROVINCI', 'CANTON', 'PARROQUIA', 
